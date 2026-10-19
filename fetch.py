@@ -85,7 +85,7 @@ def parse_feed(data):
 def main():
     now = datetime.now(timezone.utc)
     limit = now - timedelta(hours=MAX_AGE_H)
-    sections, errors, seen = {}, [], set()
+    sections, errors, seen, stats = {}, [], set(), []
     for rubrique, media, url in FEEDS:
         try:
             req = urllib.request.Request(url, headers={"User-Agent": UA})
@@ -95,6 +95,9 @@ def main():
             errors.append(f"{media} {url} : {type(e).__name__} {e}")
             continue
         kept = [i for i in items if i[0] and i[0] >= limit and i[1] and i[2]]
+        if media == "AFP":
+            nodate = sum(1 for i in items if not i[0])
+            stats.append(f"AFP {url} : {len(items)} entrées, {nodate} sans date, {len(kept)} récentes")
         kept.sort(key=lambda i: i[0], reverse=True)
         for date, title, link, desc in kept[:MAX_PER_FEED]:
             if link in seen:
@@ -113,6 +116,9 @@ def main():
             if desc:
                 lines.append(f"  {desc}")
         lines.append("")
+    if stats:
+        lines.append("## Diagnostic AFP")
+        lines += [f"- {e}" for e in stats]
     if errors:
         lines.append("## Flux en erreur")
         lines += [f"- {e}" for e in errors]

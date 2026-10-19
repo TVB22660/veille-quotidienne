@@ -121,10 +121,6 @@ def main():
                         lines.append(f"- {h.get('TITREFULL') or h.get('TITRE', '')}")
                         lines.append(f"  https://www.legifrance.gouv.fr/jorf/id/{h['ID']}")
             lines.append("")
-    lines.append("## Ministères / autorités rencontrés")
-    lines += [f"- {k} ({v})" for k, v in ministeres.most_common(60)]
-    if sample:
-        lines += ["", "## Exemple de fichier brut (diagnostic)", sample[0]]
     if errors:
         lines += ["", "## Erreurs"] + [f"- {e}" for e in errors]
     with open("jorf.txt", "w", encoding="utf-8") as fh:

@@ -13,8 +13,8 @@ jobs:
   veille:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
         with:
           python-version: '3.12'
       - name: Lire les flux RSS
@@ -30,4 +30,13 @@ jobs:
           if ! git diff --cached --quiet; then
             git commit -m "Veille du $(date -u +%F-%H%M)"
             git push
+          fi
+      - name: Nettoyage hebdomadaire de l'historique (dimanche, 2e passage)
+        if: github.event.schedule == '30 5 * * *'
+        run: |
+          if [ "$(date -u +%u)" = "7" ]; then
+            git checkout --orphan propre
+            git add -A
+            git commit -m "Historique réinitialisé $(date -u +%F)"
+            git push --force origin propre:main
           fi
