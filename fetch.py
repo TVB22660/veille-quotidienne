@@ -24,7 +24,6 @@ FEEDS = [
     ("France", "Le Figaro", "https://www.lefigaro.fr/rss/figaro_actualite-france.xml"),
     ("France", "Le Figaro", "https://www.lefigaro.fr/rss/figaro_politique.xml"),
     ("International", "Le Figaro", "https://www.lefigaro.fr/rss/figaro_international.xml"),
-    ("France", "AFP", "https://www.afp.com/fr/actus/afp_actualite/792,31,9,7,33/feed"),
     ("France", "franceinfo", "https://www.francetvinfo.fr/titres.rss"),
     ("International", "franceinfo", "https://www.francetvinfo.fr/monde.rss"),
     ("France", "franceinfo", "https://www.francetvinfo.fr/politique.rss"),
