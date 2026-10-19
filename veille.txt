@@ -1,10 +1,16 @@
-VEILLE — généré le 2026-10-19 09:06 (heure de Paris)
+VEILLE — généré le 2026-10-19 09:21 (heure de Paris)
 Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 
 ## International
-- [19/10 08:41] franceinfo — Le secrétaire d'Etat américain Marco Rubio affirme qu'il n'y a eu "aucune pause" dans le partage de renseignements avec Kiev
+- [19/10 09:10] franceinfo — En Cisjordanie occupée, la police israélienne annonce dix arrestations après des violences de colons contre un convoi de diplomates européens
+  https://www.franceinfo.fr/monde/palestine/en-cisjordanie-occupee-la-police-israelienne-annonce-dix-arrestations-apres-des-violences-de-colons-contre-un-convoi-de-diplomates-europeens_8243569.html#xtor=RSS-3-%5Bgeneral%5D
+  Les violences commises par des colons israéliens contre les Palestiniens en Cisjordanie se sont fortement intensifiées ces derniers mois.
+- [19/10 09:07] franceinfo — Italie, Belgique, Grèce, Albanie... La colère de la jeunesse française fait-elle des émules en Europe ?
+  https://www.franceinfo.fr/replay-radio/le-monde-et-vous/italie-belgique-grece-albanie-la-colere-de-la-jeunesse-francaise-fait-elle-des-emules-en-europe_8222713.html#xtor=RSS-3-%5Bgeneral%5D
+  Des manifestations contre la vie chère ont dégénéré ce week-end en Italie et en Belgique. En Grèce, des étudiants dénoncent également leurs difficultés à se loger. En Albanie, un mouvement de contestation né au printemp…
+- [19/10 08:41] franceinfo — Le chef de la diplomatie américaine affirme qu'il n'y a eu "aucune pause" dans le partage de renseignements avec l'Ukraine
   https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/le-secretaire-d-etat-americain-marco-rubio-affirme-qu-il-n-y-a-eu-aucune-pause-dans-le-partage-de-renseignements-avec-kiev_8243575.html#xtor=RSS-3-%5Bgeneral%5D
-  Le gouvernement ukrainien avait affirmé que le partage de renseignements avec Washington avait été coupé.
+  De son côté, Donald Trump a accusé dimanche son homologue ukrainien de "ne pas vouloir mettre fin" à la guerre avec la Russie, sur fond de regain de tensions entre Washington et Kiev.
 - [19/10 07:41] franceinfo — Au Mali, Human Rights Watch accuse l'armée et les insurgés de violations du droit de la guerre
   https://www.franceinfo.fr/monde/afrique/mali/au-mali-human-rights-watch-accuse-l-armee-et-les-insurges-de-violations-du-droit-de-la-guerre_8243482.html#xtor=RSS-3-%5Bgeneral%5D
   La junte qui dirige le Mali depuis deux coups d'État en 2020 et 2021 s'est tournée vers la Russie pour l'épauler dans sa lutte antijihadiste.
@@ -26,6 +32,9 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [19/10 05:00] Le Monde — Pourquoi l’Iran intensifie ses attaques dans le détroit d’Ormuz
   https://www.lemonde.fr/international/article/2026/10/19/pourquoi-l-iran-intensifie-ses-attaques-dans-le-detroit-d-ormuz_6797367_3210.html
   Après une accalmie relative durant l’été, les attaques iraniennes contre les navires se sont intensifiées et étendues dans le golfe Persique. Cette escalade semble répondre aux calculs politiques de Téhéran face à Washi…
+- [19/10 00:06] Le Figaro — «Un pays plus fracturé que jamais» : la presse étrangère sidérée par les violences en France
+  https://www.lefigaro.fr/international/un-pays-plus-fracture-que-jamais-la-presse-etrangere-sideree-par-les-violences-en-france-20261019
+  REVUE DE PRESSE - Les images des violences qui secouent la France ont fait le tour du monde. Au-delà de la sidération face aux émeutes, les médias étrangers y voient le symbole d’un pouvoir à bout de souffle et d’un pay…
 - [18/10 22:37] franceinfo — Les images du 17 octobre ont fait le tour du monde
   https://www.franceinfo.fr/replay-jt/france-2/20-heures/les-images-du-17-octobre-ont-fait-le-tour-du-monde_8243245.html#xtor=RSS-3-%5Bgeneral%5D
   À Paris, Bordeaux, Lyon ou Marseille, des touristes étrangers se sont parfois retrouvés happés ou spectateurs des évènements du samedi 17 octobre. Les images ont fait le tour du monde avec les correspondants présents en…
@@ -59,12 +68,6 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [18/10 18:00] Le Monde — Comment l’administration de Donald Trump utilise des pays africains pour expulser des migrants en dépit du droit international
   https://www.lemonde.fr/afrique/video/2026/10/18/comment-l-administration-de-donald-trump-utilise-des-pays-africains-pour-expulser-des-migrants-en-depit-du-droit-international_6797087_3212.html
   Sur les 28 000 immigrés expulsés des Etats-Unis entre le début de 2025 et août 2026, plus de 500 ont été envoyés sur le continent africain, selon les données du Deportation Data Project. La plupart du temps, ils n’ont p…
-- [18/10 17:22] franceinfo — Des dizaines d'orangs-outangs ont été sauvés des incendies en Indonésie, selon plusieurs ONG
-  https://www.franceinfo.fr/monde/asie/des-dizaines-d-orang-outans-ont-ete-sauves-des-incendies-en-indonesie-selon-plusieurs-ong_8242822.html#xtor=RSS-3-%5Bgeneral%5D
-  Ces feux sont à l'origine d'une pollution de l'air par des fumées toxiques qui dure depuis des mois et a entraîné une forte recrudescence des troubles respiratoires chez les humains comme chez les animaux.
-- [18/10 15:56] franceinfo — "Je l'ai trouvé fort, on ne dirait pas qu'il sort de l'hôpital" : le pape de retour au Vatican après son opération
-  https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/je-l-ai-trouve-fort-on-ne-dirait-pas-qu-il-sort-de-l-hopital-le-pape-de-retour-au-vatican-apres-son-operation_8242825.html#xtor=RSS-3-%5Bgeneral%5D
-  Le visage souriant, le Pape a fait son retour au Vatican dimanche 18 octobre sur la place Saint-Pierre, cinq jours après avoir été opéré d’un nodule cancéreux au poumon. Reportage sur place.
 - [18/10 12:32] Le Figaro — En Cisjordanie, un maire français blessé dans l’attaque d’un convoi diplomatique par des colons
   https://www.lefigaro.fr/international/en-cisjordanie-un-maire-francais-blesse-dans-l-attaque-d-un-convoi-diplomatique-par-des-colons-20261017
   Bernard Baudoux, maire d’Aulnoye-Aymeries, participait samedi à une récolte d’olives à Taybeh, aux côtés de représentants français, belges et polonais. L’agression intervient alors que les attaques contre les agriculteu…
@@ -73,24 +76,51 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
   RÉCIT - Un service central implanté dans le Bade-Wurtemberg enquête depuis 1958 sur ces hommes et femmes soupçonnés d’avoir participé à des actes meurtriers lors de la Seconde Guerre mondiale.
 
 ## France
+- [19/10 09:20] Ouest-France — Douze migrants sont morts au large de la Grèce après deux accidents d’embarcation
+  https://www.ouest-france.fr/monde/migrants/douze-migrants-sont-morts-au-large-de-la-grece-apres-deux-accidents-dembarcation-ec19916c-cb88-11f1-b8bc-a46147b584ed?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
+  Le premier accident a eu lieu au large des côtes de l’île de Lesbos et a coûté la vie à six personnes, tandis qu’un second s’est produit ce lundi 19 octobre à l’aube, à 3,7 milles marins des côtes de Samos, dans l’est d…
+- [19/10 09:20] Le Figaro — Grèce : 12 migrants meurent dans deux accidents en mer Égée
+  https://www.lefigaro.fr/international/grece-12-migrants-meurent-dans-deux-accidents-en-mer-egee-20261019
+  Outre un premier accident, qui a eu lieu au large des côtes de l’île de Lesbos (nord-est de la mer Égée), et a coûté la vie à six personnes, un second s’est produit lundi à l’aube, à 3,7 milles marins des côtes de Samos…
+- [19/10 09:18] Le Figaro — Violences du 17 octobre : le château de la Blotterie, situé près de Tours, touché par un incendie
+  https://www.lefigaro.fr/actualite-france/violences-du-17-octobre-le-chateau-de-la-blotterie-situe-pres-de-tours-touche-par-un-incendie-20261019
+  «Cet incendie, dont l’origine criminelle ne fait guère de doute, n’a fait aucune victime, le bâtiment étant inoccupé depuis plusieurs années», écrit dimanche la mairie de Joué-lès-Tours sur son site internet.
+- [19/10 09:13] Ouest-France — COP17 sur la biodiversité : pays participants, frictions, progrès… Tout comprendre aux enjeux de ce nouveau sommet
+  https://www.ouest-france.fr/environnement/cop-biodiversite/cop17-sur-la-biodiversite-pays-participants-frictions-progres-tout-comprendre-aux-enjeux-de-ce-nouveau-sommet-6538dcb4-c8a1-11f1-b3f5-183597cb1094?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
+  Près de 200 scientifiques et politiques ont rendez-vous à Erevan en Arménie, du 18 au 30 octobre, pour faire le point sur l’avancement des objectifs mondiaux pour préserver ou restaurer la nature. Même si des progrès on…
+- [19/10 09:11] Le Figaro — Immeuble d’habitation assiégé, matraques de police volées, riverains sans défense… Paris en proie à une deuxième nuit d’«insoutenables» saccages
+  https://www.lefigaro.fr/actualite-france/immeuble-d-habitation-assiege-matraques-de-police-volees-riverains-sans-defense-paris-en-proie-a-une-deuxieme-nuit-d-insoutenables-saccages-20261019
+  RÉCIT - Pour la deuxième nuit consécutive, la capitale française a été la cible de pillards, qui s’en sont pris aux petits commerces, magasins de luxe, et centres commerciaux. Les CRS déployés n’ont pas pu tous les arrê…
+- [19/10 09:10] Ouest-France — Escrime. Les sabreurs français en or lors de la première étape de la Coupe du monde à Oran
+  https://www.ouest-france.fr/sport/escrime/escrime-les-sabreurs-francais-en-or-lors-de-la-premiere-etape-de-la-coupe-du-monde-a-oran-41d5b31c-cb87-11f1-b8bc-a46147b584ed?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
+  Sacrés champions du monde en juillet dernier, les sabreurs français ont confirmé leurs bonnes dispositions en s’offrant l’or, dimanche 18 octobre, à l’occasion de la première étape de la Coupe du monde 2026-2027 d’escri…
+- [19/10 09:10] franceinfo — En Cisjordanie occupée, la police israélienne annonce dix arrestations après des violences de colons contre un convoi de diplomates européens
+  https://www.franceinfo.fr/monde/palestine/en-cisjordanie-occupee-la-police-israelienne-annonce-dix-arrestations-apres-des-violences-de-colons-contre-un-convoi-de-diplomates-europeens_8243569.html#xtor=RSS-3-[lestitres]
+  Les violences commises par des colons israéliens contre les Palestiniens en Cisjordanie se sont fortement intensifiées ces derniers mois.
+- [19/10 09:09] franceinfo — Qu’est-ce que la CRS 8, cette unité de police créée pour être capable d’intervenir en 15 minutes lors de violences urbaines ?
+  https://www.franceinfo.fr/replay-radio/le-vrai-du-faux/qu-est-ce-que-la-crs-8-cette-unite-de-police-creee-pour-etre-capable-d-intervenir-en-15-minutes-lors-de-violences-urbaines_8222719.html#xtor=RSS-3-%5Bgeneral%5D
+  Les manifestations de samedi et dimanche contre la vie chère et l'état des lycées ont tourné aux violences un peu partout en France. Face à cette situation, le gouvernement a déployé des unités de CRS 8. Créée en 2021,…
+- [19/10 09:08] Le Figaro — Violences du 17 octobre : critiqué de toutes parts, Emmanuel Macron promet d’être « intraitable »
+  https://www.lefigaro.fr/politique/violences-du-17-octobre-febrile-le-gouvernement-voit-sa-strategie-de-maintien-de-l-ordre-contestee-20261018
+  RÉCIT - De la mobilisation lycéenne jusqu’au chaos du 17 octobre, la réponse du pouvoir exécutif, pris au dépourvu, s’est révélée fluctuante. Évoquant la «honte» et la «colère» face aux violences, Emmanuel Macron a prom…
+- [19/10 09:07] Le Figaro — «Même si LFI passe, on continuera !» : un dimanche après-midi à République, entre riverains affligés, courses-poursuites avec les CRS et pillages
+  https://www.lefigaro.fr/actualite-france/meme-si-lfi-passe-on-continuera-un-dimanche-a-republique-entre-pillages-et-courses-poursuites-avec-les-crs-20261018
+  REPORTAGE - Place de la République à Paris, la tension n’est pas retombée et les affrontements entre les manifestants, essentiellement des casseurs, et la police se sont poursuivis en fin d’après-midi ce 18 octobre.
+- [19/10 09:07] Ouest-France — Victime de douleurs atroces après la pose d’une prothèse anti-hernie, elle raconte sa « descente aux enfers »
+  https://www.ouest-france.fr/sante/victime-de-douleurs-atroces-apres-la-pose-dune-prothese-anti-hernie-elle-raconte-sa-descente-aux-enfers-cd8a5dbe-b817-11f1-b8f7-5b3ca074ea4b?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
+  Dorothée, 38 ans, souffre le martyre depuis la pose d’un implant supposé soigner sa hernie crurale. En plus des douleurs atroces et permanentes, cette habitante du Maine-et-Loire a fait face au déni de médecins et à des…
+- [19/10 09:01] franceinfo — "Le dispositif était sous-dimensionné" : des policiers racontent les failles du maintien de l'ordre pendant la mobilisation du 17 octobre
+  https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/temoignages-le-dispositif-etait-sous-dimensionne-des-policiers-racontent-les-failles-du-maintien-de-l-ordre-pendant-la-mobilisation-du-17-octobre_8243221.html#xtor=RSS-3-[lestitres]
+  Peu importe leur grade ou la ville dans laquelle ils étaient déployés, plusieurs membres des forces de l'ordre racontent à franceinfo des difficultés similaires rencontrées le 17 octobre, de l'ampleur inédite de la viol…
 - [19/10 09:00] Ouest-France — NBA. Favoris, dates clés, diffusion TV, Victor Wembanyama et les autres Français… Tout savoir sur la saison 2026/2027
   https://www.ouest-france.fr/sport/basket/nba/nba-favoris-dates-cles-diffusion-tv-victor-wembanyama-et-les-autres-francais-tout-savoir-sur-la-saison-2026-2027-4eb44874-ca41-11f1-ad87-e24a1a2986e9?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
   La saison NBA 2026/2027 débute le mardi 20 octobre avec trois affiches dont un alléchant Oklahoma city Thunder/San Antonio Spurs qui sonnera la rentrée des classes pour le Français Victor Wembanyama. Mais quels sont les…
 - [19/10 09:00] Ouest-France — Running. « C’est une première mondiale ! » : l’IA analyse votre foulée et sélectionne des paires de chaussures pour vous
   https://www.ouest-france.fr/sport/running/running-cest-une-premiere-mondiale-lia-analyse-votre-foulee-et-selectionne-des-paires-de-chaussures-pour-vous-50f4d894-c93b-11f1-ad87-e24a1a2986e9?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
   Choisir des chaussures de course à pied ressemble parfois à une expédition au milieu de la jungle. Il y en a de toutes les sortes et à tous les prix, mais lesquelles sont faites pour vous ? L’intelligence artificielle d…
-- [19/10 08:56] Le Figaro — Grèce : 12 migrants meurent dans deux accidents en mer Égée
-  https://www.lefigaro.fr/international/grece-12-migrants-meurent-dans-deux-accidents-en-mer-egee-20261019
-  Outre un premier accident, qui a eu lieu au large des côtes de l’île de Lesbos (nord-est de la mer Égée), et a coûté la vie à six personnes, un second s’est produit lundi à l’aube, à 3,7 milles marins des côtes de Samos…
-- [19/10 08:56] franceinfo — Qu’est-ce que la CRS 8, cette unité de police créée pour être capable d’intervenir en 15 minutes lors de violences urbaines ?
-  https://www.franceinfo.fr/replay-radio/le-vrai-du-faux/qu-est-ce-que-la-crs-8-cette-unite-de-police-creee-pour-etre-capable-d-intervenir-en-15-minutes-lors-de-violences-urbaines_8222719.html#xtor=RSS-3-%5Bgeneral%5D
-  Les manifestations de samedi et dimanche contre la vie chère et l'état des lycées ont tourné aux violences un peu partout en France. Face à cette situation, le gouvernement a déployé des unités de CRS 8. franceinfo vous…
 - [19/10 08:54] Ouest-France — Tennis. « Mon but, c’est d’être numéro 1 » : Arthur Géa intègre le Top 50 mondial et annonce ses futurs objectifs
   https://www.ouest-france.fr/sport/tennis/tennis-mon-but-cest-detre-numero-1-arthur-gea-integre-le-top-50-mondial-et-annonce-ses-futurs-objectifs-6a463316-cb83-11f1-b8bc-a46147b584ed?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
   Quart de finaliste du Masters 1000 de Shanghai, le Français Arthur Géa va intégrer pour la première fois le Top 50 mondial. Au micro de RMC Sport, le Français explique qu’il ne compte pas s’arrêter là.
-- [19/10 08:51] Le Figaro — Violences du 17 octobre : le château de la Blotterie, situé près de Tours, touché par un incendie
-  https://www.lefigaro.fr/actualite-france/violences-du-17-octobre-le-chateau-de-la-blotterie-situe-pres-de-tours-touche-par-un-incendie-20261019
-  «Cet incendie, dont l’origine criminelle ne fait guère de doute, n’a fait aucune victime, le bâtiment étant inoccupé depuis plusieurs années», écrit dimanche la mairie de Joué-lès-Tours sur son site internet.
 - [19/10 08:51] Ouest-France — Violences du 17 octobre : « Je suis responsable de tout ce qui se passe », dit Laurent Nuñez, qui reste en poste
   https://www.ouest-france.fr/politique/laurent-nunez/violences-du-17-octobre-je-suis-responsable-de-tout-ce-qui-se-passe-dit-laurent-nunez-qui-reste-en-poste-d22409dc-cb82-11f1-b8bc-a46147b584ed?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
   Le ministre de l’Intérieur, Laurent Nuñez, a vu sa proposition de démission refusée par Emmanuel Macron. Dans un entretien à nos confrères de « France Inter » ce lundi matin, il assume toutefois des défaillances et prom…
@@ -103,27 +133,18 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [19/10 08:47] Le Figaro — «Totalement dépassé», «artisan du chaos» : de LFI au RN, la classe politique étrille l’allocution d’Emmanuel Macron, jugée pas à la hauteur de la crise
   https://www.lefigaro.fr/politique/totalement-depasse-artisan-du-chaos-de-lfi-au-rn-la-classe-politique-etrille-l-allocution-d-emmanuel-macron-jugee-pas-a-la-hauteur-de-la-crise-20261018
   Alors que des violences secouent encore Paris ce dimanche soir, l’allocution du chef de l’État n’a pas convaincu les représentants politiques. À gauche, on dénonce l’absence de réponses aux revendications sociales, tand…
-- [19/10 08:44] Le Figaro — Immeuble d’habitation assiégé, matraques de police volées, riverains sans défense… Paris en proie à une deuxième nuit d’«insoutenables» saccages
-  https://www.lefigaro.fr/actualite-france/immeuble-d-habitation-assiege-matraques-de-police-volees-riverains-sans-defense-paris-en-proie-a-une-deuxieme-nuit-d-insoutenables-saccages-20261019
-  RÉCIT - Pour la deuxième nuit consécutive, la capitale française a été la cible de pillards, qui s’en sont pris aux petits commerces, magasins de luxe, et centres commerciaux. Les CRS déployés n’ont pas pu tous les arrê…
+- [19/10 08:41] franceinfo — Le chef de la diplomatie américaine affirme qu'il n'y a eu "aucune pause" dans le partage de renseignements avec l'Ukraine
+  https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/le-secretaire-d-etat-americain-marco-rubio-affirme-qu-il-n-y-a-eu-aucune-pause-dans-le-partage-de-renseignements-avec-kiev_8243575.html#xtor=RSS-3-[lestitres]
+  De son côté, Donald Trump a accusé dimanche son homologue ukrainien de "ne pas vouloir mettre fin" à la guerre avec la Russie, sur fond de regain de tensions entre Washington et Kiev.
 - [19/10 08:37] franceinfo — "J'ai remis ma démission parce que je suis responsable de tout", affirme Laurent Nuñez, après les heurts et pillages lors de la mobilisation du 17 octobre
   https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/j-ai-remis-ma-demission-parce-que-je-suis-responsable-de-tout-ce-qui-se-passe-affirme-laurent-nunez-apres-les-heurts-et-pillages-lors-de-la-mobilisation-du-17-octobre_8243536.html#xtor=RSS-3-[lestitres]
   Le ministre de l'Intérieur a remis sa démission dimanche au président de la République qui l'a refusée.
 - [19/10 08:37] Ouest-France — EN IMAGES. Coup d’envoi et passage dans le kop : Paul Seixas a vibré lors du match de Ligue 1 entre Lyon et Nice
   https://www.ouest-france.fr/sport/cyclisme/paul-seixas/en-images-coup-denvoi-et-passage-dans-le-kop-paul-seixas-a-vibre-lors-du-match-de-ligue-1-entre-lyon-et-nice-97abcaba-cb82-11f1-b8bc-a46147b584ed?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
   Supporter de l’Olympique Lyonnais, Paul Seixas a donné le coup d’envoi du match de Ligue 1 entre Lyon et Nice. Le coureur de 20 ans, vainqueur du Tour de Lombardie une semaine plus tôt, a ensuite été aperçu dans le kop…
-- [19/10 08:33] Ouest-France — « Un pur scandale » : Emmanuel Petit partage sa « colère profonde » après les violences du 17 octobre
-  https://www.ouest-france.fr/sport/football/un-pur-scandale-emmanuel-petit-partage-sa-colere-profonde-apres-les-violences-du-17-octobre-67fd9bfa-cb81-11f1-b8bc-a46147b584ed?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
-  Dans une longue vidéo publiée sur ses réseaux sociaux, Emmanuel Petit revient sur les événements du samedi 17 octobre et les débordements qui ont entourés les manifestations. Le champion du monde 1998 fait part de sa «…
 - [19/10 08:27] franceinfo — Mobilisation du 17 octobre : "Nous avons failli, incontestablement, ce week-end", reconnaît à son tour Gérald Darmanin, ministre de la Justice
   https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/direct-mobilisation-du-17-octobre-paris-lyon-et-nantes-touches-par-de-nouveaux-heurts-et-pillages-dimanche-au-moins-108-interpellations-dans-la-capitale_8243455.html#xtor=RSS-3-[lestitres]
   "Il y a eu un défaut dans les renseignements, (...) il faut savoir ce qui a dysfonctionné", a estimé le ministre de la Justice sur France 2.
-- [19/10 08:24] Ouest-France — INFO OUEST-FRANCE. Une quinzaine de personnes délogées lors d’une tentative de squat en Finistère
-  https://www.ouest-france.fr/societe/faits-divers/info-ouest-france-une-quinzaine-de-personnes-delogees-lors-dune-tentative-de-squat-en-finistere-90610650-cb1c-11f1-b8bc-a46147b584ed?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
-  Une quinzaine de personnes ont été empêchées de prendre possession d’un bâtiment situé à Kerlaz, dans la baie de Douarnenez, mardi 13 octobre 2026. Ils ont été enjoints de quitter les lieux par les gendarmes.
-- [19/10 08:22] Ouest-France — La qualité de l’air perturbée par du dioxyde d’azote en Bretagne, Rennes et sa métropole voit rouge
-  https://www.ouest-france.fr/meteo/la-qualite-de-lair-perturbee-par-du-dioxyde-dazote-en-bretagne-rennes-et-sa-metropole-voit-rouge-092006e2-cb7f-11f1-ad87-e24a1a2986e9?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
-  Lundi 19 octobre 2026, la qualité de l’air sera « globalement dégradée » sur la totalité de la région Bretagne en raison de pollution au dioxyde d’azote. La pratique d’une activité physique en extérieur est notamment dé…
 - [19/10 08:21] franceinfo — Violences du 17 octobre : le maire de Lyon réclame la "mise en place d'un fonds de solidarité pour les communes et les commerçants victimes des dégradations"
   https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/violences-du-17-octobre-le-maire-de-lyon-reclame-la-mise-en-place-d-un-fonds-de-solidarite-pour-les-communes-et-les-commercants-victimes-des-degradations_8243539.html#xtor=RSS-3-[lestitres]
   "Plus de 200 commerces" ont été touchés à Lyon par les violences de ce week-end, essentiellement en centre-ville, indique sur franceinfo Grégory Doucet. Il chiffre les dégâts à "des dizaines de millions d'euros".
@@ -133,9 +154,6 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [19/10 08:13] franceinfo — "De la colère et de la honte" : Emmanuel Macron sort de son silence après le 17 octobre
   https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/de-la-colere-et-de-la-honte-emmanuel-macron-sort-de-son-silence-apres-le-17-octobre_8243509.html#xtor=RSS-3-%5Bgeneral%5D
   Son intervention était très attendue. Emmanuel Macron s'est adressé aux Français à 20h, après avoir réuni ses principaux ministres. Le chef de l'Etat appelle à l'unité et au respect et annonce que les préfets pourront i…
-- [19/10 08:13] Ouest-France — « Commerces pillés, ville saccagée… » : les supporters lyonnais dénoncent les dégradations des casseurs le 17 octobre
-  https://www.ouest-france.fr/sport/football/olympique-lyonnais/commerces-pilles-ville-saccagee-les-supporters-lyonnais-denoncent-les-degradations-des-casseurs-le-17-octobre-c5853184-cb7c-11f1-b8bc-a46147b584ed?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
-  Lors de la rencontre entre l’Olympique Lyonnais et l’OGC Nice (2-1), ce dimanche 18 octobre, au Groupama Stadium, les supporters de l’OL ont déployé plusieurs banderoles de soutien aux victimes des dégradations, au lend…
 - [19/10 08:09] Le Figaro — Guerre en Ukraine : Marco Rubio dément toute «pause» dans le partage de renseignements avec Kiev
   https://www.lefigaro.fr/international/guerre-en-ukraine-marco-rubio-dement-toute-pause-dans-le-partage-de-renseignements-avec-kiev-20261019
   Le secrétaire d’État américain Marco Rubio appelle Volodymyr Zelensky à se concentrer sur la fin de la guerre, tout en démentant toute interruption du partage de renseignements avec Kiev.
@@ -153,7 +171,7 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
   Les pluies pourront atteindre un débit de 70 mm en moins d’une heure, accompagnées de rafales à 80 km/h maximum et de grêle, indique Météo-France, qui n’exclut pas des «phénomènes tourbillonnaires».
 - [19/10 07:17] Le Monde — EN DIRECT, mobilisation du 17 octobre : Benoît Payan, maire de Marseille, dit sa « colère » et sa « sidération » devant les défaillances de l’Etat
   https://www.lemonde.fr/societe/live/2026/10/19/en-direct-mobilisation-du-17-octobre-emmanuel-macron-a-refuse-la-demission-du-ministre-de-l-interieur-laurent-nunez_6795855_3224.html
-  Laurent Nuñez a reconnu lundi matin un manque d’anticipation dans la mobilisation des forces de l’ordre. Le ministre de l’intérieur a présenté sa démission au président de la République, qui l’a refusée, a annoncé l’Ely…
+  Le ministre de l’intérieur, Laurent Nuñez, a reconnu lundi matin un manque d’anticipation dans la mobilisation des forces de l’ordre. Il a présenté sa démission au président de la République, qui l’a refusée, a annoncé…
 - [19/10 07:09] franceinfo — Après les violences du 17 octobre, une facture de plusieurs centaines de millions d’euros appelée à s’alourdir
   https://www.franceinfo.fr/replay-radio/le-decryptage-eco/apres-les-violences-du-17-octobre-une-facture-de-plusieurs-centaines-de-millions-d-euros-appelee-a-s-alourdir_8222740.html#xtor=RSS-3-%5Bgeneral%5D
   Commerces pillés, bâtiments publics incendiés, mobilier urbain dégradé : la facture des violences s’annonce très lourde. Entre assurances, État et collectivités, elle finira aussi par peser sur les citoyens.
@@ -184,9 +202,6 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [19/10 06:13] Le Figaro — Donald Trump réaffirme son «soutien plein et entier» à Benyamin Netanyahou avant des législatives décisives en Israël
   https://www.lefigaro.fr/international/trump-reaffirme-son-soutien-plein-et-entier-a-netanyahou-avant-des-legislatives-decisives-en-israel-20261019
   Le scrutin sera le premier organisé en Israël depuis l’attaque menée par le Hamas le 7 octobre 2023, à laquelle Israël a riposté en lançant une guerre qui a ravagé la bande de Gaza.
-- [19/10 06:07] franceinfo — "Le dispositif était sous-dimensionné" : des policiers racontent les failles du maintien de l'ordre pendant la mobilisation du 17 octobre
-  https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/temoignages-le-dispositif-etait-sous-dimensionne-des-policiers-racontent-les-failles-du-maintien-de-l-ordre-pendant-la-mobilisation-du-17-octobre_8243221.html#xtor=RSS-3-[lestitres]
-  Peu importe leur grade ou la ville dans laquelle ils étaient déployés, plusieurs membres des forces de l'ordre racontent à franceinfo des difficultés similaires rencontrées le 17 octobre, de l'ampleur inédite de la viol…
 - [19/10 06:00] Le Monde — L’audacieuse mission japonaise MMX part à l’abordage de Phobos, l’une des deux lunes martiennes
   https://www.lemonde.fr/sciences/article/2026/10/19/l-audacieuse-mission-japonaise-mmx-part-a-l-abordage-de-phobos-l-une-des-deux-lunes-martiennes_6797485_1650684.html
   L’imposante sonde, qui doit décoller lundi soir, devrait aider à élucider le mystère qui entoure la formation des deux satellites martiens, en ramenant sur Terre des échantillons du plus grand d’entre eux.
@@ -211,24 +226,18 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [19/10 06:00] franceinfo — "J'avais envie d'aller questionner ce mythe de l'école émancipatrice" : Marine Atlan réalise "La Gradiva", un premier film remarquable sur des lycéens d'aujourd'hui
   https://www.franceinfo.fr/culture/cinema/sorties-de-films/entretien-j-avais-envie-d-aller-questionner-ce-mythe-de-l-ecole-emancipatrice-marine-atlan-realise-la-gradiva-un-premier-film-remarquable-sur-des-lyceens-d-aujourd-hui_8235787.html#xtor=RSS-3-[lestitres]
   À travers le récit d'un voyage scolaire à Pompéi, la réalisatrice nous éclaire sur les racines d'un mouvement lycéen et des questions qu'il soulève, lancé quelques semaines avant la sortie du film.
-- [19/10 06:00] franceinfo — Entraînement individualisé, évolution du matériel, soutien financier... Pourquoi les carrières des gymnastes durent désormais plus longtemps
-  https://www.franceinfo.fr/sports/gymnastique/entrainement-individualise-evolution-du-materiel-soutien-financier-pourquoi-les-carrieres-des-gymnastes-durent-desormais-plus-longtemps_8225095.html#xtor=RSS-3-[lestitres]
-  La Britannique Alice Kinsella, 25 ans et tout juste maman, participe aux Mondiaux de Rotterdam, lundi. La Française Lorette Charpy, bientôt 25 ans, prend, elle, part à ses sixièmes championnats du monde. Elles illustren…
-- [19/10 05:54] franceinfo — On vous présente la mission spatiale MMX à laquelle participe Idefix, rover franco-allemand qui va se poser sur la plus grande lune de Mars
-  https://www.franceinfo.fr/sciences/espace/on-vous-presente-la-mission-spatiale-mmx-a-laquelle-participe-idefix-rover-franco-allemand-qui-va-se-poser-sur-la-plus-grande-lune-de-mars_8233597.html#xtor=RSS-3-[lestitres]
-  Menée par l'agence spatiale japonaise, cette mission prévoit notamment de rapporter sur Terre des échantillons de roches de Phobos, un des deux satellites naturels de la Planète rouge. La fusée décolle lundi, mais l'exp…
 - [19/10 05:53] franceinfo — "C'est un cadeau pour le RN" : les violences du 17 octobre peuvent-elles avoir une influence sur la campagne présidentielle ?
   https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/c-est-un-cadeau-pour-le-rn-les-violences-du-17-octobre-peuvent-elles-avoir-une-influence-sur-la-campagne-presidentielle_8242600.html#xtor=RSS-3-%5Bgeneral%5D
   Dès samedi soir, le Rassemblement national a fait des images d'affrontements dans de nombreuses villes de France un argument politique en vue de la présidentielle. Les adversaires de Marine Le Pen, notamment La France i…
-- [19/10 05:40] Le Monde — Mobilisation du 17 octobre : Trump, l’entourage de Poutine y voient un « chaos migratoire » et la « décadence » de l’Europe
+- [19/10 05:40] Le Monde — Mobilisation du 17 octobre : Trump et l’entourage de Poutine y voient un « chaos migratoire » et la « décadence » de l’Europe
   https://www.lemonde.fr/international/article/2026/10/19/mobilisation-du-17-octobre-trump-et-le-kremlin-main-dans-la-main-pour-denoncer-le-chaos-migratoire-et-la-decadence-de-l-europe_6797410_3210.html
-  Le monde MAGA, le Kremlin, mais aussi les extrêmes droites européennes décrivent les manifestations en France comme la conséquence de l’immigration et du déclin de « la civilisation occidentale », tandis que pour d’autr…
+  Le monde MAGA, le Kremlin, mais aussi les extrêmes droites européennes décrivent les manifestations en France comme la conséquence de l’immigration et du déclin de la « civilisation occidentale », tandis que pour d’autr…
 - [19/10 05:39] Le Monde — Pluie et inondations : le Gard et l’Hérault placés en vigilance orange lundi à partir de 14 heures
   https://www.lemonde.fr/planete/article/2026/10/19/pluie-et-inondations-le-gard-et-l-herault-places-en-vigilance-orange-lundi-a-partir-de-14-heures_6797409_3244.html
   Météo-France anticipe des pluies dans la matinée, suivies d’« orages plus forts » remontant de la Méditerranée, dans l’après-midi.
-- [19/10 05:30] Le Monde — Mobilisation du 17 octobre : pour des jeunes manifestants, « l’Etat est violent et la casse est la réponse populaire à cette violence »
+- [19/10 05:30] Le Monde — Mobilisation du 17 octobre : pour des jeunes manifestants qui ont défilé samedi, « l’Etat est violent et la casse est la réponse populaire à cette violence »
   https://www.lemonde.fr/societe/article/2026/10/19/mobilisation-du-17-octobre-pour-des-jeunes-manifestants-l-etat-est-violent-et-la-casse-est-la-reponse-populaire-a-cette-violence_6797405_3224.html
-  Des lycéens et des étudiants interrogés par « Le Monde » condamnent les pillages et les casseurs, mais y opposent la brutalité des forces de l’ordre et assurent vouloir poursuivre un mouvement « joyeux » et « émouvant »…
+  S’ils condamnent les pillages et les casseurs, les lycéens et les étudiants interrogés par « Le Monde » au lendemain de la journée de mobilisation y opposent la brutalité des forces de l’ordre et assurent vouloir poursu…
 - [19/10 05:25] Le Monde — Emmanuel Macron tente de réaffirmer son autorité, ébranlée par les violences et les mouvements sociaux
   https://www.lemonde.fr/politique/article/2026/10/19/mobilisation-du-17-octobre-emmanuel-macron-tente-de-reaffirmer-son-autorite-ebranlee-par-les-violences-et-les-mouvements-sociaux_6797402_823448.html
   Les oppositions ont fustigé l’intervention du chef de l’Etat, dimanche soir, faisant état de sa « colère » et de sa « honte », au lendemain des manifestations agrégeant mouvement lycéen et colère contre « la vie chère »…
@@ -244,12 +253,6 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [19/10 00:28] Le Monde — Un vol reliant Tel-Aviv à Vienne dérouté vers la Bulgarie en raison d’une alerte à la bombe
   https://www.lemonde.fr/international/article/2026/10/19/un-vol-reliant-tel-aviv-a-vienne-deroute-vers-la-bulgarie-en-raison-d-une-alerte-a-la-bombe_6797300_3210.html
   Selon la compagnie aérienne Austrian Airlines, 51 passagers et six membres d’équipage se trouvaient à bord de l’avion et une fouille de sécurité a été effectuée après son atterrissage à Sofia.
-- [19/10 00:06] Le Figaro — «Un pays plus fracturé que jamais» : la presse étrangère sidérée par les violences en France
-  https://www.lefigaro.fr/international/un-pays-plus-fracture-que-jamais-la-presse-etrangere-sideree-par-les-violences-en-france-20261019
-  REVUE DE PRESSE - Les images des violences qui secouent la France ont fait le tour du monde. Au-delà de la sidération face aux émeutes, les médias étrangers y voient le symbole d’un pouvoir à bout de souffle et d’un pay…
-- [19/10 00:04] Le Figaro — «Même si LFI passe, on continuera !» : un dimanche après-midi à République, entre riverains affligés, courses-poursuites avec les CRS et pillages
-  https://www.lefigaro.fr/actualite-france/meme-si-lfi-passe-on-continuera-un-dimanche-a-republique-entre-pillages-et-courses-poursuites-avec-les-crs-20261018
-  REPORTAGE - Place de la République à Paris, la tension n’est pas retombée et les affrontements entre les manifestants, essentiellement des casseurs, et la police s’est poursuivie en fin d’après-midi ce 18 octobre.
 - [18/10 22:27] franceinfo — Au lendemain des violences du 17 octobre, les camps politiques se rejettent la responsabilité du "chaos"
   https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/au-lendemain-des-violences-du-17-octobre-les-camps-politiques-se-rejettent-la-responsabilite-du-chaos_8242525.html#xtor=RSS-3-%5Bgeneral%5D
   La journée de samedi vire au procès politique. La gauche, l'extrême droite et le gouvernement s'affrontent sur la lecture des scènes de violences qui ont éclipsé les revendications des manifestants. Emmanuel Macron a pr…
@@ -268,9 +271,6 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [18/10 21:44] Le Monde — Paris, le jour d’après, fébrile à l’heure de compter les plaies : « Dix ans de Macron, voilà ce que ça fait », « il y a beaucoup de colère accumulée »
   https://www.lemonde.fr/societe/article/2026/10/18/les-gens-sont-enerves-il-y-a-beaucoup-de-colere-accumulee-a-paris-le-jour-d-apres-a-l-heure-de-compter-les-plaies_6797232_3224.html
   Dans plusieurs quartiers, les stigmates des débordements des manifestations du 17 octobre sont visibles sur de nombreuses artères. Entre écœurement et compréhension, chacun tente de trouver un sens aux événements. En so…
-- [18/10 21:39] Le Figaro — Violences du 17 octobre : critiqué de toutes parts, Emmanuel Macron promet d’être « intraitable »
-  https://www.lefigaro.fr/politique/violences-du-17-octobre-febrile-le-gouvernement-voit-sa-strategie-de-maintien-de-l-ordre-contestee-20261018
-  RÉCIT - De la mobilisation lycéenne jusqu’au chaos du 17 octobre, la réponse du pouvoir exécutif, pris au dépourvu, s’est révélée fluctuante. Évoquant la «honte» et la «colère» face aux violences, Emmanuel Macron a prom…
 - [18/10 21:21] franceinfo — "Rien ne le justifie, rien ne l'explique, rien ne l'excuse" : ce qu'il faut retenir de l'allocution d'Emmanuel Macron après les violences du 17 octobre
   https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/rien-ne-le-justifie-rien-ne-l-explique-rien-ne-l-excuse-ce-qu-il-faut-retenir-de-l-allocution-d-emmanuel-macron-apres-les-violences-du-17-octobre_8243143.html#xtor=RSS-3-%5Bgeneral%5D
   Depuis l'Elysée dimanche soir, le chef de l'Etat a appelé à ne pas "confondre" les manifestants qui ont des "revendications légitimes" avec "ceux qui ont détruit, cassé, pillé".
