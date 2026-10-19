@@ -1,4 +1,3 @@
-python
 #!/usr/bin/env python3
 """Lit des flux RSS publics et écrit veille.txt (titres, liens, dates, chapôs)."""
 import re
