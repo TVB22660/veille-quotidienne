@@ -97,7 +97,7 @@ def main():
         kept = [i for i in items if i[0] and i[0] >= limit and i[1] and i[2]]
         if media == "AFP":
             nodate = sum(1 for i in items if not i[0])
-            stats.append(f"AFP {url} : {len(items)} entrées, {nodate} sans date, {len(kept)} récentes")
+            stats.append(f"AFP {url} : {len(items)} entrées, {nodate} sans date, {len(kept)} récentes ; plus récente : {max((i[0] for i in items if i[0]), default=None)} ; ex. : {items[0][1] if items else '-'}")
         kept.sort(key=lambda i: i[0], reverse=True)
         for date, title, link, desc in kept[:MAX_PER_FEED]:
             if link in seen:
