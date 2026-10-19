@@ -1,4 +1,4 @@
-VEILLE — généré le 2026-10-19 09:48 (heure de Paris)
+VEILLE — généré le 2026-10-19 09:49 (heure de Paris)
 Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 
 ## International
@@ -79,6 +79,9 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
   RÉCIT - Un service central implanté dans le Bade-Wurtemberg enquête depuis 1958 sur ces hommes et femmes soupçonnés d’avoir participé à des actes meurtriers lors de la Seconde Guerre mondiale.
 
 ## France
+- [19/10 09:46] franceinfo — "Il s’est passé quelque chose de grave" : les maires de Paris, Marseille et Lyon demandent des comptes au gouvernement après les violences du 17 octobre
+  https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/il-s-est-passe-quelque-chose-de-grave-les-maires-de-paris-marseille-et-lyon-demandent-des-comptes-au-gouvernement-apres-les-violences-du-17-octobre_8243617.html#xtor=RSS-3-[lestitres]
+  Emmanuel Grégoire, Benoît Payan et Grégory Doucert demandent un amendement au projet de budget 2027, pour "créer un fonds exceptionnel de solidarité nationale, doté de moyens à la hauteur des dommages constatés".
 - [19/10 09:43] Le Figaro — Audiences : 16,7 millions de Français devant l’allocution d’Emmanuel Macron dimanche soir à la télévision
   https://tvmag.lefigaro.fr/programme-tv/audiences-tv/audiences-16-7-millions-de-francais-devant-l-allocution-d-emmanuel-macron-dimanche-soir-a-la-television-20261019
   Au lendemain des violences qui ont touché plusieurs villes de France samedi, le président de la République a pris la parole depuis l’Élysée dans un discours de huit minutes.
@@ -97,9 +100,6 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [19/10 09:33] Le Figaro — EN DIRECT - Violences du 17 octobre : «Je suis responsable de ce qui se passe», souligne Laurent Nuñez, qui admet «une perte de contrôle» dans certaines villes
   https://www.lefigaro.fr/actualite-france/en-direct-violences-manifestations-pillages-degats-paris-allocution-macron-17-octobre-emutes-20261019
   Des heurts à Paris, où de nouveaux magasins ont été pillés, des tentatives d’intrusion à Lyon, Marseille et près de Nantes... Au lendemain de violences massives, des incidents ont de nouveau éclaté dimanche, notamment d…
-- [19/10 09:25] franceinfo — Emmanuel Grégoire, le maire de Paris, fustige "une forme de pourrissement de ce mouvement social" par le gouvernement, après les violences du 17 octobre
-  https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/emmanuel-gregoire-le-maire-de-paris-fustige-une-forme-de-pourrissement-de-ce-mouvement-social-par-le-gouvernement-apres-les-violences-du-17-octobre_8243584.html#xtor=RSS-3-[lestitres]
-  Invité avec Benoît Payan, le maire de Marseille, sur France Inter, Emmanuel Grégoire réclame, comme son confrère, des "explications" sur la gestion du maintien de l'ordre et les choix politiques du gouvernement.
 - [19/10 09:25] franceinfo — "Nous avons failli incontestablement ce week-end", reconnaît Gérald Darmanin après les heurts et pillages lors de la mobilisation du 17 octobre
   https://www.franceinfo.fr/politique/gerald-darmanin/nous-avons-failli-incontestablement-ce-week-end-reconnait-gerald-darmanin-apres-les-heurts-et-pillages-lors-de-la-mobilisation-du-17-octobre_8243581.html#xtor=RSS-3-%5Bgeneral%5D
   Invité des "4 Vérités" de France 2, lundi 19 octobre, le ministre de la Justice Gérald Darmanin est revenu sur les violences qui ont éclaté lors de la mobilisation du 17 octobre. Sur les 2 331 personnes placées en garde…
@@ -157,9 +157,6 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [19/10 08:27] franceinfo — Mobilisation du 17 octobre : "Nous avons failli, incontestablement, ce week-end", reconnaît à son tour Gérald Darmanin, ministre de la Justice
   https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/direct-mobilisation-du-17-octobre-paris-lyon-et-nantes-touches-par-de-nouveaux-heurts-et-pillages-dimanche-au-moins-108-interpellations-dans-la-capitale_8243455.html#xtor=RSS-3-[lestitres]
   "Il y a eu un défaut dans les renseignements, (...) il faut savoir ce qui a dysfonctionné", a estimé le ministre de la Justice sur France 2.
-- [19/10 08:21] franceinfo — Violences du 17 octobre : le maire de Lyon réclame la "mise en place d'un fonds de solidarité pour les communes et les commerçants victimes des dégradations"
-  https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/violences-du-17-octobre-le-maire-de-lyon-reclame-la-mise-en-place-d-un-fonds-de-solidarite-pour-les-communes-et-les-commercants-victimes-des-degradations_8243539.html#xtor=RSS-3-[lestitres]
-  "Plus de 200 commerces" ont été touchés à Lyon par les violences de ce week-end, essentiellement en centre-ville, indique sur franceinfo Grégory Doucet. Il chiffre les dégâts à "des dizaines de millions d'euros".
 - [19/10 08:15] franceinfo — Un an après le cambriolage du Louvre, une sécurité toujours défaillante
   https://www.franceinfo.fr/faits-divers/cambriolage-au-musee-du-louvre/enquete-un-an-apres-le-cambriolage-du-louvre-une-securite-toujours-defaillante_8243497.html#xtor=RSS-3-[lestitres]
   Le 19 octobre 2025, le casse du Louvre dure huit minutes. Huit joyaux de la Couronne sont dérobés et restent introuvables à ce jour. Notre enquête révèle des dysfonctionnements persistants en matière de sécurité.
@@ -223,6 +220,9 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [19/10 06:00] Le Monde — « La France ne peut pas demander à bénéficier de la puissance collective de l’Europe quand ça l’arrange, sans en assumer les contraintes »
   https://www.lemonde.fr/idees/article/2026/10/19/la-france-ne-peut-pas-demander-a-beneficier-de-la-puissance-collective-de-l-europe-quand-ca-l-arrange-sans-en-assumer-les-contraintes_6797479_3232.html
   Le Rassemblement national et La France insoumise promettent de redresser nos finances publiques en sollicitant l’aide de l’UE et de la BCE. Des cordes de rappel bien pratiques, que ces partis fustigent lorsque ces insti…
+- [19/10 06:00] franceinfo — L’avènement de Paul Seixas, le crépuscule de Julian Alaphilippe : 2026, nouvelle page glorieuse pour le cyclisme français
+  https://www.franceinfo.fr/sports/cyclisme/l-avenement-de-paul-seixas-le-crepuscule-de-julian-alaphilippe-2026-nouvelle-page-glorieuse-pour-le-cyclisme-francais_8237377.html#xtor=RSS-3-[lestitres]
+  La saison a été synonyme de nombreuses réussites pour le cyclisme tricolore masculin, avec le phénomène Paul Seixas désormais installé à la table des grands.
 - [19/10 06:00] Le Monde — Mobilisation du 17 octobre : entre pillages, selfies et verres en terrasse, une nouvelle soirée surréaliste de violence à Paris
   https://www.lemonde.fr/societe/article/2026/10/19/mobilisation-du-17-octobre-entre-pillages-selfies-et-verres-en-terrasse-un-lendemain-de-violence-surrealiste-a-paris_6797444_3224.html
   Après la manifestation qui a dégénéré en scènes de chaos samedi, les rues de la capitale restaient marquées, dans la nuit de dimanche à lundi, par des dégradations côtoyant l’insouciance d’un week-end ordinaire.
@@ -361,5 +361,3 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
   https://www.lemonde.fr/societe/article/2026/10/18/mobilisation-du-17-octobre-a-rennes-la-manifestation-d-ampleur-vire-au-chaos_6796822_3224.html
   Au moins 12 000 personnes ont défilé, samedi, dans la capitale bretonne. La manifestation festive a été rythmée par de nombreux affrontements avec les forces de l’ordre et s’est conclue par une longue soirée de pillages.
 
-## Diagnostic AFP
-- AFP https://www.afp.com/fr/actus/afp_actualite/792,31,9,7,33/feed : 10 entrées, 0 sans date, 0 récentes ; plus récente : 2026-10-16 08:00:00+00:00 ; ex. : L'AFP et la maison d'édition Cercle d'Art s'associent pour une collection de livres
