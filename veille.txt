@@ -1,7 +1,10 @@
-VEILLE — généré le 2026-10-22 06:05 (heure de Paris)
+VEILLE — généré le 2026-10-22 06:34 (heure de Paris)
 Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 
 ## International
+- [22/10 06:30] Le Monde — Après l’ouverture d’un canal diplomatique entre la France et le régime des talibans, les exilés afghans craignent d’être « remis entre les mains de leurs bourreaux »
+  https://www.lemonde.fr/m-le-mag/article/2026/10/22/apres-l-ouverture-d-un-canal-diplomatique-entre-la-france-et-le-regime-des-talibans-les-exiles-afghans-craignent-d-etre-remis-entre-les-mains-de-leurs-bourreaux_6798571_4500055.html
+  Cinq ans après la prise de pouvoir par les talibans, la France engage un dialogue avec Kaboul afin de faciliter l’expulsion de ressortissants afghans en situation irrégulière et jugés « dangereux ». Une source d’inquiét…
 - [22/10 06:01] Le Monde — Face à la Russie, les pays du nord et de l’est de l’Europe préparent leurs sociétés à la guerre
   https://www.lemonde.fr/international/article/2026/10/22/face-a-la-russie-les-pays-du-nord-et-de-l-est-de-l-europe-preparent-leurs-societes-a-la-guerre_6798568_3210.html
   Abris antibombes, réserves stratégiques, plans d’évacuation… Depuis 2022, les pays européens frontaliers de la Russie investissent dans la défense civile, mobilisant tous les pans de leur société.
@@ -76,18 +79,66 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
   DÉCRYPTAGE - Pouvoir d’achat, inflation, guerre en Iran… par ses décisions, contraires à son programme de campagne, le président met en difficulté les candidats de son parti, à quinze jours des élections.
 
 ## France
+- [22/10 06:30] Ouest-France — Une situation « très dégradée » : la Paris Games Week célèbre une filiale française du jeu vidéo en difficulté
+  https://www.ouest-france.fr/gaming/jeux-video/une-situation-tres-degradee-la-paris-games-week-celebre-une-filiale-francaise-du-jeu-video-en-difficulte-9ecb28b4-cbc2-11f1-ad87-e24a1a2986e9?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
+  La Paris Games Week ouvre ses portes ce 22 octobre 2026 au Parc des expositions de la Porte de Versailles. Cette édition 2026 de la grand-messe du jeu vidéo français est organisée alors que la filière est en proie à d’i…
+- [22/10 06:30] Ouest-France — Route du Rhum 2026 : chez les Imoca, un plateau moins nombreux mais de haut niveau et avec de nouvelles têtes
+  https://www.ouest-france.fr/route-du-rhum/route-du-rhum-2026-chez-les-imoca-un-plateau-moins-nombreux-mais-de-haut-niveau-et-avec-de-nouvelles-tetes-c7e7b97a-bbe0-11f1-8ea4-97dc4d7cca62?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
+  Cette année, ils ne seront que 22 Imoca sur la ligne de départ de la 13e édition de la Route du Rhum 2026, le 1er novembre, à Saint-Malo (Ille-et-Vilaine). Seize de moins qu’en 2022 ! Une classe Imoca qui connaît un pet…
+- [22/10 06:24] Le Figaro — «Bombe météorologique», vents «violents» jusqu’à 130 km/h, trafic ferroviaire perturbé… La tempête Austen s’apprête à frapper la France
+  https://www.lefigaro.fr/meteo/bombe-meteorologique-vents-violents-jusqu-a-130-km-h-trafic-ferroviaire-perturbe-la-tempete-austen-s-apprete-a-frapper-la-france-20261021
+  Première tempête de l’automne, Austen doit toucher le nord-ouest de la France dès la nuit de jeudi à vendredi. Des perturbations dans les transports et des chutes d’arbres sont à craindre.
+- [22/10 06:23] franceinfo — "On n'est pas entraîné pour ça et on n'a pas envie d'y aller" : des policiers non spécialisés s'inquiètent de leur réquisition pour samedi
+  https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/temoignage-on-n-est-pas-entraine-pour-ca-et-on-n-a-pas-envie-d-y-aller-des-policiers-non-specialises-s-inquietent-de-leur-requisition-pour-samedi_8247856.html#xtor=RSS-3-[lestitres]
+  À trois jours de la nouvelle journée de mobilisation, le gouvernement promet un "dispositif massif", qui inclut un renfort d'agents non spécialisés dans le maintien de l'ordre. Franceinfo a recueilli le témoignage d'un…
+- [22/10 06:21] franceinfo — Le Finistère, le Morbihan et les Côtes-d'Armor placés en alerte orange pour vent à partir de 22 heures jeudi en raison de la tempête Austen
+  https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/tempetes/le-finistere-le-morbihan-et-les-cotes-d-armor-places-en-alerte-orange-pour-vent-a-partir-de-22-heures-jeudi-en-raison-de-la-tempete-austen_8248288.html#xtor=RSS-3-[lestitres]
+  A minuit, la Manche et l'Ille-et-Vilaine rejoindront les trois départements bretons en alerte orange, prévient Météo-France.
+- [22/10 06:15] Le Monde — A Mayotte, Orange sommé de stopper son « déploiement anarchique » de la fibre optique
+  https://www.lemonde.fr/economie/article/2026/10/22/a-mayotte-orange-somme-de-stopper-son-deploiement-anarchique-de-la-fibre-optique_6798569_3234.html
+  L’autorité de la concurrence enjoint le numéro un français des télécoms de suspendre l’installation de ses prises dans le département-région d’outre-mer.
+- [22/10 06:15] Ouest-France — ENTRETIEN. « Il faut maintenir le bac, mais mieux répartir les spécialités », juge l’ex-artisan de la réforme du lycée
+  https://www.ouest-france.fr/education/entretien-il-faut-maintenir-le-bac-mais-mieux-repartir-les-specialites-juge-lex-artisan-de-la-reforme-du-lycee-925bc112-cd46-11f1-bf87-17eca79cb13c?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
+  Parcoursup, spécialités, bac… La réforme du lycée, lancée il y a près de dix ans et portée par l’ancien ministre de l’Éducation nationale Jean-Michel Blanquer, cristallise les critiques du mouvement lycéen actuel. Pour…
+- [22/10 06:12] Le Figaro — Pourquoi Karim Benzema n’a jamais chanté la Marseillaise : son agent s’explique
+  https://www.lefigaro.fr/sports/football/pourquoi-karim-benzema-n-a-jamais-chante-la-marseillaise-son-agent-s-explique-20261022
+  L’ancien agent de «KB9» est revenu sur les polémiques entourant la carrière de l’attaquant en équipe de France, notamment son refus de chanter la Marseillaise.
+- [22/10 06:07] Ouest-France — Guerre au Moyen-Orient : plusieurs morts en Arabie saoudite, explosions près du détroit d’Ormuz… Les dernières infos
+  https://www.ouest-france.fr/monde/iran/guerre-au-moyen-orient-plusieurs-morts-en-arabie-saoudite-explosions-pres-du-detroit-dormuz-les-dernieres-infos-00c9f2ba-ccb9-11f1-bf87-17eca79cb13c?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
+  Les attaques des rebelles houthistes du Yémen contre l’Arabie saoudite ont fait au moins trois morts au cours de la dernière journée, alors que les États-Unis ont ordonné le départ des employés « non essentiels » de son…
 - [22/10 06:05] Ouest-France — Hongrie - France. À quelle heure et sur quelle chaîne voir le match de préparation à l’Euro des Bleues en direct ?
   https://www.ouest-france.fr/sport/handball/equipe-de-france-feminine/hongrie-france-a-quelle-heure-et-sur-quelle-chaine-voir-le-match-de-preparation-a-leuro-des-bleues-en-direct-2a179412-cd8e-11f1-bf87-17eca79cb13c?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
   À quelques semaines du début du Championnat d’Europe, les Françaises sont en phase de rodage. Il leur reste quatre matchs de préparation avant la compétition, dont ce déplacement à Győr jeudi 22 octobre. Hongrie - Franc…
+- [22/10 06:04] franceinfo — Sécheresse, inondations, tempêtes, incendies… Les conséquences du "super El Niño" à l'échelle planétaire
+  https://www.franceinfo.fr/diaporama/en-images-secheresse-inondations-tempetes-incendies-les-consequences-du-super-el-nino-a-l-echelle-planetaire_8243665.html#xtor=RSS-3-[lestitres]
+  Ce phénomène naturel entraîne une hausse des températures à la surface de l'océan Pacifique et amplifie les effets du changement climatique.
+- [22/10 06:04] franceinfo — Italie, Espagne, Portugal… Dans toute l'Europe, les mobilisations se multiplient, portées par la jeunesse en colère et la lutte contre la vie chère
+  https://www.franceinfo.fr/economie/greve/italie-espagne-portugal-dans-toute-l-europe-les-mobilisations-se-multiplient-portees-par-la-jeunesse-en-colere-et-la-lutte-contre-la-vie-chere_8245369.html#xtor=RSS-3-[lestitres]
+  Les mouvements sociaux en France inspirent certains voisins comme la Belgique et l'Italie, mais l'ampleur des mobilisations s'explique aussi par des contextes socio-économiques propres à chaque pays.
+- [22/10 06:04] franceinfo — "Bon courage à ceux qui arrivent" : l'élection présidentielle permettra-t-elle vraiment de sortir de la crise politique et sociale qui secoue le pays ?
+  https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/bon-courage-a-ceux-qui-arrivent-l-election-presidentielle-permettra-t-elle-vraiment-de-sortir-de-la-crise-politique-et-sociale-qui-secoue-le-pays_8245624.html#xtor=RSS-3-[lestitres]
+  Si les responsables politiques veulent croire, et surtout faire croire aux citoyens, que s'en remettre au vote pourra résoudre les crises actuelles, les politologues et chercheurs interrogés par franceinfo en doutent.
+- [22/10 06:04] franceinfo — "Bon courage à ceux qui arrivent" : l'élection présidentielle permettra-t-elle vraiment de sortir de la crise politique et sociale qui secoue le pays ?
+  https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/bon-courage-a-ceux-qui-arrivent-l-election-presidentielle-permettra-t-elle-vraiment-de-sortir-de-la-crise-politique-et-sociale-qui-secoue-le-pays_8245624.html#xtor=RSS-3-%5Bgeneral%5D
+  Si les responsables politiques veulent croire, et surtout faire croire aux citoyens, que s'en remettre au vote pourra résoudre les crises actuelles, les politologues et chercheurs interrogés par franceinfo en doutent.
+- [22/10 06:04] franceinfo — Manifestations contre la vie chère, mouvement lycéen, actions violentes… Quelle est la situation dans les départements d'outre-mer, en pleine colère sociale ?
+  https://www.franceinfo.fr/france/outremer/manifestations-contre-la-vie-chere-mouvement-lyceen-actions-violentes-quelle-est-la-situation-dans-les-departements-d-outre-mer-en-pleine-colere-sociale_8247013.html#xtor=RSS-3-[lestitres]
+  En parallèle des mobilisation dans l'Hexagone, de nombreux rassemblements sont aussi organisés dans les territoires ultramarins.
 - [22/10 06:00] Le Monde — Nicolas Dufrêne, l’homme qui a soufflé l’idée de l’annulation de la dette à Jean-Luc Mélenchon
   https://www.lemonde.fr/economie/article/2026/10/22/nicolas-dufrene-l-homme-qui-a-souffle-l-idee-de-l-annulation-de-la-dette-a-jean-luc-melenchon_6798567_3234.html
   Haut fonctionnaire, directeur de l’Institut Rousseau, un cercle de réflexion économique, l’homme bataille depuis des années pour imposer l’idée d’une annulation de la dette possédée par la Banque centrale européenne. Il…
+- [22/10 06:00] Le Monde — A la Paris Games Week, le grand paradoxe du jeu vidéo en France : une demande dynamique mais des studios en souffrance
+  https://www.lemonde.fr/pixels/article/2026/10/22/a-la-paris-games-week-le-grand-paradoxe-du-jeu-video-en-france-une-demande-dynamique-mais-des-studios-en-souffrance_6798556_4408996.html
+  Le plus grand salon français dédié au jeu vidéo ouvre ses portes jeudi 22 octobre. Alors que la pratique reste très répandue dans le pays, les professionnels subissent de plein fouet une violente crise économique, qui é…
 - [22/10 06:00] Ouest-France — Brevets européens : la France excelle, avec ses organismes publics de recherche
   https://www.ouest-france.fr/economie/entreprises/innovation/brevets-europeens-la-france-excelle-avec-ses-organismes-publics-de-recherche-00486368-cd6c-11f1-bb5f-3dc5c0feacca?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
   La capacité à transformer l’excellence des centres de recherche publics en technologies appliquées et en entreprises revêt une importance de taille en Europe. Selon l’Office européen des brevets, la France est extrêmeme…
 - [22/10 05:47] Le Monde — EN DIRECT, guerre en Ukraine : plus de 600 drones ont été lancés en direction de Moscou, selon le maire ; quinze blessés dans des frappes sur Kiev
   https://www.lemonde.fr/international/live/2026/10/22/en-direct-guerre-en-ukraine-plus-de-600-drones-ont-ete-lances-en-direction-de-moscou-selon-le-maire-quinze-blesses-dans-des-frappes-sur-kiev_6796922_3210.html
   Le maire de Moscou, Sergueï Sobianine, a rapporté que 163 drones s’étaient approchés de Moscou durant la nuit, et que deux personnes avaient été blessées.
+- [22/10 05:45] Le Monde — L’Omnibus X, cheval de Troie des « pesticides génétiques » en Europe
+  https://www.lemonde.fr/planete/article/2026/10/22/l-omnibus-x-cheval-de-troie-des-pesticides-genetiques-en-europe_6798555_3244.html
+  La Commission européenne, qui souhaite assouplir la réglementation sur les produits phytosanitaires, prévoit de classer comme « produits de biocontrôle » les nouveaux pesticides à ARN interférent. Un statut qui en facil…
 - [22/10 05:45] Ouest-France — Le dessin de Chaunu : des aides pour les commerçants
   https://www.ouest-france.fr/medias/ouest-france/chaunu/le-dessin-de-chaunu-des-aides-pour-les-commercants-655cfc3e-cd79-11f1-bb5f-3dc5c0feacca?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
   Le dessinateur et caricaturiste Chaunu croque au quotidien l’actualité française et internationale pour Ouest-France. Aujourd’hui, les aides aux entreprises victimes des dégradations bientôt débloquées.
@@ -133,39 +184,24 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [22/10 01:40] Le Monde — Le pape Léon XIV n’aura pas besoin de traitement après son opération au poumon, annonce le Vatican
   https://www.lemonde.fr/international/article/2026/10/22/le-pape-leon-xiv-n-aura-pas-besoin-de-traitement-apres-son-operation-au-poumon-annonce-le-vatican_6798380_3210.html
   Le souverain pontife maintient sa tournée en Amérique latine du 6 au 17 novembre, après avoir été opéré d’un nodule pulmonaire cancéreux.
-- [22/10 01:07] Ouest-France — eBay va supprimer 1 000 postes, soit environ 9 % de ses effectifs
-  https://www.ouest-france.fr/economie/commerce/e-commerce/ebay-va-supprimer-1-000-postes-soit-environ-9-pourcent-de-ses-effectifs-570cc418-cd90-11f1-bf87-17eca79cb13c?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
-  L’entreprise d’e-commerce prévoit de licencier environ 9 % de ses effectifs afin de simplifier ses opérations et de réorienter ses ressources vers ses secteurs à croissance rapide. Les licenciements devraient concerner…
 - [22/10 01:00] Le Monde — Etats-Unis : la Cour suprême bloque la politique anti-transgenres de l’administration Trump dans les prisons fédérales
   https://www.lemonde.fr/international/article/2026/10/22/etats-unis-la-cour-supreme-bloque-la-politique-anti-transgenres-de-l-administration-trump-dans-les-prisons-federales_6798347_3210.html
   La plus haute juridiction américaine a rejeté un recours déposé en septembre par l’administration Trump pour lui permettre d’appliquer cette politique, sans se prononcer sur le fond.
-- [22/10 00:46] Ouest-France — Épisode méditerranéen : le bilan monte à 4 morts dans les Bouches-du-Rhône et Haute-Corse, et 1 disparu dans le Var
-  https://www.ouest-france.fr/meteo/intemperies/episode-mediterraneen-le-bilan-monte-a-4-morts-dans-les-bouches-du-rhone-et-haute-corse-et-1-disparu-dans-le-var-e925242e-cd9c-11f1-bf87-17eca79cb13c?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
-  L’épisode méditerranéen qui a touché plusieurs départements du sud-est a été particulièrement dévastateur et a coûté la vie à au moins quatre personnes, selon un dernier bilan des secours.
 - [22/10 00:15] Le Monde — EN DIRECT, manifestations du 17 octobre : rassemblements et manifestations interdits jeudi de 8 heures à 20 heures dans certains secteurs de Paris
   https://www.lemonde.fr/societe/live/2026/10/22/en-direct-manifestations-du-17-octobre-rassemblements-et-manifestations-interdits-jeudi-de-8-heures-a-20-heures-dans-certains-secteurs-de-paris_6795855_3224.html
   De nouveaux couvre-feux sont entrés en vigueur mercredi soir dans plusieurs villes. Sébastien Lecornu recevra, jeudi, les maires de Paris, Marseille et Lyon.
-- [22/10 00:15] Ouest-France — À Brest, un père mis en examen pour le meurtre de sa fille adolescente
-  https://www.ouest-france.fr/bretagne/le-relecq-kerhuon-29480/a-brest-un-pere-mis-en-examen-pour-le-meurtre-de-sa-fille-adolescente-fe80da6e-cd99-11f1-bf87-17eca79cb13c?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
-  Un habitant du Relecq-Kerhuon a été mis en examen après la découverte du corps de sa fille adolescente. Le père de famille était déjà poursuivi depuis avril pour « viols incestueux et agressions sexuelles sur mineure ».
-- [22/10 00:03] Ouest-France — Une inéligibilité de cinq ans avec exécution immédiate requise contre le député LFI Sébastien Delogu
-  https://www.ouest-france.fr/societe/justice/une-ineligibilite-de-cinq-ans-avec-execution-immediate-requise-contre-le-depute-lfi-sebastien-delogu-13e45ff2-cd7c-11f1-bb5f-3dc5c0feacca?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
-  Sébastien Delogu, député LFI de Marseille, a été jugé ce mercredi 21 octobre pour avoir divulgué des informations privées sur son compte Instagram. Le tribunal correctionnel de Marseille a requis contre lui une inéligib…
 - [21/10 23:57] Le Figaro — Brest : le père d’une adolescente disparue depuis plusieurs mois mis en examen pour meurtre aggravé après la découverte d’un corps enterré
   https://www.lefigaro.fr/faits-divers/brest-le-pere-d-une-adolescente-disparue-depuis-plusieurs-mois-mis-en-examen-pour-meurtre-aggrave-apres-la-decouverte-d-un-corps-enterre-20261021
   Né en 1971 et originaire de Mayotte, l’homme a reconnu devant les enquêteurs avoir frappé sa fille de 16 ans au cours d’une dispute en mars dernier.
 - [21/10 23:52] Le Figaro — La muraille Sommer, les choix curieux de Cahuzac, le manque de réalisme lensois… Les tops/flops de Bruges-Lens
   https://www.lefigaro.fr/sports/football/ligue-des-champions/la-muraille-sommer-les-choix-curieux-de-cahuzac-le-manque-de-realisme-lensois-les-tops-flops-de-bruges-lens-20261021
   DÉCRYPTAGE - Le RC Lens a vécu une soirée cauchemardesque en Belgique. Malgré plusieurs occasions franches en première période, les hommes de Yannick Cahuzac ont été punis par l’efficacité du Club Bruges (3-0), avant de…
-- [21/10 23:43] Le Figaro — Bouches-du-Rhône : trois morts dans les intempéries, selon un nouveau bilan de la préfecture
-  https://www.lefigaro.fr/flash-actu/bouches-du-rhone-trois-morts-dans-les-intemperies-selon-un-nouveau-bilan-de-la-prefecture-20261021
-  Les pompiers ont précisé que «deux femmes de 86 et 26 ans ont été retrouvées noyées dans une cave à Lançon-Provence.» Mardi, un homme de 75 ans «emporté par les eaux» avait été retrouvé décédé à Istres.
+- [21/10 23:49] franceinfo — Les conditions de détention des mineurs au dépôt du tribunal de Bobigny dénoncées par des avocats
+  https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/les-conditions-de-detention-des-mineurs-au-depot-du-tribunal-de-bobigny-denoncees-par-des-avocats_8248039.html#xtor=RSS-3-[lestitres]
+  Quatre avocats membres du Conseil de l'ordre de Seine-Saint-Denis ont constaté, mercredi 21 octobre, les conditions difficiles auxquelles sont soumis les mineurs interpellés en marge du mouvement lycéen, au sein du dépô…
 - [21/10 23:40] Le Figaro — Inéligibilité de cinq ans avec exécution immédiate requise contre le député LFI Sébastien Delogu
   https://www.lefigaro.fr/marseille/ineligibilite-de-cinq-ans-avec-execution-immediate-requise-contre-le-depute-lfi-sebastien-delogu-20261021
   L’Insoumis est jugé à Marseille pour avoir diffusé des documents privés volés à un chef d’entreprise. L’affaire est liée à un conflit social au sein de la société de nettoyage Laser Propreté, dont l’élu dénonçait les li…
-- [21/10 23:38] franceinfo — Le PSG en tête devant Aston Villa, Kylian Mbappé buteur, Arsenal et le Bayern dos à dos... Les enseignements de la 3e journée de Ligue des champions
-  https://www.franceinfo.fr/sports/foot/ligue-des-champions/le-psg-en-tete-devant-aston-villa-kylian-mbappe-buteur-arsenal-et-le-bayern-dos-a-dos-les-enseignements-de-la-3e-journee-de-ligue-des-champions_8248021.html#xtor=RSS-3-[lestitres]
-  Le choc PSG-Barça a marqué les esprits, mardi, puis mercredi a vu la deuxième affiche se terminer par un nul (2-2) entre le Bayern et Arsenal.
 - [21/10 23:30] Le Monde — Club Bruges-Lens : le résumé de la sévère défaite des Sang et Or en Ligue des champions
   https://www.lemonde.fr/sport/article/2026/10/21/club-bruges-lens-le-resume-de-la-severe-defaite-des-sang-et-or-en-ligue-des-champions_6798312_3242.html
   Dominateurs, les Lensois n’ont pas pu éviter une cruelle défaite face à des Belges réalistes (0-3), mercredi, et se retrouvent dans les profondeurs du classement de la phase de ligue de la reine des compétitions europée…
@@ -181,18 +217,9 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [21/10 22:54] Le Monde — Les Etats-Unis ordonnent le départ d’une partie des employés de leur ambassade à Riyad
   https://www.lemonde.fr/international/article/2026/10/21/les-etats-unis-ordonnent-le-depart-d-une-partie-des-employes-de-leur-ambassade-a-riyad_6798311_3210.html
   Les autorités saoudiennes ont annoncé la mort de trois personnes dans une attaque contre l’aéroport international à Dammam, dans l’est du pays. Des explosions ont, par ailleurs, été signalées près du détroit d’Ormuz.
-- [21/10 22:49] franceinfo — Affaire Thélyson Orélien : "On ne peut avoir qu'une réaction de tristesse", confie Philippe Claudel, le président de l'académie Goncourt
-  https://www.franceinfo.fr/culture/livres/affaire-thelyson-orelien/affaire-thelyson-orelien-on-ne-peut-avoir-qu-une-reaction-de-tristesse-confie-philippe-claudel-le-president-de-l-academie-goncourt_8247988.html#xtor=RSS-3-[lestitres]
-  L'écrivain canado-haïtien Thélyson Orélien a utilisé l'intelligence artificielle pour écrire son roman "C'était ça ou mourir" contrairement à ce qu'il affirmait, a annoncé mercredi son éditeur canadien qui a mis fin à l…
 - [21/10 22:48] Le Figaro — EN DIRECT - Mobilisation sociale : les manifestations interdites jeudi et samedi dans plusieurs villes
   https://www.lefigaro.fr/actualite-france/en-direct-violences-urbaines-17-octobre-ultragauche-lfi-melenchon-lecornu-couvre-feux-syndicats-20261021
   Redoutant des débordements lors des mobilisations prévues samedi 17 octobre, l’État a d’ores et déjà interdit les manifestations dans plusieurs villes dont Toulon, Rouen ou encore Le Havre. Plusieurs rassemblements étud…
-- [21/10 22:47] Le Figaro — «Bombe météorologique», vents «violents» jusqu’à 130 km/h, trafic ferroviaire perturbé… la tempête Austen s’apprête à frapper la France
-  https://www.lefigaro.fr/meteo/bombe-meteorologique-vents-violents-jusqu-a-130-km-h-trafic-ferroviaire-perturbe-la-tempete-austen-s-apprete-a-frapper-la-france-20261021
-  Première tempête de l’automne, Austen doit toucher le nord-ouest de la France dès la nuit de jeudi à vendredi. Des perturbations dans les transports et des chutes d’arbres sont à craindre.
-- [21/10 22:42] franceinfo — Emmanuel Macron présidera un conseil de sécurité jeudi matin, en présence de Sébastien Lecornu et des services de renseignement, annonce l'Elysée
-  https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/emmanuel-macron-presidera-un-conseil-de-securite-jeudi-matin-en-presence-de-sebastien-lecornu-et-des-services-de-renseignement-annonce-l-elysee_8247982.html#xtor=RSS-3-[lestitres]
-  "Ce conseil permettra de faire un point sur la mise en œuvre des dispositifs de renseignement, d’anticipation et de sécurisation des prochaines semaines", a-t-on appris.
 - [21/10 22:42] franceinfo — Emmanuel Macron présidera un conseil de sécurité jeudi matin, en présence de Sébastien Lecornu et des services de renseignement, annonce l'Elysée
   https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/emmanuel-macron-presidera-un-conseil-de-securite-jeudi-matin-en-presence-de-sebastien-lecornu-et-des-services-de-renseignement-annonce-l-elysee_8247982.html#xtor=RSS-3-%5Bgeneral%5D
   "Ce conseil permettra de faire un point sur la mise en œuvre des dispositifs de renseignement, d’anticipation et de sécurisation des prochaines semaines", a-t-on appris.
@@ -205,15 +232,6 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [21/10 22:22] Le Monde — Orange annonce le rétablissement de son réseau mobile
   https://www.lemonde.fr/pixels/article/2026/10/21/orange-annonce-le-retablissement-de-son-reseau-mobile_6798249_4408997.html
   Selon l’opérateur, l’incident était lié à la défaillance d’un équipement au niveau de son « cœur de réseau mobile ». Contactés par « Le Monde », Bouygues Telecom et SFR ont dit ne pas rencontrer d’incident sur leurs pro…
-- [21/10 22:22] Le Figaro — Qu’est-ce que PHP, ce langage informatique qui a fait vaciller une partie de l’Internet mondial ?
-  https://www.lefigaro.fr/secteur/high-tech/qu-est-ce-que-php-ce-langage-informatique-qui-a-fait-vaciller-une-partie-d-internet-20261021
-  Deux failles critiques découvertes dans l’un des rouages essentiels du web ont conduit de nombreux services à se mettre hors ligne.
-- [21/10 22:22] Le Figaro — Gouvernements paniqués, cyberattaques massives en préparation, implication d’OpenAI… Le jour où Internet a été débranché en urgence à cause du PHP
-  https://www.lefigaro.fr/secteur/high-tech/gouvernements-paniques-cyberattaques-massives-en-preparation-implication-d-openai-le-jour-ou-internet-a-ete-debranche-en-urgence-a-cause-du-php-20261021
-  RÉCIT - Deux vulnérabilités critiques qui viennent d’être découvertes mettent en péril 70% du web mondial. Des milliers de sites à travers le monde ont dû être temporairement désactivés dans l’attente d’un correctif.
-- [21/10 22:22] Le Figaro — Après une panne d’ampleur, Orange annonce un rétablissement de son réseau mobile
-  https://www.lefigaro.fr/secteur/high-tech/le-reseau-mobile-d-orange-touche-par-une-panne-ce-mercredi-20261021
-  L’opérateur avait fait état d’une panne mercredi touchant l’ensemble de son réseau mobile en France, y compris l’opérateur Sosh. Selon Orange, «l’incident est lié à une défaillance d’un équipement au niveau de notre cœu…
 - [21/10 22:19] franceinfo — Un corps retrouvé après le crash d'un avion militaire près de Nancy, le deuxième occupant toujours recherché
   https://www.franceinfo.fr/faits-divers/info-radio-france-un-avion-militaire-s-est-ecrase-entre-nancy-et-pont-a-mousson-des-recherches-sont-en-cours_8246608.html#xtor=RSS-3-[lestitres]
   L'Armée a confirmé avoir perdu le contact avec l'équipage d'un Mirage 2000D mardi soir. D'importants moyens de secours sont mobilisés.
@@ -229,27 +247,12 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [21/10 21:57] franceinfo — La Russie et l'Ukraine prêtes à de prochaines négociations à trois avec les Américains
   https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/la-russie-et-l-ukraine-pretes-a-de-prochaines-negociations-a-trois-avec-les-americains_8247862.html#xtor=RSS-3-[lestitres]
   Le conseiller diplomatique du Kremlin a indiqué que Moscou était prêt à se remettre à la table des discussion "vers le 10 novembre". Volodymyr Zelensky s'est également dit "favorable".
-- [21/10 21:53] franceinfo — Meta condamné à verser 25 milliards de dollars à l'Etat du Nouveau-Mexique, après le scandale Cambridge Analytica
-  https://www.franceinfo.fr/internet/reseaux-sociaux/facebook/meta-condamne-a-verser-25-milliards-de-dollars-a-l-etat-du-nouveau-mexique-apres-le-scandale-cambridge-analytica_8247793.html#xtor=RSS-3-[lestitres]
-  Il s'agit de "l'un des plus importants jugements, sinon le plus important, obtenus par un Etat contre une entreprise dans l'histoire américaine", s'est félicité le procureur général du Nouveau-Mexique.
 - [21/10 21:48] Le Figaro — Dans les décombres de sa mairie incendiée, Guillaume Guérin déterminé à relever l’honneur de la République
   https://www.lefigaro.fr/politique/dans-les-decombres-de-sa-mairie-incendiee-guillaume-guerin-determine-a-relever-l-honneur-de-la-republique-20261021
   PORTRAIT - Depuis l’incendie de son hôtel de ville, samedi soir, Guillaume Guérin incarne une République prise pour cible. Enfant du pays nourri aux joutes politiques familiales et gaulliste assumé, l’élu de 39 ans tien…
-- [21/10 21:45] franceinfo — Les rassemblements et les manifestations interdits dans plusieurs secteurs de Paris, jeudi entre 8 heures et 20 heures, annonce la préfecture de police
-  https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/les-rassemblements-et-les-manifestations-interdits-dans-plusieurs-secteurs-de-paris-jeudi-entre-8-heures-et-20-heures-annonce-la-prefecture-de-police_8247910.html#xtor=RSS-3-[lestitres]
-  Sont notamment concernés les Champs-Elysées, Châtelet-les Halles, la place de la Bastille, ainsi que la plupart des gares.
-- [21/10 21:42] franceinfo — Violences du 17 octobre : un adolescent blessé à l'œil à Dijon, l'Inspection générale de la gendarmerie nationale saisie
-  https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/violences-du-17-octobre-un-adolescent-blesse-a-l-il-a-dijon-inspection-generale-de-la-gendarmerie-nationale-saisie_8247853.html#xtor=RSS-3-[lestitres]
-  Le lycéen a été blessé à l'œil en marge de la manifestation du samedi 17 octobre place Darcy à Dijon, selon les informations d'ICI Bourgogne. Une plainte a été déposée.
-- [21/10 21:34] franceinfo — L'opérateur Orange annonce le "rétablissement du réseau mobile" après des "perturbations" pendant plusieurs heures
-  https://www.franceinfo.fr/internet/telephonie/l-operateur-orange-signale-des-perturbations-sur-son-reseau-mobile_8247166.html#xtor=RSS-3-[lestitres]
-  Dans un communiqué mercredi soir, l'entreprise assure que les équipes techniques "poursuivent la surveillance du réseau afin de s'assurer de la stabilité et de la qualité des services dans les prochaines heures".
 - [21/10 21:21] Le Monde — Le LOSC s’incline à domicile contre Galatasaray et concède une troisième défaite de suite en Ligue des champions
   https://www.lemonde.fr/sport/article/2026/10/21/le-losc-s-incline-a-domicile-contre-galatasaray-et-concede-une-troisieme-defaite-de-suite-en-ligue-des-champions_6798308_3242.html
   Le club lillois a été dominé sur sa pelouse par son adversaire turc (2-4), mercredi, au terme d’une rencontre animée. En trois rencontres de Ligue des champions, les Nordistes n’ont toujours pas pris le moindre point.
-- [21/10 21:08] Le Monde — Guerre en Ukraine : galvanisé par le soutien de Donald Trump, Vladimir Poutine ne cède rien
-  https://www.lemonde.fr/international/article/2026/10/21/guerre-en-ukraine-galvanise-par-le-soutien-de-donald-trump-vladimir-poutine-ne-cede-rien_6798307_3210.html
-  Reçu par le président russe près de Saint-Pétersbourg, mercredi, Steve Witkoff, l’émissaire de Donald Trump, a rendu hommage au maître du Kremlin, saluant son profil « humanitaire ». Il n’en est pas moins reparti sans o…
 - [21/10 21:04] Le Figaro — 17 octobre : après le chaos, comment la police traque les pillards en fuite
   https://www.lefigaro.fr/actualite-france/17-octobre-apres-le-chaos-comment-la-police-traque-les-pillards-en-fuite-20261021
   DÉCRYPTAGE - Lancés dans une véritable course contre la montre pour retrouver les casseurs avant qu’ils ne repassent à l’action, les services d’investigation exploitent le moindre indice et passent au crible les réseaux…
@@ -274,6 +277,12 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [21/10 19:40] Le Figaro — 17 octobre : épargné par Macron après les émeutes, Nuñez attendu au tournant le week-end prochain
   https://www.lefigaro.fr/politique/17-octobre-epargne-par-macron-apres-les-emeutes-nunez-attendu-au-tournant-le-week-end-prochain-20261021
   DÉCRYPTAGE - Le ministre de l’Intérieur est sous le feu croisé des oppositions, même si le chef de l’État a refusé sa démission après les violences urbaines du week-end dernier.
+- [21/10 19:37] Le Figaro — L’éditorial d’Yves Thréard : « L’apocalypse selon Jean-Luc Mélenchon »
+  https://www.lefigaro.fr/vox/politique/l-editorial-d-yves-threard-l-apocalypse-selon-jean-luc-melenchon-20261021
+  Dans la « nouvelle France » du « lider maximo », place à la créolisation de la société, à l’idéologie islamo-gauchiste, assorties d’autres mesures radicales pour changer l’homme et la réalité.
+- [21/10 19:29] Le Figaro — « Éviter de finir ennemis » : dans les coulisses du déjeuner entre David Lisnard et Bruno Retailleau
+  https://www.lefigaro.fr/elections/presidentielles/eviter-de-finir-ennemis-dans-les-coulisses-du-dejeuner-entre-david-lisnard-et-bruno-retailleau-20261021
+  RÉCIT - Le maire de Cannes, qui connaît une dynamique, et le président de LR se sont rencontrés mercredi à l’initiative de Robert Ménard, maire de Béziers. Objectif : trouver une entente entre les deux candidats à l’éle…
 - [21/10 19:23] Le Figaro — «Une scène de guerre» : au procès de l’explosion de la rue de Trévise, les sapeurs-pompiers de Paris se replongent dans l’horreur et l’effroi
   https://www.lefigaro.fr/actualite-france/une-scene-de-guerre-au-proces-de-l-explosion-de-la-rue-de-trevise-les-sapeurs-pompiers-de-paris-se-replongent-dans-l-horreur-et-l-effroi-20261021
   COMPTE-RENDU D’AUDIENCE - Le 12 janvier 2019, une explosion provoquée par une fuite de gaz a causé la mort de quatre personnes et blessé plus de deux cents autres. Les prévenus, la Ville de Paris et le syndic Cipa, comp…
@@ -301,9 +310,6 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [21/10 18:36] Le Figaro — «J’ai eu la peur de ma vie» : en pyjama, des riverains et leur curé sauvent une église des flammes près de Toulouse
   https://www.lefigaro.fr/actualite-france/j-ai-eu-la-peur-de-ma-vie-en-pyjama-des-riverains-et-leur-cure-sauvent-une-eglise-des-flammes-pres-de-toulouse-20261021
   À Fenouillet, plusieurs habitants ont combattu pendant une vingtaine de minutes un feu de haie qui gagnait la toiture de l’église Saint-Médard, avant l’arrivée des pompiers. L’origine du sinistre reste inconnue.
-- [21/10 18:33] Le Monde — Quand l’Iran dénonce les violences policières en France et appelle Paris à garantir « la liberté de manifestation »
-  https://www.lemonde.fr/international/article/2026/10/21/quand-l-iran-denonce-les-violences-policieres-en-france-et-appelle-paris-a-garantir-la-liberte-de-manifestation_6798289_3210.html
-  Au lendemain de la journée de protestation émaillée de violences, le 17 octobre, en France, les autorités iraniennes ont dénoncé un « deux poids, deux mesures », et appelé, sans ironie, Paris à écouter les manifestants.
 - [21/10 18:26] franceinfo — Des perquisitions au Parlement européen ciblent l'ex-groupe Identité et démocratie, où siégeait le RN
   https://www.franceinfo.fr/politique/des-perquisitions-au-parlement-europeen-ciblent-l-ex-groupe-identite-et-democratie-ou-siegeait-le-rn_8247361.html#xtor=RSS-3-%5Bgeneral%5D
   Une enquête du parquet européen sur des soupçons de détournements de fonds au sein de ce groupe, durant la période 2019-2024, avait déjà conduit à une série de perquisitions dans plusieurs pays dont la France.
@@ -328,9 +334,6 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [21/10 16:58] franceinfo — Tentative d'arrestation démentie, convocation avortée… Pourquoi des policiers attendaient-ils le député LFI Raphaël Arnault à son arrivée à Paris ?
   https://www.franceinfo.fr/politique/la-france-insoumise/tentative-d-arrestation-dementie-convocation-avortee-pourquoi-des-policiers-attendaient-ils-le-depute-lfi-raphael-arnault-a-son-arrivee-a-paris_8247277.html#xtor=RSS-3-%5Bgeneral%5D
   Le groupe La France insoumise à l'Assemblée nationale a accusé la police d'avoir tenté d'interpeller l'élu du Vaucluse à la descente d'un train à la gare de Lyon. Les agents cherchaient en fait à lui remettre une convoc…
-- [21/10 15:36] franceinfo — Avec une récolte en chute de près 50% cette année, les producteurs de maïs demandent une aide d'urgence de l'Etat
-  https://www.franceinfo.fr/economie/emploi/metiers/agriculture/avec-une-recolte-en-chute-de-pres-50-cette-annee-les-producteurs-de-mais-demandent-une-aide-d-urgence-de-l-etat_8247388.html#xtor=RSS-3-%5Bgeneral%5D
-  Du jamais-vu depuis 50 ans : en France, la production de maïs s'effondre de près de 50% cette année. En cause, la sécheresse et les canicules de cet été, qui ont ravagé les cultures. Reportage dans le Loiret.
 - [21/10 13:02] Le Figaro — 17 octobre : comment les forces de l’ordre vont tirer les leçons d’un fiasco pour rétablir le calme
   https://www.lefigaro.fr/actualite-france/17-octobre-comment-les-forces-de-l-ordre-vont-tirer-les-lecons-d-un-fiasco-pour-retablir-le-calme-20261019
   DÉCRYPTAGE - Le renseignement va revoir sa manière de surveiller les réseaux sociaux, et le maintien de l’ordre veut monter en puissance pour être plus réactif.
@@ -345,6 +348,9 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
   RÉCIT - Depuis l’incendie de l’hôtel de ville de Limoges, les regards se tournent vers ce territoire rural du Limousin où la mouvance radicale a pris racine il y a près de vingt ans. Le député de la Creuse Bartolomé Len…
 
 ## Gendarmerie-police-justice
+- [22/10 06:23] franceinfo — TÉMOIGNAGE. "On n'est pas entraîné pour ça et on n'a pas envie d'y aller" : des policiers non spécialisés s'inquiètent de leur réquisition pour samedi
+  https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/temoignage-on-n-est-pas-entraine-pour-ca-et-on-n-a-pas-envie-d-y-aller-des-policiers-non-specialises-s-inquietent-de-leur-requisition-pour-samedi_8247856.html#xtor=RSS-3-%5Bgeneral%5D
+  À trois jours de la nouvelle journée de mobilisation, le gouvernement promet un "dispositif massif", qui inclut un renfort d'agents non spécialisés dans le maintien de l'ordre. Franceinfo a recueilli le témoignage d'un…
 - [21/10 21:47] franceinfo — Des millions d’abonnés Orange sans réseau mobile, une panne en chaîne évoquée
   https://www.franceinfo.fr/faits-divers/des-millions-d-abonnes-orange-sans-reseau-mobile-une-panne-en-chaine-evoquee_8247907.html#xtor=RSS-3-%5Bgeneral%5D
   Une panne nationale perturbe le réseau mobile d’Orange depuis mercredi 21 octobre. Des millions d’abonnés sont privés de téléphone. L’opérateur mobilise ses équipes pour rétablir les services, tandis que la piste d’une…
@@ -378,9 +384,6 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [21/10 16:36] franceinfo — Que sait-on de l'implication de l'ultragauche, dénoncée notamment par le gouvernement, dans les violences des 17 et 18 octobre ?
   https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/que-sait-on-de-l-implication-de-l-ultragauche-notamment-denoncee-par-le-gouvernement-dans-les-violences-des-17-et-18-octobre_8245651.html#xtor=RSS-3-%5Bgeneral%5D
   De nombreuses personnalités politiques, en particulier au sein de l'exécutif, accusent l'ultragauche d'être impliquée dans les violences qui ont visé les forces de l'ordre, ainsi que les dégradations de bâtiments public…
-- [21/10 16:33] franceinfo — Militaires de la force Sentinelle, GIGN, hélicoptères... Quels sont les moyens supplémentaires annoncés pour le dispositif de sécurité de la mobilisation du 24 octobre ?
-  https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/militaires-de-la-force-sentinelle-gign-helicopteres-quels-sont-les-moyens-supplementaires-annonces-pour-le-dispositif-de-securite-de-la-mobilisation-du-24-octobre_8247091.html#xtor=RSS-3-%5Bgeneral%5D
-  Le Premier ministre a promis un déploiement "massif" des forces de l'ordre pour la nouvelle journée de mobilisation organisée samedi, une semaine après un 17 octobre marqué par des violences et des pillages. Laurent Nuñ…
 - [21/10 14:30] Le Monde — « La corruption aux Antilles n’est pas une fatalité, mais une réalité face à laquelle tous les acteurs doivent se mobiliser »
   https://www.lemonde.fr/les-decodeurs/article/2026/10/21/la-corruption-aux-antilles-n-est-pas-une-fatalite-mais-une-realite-face-a-laquelle-tous-les-acteurs-doivent-se-mobiliser_6798247_4355770.html
   A l’issue d’un déplacement commun en Guadeloupe et en Martinique, les patrons de l’Agence française anticorruption et du Parquet national financier, Isabelle Jégouzo et Pascal Prache, détaillent, dans un entretien au «…

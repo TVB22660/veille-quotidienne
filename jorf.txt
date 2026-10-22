@@ -1,28 +1,249 @@
-JORF — généré le 2026-10-22 06:05 (heure de Paris)
-Archives lues : 8 ; textes retenus : 1 ; JO trouvés : 2999-01-01
+JORF — généré le 2026-10-22 06:34 (heure de Paris)
+Archives lues : 8 ; textes retenus : 311 ; JO trouvés : 2026-10-22, 2026-10-21, 2026-10-20
 
-# JO du 2999-01-01 (n° ?) — 1 textes au total
+# JO du 2026-10-22 (n° 0247) — 127 textes au total
 ## Présidence de la République
 - rien
 
 ## Premier ministre
-- rien
+Textes :
+- Arrêté du 21 octobre 2026 relatif à l'approbation de la modification du cahier des charges de l'appel à projets « Soutien aux projets d'investissements pour produire en France les véhicules routiers de demain et leurs composants »
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055005811
+Mesures nominatives :
+- Arrêté du 6 octobre 2026 portant admission à la retraite (administrateurs de l'Etat)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055006455
 
 ## Intérieur
-- rien
+Textes :
+- Arrêté du 19 octobre 2026 portant interdiction de déplacement des supporters du club de football de l'Olympique Lyonnais lors de la rencontre du dimanche 25 octobre 2026 à 20 h 45 avec le Paris Saint-Germain Football Club
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055005819
+- Décret du 21 octobre 2026 rapportant un décret de naturalisation (Accès protégé)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055006462
+- Avis de vacance d'un emploi de directeur départemental interministériel adjoint (direction départementale de l'emploi, du travail et des solidarités de l'Isère)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055006858
+Mesures nominatives :
+- Arrêté du 16 octobre 2026 portant nomination (régisseurs mandataires suppléants d'avances et de recettes)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055006465
+- Arrêté du 19 octobre 2026 portant cessation de fonctions au cabinet du ministre de l'intérieur
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055006467
+- Arrêté du 20 octobre 2026 portant nomination (régisseurs mandataires suppléants d'avances et de recettes)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055006474
 
 ## Justice
-- rien
+Textes :
+- Arrêté du 15 octobre 2026 relatif à la suppression d'un office de notaire (officiers publics ou ministériels)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055006491
+- Arrêté du 15 octobre 2026 portant suppression d'un office de notaire (officiers publics ou ministériels)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055006497
+- Arrêté du 15 octobre 2026 relatif à une société à responsabilité limitée et à une société d'exercice libéral par actions simplifiée (officiers publics ou ministériels)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055006502
+- Arrêté du 15 octobre 2026 relatif à une société d'exercice libéral à responsabilité limitée, à la suppression d'un office de commissaire de justice et à l'ouverture d'un bureau annexe (officiers publics ou ministériels)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055006525
+- Arrêté du 16 octobre 2026 relatif à une société civile professionnelle (officiers publics ou ministériels)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055006574
+- Avis de vacance d'un emploi de chef de service (administration centrale)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055006890
+Mesures nominatives :
+- Arrêté du 15 octobre 2026 portant nomination d'une notaire salariée (officiers publics ou ministériels)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055006487
+- Arrêté du 15 octobre 2026 portant nomination d'une société d'exercice libéral par actions simplifiée (officiers publics ou ministériels)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055006508
+- Arrêté du 15 octobre 2026 portant nomination d'une notaire salariée (officiers publics ou ministériels)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055006521
+- Arrêté du 15 octobre 2026 portant nomination d'une notaire salariée (officiers publics ou ministériels)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055006540
+- Arrêté du 15 octobre 2026 portant nomination d'un commissaire de justice salarié (officiers publics ou ministériels)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055006544
+- Arrêté du 15 octobre 2026 portant nomination d'une commissaire de justice salariée (officiers publics ou ministériels)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055006549
+- Arrêté du 15 octobre 2026 portant nomination d'une commissaire de justice salariée (officiers publics ou ministériels)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055006554
+- Arrêté du 16 octobre 2026 portant nomination d'une commissaire de justice salariée (officiers publics ou ministériels)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055006559
+- Arrêté du 16 octobre 2026 portant nomination d'un commissaire de justice salarié (officiers publics ou ministériels)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055006564
+- Arrêté du 16 octobre 2026 portant nomination d'un commissaire de justice salarié (officiers publics ou ministériels)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055006569
+- Arrêté du 16 octobre 2026 portant nomination d'une notaire salariée (officiers publics ou ministériels)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055006579
+- Arrêté du 16 octobre 2026 portant nomination d'une notaire salariée (officiers publics ou ministériels)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055006583
+- Arrêté du 16 octobre 2026 portant nomination d'une notaire salariée (officiers publics ou ministériels)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055006587
+- Arrêté du 16 octobre 2026 portant nomination d'une notaire salariée (officiers publics ou ministériels)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055006591
+- Arrêté du 16 octobre 2026 portant nomination d'une notaire salariée (officiers publics ou ministériels)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055006595
+- Arrêté du 16 octobre 2026 portant admission à la retraite (magistrature)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055006599
 
 ## Armées
+Mesures nominatives :
+- Arrêté du 20 octobre 2026 portant nomination (mandataires suppléants de recettes et d'avances)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055006477
+
+# JO du 2026-10-21 (n° 0246) — 99 textes au total
+## Présidence de la République
 - rien
 
+## Premier ministre
+Mesures nominatives :
+- Décret du 19 octobre 2026 portant nomination (chambres régionales des comptes) - Mme ABDI (Mokhtaria)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055002953
 
-## Erreurs
-- JORF_20261020-002430.tar.gz : RemoteDisconnected Remote end closed connection without response
-- JORF_20261020-214622.tar.gz : RemoteDisconnected Remote end closed connection without response
-- JORF_20261021-005928.tar.gz : RemoteDisconnected Remote end closed connection without response
-- JORF_20261021-122932.tar.gz : RemoteDisconnected Remote end closed connection without response
-- JORF_20261021-130408.tar.gz : RemoteDisconnected Remote end closed connection without response
-- JORF_20261021-213023.tar.gz : RemoteDisconnected Remote end closed connection without response
-- JORF_20261022-010121.tar.gz : RemoteDisconnected Remote end closed connection without response
+## Intérieur
+Textes :
+- Décret du 19 octobre 2026 portant déchéance de la nationalité française (Accès protégé)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055002962
+Mesures nominatives :
+- Décret du 20 octobre 2026 portant nomination de la sous-préfète de Segré-en-Anjou Bleu - Mme DEBIEVE (Hélène)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055002965
+- Décret du 20 octobre 2026 portant cessation de fonctions de la sous-préfète de Segré-en-Anjou Bleu - Mme MEDJAHED (Djamila)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055002973
+- Décret du 20 octobre 2026 portant nomination de la sous-préfète de Florac - Mme BONAVITA (Elodie)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055002982
+- Arrêté du 19 octobre 2026 portant cessation de fonctions (directions départementales interministérielles)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055002990
+
+## Justice
+Textes :
+- Décret n° 2026-967 du 20 octobre 2026 relatif à la procédure de recouvrement des créances commerciales incontestées
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055002571
+- Décret du 19 octobre 2026 portant maintien en disponibilité (magistrature) - M. DUPIC (Emmanuel)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055003097
+- Décret du 19 octobre 2026 portant changements de noms (Accès protégé)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055003109
+- Décret du 19 octobre 2026 portant changements de noms (Accès protégé)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055003112
+- Décret du 19 octobre 2026 portant changements de noms (Accès protégé)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055003115
+Mesures nominatives :
+- Arrêté du 19 octobre 2026 portant délégation de signature pour les opérations de validation électronique et de certification du service fait dans l'application informatique financière de l'Etat (Conseil d'Etat)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055002614
+- Décision du 12 octobre 2026 portant délégation de signature (direction générale de l'administration pénitentiaire)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055002634
+- Décret du 19 octobre 2026 portant maintien en détachement (magistrature) - Mme ATCHRIMI (Aline)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055003014
+- Décret du 19 octobre 2026 portant radiation des cadres (magistrature)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055003027
+- Décret du 19 octobre 2026 portant maintien en détachement (magistrature) - Mme CHAVIGNIER (Claire)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055003032
+- Décret du 19 octobre 2026 portant détachement (magistrature) - M. WEISPHAL (Olivier)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055003047
+- Décret du 19 octobre 2026 portant détachement (magistrature) - Mme PIBAULT (Joséphine)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055003063
+- Décret du 19 octobre 2026 portant détachement (magistrature) - Mme LEGEAY (Coline)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055003070
+- Décret du 19 octobre 2026 portant nomination (magistrature)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055003085
+- Décret du 19 octobre 2026 portant nomination (magistrature) - M. DEVALLOIS (Denis)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055003093
+- Arrêté du 6 octobre 2026 portant nomination d'un commissaire de justice salarié (officiers publics ou ministériels)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055003118
+- Arrêté du 14 octobre 2026 portant mutation (tribunaux administratifs et cours administratives d'appel)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055003123
+
+## Armées
+Textes :
+- Arrêté du 15 octobre 2026 modifiant l'arrêté du 5 juillet 2024 portant règlement intérieur du Conseil supérieur de la fonction militaire et des conseils de la fonction militaire
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055002403
+- Avis de concours pour les recrutements externes d'élèves commissaires des armées en 2027
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055003360
+Mesures nominatives :
+- Arrêté du 16 octobre 2026 fixant le contingent annuel de promotions fonctionnelles dont peuvent bénéficier certains militaires pour les années 2026 à 2028
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055002437
+- Décision du 19 octobre 2026 portant délégation de signature (direction de la mémoire, de la culture et des archives)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055002455
+- Décret du 19 octobre 2026 portant affectation d'officiers généraux
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055002997
+- Arrêté du 10 septembre 2026 portant admission à la retraite (ingénieurs civils de la défense)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055003001
+- Arrêté du 14 octobre 2026 portant nomination et titularisation dans le corps des attachés d'administration de l'Etat au titre de l'année 2026
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055003003
+
+# JO du 2026-10-20 (n° 0245) — 85 textes au total
+## Présidence de la République
+- rien
+
+## Premier ministre
+Textes :
+- Décret du 19 octobre 2026 portant fin de délégation de procureur financier (chambres régionales des comptes)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054999537
+
+## Intérieur
+Mesures nominatives :
+- Décret du 19 octobre 2026 portant nomination de la déléguée interministérielle à la prévention de la délinquance, de la radicalisation, de vigilance et de lutte contre les dérives sectaires - Mme MIRALLES (Patricia)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054999543
+- Décret du 19 octobre 2026 portant naturalisation, réintégration, mention d'enfants mineurs bénéficiant de l'effet collectif attaché à l'acquisition de la nationalité française par leurs parents et francisation de noms et de prénoms (Accès protégé)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054999551
+- Arrêté du 14 octobre 2026 portant nomination (mission interministérielle de vigilance et de lutte contre les dérives sectaires)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054999554
+- Arrêté du 14 octobre 2026 portant nomination (délégation à la prévention de la délinquance, de la radicalisation, de vigilance et de lutte contre les dérives sectaires)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054999556
+- Arrêté du 14 octobre 2026 portant admission à la retraite (commissaires divisionnaires de police)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054999558
+
+## Justice
+Textes :
+- Décret n° 2026-964 du 18 octobre 2026 portant réforme de la procédure de partage judiciaire
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054999146
+- Arrêté du 22 septembre 2026 modifiant l'arrêté du 12 juillet 1999 relatif à la formation initiale des professeurs techniques de la protection judiciaire de la jeunesse
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054999187
+- Arrêté du 13 octobre 2026 relatif à une société civile professionnelle (officiers publics ou ministériels)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054999645
+- Arrêté du 14 octobre 2026 relatif à une société d'exercice libéral par actions simplifiée (officiers publics ou ministériels)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054999694
+Mesures nominatives :
+- Décision du 19 octobre 2026 portant délégation de signature (secrétariat général du ministère de la justice - affaires juridiques, expertise et stratégie, affaires européennes et internationales, aide aux victimes et accès au droit, communication)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054999198
+- Décret du 19 octobre 2026 portant détachement (magistrature) - Mme BELAOUAR (Solène)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054999575
+- Décret du 19 octobre 2026 portant détachement (magistrature) - Mme SORIANO (Cécile)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054999590
+- Décret du 19 octobre 2026 portant maintien en détachement (magistrature) - Mme ROQUIGNY (Laurence)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054999604
+- Décret du 19 octobre 2026 modifiant le décret du 24 août 2026 portant maintien en détachement (magistrature) - M. CALBO (Laurent)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054999620
+- Arrêté du 9 octobre 2026 portant admission à la retraite (magistrature)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054999633
+- Arrêté du 13 octobre 2026 portant nomination d'une commissaire de justice salariée (officiers publics ou ministériels)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054999635
+- Arrêté du 13 octobre 2026 portant nomination d'une commissaire de justice salariée (officiers publics ou ministériels)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054999640
+- Arrêté du 13 octobre 2026 portant nomination d'une société d'exercice libéral à responsabilité limitée (officiers publics ou ministériels)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054999651
+- Arrêté du 13 octobre 2026 portant nomination d'un notaire salarié (officiers publics ou ministériels)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054999660
+- Arrêté du 13 octobre 2026 portant nomination d'une notaire salariée (officiers publics ou ministériels)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054999664
+- Arrêté du 13 octobre 2026 portant nomination d'une notaire salariée (officiers publics ou ministériels)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054999668
+- Arrêté du 13 octobre 2026 portant nomination d'une notaire salariée (officiers publics ou ministériels)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054999672
+- Arrêté du 13 octobre 2026 modifiant l'arrêté du 9 mars 2026 portant radiation des cadres et admission à la retraite (magistrature)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054999676
+- Arrêté du 13 octobre 2026 portant admission à la retraite et maintien en activité (magistrature)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054999678
+- Arrêté du 14 octobre 2026 portant nomination d'une notaire salariée (officiers publics ou ministériels)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054999681
+- Arrêté du 14 octobre 2026 portant nomination d'une société d'exercice libéral par actions simplifiée (officiers publics ou ministériels)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054999685
+- Arrêté du 14 octobre 2026 portant nomination d'une notaire (officiers publics ou ministériels)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054999701
+- Arrêté du 19 octobre 2026 portant réintégration et placement dans la position de disponibilité (Conseil d'Etat)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054999706
+- Arrêté du 19 octobre 2026 portant maintien en détachement (Conseil d'Etat)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054999718
+- Arrêté du 19 octobre 2026 portant détachement (Conseil d'Etat)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054999726
+
+## Armées
+Textes :
+- Arrêté du 14 octobre 2026 fixant le nombre de places offertes au recrutement par concours dans le corps des ingénieurs militaires d'infrastructure de la défense en 2027
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054999129
+Mesures nominatives :
+- Décret du 19 octobre 2026 portant nomination du président du conseil d'administration du Musée national de la Marine - M. VAUJOUR (Nicolas)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054999561
+- Décret du 19 octobre 2026 portant nomination du vice-président du conseil d'administration du Musée national de la Marine - M. OLSON (Terry)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054999568
+
