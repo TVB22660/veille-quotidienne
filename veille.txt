@@ -1,7 +1,10 @@
-VEILLE — généré le 2026-10-23 04:17 (heure de Paris)
+VEILLE — généré le 2026-10-23 05:20 (heure de Paris)
 Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 
 ## International
+- [23/10 04:32] Le Monde — Aux Fidji, une épidémie de VIH favorisée par l’essor d’une drogue de synthèse
+  https://www.lemonde.fr/international/article/2026/10/23/aux-fidji-une-epidemie-de-vih-favorisee-par-l-essor-d-une-drogue-de-synthese_6798835_3210.html
+  L’archipel mélanésien doit affronter l’une des progressions du virus les plus rapides au monde à la suite de l’introduction de la métamphétamine, un produit aussi puissant qu’addictif, souvent consommé sans précautions…
 - [22/10 23:48] franceinfo — "Les colons sont plus agressifs que jamais" : climat de terreur dans les champs d'oliviers de Cisjordanie occupée
   https://www.franceinfo.fr/monde/palestine/les-colons-sont-plus-agressifs-que-jamais-climat-de-terreur-dans-les-champs-d-oliviers-de-cisjordanie-occupee_8249734.html#xtor=RSS-3-%5Bgeneral%5D
   La question de la Cisjordanie occupée agite fortement la communauté internationale, car ces derniers jour, même récolter leurs olives devient dangereux pour les Palestiniens. Des agriculteurs agressés, des arbres détrui…
@@ -47,12 +50,6 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [22/10 19:26] Le Figaro — « Permettre aux citoyens d’explorer des zones d’ombre de leur passé » : en Hongrie, le gouvernement déterre les vieux secrets de la période communiste
   https://www.lefigaro.fr/international/permettre-aux-citoyens-d-explorer-des-zones-d-ombre-de-leur-passe-en-hongrie-le-gouvernement-deterre-les-vieux-secrets-de-la-periode-communiste-20261022
   DÉCRYPTAGE - Péter Magyar s’apprête à ouvrir des archives sensibles de la police politique de la République populaire hongroise. Mais certains craignent que les plaies de cette sombre période se réouvrent.
-- [22/10 19:00] Le Monde — Au Brésil, la sainte noire Notre-Dame d’Aparecida consacrée enjeu de l’élection présidentielle
-  https://www.lemonde.fr/le-monde-des-religions/article/2026/10/22/au-bresil-la-sainte-noire-notre-dame-d-aparecida-consacree-enjeu-de-l-election-presidentielle_6798651_6038514.html
-  A la fois reine, mère, sainte patronne et généralissime du Brésil, la figure de Notre-Dame d’Aparecida, célébrée le 12 octobre, s’est immiscée dans la campagne présidentielle du pays. Cette icône catholique, fondamental…
-- [22/10 18:19] Le Monde — Le grand magazine féministe « Emma » tire sa révérence en Allemagne après cinquante ans d’existence
-  https://www.lemonde.fr/international/article/2026/10/22/allemagne-apres-cinquante-ans-d-existence-le-grand-magazine-feministe-emma-tire-sa-reverence_6798646_3210.html
-  Pionnier dans de nombreuses luttes, le journal va s’arrêter avec son numéro du 8 décembre, alors que la fondatrice et figure tutélaire, aux engagements parfois controversés, n’a jamais pu être remplacée et que son lecto…
 - [22/10 17:06] franceinfo — Égypte : le Blue Hole, un site de plongée aussi spectaculaire que dangereux
   https://www.franceinfo.fr/decouverte/egypte-le-blue-hole-un-site-de-plongee-aussi-spectaculaire-que-dangereux_8249140.html#xtor=RSS-3-%5Bgeneral%5D
   En Égypte, le Blue Hole, au bord de la mer Rouge, attire chaque jour des centaines de visiteurs venus explorer ses fonds marins. Mais derrière ses coraux colorés et sa faune exceptionnelle, ce site de plongée est aussi…
@@ -76,6 +73,33 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
   DÉCRYPTAGE - Des sommes colossales ont été dépensées par les camps républicains et démocrates, misant parfois sur des attaques personnelles.
 
 ## France
+- [23/10 05:15] Le Monde — Mark Zuckerberg restera en Californie même en cas d’impôt sur la fortune
+  https://www.lemonde.fr/economie/article/2026/10/23/mark-zuckerberg-restera-en-californie-meme-en-cas-d-impot-sur-la-fortune_6798940_3234.html
+  La Californie vote le 3 novembre sur une proposition prévoyant de mettre en place un impôt exceptionnel de 5 % sur la fortune des milliardaires.
+- [23/10 05:14] Ouest-France — Venezuela : la présidente a reçu l’opposante Figuera pour parler transition politique
+  https://www.ouest-france.fr/monde/venezuela/venezuela-la-presidente-a-recu-lopposante-figuera-pour-parler-transition-politique-53f44342-ce89-11f1-95ba-26d2045f6620?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
+  La présidente du Venezuela, Delcy Rodriguez, a reçu pour la première fois jeudi 22 octobre 2026 la cheffe de la délégation de l’opposition en vue d’une transition politique. Dans la rue, plus de 2000 personnes ont manif…
+- [23/10 05:00] Le Monde — « Ça fait quatre semaines qu’on enchaîne des journées de treize heures » : à la veille d’une nouvelle mobilisation, des forces de l’ordre entre épuisement et appréhension
+  https://www.lemonde.fr/societe/article/2026/10/23/ca-fait-quatre-semaines-qu-on-enchaine-des-journees-de-treize-heures-a-la-veille-d-une-nouvelle-mobilisation-des-forces-de-l-ordre-entre-epuisement-et-apprehension_6798939_3224.html
+  Mobilisés depuis un mois par le mouvement lycéen, policiers et gendarmes racontent leur fatigue et leur angoisse face au niveau de violence constaté le 17 octobre.
+- [23/10 05:00] Le Monde — Au Brésil, pourquoi les classes moyennes ont tourné le dos à Lula
+  https://www.lemonde.fr/economie/article/2026/10/23/au-bresil-pourquoi-les-classes-moyennes-ont-tourne-le-dos-a-lula_6798937_3234.html
+  Si les politiques sociales menées par le Parti des travailleurs durant ses dix-sept ans au pouvoir ont permis de réduire la pauvreté, nombre de Brésiliens peinent toujours à boucler leur fin de mois. Beaucoup envisagent…
+- [23/10 05:00] Le Monde — Dix ans de polarisation politique : comment Macron a perdu les Français
+  https://www.lemonde.fr/podcasts/article/2026/10/23/dix-ans-de-polarisation-politique-comment-macron-a-perdu-les-francais_6798936_5463015.html
+  A six mois de la fin de son second mandat, Emmanuel Macron fait face à une impopularité record. Entre promesses déçues et clivage de la vie politique française, Mariama Darame, journaliste au service politique du « Mond…
+- [23/10 05:00] Le Monde — Avec plus de 50 000 décès liés à la chaleur dont les deux tiers attribués au changement climatique, l’été 2026 a été le plus meurtrier dans les villes d’Europe
+  https://www.lemonde.fr/planete/article/2026/10/23/avec-plus-de-50-000-deces-lies-a-la-chaleur-dont-les-deux-tiers-attribues-au-changement-climatique-l-ete-2026-a-ete-le-plus-meurtrier-dans-les-villes-d-europe_6798935_3244.html
+  Selon une étude menée par deux institutions britanniques et portant sur 854 agglomérations, les canicules de 2026 ont été beaucoup plus meurtrières que celles de 2003 ou 2022.
+- [23/10 05:00] Le Monde — Qui viendra sauver la France en cas de crise de la dette ?
+  https://www.lemonde.fr/economie/article/2026/10/23/qui-viendra-sauver-la-france-en-cas-de-crise-de-la-dette_6798902_3234.html
+  Alors que les taux d’intérêt des obligations françaises ont dépassé 5 % pour la première fois depuis 2002, le spectre d’une vraie crise budgétaire se rapproche. La principale digue est celle de la BCE, tandis qu’une int…
+- [23/10 04:45] Le Monde — Les inquiétudes sur l’intelligence artificielle font plonger Wall Street
+  https://www.lemonde.fr/economie/article/2026/10/23/les-inquietudes-sur-l-intelligence-artificielle-font-plonger-wall-street_6798868_3234.html
+  L’annonce de Meta, le groupe de Mark Zuckerberg, qui veut lancer une nouvelle levée de capital pour financer ses immenses investissements, a nourri, jeudi, les interrogations des investisseurs sur la capacité des sociét…
+- [23/10 04:30] Le Monde — « Les tags qui salissent la statue de la République, à Paris, sont injustifiables, mais ils redonnent vie à un monument moche et illisible »
+  https://www.lemonde.fr/idees/article/2026/10/23/les-tags-qui-salissent-la-statue-de-la-republique-a-paris-sont-injustifiables-mais-ils-redonnent-vie-a-un-monument-moche-et-illisible_6798833_3232.html
+  La statue imaginée par Léopold Morice, au XIXᵉ siècle, qui a été le point de ralliement des journées de mobilisation des 17 et 18 octobre, a vu progressivement son sens originel s’évanouir pour devenir aujourd’hui un em…
 - [23/10 04:00] Le Monde — Procès sur la mort de Diego Maradona : verdict attendu le 22 décembre après une cinquantaine d’audiences et six mois de débats
   https://www.lemonde.fr/international/article/2026/10/23/proces-sur-la-mort-de-diego-maradona-verdict-attendu-le-22-decembre-apres-une-cinquantaine-d-audiences-et-six-mois-de-debats_6798800_3210.html
   L’accusation a requis de quatre à douze ans de prison contre six des sept accusés, des professionnels de santé jugés pour potentielles négligences fatales lors d’une hospitalisation à domicile de l’idole du foot argenti…
@@ -205,9 +229,6 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [22/10 21:08] franceinfo — Connu des services de police, 66 ans… Le profil du second suspect interpellé dans l'enquête sur l'incendie de la mairie de Limoges
   https://www.franceinfo.fr/faits-divers/connu-des-services-de-police-66-ans-le-profil-du-second-suspect-interpelle-dans-l-enquete-sur-l-incendie-de-la-mairie-de-limoges_8249575.html#xtor=RSS-3-%5Bgeneral%5D
   Une deuxième interpellation a eu lieu dans l'enquête sur l'incendie criminel de la mairie de Limoges samedi dernier. Un homme de 66 ans a été arrêté ce jeudi 22 octobre au matin dans la Creuse. Pour le premier suspect,…
-- [22/10 21:08] Ouest-France — TÉMOIGNAGE. « Un simulacre de procès » : sa compagne, ex-professeure en Maine-et-Loire, reste emprisonnée en Albanie
-  https://www.ouest-france.fr/societe/prison/temoignage-un-simulacre-de-proces-sa-compagne-ex-professeure-en-maine-et-loire-reste-emprisonnee-en-albanie-746fee06-ce38-11f1-bb5f-3dc5c0feacca?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
-  Arrêtée à Tirana le 4 août dernier, l’ancienne professeure de philosophie à Segré-en-Anjou Bleu (Maine-et-Loire) et réfugiée politique en France, Jülide Yazici, a été jugée mercredi 21 octobre 2026 par la justice albana…
 - [22/10 20:58] franceinfo — Rennes ramène un très probant match nul de la Juventus Turin et poursuit sa belle aventure en Ligue Europa
   https://www.franceinfo.fr/sports/foot/ligue-europa/rennes-ramene-un-tres-probant-match-nul-de-la-juventus-turin-et-poursuit-sa-belle-aventure-en-ligue-europa_8249428.html#xtor=RSS-3-[lestitres]
   Le club breton a tremblé en seconde période mais ramène un point précieux d'Italie, jeudi.
@@ -271,18 +292,9 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [22/10 19:11] franceinfo — "Il sort complètement de son rôle constitutionnel" : Emmanuel Macron peut-il décider d'interdire les manifestations qui ne sont pas organisées par des syndicats ?
   https://www.franceinfo.fr/politique/emmanuel-macron/il-sort-completement-de-son-role-constitutionnel-emmanuel-macron-peut-il-decider-d-interdire-les-manifestations-qui-ne-sont-pas-organisees-par-des-syndicats_8249113.html#xtor=RSS-3-%5Bgeneral%5D
   A l'issue d'une réunion avec les services de renseignement jeudi matin, le président de la République a déclaré que seuls les cortèges rassemblés à l'appel d'organisations syndicales seraient autorisés dans les prochain…
-- [22/10 19:00] Le Monde — L’Autorité de sûreté nucléaire ne voit pas d’obstacle, pour l’heure, à la poursuite du fonctionnement des réacteurs au-delà de 60 ans
-  https://www.lemonde.fr/planete/article/2026/10/22/l-autorite-de-surete-nucleaire-ne-voit-pas-d-obstacle-pour-l-heure-a-la-poursuite-du-fonctionnement-des-reacteurs-au-dela-de-60-ans_6798652_3244.html
-  Le gendarme français du nucléaire estime, dans un projet d’avis rendu public le 22 octobre, que rien n’empêche de poursuivre l’exploitation du parc électronucléaire au-delà de 60 ans, à la condition qu’EDF y mène des «…
-- [22/10 19:00] Le Monde — Comment l’Amérique du Sud est devenue une « terre de mission » pour les libertariens
-  https://www.lemonde.fr/idees/article/2026/10/22/comment-l-amerique-du-sud-est-devenue-une-terre-de-mission-pour-les-libertariens_6798650_3232.html
-  La philosophie libertarienne, née d’une radicalisation du libéralisme politique aux Etats-Unis, trouve dans le sous-continent un nouveau terrain d’expérimentation, comme le montre l’essayiste Christophe Bourseiller, dan…
 - [22/10 18:56] Le Figaro — Un devis de 45.000 € : le sous-préfet de Bayonne demande au Canon français de payer les policiers pour juguler des contre-manifestants
   https://www.lefigaro.fr/actualite-france/un-devis-de-45-000-le-sous-prefet-de-bayonne-demande-au-canon-francais-de-payer-les-policiers-pour-securiser-un-banquet-a-biarritz-20261022
   Un collectif proche de l’extrême gauche menace de perturber l’organisation, fin novembre à Biarritz, d’un banquet du Canon français. En prévision de cette contre-manifestation, le sous-préfet a demandé aux organisateurs…
-- [22/10 18:47] Le Monde — Carburant : le gouvernement rembourse les intérêts de prêts aux petites stations-service pour accélérer la baisse des prix dès novembre
-  https://www.lemonde.fr/penurie-de-carburant/article/2026/10/22/carburant-le-gouvernement-rembourse-les-interets-de-prets-aux-petites-stations-service-pour-accelerer-la-baisse-des-prix-des-novembre_6798648_6145475.html
-  La mesure, qui entre en vigueur dès jeudi, concerne « entre 350 et 500 stations-service » indépendantes, en territoire rural, et qui délivrent moins de 1 200 mètres cubes par an, estime le cabinet de Serge Papin. Elle s…
 - [22/10 18:45] Le Figaro — L’ombre sur sa santé dissipée, le pape Léon XIV retrouve le Vatican et la joie des catholiques
   https://www.lefigaro.fr/actualite-france/l-ombre-sur-sa-sante-dissipee-le-pape-leon-xiv-retrouve-le-vatican-et-la-joie-des-catholiques-20261022
   DÉCRYPTAGE - Selon les examens médicaux approfondis publiés mercredi soir, l’ablation partielle d’un de ses poumons a définitivement guéri le pape. Sans nécessité de « thérapie ultérieure ».
@@ -295,27 +307,9 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [22/10 18:22] franceinfo — VIDEO. "Le mâle dominant, ce n'est pas Éric Zemmour, c'est Sarah Knafo !" Le patron de Reconquête est-il en passe d'être "grand remplacé" par sa compagne ?
   https://www.franceinfo.fr/replay-magazine/france-2/complement-d-enquete/video-le-male-dominant-ce-n-est-pas-eric-zemmour-c-est-sarah-knafo-le-patron-de-reconquete-est-il-en-passe-d-etre-grand-remplace-par-sa-compagne_8247673.html#xtor=RSS-3-%5Bgeneral%5D
   Si Éric Zemmour sera a priori le candidat officiel de Reconquête à la prochaine élection présidentielle, c'est sa compagne qui prend toute la lumière, jusqu'à lui faire de l'ombre. L'influence grandissante de Sarah Knaf…
-- [22/10 18:00] Le Monde — En Guinée-Bissau, un essai clinique sur des nourrissons en partie financé par les Etats-Unis, jugé « contraire à l’éthique », finalement interdit
-  https://www.lemonde.fr/international/article/2026/10/22/en-guinee-bissau-un-essai-clinique-sur-des-nourrissons-en-partie-finance-par-les-etats-unis-juge-contraire-a-l-ethique-finalement-interdit_6798645_3210.html
-  Proposé par des chercheurs danois et encouragé par le gouvernement américain, l’essai clinique voulait inoculer le vaccin contre l’hépatite B à 7 000 nouveau-nés et attendre six semaines pour 7 000 autres.
-- [22/10 18:00] Le Monde — En Inde, les émeutes du 17 octobre en France instrumentalisées par les médias progouvernementaux et la fachosphère
-  https://www.lemonde.fr/international/article/2026/10/22/en-inde-les-emeutes-du-17-octobre-en-france-instrumentalisees-par-les-medias-progouvernement-et-la-fachosphere_6798642_3210.html
-  Les nationalistes hindous du Bharatiya Janata Party et leurs soutiens, tout comme de nombreuses chaînes de télévision, utilisent les violences en France pour s’attaquer au mouvement des « cafards » en Inde.
-- [22/10 17:49] Le Monde — « Nous, Amérindiens, existions bien avant la Route 66, depuis un millier de générations » : de Tulsa à Santa Fe, à la rencontre des exclus de l’histoire
-  https://www.lemonde.fr/international/article/2026/10/22/nous-amerindiens-existions-bien-avant-la-route-66-depuis-un-millier-de-generations-de-tulsa-a-santa-fe-a-la-rencontre-des-exclus-de-l-histoire_6798641_3210.html
-  « Sur la Route 66, pouls de l’Amérique » (3/6). Entre un Oklahoma ultraconservateur hanté par le racisme et un Nouveau-Mexique où une Amérindienne pourrait être élue gouverneure de l’Etat, de nombreuses voix s’élèvent p…
 - [22/10 17:17] franceinfo — Un député victime "d'appareillage fantôme", une arnaque qui permet aux hackers de se connecter directement à un compte WhatsApp
   https://www.franceinfo.fr/internet/reseaux-sociaux/un-depute-victime-d-appareillage-fantome-une-arnaque-qui-permet-aux-hackers-de-se-connecter-directement-a-un-compte-whatsapp_8249011.html#xtor=RSS-3-%5Bgeneral%5D
   Si vous recevez un message sur WhatsApp vous proposant de voter pour "la fille d'un ami" participant à un concours de danse, ne cliquez pas sur le lien affiché, c'est une arnaque. Elle circule en ce moment dans les mili…
-- [22/10 17:10] Le Monde — Midterms 2026 : comment Donald Trump profite de la crise politique en France
-  https://www.lemonde.fr/international/video/2026/10/22/midterms-2026-comment-donald-trump-profite-de-la-crise-politique-en-france_6798637_3210.html
-  « L’insistance de Donald Trump à évoquer les événements en France correspond à une stratégie politique », explique notre correspondant à Washington, Piotr Smolar.
-- [22/10 17:00] Le Monde — Election présidentielle au Brésil : « Chaque victoire de l’extrême droite à l’étranger banalise cette perspective chez nous », alertent des responsables politiques de gauche en France
-  https://www.lemonde.fr/idees/article/2026/10/22/election-presidentielle-au-bresil-chaque-victoire-de-l-extreme-droite-a-l-etranger-banalise-cette-perspective-chez-nous-alertent-des-responsables-politiques-de-gauche-en-france_6798635_3232.html
-  A la veille du second tour du scrutin, qui aura lieu le 25 octobre, plusieurs personnalités, parmi lesquelles Jean-Luc Mélenchon, Marine Tondelier et Fabien Roussel, s’inquiètent, dans une tribune au « Monde », de la po…
-- [22/10 17:00] Le Monde — « Au-delà du coût de la vie, ce dont il était question le 17 octobre, c’est du délitement de notre démocratie »
-  https://www.lemonde.fr/idees/article/2026/10/22/au-dela-du-cout-de-la-vie-ce-dont-il-etait-question-le-17-octobre-c-est-du-delitement-de-notre-democratie_6798634_3232.html
-  Ce que reflète cette journée de mobilisation, c’est une colère accumulée contre l’absence d’écoute manifestée par le pouvoir ces dix dernières années, constate Aline Leclerc, journaliste au service Economie du « Monde »…
 - [22/10 16:35] franceinfo — 17-Octobre : une ONG pointe une ingérence russe sur les réseaux sociaux avant et après la mobilisation
   https://www.franceinfo.fr/economie/greve/17-octobre-une-ong-pointe-une-ingerence-russe-sur-les-reseaux-sociaux-avant-et-apres-la-mobilisation_8249086.html#xtor=RSS-3-%5Bgeneral%5D
   La mobilisation lycéenne et contre la vie chère se poursuit avec des manifestations prévues aujourd'hui et ce week-end. La contestation est née dans les lycées en septembre, mais elle a aussi été vite parasitée par des…
