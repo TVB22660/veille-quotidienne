@@ -1,4 +1,4 @@
-VEILLE — généré le 2026-10-24 04:16 (heure de Paris)
+VEILLE — généré le 2026-10-24 05:17 (heure de Paris)
 Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 
 ## International
@@ -82,9 +82,21 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
   DÉCRYPTAGE - Lors de sa visite dans le royaume, qui a conclu sa tournée dans le Golfe, le président a obtenu de Riyad la poursuite de livraisons de diesel supplémentaires pour faire baisser le prix à la pompe.
 
 ## France
+- [24/10 05:13] Ouest-France — Élections au Brésil : les mots ont fusé lors du dernier débat entre Lula et le fils Bolsonaro avant le second tour
+  https://www.ouest-france.fr/monde/bresil/elections-au-bresil-lula-et-le-fils-bolsonaro-moderent-leur-ton-a-leur-dernier-debat-avant-le-second-tour-b5966e98-cf53-11f1-95ba-26d2045f6620?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
+  Échanges musclés mais dénués d’insultes, cette fois-ci. Vendredi 23 octobre 2026 au soir, le fils de l’ancien président d’extrême droite Jair Bolsonaro et Luiz Inácio Lula da Silva ont tenu leur deuxième et dernier déba…
+- [24/10 05:03] Le Figaro — Allemagne : un suspect arrêté après un incendie d’ampleur au «Nid d’Aigle» de Hitler
+  https://www.lefigaro.fr/international/allemagne-un-suspect-arrete-apres-un-incendie-d-ampleur-au-nid-d-aigle-de-hitler-20261024
+  La résidence Kehlsteinhaus d’Adolf Hitler, également connue sous le nom de Nid d’Aigle, servait aux réceptions des dignitaires nazis, perchée dans les Alpes bavaroises.
+- [24/10 05:00] Le Monde — EN DIRECT, manifestations du 24 octobre : des centaines de défilés attendus dans plusieurs villes de France, dans un contexte de très forte tension
+  https://www.lemonde.fr/societe/live/2026/10/24/en-direct-manifestations-du-24-octobre-des-centaines-de-defiles-attendus-dans-plusieurs-villes-de-france-dans-un-contexte-de-tres-forte-tension_6799445_3224.html
+  Soixante-dix mille policiers et gendarmes seront déployés, samedi, à l’occasion d’une nouvelle journée de mobilisation sociale où les autorités craignent des débordements et des scènes de pillage. Le week-end dernier, 5…
+- [24/10 04:38] Le Figaro — Arabie saoudite : un missile balistique lancé en direction de Ryad intercepté
+  https://www.lefigaro.fr/international/arabie-saoudite-deux-explosions-entendues-a-ryad-20261024
+  La défense civile saoudienne a indiqué qu’un système d’alerte précoce avait été activé pour prévenir les habitants d’une menace potentielle.
 - [24/10 03:33] Le Monde — Deux enquêtes, sur les talibans et sur les prisons syriennes, lauréates ex aequo du prix Frantz di Rippel
   https://www.lemonde.fr/livres/article/2026/10/24/une-enquete-sur-les-talibans-et-une-sur-les-prisons-syriennes-laureates-du-prix-frantz-di-rippel_6799379_3260.html
-  Ce prix littéraire créé en 2022 et récompensant chaque année un ouvrage écrit par un journaliste sur un fait d’actualité avec une part de vécu revient cette année à Elise Blanchard et Arthur Sarradin.
+  Ce prix littéraire créé en 2022 et récompensant chaque année un ouvrage écrit par un journaliste sur un fait d’actualité avec une part de vécu, revient cette année à Elise Blanchard et Arthur Sarradin.
 - [24/10 03:26] Le Monde — Donald Trump a fait déposer un recours préventif en cas de défaite du candidat républicain lors du scrutin sénatorial en Alaska
   https://www.lemonde.fr/international/article/2026/10/24/donald-trump-a-fait-deposer-un-recours-preventif-en-cas-de-defaite-du-candidat-republicain-lors-du-scrutin-senatorial-en-alaska_6799346_3210.html
   Le président américain a dit avoir demandé à son administration de bloquer la validation des résultats en cas de succès démocrate, arguant que la présence d’un candidat homonyme au sénateur républicain sortant pouvait i…
@@ -94,9 +106,9 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [24/10 02:14] Le Monde — Le secrétaire d’Etat américain, Marco Rubio, invite les opposants cubains à collaborer avec la CIA
   https://www.lemonde.fr/international/article/2026/10/24/le-secretaire-d-etat-americain-marco-rubio-invite-les-opposants-cubains-a-collaborer-avec-la-cia_6799313_3210.html
   Washington intensifie encore sa pression sur le régime castriste par cette démarche, inédite dans la politique américaine envers l’île, pourtant marquée par plus de six décennies de tentatives de déstabilisation.
-- [24/10 01:49] Le Figaro — «C’est le moment» : Marco Rubio appelle les Cubains à collaborer avec la CIA
-  https://www.lefigaro.fr/international/le-moment-est-venu-marco-rubio-appelle-ceux-qui-veulent-un-changement-a-cuba-a-cooperer-avec-la-cia-20261024
-  Le secrétaire d’État américain a invité vendredi les Cubains désireux d’un «changement positif» sur l’île à nouer un «partenariat discret» avec la CIA.
+- [24/10 01:59] Le Figaro — Argentine : plus de 2000 évacués en raison d'inondations liées à El Niño
+  https://www.lefigaro.fr/international/argentine-plus-de-2000-evacues-en-raison-d-inondations-liees-a-el-nino-20261024
+  Les précipitations de ces dernières semaines ont accru le débit des fleuves Paraná, Uruguay et Iguazú, qui bordent distinctement l’Argentine, le Brésil, le Paraguay ou encore l’Uruguay.
 - [24/10 01:44] Le Monde — Argentine : non-lieu pour le président Javier Milei dans l’affaire d’une cryptomonnaie effondrée
   https://www.lemonde.fr/international/article/2026/10/24/argentine-non-lieu-pour-le-president-javier-milei-dans-l-affaire-d-une-cryptomonnaie-effondree_6799280_3210.html
   Le dirigeant ultralibéral avait relayé, sur X, le lancement de la $LIBRA en 2025, avant d’effacer son message. Entretemps, la monnaie avait bondi puis s’était effondrée, provoquant des pertes pour plus de 114 000 portef…
@@ -108,7 +120,7 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
   Emmanuel Macron sur place a dénoncé un «attentat» commis «sur la base d’une idéologie raciste». Le président a invité à ne «rien céder» et à ne pas «baisser la tête» face aux «idées qui s’installent.»
 - [24/10 01:07] Le Monde — Ebola en RDC : un essai clinique du vaccin Tumaini a débuté, selon l’OMS
   https://www.lemonde.fr/planete/article/2026/10/24/ebola-en-rdc-un-essai-clinique-du-vaccin-tumaini-a-debute-selon-l-oms_6799247_3244.html
-  Face à l’absence de vaccin approuvé contre la souche Bundibugyo, moins courante que la souche Zaire, la République démocratique du Congo mise sur plusieurs candidats, dont Tumaini, pour lutter contre le virus meurtrier.
+  Face à l’absence de vaccin approuvé contre la souche Bundibugyo, moins courante que la souche Zaïre, la République démocratique du Congo mise sur plusieurs candidats, dont Tumaini, pour lutter contre le virus meurtrier.
 - [24/10 00:52] Le Monde — L’agence Moody’s ne dégrade pas la note de la France malgré l’incertitude budgétaire et politique
   https://www.lemonde.fr/economie/article/2026/10/24/l-agence-moody-s-ne-degrade-pas-la-note-de-la-france-malgre-l-incertitude-budgetaire-et-politique_6799214_3234.html
   Contrairement aux prévisions de beaucoup d’économistes, l’entreprise américaine de notation a maintenu, vendredi, la note de la dette souveraine à Aa3, se démarquant de l’appréciation portée par les agences S&P et Fitch…
@@ -118,7 +130,7 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [24/10 00:32] franceinfo — Le congrès du Rassemblement national à Orléans, épicentre d'une nouvelle journée de manifestations à haut risque
   https://www.franceinfo.fr/politique/front-national/a-orleans-le-parcours-de-la-manifestation-anti-rassemblement-national-est-modifie-pour-eviter-le-centre-ville_8251546.html#xtor=RSS-3-%5Bgeneral%5D
   Les autorités attendent jusqu'à 30 000 personnes samedi dès 10h30, sur un parcours modifié pour éviter le centre-ville. Deux fois plus de monde qu'à l'acmé du mouvement contre la dernière réforme des retraites.
-- [24/10 00:29] Le Monde — EN DIRECT, manifestations du 24 octobre : « La menace reste élevée », estime Sébastien Lecornu en ciblant « l’ultragauche » et « la délinquance »
+- [24/10 00:29] Le Monde — Manifestations du 24 octobre : « La menace reste élevée », estime Sébastien Lecornu en ciblant « l’ultragauche » et « la délinquance ». Retrouvez les informations du 17 au 23 octobre.
   https://www.lemonde.fr/societe/live/2026/10/24/en-direct-manifestations-du-24-octobre-la-menace-reste-elevee-estime-sebastien-lecornu-en-ciblant-l-ultragauche-et-la-delinquance_6795855_3224.html
   En déplacement à Limoges, vendredi, le premier ministre a assuré que le « retour d’expérience » du 17 octobre permettait au dispositif de sécurité d’être ajusté, notamment dans « la manière dont les forces vont être uti…
 - [24/10 00:24] Le Monde — Après l’attaque meurtrière de Trappes, qualifiée de « raciste » par Emmanuel Macron, les mystères des motivations de Kevin T., le tireur présumé
@@ -214,9 +226,6 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [23/10 21:47] Le Monde — Congrès du RN : Orléans se prépare à être l’épicentre de mobilisations d’ampleur
   https://www.lemonde.fr/politique/article/2026/10/23/congres-du-rn-orleans-se-prepare-a-etre-l-epicentre-de-mobilisations-d-ampleur_6799146_823448.html
   De 20 000 à 30 000 opposants sont attendus en marge du congrès du Rassemblement national, samedi 24 octobre. De nombreux commerces seront fermés et les transports à l’arrêt dans une ville mise sous cloche.
-- [23/10 21:45] Ouest-France — Euroligue. L’Asvel enchaîne une troisième défaite consécutive face au Zalgiris Kaunas
-  https://www.ouest-france.fr/sport/basket/asvel-lyon-villeurbanne/euroligue-lasvel-enchaine-une-troisieme-defaite-consecutive-face-au-zalgiris-kaunas-1e7c8334-cf18-11f1-95ba-26d2045f6620?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
-  L’Asvel a subi une troisième défaite de rang en Euroligue, ce vendredi 23 octobre, après avoir été dominée sur le parquet du Zalgiris Kaunas (105-85). Les hommes de Tony Parker n’ont jamais pu croire à la victoire.
 - [23/10 21:37] franceinfo — Mobilisation du 24 octobre : un référé déposé samedi matin par l'intersyndicale contre le changement de parcours de la manifestation à Paris
   https://www.franceinfo.fr/societe/manifestations/mobilisation-du-24-octobre-un-refere-depose-samedi-matin-par-l-intersyndicale-contre-le-changement-de-parcours-de-la-manifestation-a-paris_8251420.html#xtor=RSS-3-[lestitres]
   La préfecture de police de Paris a interdit vendredi après-midi le parcours de la manifestation négocié la veille avec les syndicats pour samedi entre les places de la Bastille et de la Nation et a proposé un parcours a…
@@ -241,12 +250,6 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [23/10 20:43] Le Monde — EN DIRECT, tirs à Trappes et à La Verrière : « Ce qu’il s’est passé aujourd’hui est un tournant dans la vie de notre République », déclare Emmanuel Macron, qui dénonce un « attentat terroriste racist…
   https://www.lemonde.fr/societe/live/2026/10/23/en-direct-tirs-a-trappes-et-a-la-verriere-ce-qu-il-s-est-passe-aujourd-hui-est-un-tournant-dans-la-vie-de-notre-republique-declare-emmanuel-macron-qui-denonce-un-attentat-terroriste-raciste_6799092_3224.html
   Le Parquet national antiterroriste a fait savoir, vendredi dans la soirée, que le tireur avait piégé son appartement avec trois bouteilles de gaz et des fils électriques. Il a été interpellé et placé en garde à vue. Un…
-- [23/10 20:40] Le Figaro — «Y’a un mec qui rafale tout le monde» : de Trappes à La Verrière, le périple meurtrier de Kévin T., qui a fait un mort et 5 blessés dans les Yvelines
-  https://www.lefigaro.fr/faits-divers/yvelines-un-homme-tire-en-pleine-rue-a-trappes-au-moins-un-mort-et-quatre-b-20261023
-  Un homme de 39 ans a été interpellé rapidement par des policiers de la BAC de Saint-Quentin-en-Yvelines, à Coignières. Le Parquet national antiterroriste est saisi.
-- [23/10 20:30] Le Figaro — «Ce sont les commerçants qui seront jugés coupables, pas les casseurs» : l’alerte d’une fédération professionnelle sur les risques de l’«autodéfense»
-  https://www.lefigaro.fr/social/ce-sont-les-commercants-qui-seront-juges-coupables-pas-les-casseurs-l-alerte-d-une-federation-professionnelle-sur-les-risques-de-l-autodefense-20261023
-  ENTRETIEN - À la veille de «l’acte II» de la mobilisation, samedi 24 octobre, les commerçants se préparent au pire. Face à l’impuissance de l’État, certains sont tentés de se faire justice eux-mêmes, prévient Thierry Vé…
 - [23/10 20:27] Le Figaro — Zartoshte Bakhtiari, maire de Neuilly-sur-Marne, au Figaro : «La racaille doit payer !»
   https://www.lefigaro.fr/elections/presidentielles/zartoshte-bakhtiari-maire-de-neuilly-sur-marne-au-figaro-la-racaille-doit-payer-20261023
   ENTRETIEN - Ulcéré par les obstacles auxquels il se heurte depuis des années pour obtenir les réparations financières des dégradations subies par sa commune, l’élu fustige la «culture de l’excuse» et écrit aux parents d…
@@ -256,9 +259,6 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [23/10 20:23] Le Monde — Du mouvement lycéen aux mobilisations du 17 octobre, récit des 30 jours qui ont secoué la France
   https://www.lemonde.fr/societe/video/2026/10/23/du-mouvement-lyceen-aux-mobilisations-du-17-octobre-recit-des-30-jours-qui-ont-secoue-la-france_6799139_3224.html
   Après un mois de blocages et de manifestations, le mouvement lycéen s’est prolongé le samedi 17 octobre par une mobilisation élargie et marquée par des violences. « Le Monde » a analysé les événements et reconstitue ce…
-- [23/10 20:04] Le Monde — Tempête Austen : trois départements du nord de la France restent en vigilance orange, 242 000 foyers privés d’électricité
-  https://www.lemonde.fr/planete/article/2026/10/23/tempete-austen-trois-departements-du-nord-de-la-france-restent-en-vigilance-orange-242-000-foyers-prives-d-electricite_6799023_3245.html
-  Seuls le Nord, le Pas-de-Calais et la Somme sont toujours placés en vigilance orange pour vent. Un homme est mort en coupant un arbre après le passage de la tempête vendredi dans la Manche.
 - [23/10 20:01] Le Monde — Cisjordanie : en réponse à une attaque contre des militaires israéliens, Nétanyahou promet des destructions d’ampleur et encore plus de colonies
   https://www.lemonde.fr/international/article/2026/10/23/cisjordanie-en-reponse-a-la-mort-de-deux-militaires-israeliens-netanyahou-promet-des-destructions-d-ampleur-et-encore-plus-de-colonies_6799138_3210.html
   Après la mort de deux soldats près d’Hébron, le premier ministre israélien a promis « une opération très vaste de l’armée », mais l’état-major semble plus modéré, à quatre jours d’élections législatives décisives.
@@ -295,9 +295,6 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [23/10 17:50] Le Figaro — Sous-indexation des pensions, abattement fiscal… Les retraites, pied de nez permanent des députés au gouvernement
   https://www.lefigaro.fr/conjoncture/sous-indexation-des-pensions-abattement-fiscal-les-retraites-pied-de-nez-permanent-des-deputes-au-gouvernement-20261023
   DÉCRYPTAGE - Depuis le début du mois d’octobre, les textes budgétaires proposés par l’exécutif rencontrent l’opposition de l’Assemblée nationale. Les récentes contre-propositions des députés rendent incertaine l’adoptio…
-- [23/10 17:44] Le Monde — Nouvelle-Calédonie : la Cour de justice de la République rejette la plainte de militants kanak contre plusieurs ministres
-  https://www.lemonde.fr/politique/article/2026/10/23/nouvelle-caledonie-la-cour-de-justice-de-la-republique-rejette-la-plainte-de-militants-kanak-contre-plusieurs-ministres_6799111_823448.html
-  Libérés après un non-lieu, six militants de la Cellule de coordination des actions de terrain avaient poursuivi plusieurs ministres, dont Gabriel Attal et Sébastien Lecornu, pour dénoncer les conditions de leur détentio…
 - [23/10 17:29] Le Figaro — Interdire les manifestations qui ne sont pas organisées par des syndicats : quand Emmanuel Macron se prend les pieds dans le tapis constitutionnel
   https://www.lefigaro.fr/actualite-france/interdire-les-manifestations-qui-ne-sont-pas-organisees-par-des-syndicats-quand-emmanuel-macron-se-prend-les-pieds-dans-le-tapis-constitutionnel-20261023
   DÉCRYPTAGE - La Liberté de manifester a comme limite les risques à l’ordre public, non la légitimité des manifestants.
