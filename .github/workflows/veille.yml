@@ -1,0 +1,44 @@
+name: Veille quotidienne
+
+on:
+  schedule:
+    - cron: '0 2 * * *'    # 02:00 UTC = 4h00 (été) / 3h00 (hiver), heure de Paris
+    - cron: '0 3 * * *'    # 03:00 UTC = 5h00 (été) / 4h00 (hiver) : 2e passage, avant le récap de 6h10
+  workflow_dispatch:        # permet de lancer à la main
+  push:
+    paths: ['fetch_jorf.py']  # relance automatique quand ce script change
+
+permissions:
+  contents: write
+
+jobs:
+  veille:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+      - name: Lire les flux RSS
+        run: python fetch.py
+      - name: Lire le Journal officiel (DILA)
+        run: python fetch_jorf.py
+        continue-on-error: true
+      - name: Publier les fichiers
+        run: |
+          git config user.name "veille-bot"
+          git config user.email "veille-bot@users.noreply.github.com"
+          git add veille.txt jorf.txt
+          if ! git diff --cached --quiet; then
+            git commit -m "Veille du $(date -u +%F-%H%M)"
+            git push
+          fi
+      - name: Nettoyage hebdomadaire de l'historique (dimanche, 2e passage)
+        if: github.event.schedule == '0 3 * * *'
+        run: |
+          if [ "$(date -u +%u)" = "7" ]; then
+            git checkout --orphan propre
+            git add -A
+            git commit -m "Historique réinitialisé $(date -u +%F)"
+            git push --force origin propre:main
+          fi
