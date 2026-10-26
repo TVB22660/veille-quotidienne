@@ -1,7 +1,10 @@
-VEILLE — généré le 2026-10-26 03:22 (heure de Paris)
+VEILLE — généré le 2026-10-26 04:21 (heure de Paris)
 Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 
 ## International
+- [26/10 03:30] Le Monde — A Bruxelles, l’ex-think tank réactionnaire de Viktor Orban renaît de ses cendres pour soutenir l’extrême droite européenne
+  https://www.lemonde.fr/international/article/2026/10/26/a-bruxelles-l-ex-think-tank-reactionnaire-de-viktor-orban-renait-de-ses-cendres-pour-soutenir-l-extreme-droite-europeenne_6800314_3210.html
+  Avec Initiative pour la liberté et la souveraineté, son nouveau groupe de réflexion, Frank Furedi veut poursuivre son travail eurosceptique et aider les partis nationalistes à conquérir les institutions européennes.
 - [25/10 22:06] franceinfo — Le Premier ministre serbe Aleksandar Vucic reconnaît sa défaite aux élections législatives anticipées, après 14 ans au pouvoir
   https://www.franceinfo.fr/monde/europe/le-premier-ministre-serbe-aleksandar-vucic-reconnait-sa-defaite-aux-elections-legislatives-anticipees-apres-14-ans-au-pouvoir_8253550.html#xtor=RSS-3-%5Bgeneral%5D
   Il s'incline face à la liste menée par le mouvement étudiant, qui organise des manifestations dans tout le pays depuis deux ans.
@@ -47,9 +50,6 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [25/10 17:00] Le Monde — En Algérie, la réhabilitation inachevée de Krim Belkacem, icône de la guerre d’indépendance
   https://www.lemonde.fr/afrique/article/2026/10/25/en-algerie-la-rehabilitation-inachevee-de-krim-belkacem-icone-de-la-guerre-d-independance_6800097_3212.html
   La commémoration de l’anniversaire de la mort du « lion des djebels » rencontre un écho croissant dans la presse algérienne. Un tel regain d’intérêt, s’il élude les circonstances de son assassinat en octobre 1970 à Fran…
-- [25/10 16:36] Le Monde — Dans la bande de Gaza, un bombardement israélien vise l’Université islamique, au moins trois personnes tuées
-  https://www.lemonde.fr/international/article/2026/10/25/dans-la-bande-de-gaza-un-bombardement-israelien-vise-l-universite-islamique-au-moins-trois-personnes-tuees_6800095_3210.html
-  Dix étudiants et enseignants ont été tués au cours des six derniers jours, selon le ministère de l’éducation du territoire palestinien, qui dénonce « le silence du monde face aux attaques visant des étudiants et univers…
 - [25/10 16:26] franceinfo — Les Serbes se mobilisent fortement aux législatives dans un scrutin en forme de "référendum anti-Vucic"
   https://www.franceinfo.fr/monde/europe/les-serbes-se-mobilisent-fortement-aux-legislatives-dans-un-scrutin-en-forme-de-referendum-anti-vucic_8253253.html#xtor=RSS-3-%5Bgeneral%5D
   Le taux de participation s'élevait à près de 35%, dimanche à midi, contre 21% à la même heure lors du précédent scrutin en 2023, a souligné la commission électorale.
@@ -82,6 +82,12 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
   REPORTAGE - Alors qu’en 2021, Benyamin Netanyahou refusait de faire entrer Itamar Ben Gvir dans son gouvernement, l’ancien militant kahaniste aux idées radicales réclame, 5 ans plus tard, le ministère de la Défense.
 
 ## France
+- [26/10 04:08] Ouest-France — ANALYSE. Comment Lula a réussi à décrocher un quatrième mandat au Brésil
+  https://www.ouest-france.fr/monde/bresil/analyse-comment-lula-a-reussi-a-decrocher-un-quatrieme-mandat-au-bresil-4fc2b9d0-d0cc-11f1-95ba-26d2045f6620?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
+  Il va fêter ses 81 ans, mardi. Luiz Inácio Lula da Silva, donné perdant à la veille du second tour, a finalement été élu, ce dimanche 25 octobre, avec trois points d’avance face au candidat d’extrême droite, Flavio Bols…
+- [26/10 03:28] Ouest-France — Trump assure qu’un accord commercial avec le Canada arrivera « rapidement »
+  https://www.ouest-france.fr/monde/etats-unis/donald-trump/trump-assure-quun-accord-commercial-avec-le-canada-arrivera-rapidement-5b58bf1a-d0e0-11f1-95ba-26d2045f6620?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
+  Alors que les deux pays s’écharpent sur des questions de droits de douane depuis quelques mois, Donald Trump a affirmé dimanche 25 octobre 2026, lors d’un meeting dans le Michigan, qu’un accord commercial avec le Canada…
 - [26/10 02:47] Le Figaro — Trump assure qu'un accord commercial avec le Canada arrivera «rapidement»
   https://www.lefigaro.fr/international/trump-assure-qu-un-accord-commercial-avec-le-canada-arrivera-rapidement-20261026
   Ottawa et Washington ont vu leurs relations commerciales s’envenimer fin août, après l’échec de négociations entre les deux pays pour éviter la mise en place d’une surtaxe de 20 milliards de dollars sur les produits can…
@@ -151,18 +157,12 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [25/10 22:04] Le Figaro — Trappes : un homme blessé par balle dans la rue, sans rapport avec l’attentat
   https://www.lefigaro.fr/faits-divers/trappes-un-homme-blesse-par-balle-dans-la-rue-sans-rapport-avec-l-attentat-20261025
   La victime se trouvait devant l’Hôpital privé de l’Ouest Parisien (Yvelines) quand il a été touché par balle au niveau des jambes. Une douille de calibre 9 mm a été retrouvée sur les lieux.
-- [25/10 21:59] Ouest-France — « On est très en retard » : en Bretagne, ils veulent rendre le vote accessible à tous pour la présidentielle de 2027
-  https://www.ouest-france.fr/elections/presidentielle/on-est-tres-en-retard-en-bretagne-ils-veulent-rendre-le-vote-accessible-a-tous-pour-la-presidentielle-de-2027-695fd08a-cdfc-11f1-bf87-17eca79cb13c?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
-  À quelques mois de la présidentielle de 2027, une équipe bretonne veut lever les obstacles qui empêchent encore des personnes en situation de handicap de voter. Lancée à Gueltas (Morbihan), la campagne nationale s’appui…
 - [25/10 21:55] Le Monde — Serbie : Aleksandar Vucic reconnaît sa défaite aux élections législatives anticipées
   https://www.lemonde.fr/international/article/2026/10/25/serbie-aleksandar-vucic-reconnait-sa-defaite-aux-elections-legislatives-anticipees_6800116_3210.html
   Le dirigeant nationaliste a admis, dimanche soir, que le mouvement étudiant avait remporté la victoire, après avoir mené des manifestations pendant deux ans.
 - [25/10 21:53] franceinfo — Tirs dans les Yvelines : la garde à vue du suspect levée pour raisons psychiatriques
   https://www.franceinfo.fr/replay-jt/france-2/20-heures/tirs-dans-les-yvelines-la-garde-a-vue-du-suspect-levee-pour-raisons-psychiatriques_8253484.html#xtor=RSS-3-[lestitres]
   Il avait 26 ans, pratiquait le MMA dont il était l’un des espoirs français. Pengo Bossio Wangi a été abattu à Trappes (Yvelines), vendredi 23 octobre. Une marche blanche s’est tenue en hommage au jeune homme ce dimanche…
-- [25/10 21:46] Ouest-France — Mobilisation des lycéens et étudiants : les organisations reçues à Matignon ce lundi, une conférence de presse attendue
-  https://www.ouest-france.fr/education/ecole/mobilisation-des-lyceens-et-etudiants-les-organisations-recues-a-matignon-ce-lundi-une-conference-de-presse-attendue-1440cd5c-d0b3-11f1-95ba-26d2045f6620?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
-  Les ministres de l’Éducation nationale Édouard Geffray et de l’Enseignement supérieur Philippe Baptiste tiendront ce lundi en fin d’après-midi une conférence de presse après avoir reçu les organisations lycéennes et étu…
 - [25/10 20:59] franceinfo — Gilets jaunes, syndicats, lycéens : la mobilisation sociale est-elle partie pour durer ?
   https://www.franceinfo.fr/replay-jt/france-2/20-heures/gilets-jaunes-syndicats-lyceens-la-mobilisation-sociale-est-elle-partie-pour-durer_8253490.html#xtor=RSS-3-[lestitres]
   Samedi 24 octobre, une nouvelle journée de mobilisation a rassemblé plusieurs centaines de milliers de Français dans la rue. Ce mouvement est-il parti pour durer ?
