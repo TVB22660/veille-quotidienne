@@ -1,372 +1,387 @@
-VEILLE — généré le 2026-10-26 04:21 (heure de Paris)
+VEILLE — généré le 2026-10-27 03:19 (heure de Paris)
 Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 
 ## International
-- [26/10 03:30] Le Monde — A Bruxelles, l’ex-think tank réactionnaire de Viktor Orban renaît de ses cendres pour soutenir l’extrême droite européenne
-  https://www.lemonde.fr/international/article/2026/10/26/a-bruxelles-l-ex-think-tank-reactionnaire-de-viktor-orban-renait-de-ses-cendres-pour-soutenir-l-extreme-droite-europeenne_6800314_3210.html
-  Avec Initiative pour la liberté et la souveraineté, son nouveau groupe de réflexion, Frank Furedi veut poursuivre son travail eurosceptique et aider les partis nationalistes à conquérir les institutions européennes.
-- [25/10 22:06] franceinfo — Le Premier ministre serbe Aleksandar Vucic reconnaît sa défaite aux élections législatives anticipées, après 14 ans au pouvoir
-  https://www.franceinfo.fr/monde/europe/le-premier-ministre-serbe-aleksandar-vucic-reconnait-sa-defaite-aux-elections-legislatives-anticipees-apres-14-ans-au-pouvoir_8253550.html#xtor=RSS-3-%5Bgeneral%5D
-  Il s'incline face à la liste menée par le mouvement étudiant, qui organise des manifestations dans tout le pays depuis deux ans.
-- [25/10 21:30] Le Figaro — 2022-2026 : ces quatre années qui ont bouleversé Israël
+- [26/10 23:24] franceinfo — "J'ai pris la main de mon mari, et en 4-5 secondes, on s'est retrouvé en bas" : une passagère raconte le plongeon d'un autocar dans un ravin, qui a fait 83 blessés en Espagne
+  https://www.franceinfo.fr/faits-divers/accident/j-ai-pris-la-main-de-mon-mari-et-en-4-5-secondes-on-s-est-retrouve-en-bas-une-passagere-raconte-le-plongeon-d-un-autocar-dans-un-ravin-qui-a-fait-83-blesses-en-espagne_8254912.html#xtor=RSS-3-%5Bgeneral%5D
+  Un total de 83 blessés, dont sept grièvement, c’est le bilan d’un accident de car survenu dimanche 25 octobre au nord de Barcelone, en Espagne. Le véhicule a chuté dans un ravin après une collision avec une voiture. Au…
+- [26/10 23:18] franceinfo — Donald Trump promet 1 million de dollars de récompense pour la dénonciation de fraudes électorales lors des élections de mi-mandat aux Etats-Unis
+  https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/donald-trump-promet-1-million-de-dollars-de-recompense-pour-la-denonciation-de-fraudes-electorales-lors-des-elections-de-mi-mandat-aux-etats-unis_8254900.html#xtor=RSS-3-%5Bgeneral%5D
+  Le président américain agite le spectre d'une contestation post-électorale si son parti est battu aux "midterms" du 3 novembre.
+- [26/10 22:27] franceinfo — Une commission de l'ONU accuse Israël de commettre des crimes contre l'humanité contre les Palestiniens en Cisjordanie occupée
+  https://www.franceinfo.fr/monde/israel/une-commission-de-l-onu-accuse-israel-de-commettre-des-crimes-contre-l-humanite-contre-les-palestiniens-en-cisjordanie_8254216.html#xtor=RSS-3-%5Bgeneral%5D
+  Les crimes cités dans le rapport incluent notamment l'extermination, la torture et les violences sexuelles. Israël a immédiatement rejeté les conclusions de la commission, y voyant une "tentative de détruire l'Etat juif…
+- [26/10 22:21] franceinfo — Donald Trump dénonce des élections "truquées" au Brésil après la défaite de Flavio Bolsonaro
+  https://www.franceinfo.fr/monde/bresil/donald-trump-denonce-des-elections-truquees-au-bresil-apres-la-defaite-de-flavio-bolsonaro_8254870.html#xtor=RSS-3-%5Bgeneral%5D
+  "Franchement, ça ressemblait à une autre élection truquée", a lancé le président des Etats-Unis, en faisant allusion à sa défaite lors de la présidentielle de 2020 face à Joe Biden.
+- [26/10 21:53] franceinfo — Serbie : les étudiants prennent le pouvoir
+  https://www.franceinfo.fr/replay-jt/france-2/20-heures/serbie-les-etudiants-prennent-le-pouvoir_8254855.html#xtor=RSS-3-%5Bgeneral%5D
+  Comment la rue a-t-elle pris le pouvoir en Serbie ? Après deux ans de mobilisation, le mouvement des étudiants a remporté les élections dimanche 25 octobre face au dirigeant populiste Aleksandar Vučić, qui dirige le pay…
+- [26/10 21:42] franceinfo — Lula déjoue les pronostics en étant réélu président du Brésil
+  https://www.franceinfo.fr/replay-jt/france-2/20-heures/lula-dejoue-les-pronostics-en-etant-reelu-president-du-bresil_8254843.html#xtor=RSS-3-%5Bgeneral%5D
+  Au Brésil, pourtant donné perdant, Lula remporte l’élection présidentielle avec 51,8 % des voix, devant Flávio Bolsonaro. Une impression de déjà-vu, d’autant plus que le leader d’extrême droite fait vraiment tout comme…
+- [26/10 21:24] Le Figaro — «Purge permanente» : Xi Jinping entame sa «longue marche» vers un quatrième mandat
+  https://www.lefigaro.fr/international/purge-permanente-xi-jinping-entame-sa-longue-marche-vers-un-quatrieme-mandat-20261026
+  DÉCRYPTAGE - Le président chinois a ouvert ce lundi un Plenum du Parti sous le signe de la discipline, jalon vers un Congrès l’an prochain où il pourrait briguer un nouveau mandat dans un contexte géopolitique volatil.
+- [26/10 20:11] franceinfo — Anthropic, le créateur de l'IA Claude, prépare son entrée en Bourse malgré des milliards de dollars de pertes
+  https://www.franceinfo.fr/internet/intelligence-artificielle/anthropic-le-createur-de-l-ia-claude-prepare-son-entree-en-bourse-malgre-des-milliards-de-dollars-de-pertes_8254603.html#xtor=RSS-3-%5Bgeneral%5D
+  La start-up américaine ayant créé l'intelligence artificielle Claude entrera en bourse début novembre. Alors qu'elle s'apprête à demander des milliards de dollars aux futurs investisseurs, elle met en garde sur les nomb…
+- [26/10 20:00] franceinfo — Législatives en Israël : ils viennent du monde entier pour voter
+  https://www.franceinfo.fr/monde/israel/legislatives-en-israel-ils-viennent-du-monde-entier-pour-voter_8254693.html#xtor=RSS-3-%5Bgeneral%5D
+  Dernière ligne droite pour la campagne des législatives en Israël. "Nous sommes en danger" à réagit, aujourd'hui, B. Netanyahou face à l'arrivée quotidienne de milliers d'Israéliens qui vivent à l'étranger et qui revien…
+- [26/10 19:45] Le Figaro — À 81 ans, Lula, l’ancien ouvrier métallurgiste enflamme toujours les foules au Brésil
+  https://www.lefigaro.fr/international/a-81-ans-lula-l-ancien-ouvrier-metallurgiste-enflamme-toujours-les-foules-au-bresil-20261026
+  DÉCRYPTAGE - L’indéboulonnable président de gauche l’a emporté face à Falvio Bolsonaro malgré la lassitude de l’opinion et les soupçons de corruption qui entachent son parcours.
+- [26/10 19:30] Le Monde — En Crète, quinze mineurs soudanais accusés d’être des passeurs sont acquittés
+  https://www.lemonde.fr/international/article/2026/10/26/en-crete-quinze-mineurs-soudanais-accuses-d-etre-des-passeurs-sont-acquittes_6800829_3210.html
+  Dans la loi grecque, tout migrant accusé d’avoir conduit un canot ou un véhicule transportant d’autres migrants encourt une peine minimale de dix ans de prison. Alors que les arrivées depuis la Libye ne cessent d’augmen…
+- [26/10 19:15] Le Figaro — Midterms aux États-Unis : Les socialistes espèrent marquer les élections
+  https://www.lefigaro.fr/international/midterms-aux-etats-unis-les-socialistes-esperent-marquer-les-elections-20261026
+  DÉCRYPTAGE - La montée de la frange progressiste des Démocrates témoigne d’une frustration croissante au sein de l’électorat du parti, qui cherche toujours une figure de proue.
+- [26/10 18:51] Le Figaro — Législatives en Israël : Gadi Eisenkot, l’« anti-Bibi » qui pourrait prendre le pouvoir
+  https://www.lefigaro.fr/international/legislatives-en-israel-gadi-eisenkot-l-anti-bibi-qui-pourrait-prendre-le-pouvoir-20261026
+  PORTRAIT - Le parti de l’ex-chef d’état-major de l’armée israélienne est donné par les sondages comme le principal adversaire de Benyamin Netanyahou. Moins charismatique que le chef du Likoud, il compte sur sa réputatio…
+- [26/10 18:50] Le Figaro — En Israël, des élections cruciales pour définir l’identité d’une nation
+  https://www.lefigaro.fr/international/en-israel-des-elections-cruciales-pour-definir-l-identite-d-une-nation-20261026
+  RÉCIT - Après quatre années de crise, les sept millions d’électeurs israéliens vont devoir choisir, ce mardi 27 octobre, entre deux modèles de société.
+- [26/10 18:30] franceinfo — Elon Musk accuse l'Ukraine d'avoir violé les conditions d'utilisation du service commercial Starlink
+  https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/elon-musk-accuse-l-ukraine-d-avoir-viole-les-conditions-d-utilisation-du-service-commercial-starlink_8254081.html#xtor=RSS-3-%5Bgeneral%5D
+  Le patron de SpaceX assure que les forces de Kiev utilisent le réseau satellitaire à des fins offensives, ce qui contrevient aux conditions d'utilisation du service.
+- [26/10 18:30] Le Monde — Cinquante ans après l’« indépendance » du Transkei, l’Afrique du Sud n’en a pas fini avec l’héritage des bantoustans
+  https://www.lemonde.fr/afrique/article/2026/10/26/cinquante-ans-apres-l-independance-du-transkei-l-afrique-du-sud-n-en-a-pas-fini-avec-l-heritage-des-bantoustans_6800822_3212.html
+  Proclamé « indépendant » par Pretoria le 26 octobre 1976, ce territoire du Cap-Oriental a légué à l’Afrique du Sud démocratique des administrations défaillantes, dont la mauvaise gouvernance pèse encore sur la région à…
+- [26/10 18:29] Le Figaro — Taux de crédits à plus de 400%, déficit abyssal… Derrière la victoire de Lula, le piège de la dette menace l’avenir économique du Brésil
+  https://www.lefigaro.fr/conjoncture/taux-de-credits-a-plus-de-400-deficit-abyssal-derriere-la-victoire-de-lula-le-piege-de-la-dette-menace-l-avenir-economique-du-bresil-20261026
+  ANALYSE - Réélu dimanche à la surprise générale après avoir multiplié les promesses en faveur du pouvoir d’achat, le chef de file de la gauche brésilienne va désormais devoir s’atteler à sortir les finances publiques du…
+- [26/10 18:27] franceinfo — PODCAST. Israël, le complotisme à l'heure des élections
+  https://www.franceinfo.fr/replay-radio/complorama/podcast-israel-le-complotisme-a-l-heure-des-elections_8253943.html#xtor=RSS-3-%5Bgeneral%5D
+  Rudy Reichstadt et Tristan Mendès France décryptent et analysent, dans ce nouveau numéro de Complorama, les théories du complot qui ont occupé une place centrale dans la campagne électorale en Israël.
+- [26/10 18:06] franceinfo — La Russie va accueillir les Mondiaux d'haltérophilie
+  https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/la-russie-va-accueillir-les-mondiaux-d-halterophilie_8254621.html#xtor=RSS-3-%5Bgeneral%5D
+  La Fédération internationale d'haltérophilie a annoncé, dimanche 25 octobre, qu'elle organiserait ses championnats du monde à Moscou en 2030, devenant le premier sport olympique à organiser ses Mondiaux en Russie depuis…
+- [26/10 18:00] Le Monde — Au Royaume-Uni, 160 personnalités dénoncent l’« absurdité répressive » d’une loi antiterroriste qui a conduit au retrait du marché des livres de Sally Rooney, soutien de Palestine Action
+  https://www.lemonde.fr/international/article/2026/10/26/au-royaume-uni-160-personnalites-denoncent-l-absurdite-repressive-d-une-loi-antiterrorisme-qui-a-conduit-au-retrait-du-marche-des-livres-de-sally-rooney_6800817_3210.html
+  Alors que l’organisation pro-palestinienne a été inscrite sur la liste des organisations terroristes, l’éditeur de la romancière irlandaise, l’une des plus prolifiques de sa génération, a organisé le retrait de ses livr…
+- [26/10 17:58] Le Monde — Le pape Léon XIV effectuera son voyage en Amérique latine deux semaines après son opération, confirme le Vatican
+  https://www.lemonde.fr/international/article/2026/10/26/le-pape-leon-xiv-effectuera-son-voyage-en-amerique-latine-deux-semaines-apres-son-operation-confirme-le-vatican_6800813_3210.html
+  Le souverain pontife s’est fait opérer à la mi-octobre pour faire retirer un nodule cancéreux au niveau des poumons. « Aucune contre-indication n’est relevée », a fait savoir le Vatican lundi, alors que Léon XIV n’aura…
+- [26/10 17:51] franceinfo — Au Brésil, la Bourse de Sao Paulo s'effondre après la réélection de Lula
+  https://www.franceinfo.fr/monde/bresil/au-bresil-la-bourse-de-sao-paulo-s-effondre-apres-la-reelection-de-lula_8254561.html#xtor=RSS-3-%5Bgeneral%5D
+  La Bourse de Sao Paulo, la principale d'Amérique latine, a plongé de près de 17% à son ouverture ce lundi matin, au lendemain de la réélection historique du président de gauche Luiz Inacio Lula da Silva face au conserva…
+- [26/10 17:25] Le Figaro — Midterms aux États-Unis : Abdul El-Sayed, la bête noire de Trump qui pourrait faire basculer le Sénat
+  https://www.lefigaro.fr/international/midterms-aux-etats-unis-abdul-el-sayed-la-bete-noire-de-trump-qui-pourrait-faire-basculer-le-senat-20261026
+  DÉCRYPTAGE - Le candidat démocrate du Michigan, issu de l’aile gauche du parti, est la cible d’attaques islamophobes de la part de républicains et du président lui-même.
+- [26/10 15:48] Le Figaro — «Le Brésil se droitise» : après la victoire in extremis de Lula, la presse internationale interroge sa capacité d’action
+  https://www.lefigaro.fr/international/le-bresil-se-droitise-apres-la-victoire-in-extremis-de-lula-la-presse-internationale-interroge-sa-capacite-d-action-20261026
+  REVUE DE PRESSE - Arrivé en tête du second tour le plus serré de l’histoire du Brésil, le socialiste brésilien met un coup d’arrêt à la progression populiste en Amérique latine.
+- [26/10 12:50] Le Figaro — Benyamin Netanyahou, un héritier en mission
+  https://www.lefigaro.fr/international/benyamin-netanyahou-un-heritier-en-mission-20261025
+  NETANYAHOU, LA SURVIE À TOUT PRIX (1/3) - Héritier de la vision tragique de son père Benzion, marqué par la mort de son frère Yoni, « Bibi » a appris en Amérique à imposer son récit devant les caméras. Entre convictions…
+- [26/10 12:50] Le Figaro — Benyamin Netanyahou, de la mise au pas du Likoud à l’assaut des contre-pouvoirs
+  https://www.lefigaro.fr/international/benyamin-netanyahou-de-la-mise-au-pas-du-likoud-a-l-assaut-des-contre-pouvoirs-20261026
+  NETANYAHOU, LA SURVIE À TOUT PRIX (2/3) - Benyamin Netanyahou a marginalisé ses rivaux et fait du Likoud un parti à sa main. Il entend imposer aux institutions la loyauté qu’il exige de son camp. Avec l’appui de l’extrê…
+- [26/10 12:33] Le Figaro — 2022-2026 : ces quatre années qui ont bouleversé Israël
   https://www.lefigaro.fr/international/2022-2026-ces-quatre-annees-qui-ont-bouleverse-israel-20261025
   RÉCIT - Guerres, scandales financiers et politiques, manifestations monstres : le mandat de Benyamin Netanyahou a été marqué par une série de crises qui, chacune, peut être qualifiée de majeure. C’est un pays profondéme…
-- [25/10 21:30] Le Figaro — Midterms aux États-Unis : les démocrates se préparent à une crise électorale
-  https://www.lefigaro.fr/international/midterms-aux-etats-unis-les-democrates-se-preparent-a-une-crise-electorale-20261025
-  DÉCRYPTAGE - Les accusations anticipées de fraude électorale lancées par Donald Trump font craindre des contestations, surtout en cas de résultats serrés.
-- [25/10 21:13] franceinfo — Mobilisation contre la vie chère : la colère monte dans d'autres pays d'Europe
-  https://www.franceinfo.fr/economie/greve/mobilisation-contre-la-vie-chere-la-colere-monte-dans-d-autres-pays-d-europe_8253511.html#xtor=RSS-3-%5Bgeneral%5D
-  La France n'est pas le seul pays européen agité par une colère sociale. En Italie, mais aussi en Espagne ou au Portugal, des manifestations ont eu lieu contre le coût de la vie au cours des derniers jours. Plusieurs ont…
-- [25/10 21:00] Le Figaro — Dans le sud de la Syrie, la double stratégie d’Israël pour consolider son contrôle territorial : le récit de l’envoyée spéciale du Figaro
-  https://www.lefigaro.fr/international/dans-le-sud-de-la-syrie-la-double-strategie-d-israel-pour-consolider-son-controle-territorial-le-recit-de-l-envoyee-speciale-du-figaro-20261025
-  REPORTAGE - L’armée israélienne soutient l’établissement de cliniques médicales et distribue des produits de première nécessité aux habitants de Quneitra.
-- [25/10 20:48] franceinfo — "On est libre, entre guillemets" : le Brésil, un pays coupé en deux
-  https://www.franceinfo.fr/monde/bresil/on-est-libre-entre-guillemets-le-bresil-un-pays-coupe-en-deux_8253502.html#xtor=RSS-3-%5Bgeneral%5D
-  Le Brésil retient son souffle, dimanche 25 octobre : 160 millions d’électeurs étaient appelés aux urnes pour le second tour de la présidentielle, qui oppose le président sortant Lula à Flavio Bolsonaro, de fils de l'anc…
-- [25/10 20:31] franceinfo — En Bulgarie, la présidente sortante, partisane du dialogue avec Moscou, arrive légèrement en tête du premier tour
-  https://www.franceinfo.fr/monde/europe/union-europeenne/en-bulgarie-la-presidente-sortante-partisane-du-dialogue-avec-moscou-arrive-legerement-en-tete-du-premier-tour_8253469.html#xtor=RSS-3-%5Bgeneral%5D
-  La candidate, partisane du dialogue avec la Russie, affrontera Andrey Gyurov, ancien Premier ministre par intérim soutenu par l'opposition pro-occidentale.
-- [25/10 19:42] franceinfo — L'opposante vénézuélienne et prix Nobel de la paix Maria Corina Machado annonce être de retour dans son pays
-  https://www.franceinfo.fr/monde/venezuela/l-opposante-et-prix-nobel-de-la-paix-maria-corina-machado-annonce-etre-de-retour-au-venezuela_8253460.html#xtor=RSS-3-%5Bgeneral%5D
-  Exilée au Panama, la femme politique de 60 ans avait déjà tenté au moins à sept reprises de rentrer dans son pays, sans y parvenir, selon des sources de son parti.
-- [25/10 18:30] Le Figaro — Le parlement algérien vote l’envoi de troupes au Niger
-  https://www.lefigaro.fr/international/le-parlement-algerien-vote-l-envoi-de-troupes-au-niger-20261025
-  Après l’envoi de chasseurs des forces aériennes à Niamey en août dernier, cette nouvelle décision vient confirmer un revirement historique de la doctrine militaire d’Alger.
-- [25/10 18:23] franceinfo — Des hommes armés ont tué au moins 50 personnes dans le nord-est du Nigeria
-  https://www.franceinfo.fr/monde/afrique/nigeria/des-hommes-armes-ont-tue-au-moins-50-personnes-dans-le-nord-est-du-nigeria_8253370.html#xtor=RSS-3-%5Bgeneral%5D
-  Les assaillants sont arrivés sur des motos et ont ouvert le feu sur les habitants, à la sortie de la prière du vendredi.
-- [25/10 18:00] franceinfo — Bernard Lavilliers chante la guerre en Ukraine
-  https://www.franceinfo.fr/replay-radio/ces-chansons-qui-font-l-actu/bernard-lavilliers-chante-la-guerre-en-ukraine_8211611.html#xtor=RSS-3-%5Bgeneral%5D
-  "La Ligne de feu", une chanson de son nouvel album, nous rappelle que la guerre dure en Europe et il songe aux morts, s'ajoutant à une lignée de grandes chansons sur le sort des combattants.
-- [25/10 17:41] Le Figaro — «La plus grosse depuis la guerre de 1967» : la Cisjordanie théâtre d’une vaste opération militaire avant les élections en Israël
-  https://www.lefigaro.fr/international/la-cisjordanie-theatre-d-une-vaste-operation-militaire-a-deux-jours-des-elections-en-israel-20261025
-  RÉCIT - L’opération Rugissement de Juda a été lancée dans la ville de Hébron, dans le sud de la Cisjordanie, après une attaque terroriste. Plusieurs milliers de personnes ont été contraintes de quitter la ville.
-- [25/10 17:20] franceinfo — Juif séfarade, ancien chef d'état-major, ministre démissionnaire... Qui est Gadi Eisenkot, l'homme qui défie Nétanyahou dans les urnes ?
-  https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/juif-sefarade-ancien-chef-d-etat-major-ministre-demissionnaire-qui-est-gadi-eisenkot-l-homme-qui-defie-netanyahou-dans-les-urnes_8211635.html#xtor=RSS-3-%5Bgeneral%5D
-  Mardi prochain se tiennent des élections législatives déterminantes pour l'histoire d'Israël. Face au Premier ministre sortant Benyamin Nétanyahou, un homme entend bien jouer les trouble-fêtes : Gadi Eisenkot, un milita…
-- [25/10 17:08] Le Monde — Le Dakar 2027 ne se déroulera pas en Arabie saoudite en raison du contexte géopolitique
-  https://www.lemonde.fr/international/article/2026/10/25/le-dakar-2027-ne-se-deroulera-pas-en-arabie-saoudite-en-raison-du-contexte-geopolitique_6800100_3210.html
-  L’intensification du conflit entre les houthistes du Yémen et l’Arabie saoudite, après plusieurs années d’accalmie, avait renforcé la menace sur la bonne tenue du plus célèbre rallye-raid du monde, qui se déroulait en A…
-- [25/10 17:00] Le Monde — En Algérie, la réhabilitation inachevée de Krim Belkacem, icône de la guerre d’indépendance
-  https://www.lemonde.fr/afrique/article/2026/10/25/en-algerie-la-rehabilitation-inachevee-de-krim-belkacem-icone-de-la-guerre-d-independance_6800097_3212.html
-  La commémoration de l’anniversaire de la mort du « lion des djebels » rencontre un écho croissant dans la presse algérienne. Un tel regain d’intérêt, s’il élude les circonstances de son assassinat en octobre 1970 à Fran…
-- [25/10 16:26] franceinfo — Les Serbes se mobilisent fortement aux législatives dans un scrutin en forme de "référendum anti-Vucic"
-  https://www.franceinfo.fr/monde/europe/les-serbes-se-mobilisent-fortement-aux-legislatives-dans-un-scrutin-en-forme-de-referendum-anti-vucic_8253253.html#xtor=RSS-3-%5Bgeneral%5D
-  Le taux de participation s'élevait à près de 35%, dimanche à midi, contre 21% à la même heure lors du précédent scrutin en 2023, a souligné la commission électorale.
-- [25/10 16:00] franceinfo — Le retour très offensif de Barack Obama à quelques jours des élections de mi-mandat
-  https://www.franceinfo.fr/replay-jt/france-2/13-heures/le-retour-tres-offensif-de-barack-obama-a-quelques-jours-des-elections-de-mi-mandat_8253160.html#xtor=RSS-3-%5Bgeneral%5D
-  Aux États-Unis, les Américains votent déjà par anticipation dans certains états, à dix jours des élections législatives de mi-mandat. Les républicains vont-ils perdre leur majorité dans les deux chambres ? C’est tout l’…
-- [25/10 14:58] franceinfo — En Espagne, 128 personnes interpellées à Barcelone pour des dégradations et des pillages lors d'un rassemblement non déclaré
-  https://www.franceinfo.fr/monde/espagne/en-espagne-128-personnes-interpellees-a-barcelone-pour-des-degradations-et-des-pillages-lors-d-un-rassemblement-non-declare_8253175.html#xtor=RSS-3-%5Bgeneral%5D
-  Silvia Cata, patronne de la police catalane, a précisé que 15 agents avaient été "blessés" au cours de la nuit, durant laquelle 23 commerces ont été vandalisés.
-- [25/10 14:56] Le Figaro — «Aucun des deux peuples ne s’en ira» : en Israël, le réveil politique de la minorité arabe
-  https://www.lefigaro.fr/international/aucun-des-deux-peuples-ne-s-en-ira-en-israel-le-reveil-politique-de-la-minorite-arabe-20261025
-  REPORTAGE - Les Arabes israéliens s’apprêtent à se rendre aux urnes pour les élections législatives du 27 octobre prochain. La mobilisation de cette minorité, prédite comme sans précédent par les sondeurs, s’apprête, pe…
-- [25/10 14:30] franceinfo — La Russie va accueillir les Mondiaux d'haltérophilie en 2030, le premier sport olympique à revenir dans le pays depuis 2022
-  https://www.franceinfo.fr/sports/halterophilie/la-russie-va-accueillir-les-mondiaux-d-halterophilie-en-2030-le-premier-sport-olympique-a-revenir-dans-le-pays-depuis-2022_8253172.html#xtor=RSS-3-%5Bgeneral%5D
-  L'haltérophilie va revenir en Russie avec l'organisation des Championnats du monde en 2030, alors que les disciplines olympiques s'étaient éloignées du pays depuis son entrée en guerre en Ukraine, qui avait donné lieu à…
-- [25/10 14:17] Le Figaro — Jean-Noël Barrot en Bulgarie face aux frappes de drones russes en mer Noire
-  https://www.lefigaro.fr/international/jean-noel-barrot-en-bulgarie-face-aux-frappes-de-drones-russes-en-mer-noire-20261025
-  En pleine élection présidentielle bulgare, le ministre des Affaires étrangères français a tenté de rapprocher Sofia de ses partenaires européens sur la guerre en Ukraine, dans le contexte d’une multiplication des attaqu…
-- [25/10 12:25] Le Figaro — Benyamin Netanyahou, un héritier en mission
-  https://www.lefigaro.fr/international/benyamin-netanyahou-un-heritier-en-mission-20261025
-  NETANYAHOU, LA SURVIE À TOUT PRIX 1/3 – Héritier de la vision tragique de son père Benzion, marqué par la mort de son frère Yoni, « Bibi » a appris en Amérique à imposer son récit devant les caméras. Entre convictions p…
-- [25/10 09:56] Le Figaro — «À travers moi, ils veulent punir Carlos» : la vie empêchée de Carole Ghosn
-  https://www.lefigaro.fr/international/a-travers-moi-ils-veulent-punir-carlos-la-vie-empechee-de-carole-ghosn-20261025
-  PORTRAIT - L’épouse de l’ancien patron de Renault-Nissan souhaite faire supprimer la notice rouge d’Interpol qui l’empêche de quitter le Liban depuis près de sept ans.
-- [25/10 09:55] Le Figaro — Pays endettés, malaise existentiel de la jeunesse… Dans le sillage de la France, pourquoi la contestation sociale a gagné toute l’Europe
-  https://www.lefigaro.fr/international/pays-endettes-malaise-existentiel-de-la-jeunesse-dans-le-sillage-de-la-france-pourquoi-la-contestation-sociale-a-gagne-toute-l-europe-20261024
-  RÉCIT - Ne se sentant ni écoutée, ni représentée par ses gouvernants, la jeunesse européenne se soulève depuis plusieurs semaines. Les pays dont la dette publique explose peinent à trouver des réponses aux revendication…
-- [25/10 09:55] Le Figaro — Itamar Ben Gvir, de paria à figure incontournable de la droite israélienne
-  https://www.lefigaro.fr/international/itamar-ben-gvir-de-paria-a-figure-incontournable-de-la-droite-israelienne-20261023
-  REPORTAGE - Alors qu’en 2021, Benyamin Netanyahou refusait de faire entrer Itamar Ben Gvir dans son gouvernement, l’ancien militant kahaniste aux idées radicales réclame, 5 ans plus tard, le ministère de la Défense.
+- [26/10 12:23] Le Figaro — En Serbie, le président sortant Aleksandar Vučić balayé dans les urnes par la mobilisation des étudiants
+  https://www.lefigaro.fr/international/serbie-vucic-balaye-aux-legislatives-par-un-mouvement-mene-par-des-etudiants-20261026
+  RÉCIT - Sèchement battu après douze ans de pouvoir, l’homme fort du pays doit s’effacer devant un mouvement citoyen dont les leaders restent méconnus.
 
 ## France
-- [26/10 04:08] Ouest-France — ANALYSE. Comment Lula a réussi à décrocher un quatrième mandat au Brésil
-  https://www.ouest-france.fr/monde/bresil/analyse-comment-lula-a-reussi-a-decrocher-un-quatrieme-mandat-au-bresil-4fc2b9d0-d0cc-11f1-95ba-26d2045f6620?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
-  Il va fêter ses 81 ans, mardi. Luiz Inácio Lula da Silva, donné perdant à la veille du second tour, a finalement été élu, ce dimanche 25 octobre, avec trois points d’avance face au candidat d’extrême droite, Flavio Bols…
-- [26/10 03:28] Ouest-France — Trump assure qu’un accord commercial avec le Canada arrivera « rapidement »
-  https://www.ouest-france.fr/monde/etats-unis/donald-trump/trump-assure-quun-accord-commercial-avec-le-canada-arrivera-rapidement-5b58bf1a-d0e0-11f1-95ba-26d2045f6620?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
-  Alors que les deux pays s’écharpent sur des questions de droits de douane depuis quelques mois, Donald Trump a affirmé dimanche 25 octobre 2026, lors d’un meeting dans le Michigan, qu’un accord commercial avec le Canada…
-- [26/10 02:47] Le Figaro — Trump assure qu'un accord commercial avec le Canada arrivera «rapidement»
-  https://www.lefigaro.fr/international/trump-assure-qu-un-accord-commercial-avec-le-canada-arrivera-rapidement-20261026
-  Ottawa et Washington ont vu leurs relations commerciales s’envenimer fin août, après l’échec de négociations entre les deux pays pour éviter la mise en place d’une surtaxe de 20 milliards de dollars sur les produits can…
-- [26/10 01:40] Le Figaro — Contre toute attente, Lula décroche un quatrième mandat inédit, le Brésil reste à gauche
-  https://www.lefigaro.fr/international/contre-toute-attente-lula-decroche-un-quatrieme-mandat-inedit-le-bresil-reste-a-gauche-20261026
-  Avec 51,76 % des voix contre 48,24 % pour le sénateur conservateur Flavio Bolsonaro après un dépouillement quasi complet, le vétéran a déjoué tous les pronostics.
-- [26/10 01:37] Le Monde — F1 : l’Italien Kimi Antonelli remporte le Grand Prix des Etats-Unis et se rapproche un peu plus du titre mondial
-  https://www.lemonde.fr/sport/article/2026/10/26/f1-l-italien-kimi-antonelli-remporte-le-grand-prix-des-etats-unis-et-se-rapproche-un-peu-plus-du-titre-mondial_6800248_3242.html
-  Auteur de sa neuvième victoire de la saison à l’âge de 20 ans, le pilote Mercedes n’aura besoin que de deux points lors du Grand Prix du Mexique, dimanche 1ᵉʳ novembre, pour être sacré champion du monde.
-- [26/10 01:27] Le Figaro — Donald Trump appelle les Israéliens à voter pour Netanyahou, un «guerrier exceptionnel»
-  https://www.lefigaro.fr/international/donald-trump-appelle-les-israeliens-a-voter-pour-netanyahou-un-guerrier-exceptionnel-20261026
-  Netanyahou a centré sa campagne sur la sécurité, affirmant pouvoir en être le seul garant et a brandi la menace iranienne, revendiquant les résultats de la guerre lancée en février contre Téhéran aux côtés de Donald Tru…
-- [26/10 01:15] Ouest-France — Présidentielle au Brésil. Incroyable remontada, Lula est réélu président
-  https://www.ouest-france.fr/monde/bresil/presidentielle-au-bresil-incroyable-remontada-lula-est-reelu-president-24a372d0-d0c7-11f1-95ba-26d2045f6620?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
-  Le président sortant de gauche a été réélu ce dimanche 25 octobre 2026 président du Brésil avec trois points d’avance sur Flavio Bolsonaro. Après avoir viré en tête le 4 octobre, le fils de l’ancien président d’extrême…
-- [26/10 00:44] Le Monde — Liga espagnole : avec son doublé, Kylian Mbappé fait plier le Barça et offre le Clasico au Real
-  https://www.lemonde.fr/sport/article/2026/10/26/espagne-kylian-mbappe-fait-plier-le-barca-avec-un-double-opportuniste-et-offre-le-clasico-au-real-madrid_6800182_3242.html
-  Menace constante pour la défense catalane, l’attaquant français a inscrit ses 99ᵉ et 100ᵉ buts sous le maillot madrilène, dimanche, au Camp Nou, au terme d’une rencontre plus équilibrée que prévu.
-- [26/10 00:03] Le Figaro — Barça-Real Madrid : Mbappé d’or et de 100, Lamine Yamal en dedans, Rodri resté sur le banc… Les tops et flops du Clasico
-  https://www.lefigaro.fr/sports/football/espagne/barca-real-madrid-mbappe-d-or-et-de-100-lamine-yamal-en-dedans-rodri-reste-sur-le-banc-les-tops-et-flops-du-clasico-20261025
-  DÉCRYPTAGE – Découvrez ce qui a retenu l’attention de la rédaction lors de la victoire du Real Madrid face au FC Barcelone, dimanche soir au Camp Nou.
-- [26/10 00:01] Ouest-France — Cyclisme. En couple depuis quatre ans, Pauline Ferrand-Prévot et Dylan van Baarle se sont mariés
-  https://www.ouest-france.fr/sport/cyclisme/pauline-ferrand-prevot/cyclisme-en-couple-depuis-quatre-ans-pauline-ferrand-prevot-et-dylan-van-baarle-se-sont-maries-174d6110-d0bb-11f1-95ba-26d2045f6620?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
-  Pauline Ferrand-Prévot, lauréate du Tour de France 2025, s’est mariée ce dimanche 25 octobre 2026, avec Dylan van Baarle. La championne française est en couple avec le cycliste néerlandais depuis quatre ans.
-- [25/10 23:49] Le Figaro — Liga : avant le Ballon d’Or, un Mbappé de gala permet au Real Madrid de mettre K.O. le Barça dans le Clasico
-  https://www.lefigaro.fr/sports/football/espagne/liga-mbappe-et-le-real-madrid-mettent-k-o-le-barca-au-terme-d-un-clasico-haletant-20261025
-  Le Real Madrid s’est imposé ce dimanche à Barcelone, grâce à un doublé de Kylian Mbappé (2-1). Les Merengue reviennent à trois points de leurs adversaires du soir, en tête du championnat.
-- [25/10 23:46] Le Monde — A Hébron, en Cisjordanie, plus de 2 670 Palestiniens « déplacés de force » par l’armée israélienne, selon l’Autorité palestinienne
-  https://www.lemonde.fr/international/article/2026/10/25/a-hebron-en-cisjordanie-plus-de-2-670-palestiniens-deplaces-de-force-par-l-armee-israelienne-selon-l-autorite-palestinienne_6800149_3210.html
-  Dimanche, des soldats israéliens étaient toujours déployés dans les rues de la plus grande ville du territoire palestinien occupé, selon des images de l’Agence France-Presse.
+- [27/10 03:17] Le Figaro — Au Brésil, le parti de Flavio Bolsonaro reconnaît la réélection de Lula à la présidence
+  https://www.lefigaro.fr/international/au-bresil-le-parti-de-flavio-bolsonaro-reconnait-la-reelection-de-lula-a-la-presidence-20261027
+  Flavio Bolsonaro, qui avait annoncé dimanche qu’il demanderait l’annulation du scrutin, a renoncé à cette démarche, déclarant qu’il solliciterait de la justice l’invalidation de la candidature de Lula pour «abus de pouv…
+- [27/10 02:56] Le Monde — Le PSG vire en tête de la Ligue 1 après son succès sur l’OL
+  https://www.lemonde.fr/sport/article/2026/10/27/le-psg-vire-en-tete-de-la-ligue-1-apres-son-succes-sur-l-ol_6801049_3242.html
+  Dans un match de la 8e journée reporté à lundi soir, les Parisiens se sont imposés (2-0) grâce à des buts de Senny Mayulu et Mika Godts, entrés en jeu en seconde période. Ils possèdent un point d’avance sur Rennes.
+- [27/10 02:36] Le Monde — Avant les midterms, Donald Trump promet un million de dollars pour toute information débouchant sur une condamnation pour fraude électorale
+  https://www.lemonde.fr/international/article/2026/10/27/avant-les-midterms-donald-trump-promet-un-million-de-dollars-pour-toute-information-debouchant-sur-une-condamnation-pour-fraude-electorale_6801016_3210.html
+  La récompense sera versée à « toute personne signalant une fraude électorale lors de scrutins passés ou lors des élections de mi-mandat », qui auront lieu le 3 novembre, a déclaré le président américain, jetant d’ores e…
+- [27/10 02:18] Le Figaro — Guerre en Ukraine : début de la trêve humanitaire à Olechky, ville occupée par les forces russes
+  https://www.lefigaro.fr/international/guerre-en-ukraine-debut-de-la-treve-humanitaire-a-olechky-ville-occupee-par-les-forces-russes-20261027
+  La première dame des États-Unis, Melania Trump, avait annoncé vendredi avoir obtenu un cessez-le-feu dans la ville ukrainienne d’Oleshky, sous occupation russe.
+- [27/10 02:00] Le Figaro — Autonomie de la Corse : le Sénat rejette la réforme constitutionnelle, les autonomistes quittent les négociations
+  https://www.lefigaro.fr/politique/autonomie-de-la-corse-le-senat-rejette-la-reforme-constitutionnelle-les-autonomistes-quittent-les-negociations-20261027
+  Les sénateurs ont rejeté, dans la nuit de lundi à mardi, le projet de loi constitutionnelle par 181 voix contre 134. Dénonçant la destruction d’un «accord politique», le camp autonomiste a annoncé son retrait du process…
+- [27/10 01:57] Le Figaro — Arabie saoudite : la coalition dit avoir abattu trois missiles lancés par les houthistes vers l’est du pays
+  https://www.lefigaro.fr/international/arabie-saoudite-la-coalition-dit-avoir-abattu-trois-missiles-lances-par-les-houthistes-vers-l-est-du-pays-20261027
+  Trois missiles balistiques tirés par les rebelles houthistes du Yémen vers l’est de l’Arabie saoudite ont été interceptés et détruits mardi, selon la coalition militaire menée par Ryad.
+- [27/10 01:40] Le Monde — Corse : le Sénat rejette le projet de loi sur l’autonomie et enterre le processus de Beauvau
+  https://www.lemonde.fr/politique/article/2026/10/27/autonomie-de-la-corse-le-senat-rejette-la-reforme-constitutionnelle-le-camp-autonomiste-annonce-son-retrait-du-processus_6800949_823448.html
+  Malgré des amendements abandonnant la reconnaissance d’une « communauté » et obligeant la Collectivité de Corse à demander au cas par cas l’habilitation à édicter des normes, le Sénat a fini par rejeter le projet d’auto…
+- [27/10 01:39] Le Monde — L’entreprise Les Forges de Tarbes, qui fournit des corps d’obus pour l’Ukraine, placée en redressement judiciaire
+  https://www.lemonde.fr/economie/article/2026/10/27/l-entreprise-les-forges-de-tarbes-qui-fournit-des-corps-d-obus-pour-l-ukraine-placee-en-redressement-judiciaire_6800916_3234.html
+  Europlasma, le groupe propriétaire de l’unique usine française produisant des fûts d’obus de 155 mm, avait sollicité l’ouverture d’une telle procédure. L’arrivée d’un repreneur est espérée pour cette société qui emploie…
+- [27/10 01:38] Ouest-France — Autonomie de la Corse : le Sénat rejette la réforme constitutionnelle, le camp autonomiste se retire du processus
+  https://www.ouest-france.fr/politique/institutions/senat/autonomie-de-la-corse-le-senat-rejette-la-reforme-constitutionnelle-le-camp-autonomiste-se-retire-du-processus-d8c1e650-d19b-11f1-b176-db822af25b80?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
+  Le camp autonomiste corse a annoncé son « retrait » du processus d’autonomie de la Corse, dont la réforme constitutionnelle était débattue au Sénat dans la nuit du lundi 26 au mardi 27 octobre 2026.
+- [27/10 01:16] Le Figaro — Après une polémique avec Ed Sheeran, le rappeur Macklemore lance une tournée «Free Palestine»
+  https://www.lefigaro.fr/culture/apres-une-polemique-avec-ed-sheeran-le-rappeur-macklemore-lance-une-tournee-free-palestine-20261027
+  Écarté des dates américaines d’Ed Sheeran après avoir crié «Free Palestine» sur scène, l’interprète de Thrift Shop a lancé lundi à Dublin sa propre tournée, dont les recettes seront reversées à des organisations d’aide…
+- [27/10 01:15] Le Figaro — Ballon d’Or : Harry Kane, la consécration du buteur-créateur
+  https://www.lefigaro.fr/sports/football/ballon-d-or-harry-kane-sacre-pour-la-premiere-fois-20261026
+  À 33 ans, l’attaquant du Bayern et des Three Lions anglais a été consacré ce lundi, à Londres, 70 ans après Stanley Matthews, premier lauréat du Ballon d’Or.
+- [27/10 01:00] Le Figaro — «Une opération militante» : le RN demande des «excuses publiques» au Monde après une fausse information sur ses tracts dans la voiture de Kevin T.
+  https://www.lefigaro.fr/elections/presidentielles/candidats/une-operation-militante-le-rn-demande-des-excuses-publiques-au-monde-apres-une-fausse-information-sur-ses-tracts-dans-la-voiture-de-kevin-t-20261026
+  Ce lundi, le quotidien a écrit que des prospectus du mouvement nationaliste avaient été retrouvés dans le véhicule du suspect de l’attaque des Yvelines. Une information sur laquelle il est revenu, avant qu’elle ne soit…
+- [27/10 00:57] Le Monde — Des élus démocrates réclament une enquête spéciale sur les liens entre Donald Trump et Jeffrey Epstein
+  https://www.lemonde.fr/international/article/2026/10/27/des-elus-democrates-reclament-une-enquete-speciale-sur-les-liens-entre-donald-trump-et-jeffrey-epstein_6800883_3210.html
+  La demande formulée par des membres de la Chambre des représentants de désigner un procureur spécial n’a aucune chance d’aboutir, malgré un rapport dans lequel témoignent onze femmes. Mais ils espèrent fragiliser le pré…
+- [27/10 00:55] Le Monde — James Comey, ancien directeur du FBI et critique de Donald Trump, est de nouveau poursuivi en justice, cette fois pour fuite d’informations confidentielles
+  https://www.lemonde.fr/international/article/2026/10/27/james-comey-ancien-directeur-du-fbi-et-critique-de-donald-trump-est-de-nouveau-poursuivi-en-justice-cette-fois-pour-fuite-d-informations-confidentielles_6800882_3210.html
+  Dans des documents rendus publics lundi, le ministère de la justice américain accuse l’homme de 65 ans d’avoir sciemment communiqué des informations relatives à la défense nationale à une personne non autorisée à les re…
+- [27/10 00:04] Le Monde — EN DIRECT, guerre en Ukraine : au moins un mort et dix blessés dans des attaques russes sur Kiev
+  https://www.lemonde.fr/international/live/2026/10/27/en-direct-guerre-en-ukraine-au-moins-un-mort-et-dix-blesses-dans-des-attaques-russes-sur-kiev_6799896_3210.html
+  « Des missiles balistiques russes ont frappé l’enceinte d’une université (…) et il n’y a pas la moindre installation militaire à proximité », a déclaré Volodymyr Zelensky. Des étudiants du foyer universitaire ont été bl…
+- [27/10 00:01] franceinfo — "Il faut que nos élèves retiennent que dès cette année, ils vont voir leur vie changer", souligne le ministre Édouard Geffray, qui détaille les mesures à plus de "5-6 milliards" d'euros pour répondre…
+  https://www.franceinfo.fr/societe/education/blocage-des-lycees/il-faut-que-nos-eleves-retiennent-que-des-cette-annee-ils-vont-voir-leur-vie-changer-souligne-le-ministre-edouard-geffray-qui-detaille-les-mesures-a-plus-de-5-6-milliards-d-euros-pour-repondre-a-la-crise-lyceenne_8254864.html#xtor=RSS-3-%5Bgeneral%5D
+  Invité du "20 Heures" de France 2 lundi 26 octobre, le ministre de l'Éducation nationale revient en détail sur les annonces du gouvernement faites aux lycéens pour répondre à leurs revendications.
+- [27/10 00:00] Ouest-France — Ballon d’or 2026. Harry Kane sacré pour la première fois de sa carrière
+  https://www.ouest-france.fr/sport/football/ballon-d-or/ballon-dor-2026-harry-kane-sacre-pour-la-premiere-fois-de-sa-carriere-9d3cc6ae-cf84-11f1-95ba-26d2045f6620?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
+  Le Ballon d’or 2026 a été remis, ce lundi 26 octobre, à Harry Kane, depuis le London Palladium (Angleterre). L’attaquant du Bayern Munich, meilleur buteur du monde la saison dernière, devance Kylian Mbappé et Lamine Yam…
+- [27/10 00:00] franceinfo — Attentat raciste dans les Yvelines : la garde à vue du principal suspect, qui "conteste le caractère raciste de ses crimes", a repris
+  https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/direct-attentat-raciste-dans-les-yvelines-olivier-christen-procureur-du-parquet-national-antiterroriste-s-exprimera-en-fin-de-journee-lundi_8254480.html#xtor=RSS-3-[lestitres]
+  Une personne est morte et cinq autres ont été blessées dans cette attaque survenue vendredi à Trappes et La Verrière.
+- [26/10 23:59] franceinfo — Mobilisation des lycéens : "Les élèves vont voir leur vie changer", assure Edouard Geffray, l'intersyndicale jeunesse appelle à poursuivre la mobilisation
+  https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-des-lyceens-le-gouvernement-recoit-les-organisations-dans-l-apres-midi-et-promet-des-reponses-tres-concretes_8253718.html#xtor=RSS-3-[lestitres]
+  Le gouvernement a reçu les organisations lycéennes puis étudiantes, lundi, en espérant clore cinq semaines de crise entamées par des blocages d'établissements.
+- [26/10 23:58] Le Figaro — Attentat terroriste dans les Yvelines : un hommage rendu à Paris aux victimes, Emmanuel Grégoire chahuté par la foule
+  https://www.lefigaro.fr/actualite-france/attentat-raciste-dans-les-yvelines-un-hommage-rendu-a-paris-aux-victimes-emmanuel-gregoire-chahute-par-la-foule-20261026
+  REPORTAGE - Quelques jours après l’attentat raciste survenu à Trappes, un rassemblement contre le racisme et l’islamophobie s’est déroulé sur la place Stalingrad lundi soir.
+- [26/10 23:54] franceinfo — Ballon d'or 2026 : l'attaquant du Bayern Munich Harry Kane devient le premier Anglais récompensé depuis 25 ans
+  https://www.franceinfo.fr/sports/foot/ballon-d-or/ballon-d-or-2026-sacre-a-londres-harry-kane-devient-le-premier-anglais-recompense-depuis-25-ans_8254834.html#xtor=RSS-3-[lestitres]
+  L'attaquant de 33 ans a été élu au bout du suspense, lundi, aux dépens de Kylian Mbappé et Lamine Yamal.
+- [26/10 23:43] Le Figaro — Ballon d’Or : l'Espagnole Alexia Putellas sacrée
+  https://www.lefigaro.fr/sports/football/ballon-d-or-l-espagnole-alexia-putellas-sacree-20261026
+  La star espagnole Alexia Putellas a remporté le Ballon d’Or pour la troisième fois de sa carrière après ses sacres en 2021 et 2022, lundi à Londres.
+- [26/10 23:43] franceinfo — Emmanuel Macron à Marseille : "Ce n'est pas normal qu'à six mois d'une élection présidentielle, le pays soit dans cet état d'ébullition", tance le président
+  https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/direct-emmanuel-macron-a-marseille-le-president-est-arrive-a-la-mairie-degradee-le-17-octobre-accueilli-par-benoit-payan_8254135.html#xtor=RSS-3-%5Bgeneral%5D
+  "Il y a des gens qui se réjouissent du désordre, moi non", a déclaré le chef de l'Etat devant les forces de l'ordre à Marseille.
+- [26/10 23:41] Ouest-France — Trump fustige une élection « truquée » au Brésil après la remontada de Lula, Bolsonaro interdit de quitter le pays
+  https://www.ouest-france.fr/monde/bresil/trump-fustige-une-election-truquee-au-bresil-apres-la-victoire-surprise-de-lula-f6599458-d180-11f1-95ba-26d2045f6620?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
+  Alors qu’il avait placé ses espoirs sur le candidat d’extrême droite Flavio Bolsonaro, défait face à Lula lors de l’élection présidentielle au Brésil la veille, Donald Trump a fustigé lundi 26 octobre 2026 une élection…
+- [26/10 23:39] Ouest-France — Ballon d’or féminin. Alexia Putellas sacrée meilleure joueuse du monde pour la troisième fois de sa carrière
+  https://www.ouest-france.fr/sport/football/ballon-d-or/ballon-dor-feminin-alexia-putellas-sacree-meilleure-joueuse-du-monde-pour-la-troisieme-fois-de-sa-carriere-e3b6ac9c-d071-11f1-95ba-26d2045f6620?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
+  Déjà sacrée en 2021 et 2022, la milieu offensif espagnole Alexia Putellas a été sacrée Ballon d’or 2026, ce lundi 26 octobre, à Londres. La joueuse des London City Lionesses, transférée cet été en provenance du FC Barce…
+- [26/10 23:36] franceinfo — L'Espagnole Alexia Putellas remporte son troisième Ballon d'or
+  https://www.franceinfo.fr/sports/foot/ballon-d-or/l-espagnole-alexia-putellas-remporte-le-ballon-d-or-2026-son-troisieme-en-carriere_8254738.html#xtor=RSS-3-[lestitres]
+  L'ancienne joueuse de Barcelone, désormais aux London City Lionesses, avait déjà été sacrée en 2021 et 2022.
+- [26/10 23:35] Le Monde — L’Espagnole Alexia Putellas élue Ballon d’or pour la troisième fois, quatre ans après son dernier sacre
+  https://www.lemonde.fr/sport/article/2026/10/26/alexia-putellas-laureate-du-ballon-d-or-pour-la-troisieme-fois-et-symbole-de-l-attractivite-du-championnat-anglais-de-football_6800846_3242.html
+  La milieu espagnole de 32 ans a été primée, lundi, pour ses performances avec le Barça lors de la saison 2025-2026. Cet été, cependant, elle a rejoint les London City Lionesses, séduite par cette formation qui n’est rat…
+- [26/10 23:18] franceinfo — Donald Trump promet 1 million de dollars de récompense pour la dénonciation de fraudes électorales lors des élections de mi-mandat aux Etats-Unis
+  https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/donald-trump-promet-1-million-de-dollars-de-recompense-pour-la-denonciation-de-fraudes-electorales-lors-des-elections-de-mi-mandat-aux-etats-unis_8254900.html#xtor=RSS-3-[lestitres]
+  Le président américain agite le spectre d'une contestation post-électorale si son parti est battu aux "midterms" du 3 novembre.
+- [26/10 23:09] franceinfo — "J'ai dit oui tout de suite" : comment fonctionne le vaccin testé avec succès contre les récidives du cancer de la peau ?
+  https://www.franceinfo.fr/sante/cancer/j-ai-dit-oui-tout-de-suite-comment-fonctionne-le-vaccin-teste-avec-succes-contre-les-recidives-du-cancer-de-la-peau_8254891.html#xtor=RSS-3-[lestitres]
+  On assiste peut-être à un tournant dans la lutte contre le cancer : le vaccin sur mesure, adapté à chaque patient, donne des résultats très prometteurs contre le mélanome, le cancer de la peau le plus mortel. Quelque 82…
+- [26/10 23:02] Ouest-France — Ballon d’or 2026. Le Paris Saint-Germain nommé meilleur club de la saison, le FC Barcelone sacré chez les femmes
+  https://www.ouest-france.fr/sport/football/ballon-d-or/ballon-dor-2026-le-paris-saint-germain-nomme-meilleur-club-de-la-saison-le-fc-barcelone-sacre-chez-les-femmes-8194a21e-d05b-11f1-95ba-26d2045f6620?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
+  Sans surprise, le PSG a remporté le trophée du meilleur club masculin de l’année lors de la cérémonie du Ballon d’or, ce lundi 26 octobre, à Londres. Les Parisiens, vainqueurs de leur deuxième Ligue des champions d’affi…
+- [26/10 23:00] Le Monde — Présidentielle au Brésil : le parti de Flavio Bolsonaro reconnaît la victoire de Lula
+  https://www.lemonde.fr/international/article/2026/10/26/reelection-de-lula-au-bresil-donald-trump-denonce-un-scrutin-truque-flavio-bolsonaro-assure-que-la-justice-lui-interdit-de-quitter-le-pays_6800845_3210.html
+  A l’annonce des résultats, dimanche, le candidat conservateur avait affirmé, le visage fermé, qu’il demanderait l’annulation du scrutin. « Nous reconnaissons le résultat de l’élection présidentielle proclamé par le Trib…
+- [26/10 22:56] Ouest-France — En images. Partout en France, l’hommage à Pengo Bossio Wangi, tué dans l’attentat raciste de Trappes
+  https://www.ouest-france.fr/faits-divers/attentat/en-images-partout-en-france-lhommage-a-pengo-bossio-wangi-tue-dans-lattentat-raciste-de-trappes-2f2c6022-d180-11f1-95ba-26d2045f6620?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
+  Des milliers de Français se sont réunis lundi 26 octobre 2026 au soir dans plusieurs villes de France pour rendre un hommage à Pengo Bossio Wangi, tué lors de l’attentat terroriste raciste de Trappes survenu vendredi 23…
+- [26/10 22:47] Ouest-France — Tennis. Rafael Nadal de retour sur les courts à Las Vegas pour une exhibition en février 2027
+  https://www.ouest-france.fr/sport/tennis/rafael-nadal/tennis-rafael-nadal-de-retour-sur-les-courts-a-las-vegas-pour-une-exhibition-en-fevrier-2027-26ff0216-d184-11f1-95ba-26d2045f6620?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
+  À 40 ans, Rafael Nadal va rejouer au tennis à l’occasion d’une exhibition annoncée à Las Vegas (États-Unis) pour le mois de février 2027, ont annoncé, ce lundi 26 octobre, les organisateurs de l’événement.
+- [26/10 22:46] franceinfo — "On les a vus passer au milieu des CRS sans problème" : des militants violents d'ultradroite ont-ils été épargnés par la police lors des manifestations samedi ?
+  https://www.franceinfo.fr/faits-divers/police/on-les-a-vus-passer-au-milieu-des-crs-sans-probleme-la-police-a-t-elle-protege-des-militants-violents-d-ultradroite-lors-des-manifestations-samedi_8254837.html#xtor=RSS-3-[lestitres]
+  Plusieurs vidéos montrent des groupuscules d'ultradroite agresser des manifestants dans plusieurs grandes villes, parfois sous les yeux des forces de l'ordre, qui semblent étonnamment passives. Plusieurs responsables po…
+- [26/10 22:46] franceinfo — "On les a vus passer au milieu des CRS sans problème" : des militants violents d'ultradroite ont-ils été épargnés par la police lors des manifestations samedi ?
+  https://www.franceinfo.fr/faits-divers/police/on-les-a-vus-passer-au-milieu-des-crs-sans-probleme-la-police-a-t-elle-protege-des-militants-violents-d-ultradroite-lors-des-manifestations-samedi_8254837.html#xtor=RSS-3-%5Bgeneral%5D
+  Plusieurs vidéos montrent des groupuscules d'ultradroite agresser des manifestants dans plusieurs grandes villes, parfois sous les yeux des forces de l'ordre, qui semblent étonnamment passives. Plusieurs responsables po…
+- [26/10 22:42] Ouest-France — Ballon d’or 2026. Unai Simon remporte le trophée Yachine du meilleur gardien, Cata Coll sacrée chez les femmes
+  https://www.ouest-france.fr/sport/football/ballon-d-or/ballon-dor-2026-unai-simon-remporte-le-trophee-yachine-du-meilleur-gardien-cata-coll-sacree-chez-les-femmes-343d2a7e-cf87-11f1-95ba-26d2045f6620?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
+  En marge de la cérémonie du Ballon d’or, Unai Simon a reçu, ce lundi 26 octobre, le trophée Yachine récompensant le meilleur gardien de la saison 2025-2026. Le portier de la Roja championne du monde 2026 devance Safonov…
+- [26/10 22:40] Ouest-France — Points d’avance, scénario catastrophe… Où en est Arthur Fils pour la qualification au Masters de Turin ?
+  https://www.ouest-france.fr/sport/tennis/arthur-fils/points-davance-scenario-catastrophe-ou-en-est-arthur-fils-pour-la-qualification-au-masters-de-turin-a90ff24c-d17a-11f1-a953-ed5fcc297d72?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
+  Alors que la saison de tennis approche de son épilogue, les yeux sont rivés sur le top 8 du classement ATP, qui donnera les participants au Masters de Turin, compétition refermant l’année avec les meilleurs joueurs. Num…
+- [26/10 22:29] Ouest-France — Ballon d’or 2026. Luis de la Fuente remporte le trophée Cruyff du meilleur entraîneur, Pere Romeu sacré chez les femmes
+  https://www.ouest-france.fr/sport/football/ballon-d-or/ballon-dor-2026-luis-de-la-fuente-remporte-le-trophee-cruyff-du-meilleur-entraineur-pere-romeu-sacre-chez-les-femmes-afda7486-d142-11f1-95ba-26d2045f6620?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
+  Luis de la Fuente, aux commandes d’une équipe d’Espagne sacrée championne du monde, a été honoré par le trophée Cruyff du meilleur entraîneur de la saison 2025-2026, à l’occasion de la cérémonie du Ballon d’or, ce lundi…
+- [26/10 22:27] franceinfo — Une commission de l'ONU accuse Israël de commettre des crimes contre l'humanité contre les Palestiniens en Cisjordanie occupée
+  https://www.franceinfo.fr/monde/israel/une-commission-de-l-onu-accuse-israel-de-commettre-des-crimes-contre-l-humanite-contre-les-palestiniens-en-cisjordanie_8254216.html#xtor=RSS-3-[lestitres]
+  Les crimes cités dans le rapport incluent notamment l'extermination, la torture et les violences sexuelles. Israël a immédiatement rejeté les conclusions de la commission, y voyant une "tentative de détruire l'Etat juif…
+- [26/10 22:22] franceinfo — Le PSG s'offre l'OL dans le choc décalé de la 8e journée et prend les commandes de la Ligue 1
+  https://www.franceinfo.fr/sports/foot/psg/le-psg-s-offre-l-ol-dans-le-choc-decale-de-la-8e-journee-et-prend-les-commandes-de-la-ligue-1_8254879.html#xtor=RSS-3-[lestitres]
+  Dominateur et patient, le club de la capitale a fini par faire craquer son adversaire lundi soir (2-0).
+- [26/10 22:21] franceinfo — Donald Trump dénonce des élections "truquées" au Brésil après la défaite de Flavio Bolsonaro
+  https://www.franceinfo.fr/monde/bresil/donald-trump-denonce-des-elections-truquees-au-bresil-apres-la-defaite-de-flavio-bolsonaro_8254870.html#xtor=RSS-3-[lestitres]
+  "Franchement, ça ressemblait à une autre élection truquée", a lancé le président des Etats-Unis, en faisant allusion à sa défaite lors de la présidentielle de 2020 face à Joe Biden.
+- [26/10 22:17] Le Figaro — Ballon d’Or : Lamine Yamal remporte le Trophée Kopa pour la troisième fois consécutive
+  https://www.lefigaro.fr/sports/football/ballon-d-or-lamine-yamal-remporte-le-trophee-kopa-pour-la-troisieme-fois-consecutive-20261026
+  Sans surprise, le prodige du FC Barcelone Lamine Yamal a remporté le trophée de meilleur jeune pour la troisième fois de rang, après 2024 et 2025.
+- [26/10 21:57] Le Monde — Mobilisations sociales : à Marseille, Emmanuel Macron fait le mea culpa de l’Etat
+  https://www.lemonde.fr/politique/article/2026/10/26/mobilisations-sociales-a-marseille-emmanuel-macron-fait-le-mea-culpa-de-l-etat_6800843_823448.html
+  Le président de la République a reconnu le manque d’anticipation des forces de l’ordre et du gouvernement avant le 17 octobre et a souligné la « légitimité » du mouvement social, sans annoncer de mesures claires.
+- [26/10 21:46] franceinfo — Le petit-cousin du prince Albert II de Monaco retrouvé mort dans un parc du Rocher, un homme interpellé
+  https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/alpes-maritimes/menton/monaco-le-petit-cousin-du-prince-retrouve-mort-dans-un-parc-du-rocher-une-enquete-ouverte-3439533.html#xtor=RSS-3-[lestitres]
+  Le couple princier a fait part de sa "tristesse" à l’annonce de la mort d’Antoine de Massy, petit-cousin du prince. Son corps sans vie a été retrouvé dans un parc de la Principauté.
+- [26/10 21:42] franceinfo — Attentat raciste à Trappes : des images de vidéosurveillance montrent le parcours du meurtrier dans une station-service
+  https://www.franceinfo.fr/replay-jt/france-2/20-heures/attentat-raciste-a-trappes-revelations-sur-le-parcours-du-meurtrier-presume_8254756.html#xtor=RSS-3-[lestitres]
+  Ce sont des images difficiles à voir, qui témoignent de la détermination de l'auteur présumé de l'attentat raciste commis dans les Yvelines. Elles sont issues d’une caméra de vidéosurveillance d’une station-service.
+- [26/10 21:25] franceinfo — Lycées, les annonces du gouvernement
+  https://www.franceinfo.fr/societe/education/blocage-des-lycees/lycees-les-annonces-du-gouvernement_8254840.html#xtor=RSS-3-%5Bgeneral%5D
+  Après plus d’un mois de colère lycéenne, le gouvernement a dévoilé plusieurs annonces pour tenter de sortir de la crise: La refonte de la plateforme Parcoursup, un prêt de 4 milliards d’euros de l’Etat aux régions pour…
+- [26/10 21:24] Le Figaro — Trappes : le Parquet national antiterroriste est-il allé trop vite pour se saisir du dossier ?
+  https://www.lefigaro.fr/actualite-france/trappes-le-parquet-national-antiterroriste-est-il-alle-trop-vite-pour-se-saisir-du-dossier-20261026
+  DÉCRYPTAGE - Olivier Christen, le procureur antiterroriste prendra la parole ce lundi en fin de journée pour évoquer les suites de l’attentat de Trappes le 24 octobre dernier.
+- [26/10 21:24] Le Monde — Au Brésil, « la mobilisation spontanée de la “gen Z” a surpris jusqu’aux cadres du Parti des travailleurs de Lula »
+  https://www.lemonde.fr/international/article/2026/10/26/au-bresil-la-mobilisation-spontanee-de-la-gen-z-a-surpris-jusqu-aux-cadres-du-parti-des-travailleurs-de-lula_6800842_3210.html
+  Un sursaut de participation inédit de la jeunesse, porté par une campagne massive sur les réseaux sociaux, a permis au président sortant de renverser une élection qu’il était en passe de perdre face au candidat d’extrêm…
+- [26/10 21:16] franceinfo — Parcoursup : ce qui pourrait changer dès cette année, selon les propositions du gouvernement
+  https://www.franceinfo.fr/societe/education/blocage-des-lycees/parcoursup-ce-qui-pourrait-changer-des-cette-annee-selon-les-propositions-du-gouvernement_8254804.html#xtor=RSS-3-%5Bgeneral%5D
+  Comment le gouvernement compte-t-il réformer la plateforme d'orientation Parcoursup, l'un des symboles de la colère des lycéens, pour qu'elle soit plus juste et moins opaque ?
+- [26/10 21:08] Le Monde — Anthropic dépose son dossier d’introduction en Bourse, une étape clé pour le secteur
+  https://www.lemonde.fr/economie/article/2026/10/26/anthropic-depose-son-dossier-d-introduction-en-bourse-une-etape-cle-pour-le-secteur_6800841_3234.html
+  Dans le « prospectus » de sa future cotation, le géant de l’intelligence artificielle affiche un chiffre d’affaires en très forte croissance, une rentabilité opérationnelle et des projets d’investissements colossaux.
+- [26/10 20:50] Le Monde — Le patron d’Audi critiqué après l’annonce de la construction d’une usine aux Etats-Unis lors d’un meeting de Trump
+  https://www.lemonde.fr/economie/article/2026/10/26/le-patron-d-audi-critique-apres-l-annonce-de-la-construction-d-une-usine-aux-etats-unis-lors-d-un-meeting-de-trump_6800840_3234.html
+  Gernot Döllner, PDG d’Audi, a rejoint Donald Trump sur scène lors d’un rassemblement électoral pour confirmer un projet d’usine en Géorgie. Un choix vivement critiqué au sein du groupe Volkswagen, propriétaire de la mar…
+- [26/10 20:48] Le Monde — Europe 1 mise en demeure par l’Arcom après des propos « de nature à inciter à la haine » tenus à l’antenne par sa présentatrice Christine Kelly
+  https://www.lemonde.fr/economie/article/2026/10/26/europe-1-mise-en-demeure-par-l-arcom-apres-des-propos-de-nature-a-inciter-a-la-haine-tenus-a-l-antenne-par-sa-presentatrice-christine-kelly_6800838_3234.html
+  La présentatrice a tenu, à la fin de janvier, des propos sur les migrants « de nature à inciter à la haine », selon l’Arcom, « sans aucune réaction des autres personnes ». Sur l’échelle des interventions du régulateur,…
+- [26/10 20:31] Le Monde — Venezuela : Corina Machado se dit prête à rencontrer Delcy Rodriguez, qui dénonce son « show »
+  https://www.lemonde.fr/international/article/2026/10/26/venezuela-corina-machado-se-dit-prete-a-rencontrer-delcy-rodriguez-qui-denonce-son-show_6800836_3210.html
+  Accueillie par une foule enthousiaste, Maria Corina Machado pourrait s’adresser prochainement au pays et relancer le dialogue politique avec la présidente par intérim, Delcy Rodriguez.
+- [26/10 20:29] Le Monde — Attentat de Trappes : le PNAT dément que des « tracts » politiques aient été retrouvés « dans le véhicule » du suspect
+  https://www.lemonde.fr/societe/article/2026/10/26/attentat-de-trappes-le-pnat-dement-que-des-tracts-politiques-aient-ete-retrouves-dans-le-vehicule-du-suspect_6800776_3225.html
+  La garde à vue de Kevin T. a repris, lundi, après qu’un expert psychiatre a conclu que son état de santé était compatible avec cette mesure de privation de liberté.
+- [26/10 20:15] Le Monde — Le couvre-feu prolongé à Paris et à Lille, non reconduit à Lyon ; des rassemblements interdits
+  https://www.lemonde.fr/societe/article/2026/10/26/paris-le-couvre-feu-limite-a-republique-et-les-interdictions-de-rassemblement-sont-prolonges_6800833_3224.html
+  Les autorités maintiennent des restrictions de rassemblement dans la capitale et interdisent une manifestation prévue pour mardi dans la ville rhodanienne.
+- [26/10 20:06] Le Monde — Mouvement lycéen et étudiant : l’intersyndicale jeunesse appelle à poursuivre la mobilisation malgré les annonces du gouvernement. Retrouvez les principales informations de la journée.
+  https://www.lemonde.fr/politique/live/2026/10/26/en-direct-mouvement-lyceen-et-etudiant-edouard-geffray-le-ministre-de-l-education-nationale-annonce-un-plafonnement-des-classes-de-seconde-a-28-eleves-maximum_6800604_823448.html
+  La FAGE, l’Union étudiante, l’UNEF et l’Union syndicale lycéenne veulent continuer à « se mobiliser » après leur entrevue avec Sébastien Lecornu et l’annonce de mesures pour faire face à la crise lycéenne, comme le remp…
+- [26/10 20:05] Le Monde — Mobilisation du 24 octobre : de Nice à Rouen, des groupuscules d’extrême droite violents ont déferlé dans les rues
+  https://www.lemonde.fr/pixels/article/2026/10/26/mobilisation-du-24-octobre-de-nice-a-rouen-des-groupuscules-d-extreme-droite-violents-ont-deferle-dans-les-rues_6800832_4408996.html
+  Sur les réseaux sociaux, des militants identitaires et nationalistes-révolutionnaires avaient réagi aux violences survenues le week-end des 17 et 18 octobre en appelant à défendre les commerçants, tout en propageant des…
+- [26/10 20:03] Le Figaro — Émeutes : «Plus jamais de 17 octobre», promet Emmanuel Macron à Marseille
+  https://www.lefigaro.fr/marseille/plus-jamais-de-17-octobre-a-marseille-emmanuel-macron-admet-n-avoir-pas-du-tout-anticipe-les-violences-20261026
+  REPORTAGE - S’il voit s’éloigner le « Marseille en grand » dont il rêvait, le président a profité d’un dix-huitième déplacement en neuf ans dans sa « ville de cœur » pour afficher sa détermination à rétablir le calme pa…
+- [26/10 19:41] Le Figaro — Attaque terroriste dans les Yvelines : la garde à vue de Kevin T. a repris ce jour, le suspect conteste le caractère raciste de la fusillade
+  https://www.lefigaro.fr/faits-divers/attaque-terroriste-dans-les-yvelines-la-garde-a-vue-de-kevin-t-a-repris-ce-jour-le-suspect-conteste-le-caractere-raciste-de-la-fusillade-20261026
+  Après avoir rappelé la chronologie d’un véritable «périple meurtrier» sur 12 kilomètres, en «huit lieux», le procureur de la République antiterroriste a précisé que la garde à vue du suspect peut encore s’étendre pendan…
+- [26/10 19:32] Le Figaro — L’éditorial d’Yves Thréard : «Parcoursup, pas d’avenir sans sélection»
+  https://www.lefigaro.fr/vox/politique/l-editorial-d-yves-threard-parcoursup-pas-d-avenir-sans-selection-20261026
+  La chute vertigineuse du niveau des élèves français dans les classements internationaux, résultat de quarante ans de nivellement par le bas, devrait être l’une de nos premières préoccupations. La France a confondu égali…
+- [26/10 19:30] Le Figaro — «Il est urgent de rétablir l’ordre» : le Sénat prêt à adopter une version renforcée du projet de loi casseurs-payeurs
+  https://www.lefigaro.fr/politique/il-est-urgent-de-retablir-l-ordre-le-senat-pret-a-adopter-une-version-renforcee-du-projet-de-loi-casseurs-payeurs-20261026
+  DÉCRYPTAGE - Après avoir largement amendé le texte du gouvernement en commission des lois, la Chambre haute devrait pouvoir compter sur une majorité claire, mardi soir. Objectif : apporter des réponses sécuritaires et p…
+- [26/10 19:00] Le Figaro — Plus de profs qu’il y a 60 ans, mais un niveau scolaire en baisse : le paradoxe de l’école française
+  https://www.lefigaro.fr/actualite-france/plus-de-profs-qu-il-y-a-60-ans-mais-un-niveau-scolaire-en-baisse-le-paradoxe-de-l-ecole-francaise-20261026
+  DÉCRYPTAGE - Alors que les suppressions de postes suscitent la colère, l’Éducation nationale compte bien davantage d’enseignants que dans les années 1960. Mais cette hausse masque des évolutions contrastées entre le pri…
+- [26/10 18:58] Le Figaro — Face à la jeunesse, de nombreuses concessions de Sébastien Lecornu soumises au bon vouloir du prochain pouvoir
+  https://www.lefigaro.fr/actualite-france/face-a-la-jeunesse-de-nombreuses-concessions-de-sebastien-lecornu-soumises-au-bon-vouloir-du-prochain-pouvoir-20261026
+  DÉCRYPTAGE - Réforme de Parcoursup, recrutements… Le premier ministre a choisi de répondre à la contestation des lycéens et des étudiants. Mais ses mesures dépendent de l’adoption de son budget pour 2027 et des décision…
+- [26/10 18:48] Le Monde — Manifestations du 24 octobre : le parquet ouvre une enquête sur le matraquage de deux personnes par des policiers
+  https://www.lemonde.fr/politique/article/2026/10/26/manifestations-du-24-octobre-le-parquet-ouvre-une-enquete-sur-le-matraquage-de-deux-personnes-par-des-policiers_6800825_823448.html
+  Dans une vidéo postée par un photojournaliste, deux manifestants vêtus de noir et masqués sont poursuivis par plusieurs policiers, qui les plaquent à terre et leur assènent plusieurs coups de matraque.
+- [26/10 18:25] franceinfo — Dans les coulisses du congrès du RN : "On/Off", épisode 5
+  https://www.franceinfo.fr/elections/presidentielle/dans-les-coulisses-du-congres-du-rn-on-off-episode-5_8254183.html#xtor=RSS-3-%5Bgeneral%5D
+  Dans le podcast "On/Off", Neila Latrous (France Télévisions), Jean-Rémi Baudot (franceinfo) et Maxence Lambrecq (France Inter) reviennent sur la semaine politique.
+- [26/10 18:00] Le Monde — « L’attentat de Trappes a été favorisé par un terreau raciste qui s’est installé dans le débat public »
+  https://www.lemonde.fr/idees/article/2026/10/26/l-attentat-de-trappes-a-ete-favorise-par-un-terreau-raciste-qui-s-est-installe-dans-le-debat-public_6800815_3232.html
+  L’attentat perpétré dans deux villes des Yvelines, le 23 octobre, est le reflet d’une vision du monde raciste, véhiculée par des responsables politiques et des médias d’extrême droite, analyse l’historienne de l’art Ann…
+- [26/10 17:45] Le Figaro — «Coup de poignard contre la jeunesse» : la rhétorique de plus en plus musclée du ministre des Comptes publics
+  https://www.lefigaro.fr/economie/coup-de-poignard-contre-la-jeunesse-la-rhetorique-de-plus-en-plus-musclee-du-ministre-des-comptes-publics-20261026
+  DÉCRYPTAGE - Pendant que le vote du budget s’enfonce dans l’impasse, David Amiel tente de défendre sa copie en employant la rhétorique de la guerre des générations.
+- [26/10 17:37] Le Monde — VIDEO Clermont-Ferrand : enquête sur la blessure à la main par une grenade de la police le 24 octobre
+  https://www.lemonde.fr/societe/video/2026/10/26/clermont-ferrand-enquete-sur-la-blessure-a-la-main-par-une-grenade-de-la-police-le-24-octobre_6800811_3224.html
+  Lors de la manifestation de samedi 24 octobre, une grenade GM2L de la police a explosé à côté de deux hommes, selon plusieurs vidéos que « Le Monde » a vérifiées. L’un d’eux est gravement blessé à la main.
+- [26/10 17:23] Le Figaro — Samuel Fitoussi : « Pourquoi la revanche des cancres n’est pas une bonne nouvelle »
+  https://www.lefigaro.fr/vox/societe/samuel-fitoussi-pourquoi-la-revanche-des-cancres-n-est-pas-une-bonne-nouvelle-20261026
+  CHRONIQUE - Le désarroi des mathématiciens dont les champs de recherches ont été anéantis par l’IA suscite la jubilation de certains observateurs. Pourtant, le fait que l’intelligence cesse d’être un facteur de distinct…
+- [26/10 17:00] Le Monde — Budget 2027 : Philippe Juvin, l’urgentiste qui veut stopper l’hémorragie financière
+  https://www.lemonde.fr/politique/article/2026/10/26/budget-2027-philippe-juvin-l-urgentiste-qui-veut-stopper-l-hemorragie-financiere_6800806_823448.html
+  Le débat sur le projet de loi de finances reprend mardi à l’Assemblée nationale. Rapporteur général, le député Les Républicains juge urgent de résorber le déficit pour éviter une crise de la dette. Face aux résistances,…
+- [26/10 16:50] franceinfo — "Historique" : la Serbie a fait sa révolution dans les urnes
+  https://www.franceinfo.fr/monde/europe/historique-la-serbie-a-fait-sa-revolution-dans-les-urnes_8254426.html#xtor=RSS-3-%5Bgeneral%5D
+  La Serbie vient de prendre un virage politique à 180° en plaçant la "liste des étudiants" en tête des suffrages des élections législatives anticipées. Au contraire de son ex-président pro-russe et pro-Orban, qui a dirig…
+- [26/10 16:23] Le Monde — Violences de militants d’ultradroite en marge du 24 octobre : plusieurs enquêtes ouvertes ; « à aucun moment la police ne les a protégés », défend Laurent Nuñez
+  https://www.lemonde.fr/societe/article/2026/10/26/violences-de-militants-d-ultradroite-en-marge-du-24-octobre-plusieurs-enquetes-ouvertes-a-aucun-moment-la-police-ne-les-a-proteges-defend-laurent-nunez_6800799_3224.html
+  La France insoumise a accusé les forces de l’ordre d’avoir « protégé les milices d’extrême droite » durant les manifestations. « Je veux couper court à ces rumeurs : à aucun moment ils n’ont travaillé en concertation av…
+- [26/10 16:15] Le Monde — « La révision constitutionnelle que Marine Le Pen entend mettre en œuvre ferait basculer la France dans le camp des démocraties illibérales »
+  https://www.lemonde.fr/idees/article/2026/10/26/la-revision-constitutionnelle-que-marine-le-pen-entend-mettre-en-uvre-ferait-basculer-la-france-dans-le-camp-des-democraties-illiberales_6800796_3232.html
+  Le professeur de droit public Alexandre Viala revient, dans une tribune au « Monde », sur les tensions entre la candidate du RN à la présidentielle et le Conseil constitutionnel, après qu’elle a exigé la démission du pr…
+- [26/10 16:12] franceinfo — Emmanuel Macron s'attend à "une journée à risques" samedi 31 octobre et annonce que les prochains tracés des manifestations autorisées se situeront hors des centres-villes
+  https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/emmanuel-macron-s-attend-a-une-journee-a-risques-samedi-31-octobre-et-annonce-que-les-prochains-traces-des-manifestations-autorisees-se-situeront-hors-des-centres-villes_8254276.html#xtor=RSS-3-%5Bgeneral%5D
+  Lors d'une visite surprise à Marseille, le chef de l'Etat a aussi reconnu lundi que les effectifs de forces de l'ordre déployés le 17 octobre étaient insuffisants.
+- [26/10 15:11] Le Figaro — «Il est mort parce qu’il est noir, c’est tout» : à la marche en mémoire de Pengo Bossio Wangi, tué par Kévin T. à Trappes
+  https://www.lefigaro.fr/actualite-france/il-est-mort-parce-qu-il-est-noir-c-est-tout-a-la-marche-en-memoire-de-pengo-bossio-wangi-tue-par-kevin-t-a-trappes-20261025
+  REPORTAGE - Ce dimanche, une marche blanche était organisée à Aubervilliers en Seine-Saint-Denis par le club de MMA auquel appartenait le jeune homme tué à Trappes vendredi lors d’un attentat.
+- [26/10 15:10] Le Figaro — «On a appris qu’il avait tourné extrême droite» : Kévin T., le suspect de l’attentat de Trappes, a-t-il été identifié sur la photo d’un groupe propalestinien ?
+  https://www.lefigaro.fr/faits-divers/on-a-appris-qu-il-avait-tourne-extreme-droite-kevin-t-le-suspect-de-l-attentat-de-trappes-a-t-il-ete-identifie-sur-la-photo-d-un-groupe-propalestinien-20261026
+  Trois jours après l’attaque raciste qui a fait un mort et plusieurs blessés graves dans les Yvelines, le profil de Kévin T., qui dit souffrir de schizophrénie, se précise peu à peu.
+- [26/10 14:40] franceinfo — Attentat de Trappes : le RN réagit aux accusations de la gauche
+  https://www.franceinfo.fr/politique/front-national/attentat-de-trappes-le-rn-reagit-aux-accusations-de-la-gauche_8254300.html#xtor=RSS-3-%5Bgeneral%5D
+  Au lendemain du congrès du RN, samedi 24 et dimanche 25 octobre, à Orléans, qui lance la campagne de Marine Le Pen à la présidentielle, Thomas Ménagé, député Rassemblement national du Loiret, a réagi aux accusations de…
+- [26/10 14:39] franceinfo — La parole politique peut-elle nourrir la violence raciste ?
+  https://www.franceinfo.fr/politique/front-national/la-parole-politique-peut-elle-nourrir-la-violence-raciste_8254297.html#xtor=RSS-3-%5Bgeneral%5D
+  Après l'attentat raciste de Trappes, qui a fait un mort et cinq blessés, plusieurs responsables de gauche dénoncent la responsabilité de l'extrême droite et la banalisation des discours racistes.
+- [26/10 13:55] franceinfo — Brésil, Lula, le président de gauche l'emporte face au conservateur Bolsonaro
+  https://www.franceinfo.fr/monde/bresil/bresil-lula-le-president-de-gauche-l-emporte-face-au-conservateur-bolsonaro_8254252.html#xtor=RSS-3-%5Bgeneral%5D
+  Lula, président de gauche au Brésil, décroche un quatrième mandat en s’imposant face au conservateur Flávio Bolsonaro. Avec 51,8 % des voix, contre 48,2 % pour son adversaire, il déjoue les pronostics. Son rival a annon…
+- [26/10 13:35] franceinfo — Après le Parti communiste, les partis LFI et Renaissance sont-ils aussi victimes d'une fuite de données ?
+  https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/apres-le-parti-communiste-la-france-insoumis-est-lui-aussi-victime-d-une-fuite-de-donnees_8254156.html#xtor=RSS-3-%5Bgeneral%5D
+  Selon FrenchBreaches, un site spécialisé, "plus de 1,2 million de données" sont concernées par cette cyberattaque.
+- [26/10 13:30] Le Figaro — Budget : Kasbarian, Thiériot, Alfandari, Verny… À l’Assemblée nationale, quand les libéraux tentent de faire entendre leur voix
+  https://www.lefigaro.fr/politique/budget-kasbarian-thieriot-alfandari-verny-a-l-assemblee-nationale-quand-les-liberaux-tentent-de-faire-entendre-leur-voix-20261026
+  RÉCIT - Au Palais Bourbon, une poignée de députés libéraux essayent, à l’occasion de l’examen budgétaire, de réduire les impôts et la dépense publique. En vain.
+- [26/10 13:10] Le Figaro — Explosion de la rue de Trévise : au procès de la Ville de Paris et du syndic, un dossier très technique et des expertises qui diffèrent
+  https://www.lefigaro.fr/actualite-france/explosion-de-la-rue-de-trevise-au-proces-de-la-ville-de-paris-et-du-syndic-un-dossier-tres-technique-et-des-expertises-qui-different-20261026
+  DÉCRYPTAGE - Les auteurs des expertises pénales et d’une expertise civile, qui divergent sur ce qui a provoqué la cassure de la conduite de gaz qui a causé l’explosion, sont auditionnés à partir de ce lundi, au tribunal…
 - [25/10 23:46] Le Figaro — Ultradroite : une mouvance hétéroclite et des tueurs solitaires et déséquilibrés
   https://www.lefigaro.fr/actualite-france/ultradroite-une-mouvance-heteroclite-et-des-tueurs-solitaires-et-desequilibres-20261025
   DÉCRYPTAGE - Si le djihadisme demeure la menace dominante, l’antiterrorisme alerte depuis des années sur l’ultradroite radicale violente, responsable de fusillades perpétrées par des tueurs racistes, déséquilibrés, armé…
-- [25/10 23:44] Ouest-France — F1. Le classement du championnat du monde des constructeurs après le Grand Prix des États-Unis
-  https://www.ouest-france.fr/sport/formule-1/f1-le-classement-du-championnat-du-monde-des-constructeurs-apres-le-grand-prix-des-etats-unis-59d31c70-d0c3-11f1-95ba-26d2045f6620?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
-  Facile vainqueur du Grand Prix des États-Unis à Austin, dimanche 25 octobre, Kimi Antonelli a fait un immense pas vers le titre de champion du monde des pilotes. Pour celui des constructeurs, malgré la nouvelle contre-p…
-- [25/10 23:42] Le Figaro — «Il est mort parce qu’il est noir, c’est tout» : à la marche en mémoire de Pengo Bossio Wangi, tué par Kévin T. à Trappes
-  https://www.lefigaro.fr/actualite-france/il-est-mort-parce-qu-il-est-noir-c-est-tout-a-la-marche-en-memoire-de-pengo-bossio-wangi-tue-par-kevin-t-a-trappes-20261025
-  REPORTAGE - Ce dimanche, une marche blanche était organisée à Aubervilliers en Seine-Saint-Denis par le club de MMA auquel appartenait le jeune homme tué à Trappes vendredi lors d’un attentat.
-- [25/10 23:14] Ouest-France — VIDÉO. Le but de la victoire de Kylian Mbappé pour le Real Madrid à Barcelone après un gros travail d’Eduardo Camavinga
-  https://www.ouest-france.fr/sport/football/kylian-mbappe/video-le-but-de-la-victoire-de-kylian-mbappe-pour-le-real-madrid-a-barcelone-apres-un-gros-travail-deduardo-camavinga-4601d8d0-d0be-11f1-95ba-26d2045f6620?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
-  À quelques minutes de la fin du temps réglementaire, Kylian Mbappé a redonné l’avantage au Real Madrid face au FC Barcelone, ce dimanche 25 octobre, sur un service de son compatriote Eduardo Camavinga (1-2). Il offre le…
-- [25/10 23:03] franceinfo — Congrès du RN : le maire d'Orléans lève les mesures de restriction dans la ville
-  https://www.franceinfo.fr/elections/presidentielle/direct-congres-du-rn-a-orleans-marine-le-pen-lance-sa-campagne-presidentielle-avec-un-premier-meeting-son-discours-prevu-a-15h30_8252842.html#xtor=RSS-3-%5Bgeneral%5D
-  "C'est une réussite à 100%, la violence de rue n'a pas eu droit de cité à Orléans", s'est réjoui le maire divers droite de la ville, Serge Grouard.
-- [25/10 22:57] franceinfo — Kimi Antonelli remporte le Grand Prix des Etats-Unis mais devra encore attendre pour être sacré champion du monde de F1
-  https://www.franceinfo.fr/sports/auto-moto/formule-1/kimi-antonelli-remporte-le-grand-prix-des-etats-unis-mais-devra-encore-attendre-pour-etre-sacre-champion-du-monde-de-f1_8253559.html#xtor=RSS-3-[lestitres]
-  L'Italien s'est imposé devant Charles Leclerc (Ferrari) et Max Verstappen (Red Bull), dimanche au Texas.
-- [25/10 22:51] Ouest-France — F1. Le classement du championnat du monde des pilotes après la victoire de Kimi Antonelli au Grand Prix des États-Unis
-  https://www.ouest-france.fr/sport/formule-1/f1-le-classement-du-championnat-du-monde-des-pilotes-apres-la-victoire-de-kimi-antonelli-au-grand-prix-des-etats-unis-066bc3a8-d0b3-11f1-95ba-26d2045f6620?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
-  Kimi Antonelli a remporté le Grand Prix des États-Unis, ce dimanche 25 octobre, sur le circuit des Amériques à Austin, devant Charles Leclerc et Max Verstappen. Le pilote italien se rapproche encore un peu plus du titre…
-- [25/10 22:50] Ouest-France — Élections législatives en Serbie : le président Aleksandar Vucic reconnaît sa défaite, liesse populaire dans la rue
-  https://www.ouest-france.fr/economie/service-personne/elections-legislatives-en-serbie-le-president-aleksandar-vucic-reconnait-sa-defaite-f65adac2-d0bb-11f1-95ba-26d2045f6620?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
-  Le président nationaliste Aleksandar Vucic a accepté sa défaite, dimanche 25 octobre 2026. Cette figure dominante de la politique serbe depuis 2014 laisse place à un mouvement hétérogène issu de la société civile sans v…
-- [25/10 22:11] Ouest-France — La Rochelle - UBB. L’hécatombe se poursuit pour le XV de France, Gazzotti et Hastoy sortent blessés
-  https://www.ouest-france.fr/sport/rugby/top-14/top-14-convoque-avec-le-xv-de-france-le-bordelais-marko-gazzotti-touche-a-lischio-droit-contre-la-rochelle-541c12e8-d0b7-11f1-95ba-26d2045f6620?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
-  Convoqués avec le XV de France pour préparer le Championnat des nations, le troisième ligne centre de Bordeaux-Bègles, Marko Gazzotti, et le demi d’ouverture de la Rochelle, Antoine Hastoy, sont sortis blessés, ce diman…
-- [25/10 22:10] Le Figaro — Brésil: la justice prolonge le vote au second tour entre Lula et Bolsonaro
-  https://www.lefigaro.fr/international/des-electeurs-sont-empeches-de-voter-faute-de-bus-dans-plusieurs-villes-du-bresil-denonce-lula-20261025
-  Lula a accusé plusieurs autorités locales de limiter l’accès aux urnes en réduisant les transports en commun. Le camp Bolsonaro a lui aussi saisi la justice, invoquant les fortes pluies qui touchaient certaines régions.
-- [25/10 22:09] Ouest-France — Présidentielle au Brésil : après des problèmes de transport public, le vote est prolongé de deux heures
-  https://www.ouest-france.fr/monde/bresil/presidentielle-au-bresil-apres-des-problemes-de-transport-public-le-vote-est-prolonge-de-deux-heures-45a80584-d0b0-11f1-95ba-26d2045f6620?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
-  Les deux candidats à l’élection présidentielle du Brésil ont tous deux émis des requêtes pour demander la prolongation de l’ouverture des bureaux de vote. Le dépouillement ne débutera qu’à 23 h, heure française.
-- [25/10 22:06] franceinfo — Le Premier ministre serbe Aleksandar Vucic reconnaît sa défaite aux élections législatives anticipées, après 14 ans au pouvoir
-  https://www.franceinfo.fr/monde/europe/le-premier-ministre-serbe-aleksandar-vucic-reconnait-sa-defaite-aux-elections-legislatives-anticipees-apres-14-ans-au-pouvoir_8253550.html#xtor=RSS-3-[lestitres]
-  Il s'incline face à la liste menée par le mouvement étudiant, qui organise des manifestations dans tout le pays depuis deux ans.
-- [25/10 22:04] Le Figaro — Trappes : un homme blessé par balle dans la rue, sans rapport avec l’attentat
-  https://www.lefigaro.fr/faits-divers/trappes-un-homme-blesse-par-balle-dans-la-rue-sans-rapport-avec-l-attentat-20261025
-  La victime se trouvait devant l’Hôpital privé de l’Ouest Parisien (Yvelines) quand il a été touché par balle au niveau des jambes. Une douille de calibre 9 mm a été retrouvée sur les lieux.
-- [25/10 21:55] Le Monde — Serbie : Aleksandar Vucic reconnaît sa défaite aux élections législatives anticipées
-  https://www.lemonde.fr/international/article/2026/10/25/serbie-aleksandar-vucic-reconnait-sa-defaite-aux-elections-legislatives-anticipees_6800116_3210.html
-  Le dirigeant nationaliste a admis, dimanche soir, que le mouvement étudiant avait remporté la victoire, après avoir mené des manifestations pendant deux ans.
-- [25/10 21:53] franceinfo — Tirs dans les Yvelines : la garde à vue du suspect levée pour raisons psychiatriques
-  https://www.franceinfo.fr/replay-jt/france-2/20-heures/tirs-dans-les-yvelines-la-garde-a-vue-du-suspect-levee-pour-raisons-psychiatriques_8253484.html#xtor=RSS-3-[lestitres]
-  Il avait 26 ans, pratiquait le MMA dont il était l’un des espoirs français. Pengo Bossio Wangi a été abattu à Trappes (Yvelines), vendredi 23 octobre. Une marche blanche s’est tenue en hommage au jeune homme ce dimanche…
-- [25/10 20:59] franceinfo — Gilets jaunes, syndicats, lycéens : la mobilisation sociale est-elle partie pour durer ?
-  https://www.franceinfo.fr/replay-jt/france-2/20-heures/gilets-jaunes-syndicats-lyceens-la-mobilisation-sociale-est-elle-partie-pour-durer_8253490.html#xtor=RSS-3-[lestitres]
-  Samedi 24 octobre, une nouvelle journée de mobilisation a rassemblé plusieurs centaines de milliers de Français dans la rue. Ce mouvement est-il parti pour durer ?
-- [25/10 20:57] franceinfo — Congrès du RN : le maire d'Orléans lève les mesures de restriction dans la ville
-  https://www.franceinfo.fr/elections/presidentielle/direct-congres-du-rn-a-orleans-marine-le-pen-lance-sa-campagne-presidentielle-avec-un-premier-meeting-son-discours-prevu-a-15h30_8252842.html#xtor=RSS-3-[lestitres]
-  "C'est une réussite à 100%, la violence de rue n'a pas eu droit de cité à Orléans", s'est réjoui le maire divers droite de la ville, Serge Grouard.
-- [25/10 20:57] Le Monde — EN DIRECT, guerre en Ukraine : Volodymyr Zelensky confirme qu’une réunion entre Russes, Ukrainiens et Américains aura lieu en novembre
-  https://www.lemonde.fr/international/live/2026/10/25/en-direct-guerre-en-ukraine-volodymyr-zelensky-confirme-qu-une-reunion-entre-russes-ukrainiens-et-americains-aura-lieu-en-novembre_6799896_3210.html
-  Dans une interview à la télévision nationale dimanche soir, le président ukrainien a assuré que l’Ukraine était « prête à discuter ». M. Zelensky a appelé à ne pas lever les sanctions contre la Russie avant ces discussi…
-- [25/10 20:53] franceinfo — BFMTV dénonce "une campagne de dénigrement" après des accusations de LFI, qui reproche à la chaîne de propager des propos racistes
-  https://www.franceinfo.fr/economie/medias/bfmtv-denonce-une-campagne-de-denigrement-apres-des-accusations-de-lfi-qui-reprochent-a-la-chaine-de-propager-des-propos-racistes_8253499.html#xtor=RSS-3-[lestitres]
-  "Vous, BFM, commencez à vous calmer sur les remarques racistes de toute sorte, parce que ça commence à bien faire", a déclaré Jean-Luc Mélenchon alors qu'il était interrogé par un journaliste de la chaîne, samedi.
-- [25/10 20:53] franceinfo — BFMTV dénonce "une campagne de dénigrement" après des accusations de LFI, qui reproche à la chaîne de propager des propos racistes
-  https://www.franceinfo.fr/economie/medias/bfmtv-denonce-une-campagne-de-denigrement-apres-des-accusations-de-lfi-qui-reprochent-a-la-chaine-de-propager-des-propos-racistes_8253499.html#xtor=RSS-3-%5Bgeneral%5D
-  "Vous, BFM, commencez à vous calmer sur les remarques racistes de toute sorte, parce que ça commence à bien faire", a déclaré Jean-Luc Mélenchon alors qu'il était interrogé par un journaliste de la chaîne, samedi.
-- [25/10 20:26] Le Figaro — Attaque terroriste dans les Yvelines : des rassemblements lundi dans plusieurs villes, dont Paris
-  https://www.lefigaro.fr/actualite-france/attaque-terroriste-dans-les-yvelines-des-rassemblements-lundi-dans-plusieurs-villes-dont-paris-20261025
-  Des rassemblements pour «dénoncer la banalisation de la haine raciste» devraient également avoir lieu à Saint-André-de-Cubzac (Gironde), Bordeaux, Saint-Étienne, Bourgoin-Jailleux (Isère), Nantes, Marseille, Grenoble, M…
-- [25/10 20:24] Le Monde — EN DIRECT, présidentielle au Brésil : Lula remporte l’élection avec 51,79 % des voix, Flavio Bolsonaro va « demander l’annulation » du scrutin
-  https://www.lemonde.fr/international/live/2026/10/25/en-direct-election-presidentielle-au-bresil-lula-accuse-des-maires-d-empecher-des-electeurs-d-aller-voter-apres-des-penuries-de-bus-dans-plusieurs-villes_6800074_3210.html
-  Le président sortant a été réélu pour un quatrième mandat, après une prolongation inédite de l’ouverture des bureaux de vote par la Cour suprême, en raison de transports publics limités par les maires de certaines ville…
-- [25/10 20:01] Le Monde — Présidentielle 2027 : à Orléans, Marine Le Pen lance sa campagne entre radicalité et « optimisme », dans une ville en état de siège
-  https://www.lemonde.fr/politique/article/2026/10/25/presidentielle-2027-a-orleans-marine-le-pen-lance-sa-campagne-entre-radicalite-et-optimisme-dans-une-ville-en-etat-de-siege_6800113_823448.html
-  La candidate du Rassemblement national a réuni plus de 8 000 soutiens, dimanche 25 octobre, en périphérie de la préfecture du Loiret, mise sous cloche.
-- [25/10 19:58] franceinfo — Après l'attaque terroriste dans les Yvelines, des rassemblements contre le racisme organisés partout en France
-  https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/apres-l-attaque-terroriste-dans-les-yvelines-des-rassemblements-contre-le-racisme-organises-partout-en-france_8253274.html#xtor=RSS-3-[lestitres]
-  Une marche blanche a rassemblé dimanche plusieurs centaines de personnes, venues défiler à Aubervilliers pour rendre hommage au jeune homme tué vendredi à Trappes. D'autres rassemblements auront lieu dans les jours qui…
-- [25/10 19:55] Le Figaro — «Il est où le cortège ?» : les dessous de l’interdiction in extremis du parcours de la manifestation à Paris
-  https://www.lefigaro.fr/actualite-france/il-est-ou-le-cortege-les-dessous-de-l-interdiction-in-extremis-du-parcours-de-la-manifestation-a-paris-20261025
-  RÉCIT - Au grand dam des organisateurs de l’«acte II» de la mobilisation contre la vie chère, la préfecture a interdit au dernier moment le parcours initial dans le centre-ville pour imposer une déambulation en bordure…
-- [25/10 19:55] Le Figaro — Présidentielle 2027 : Marine Le Pen réorganise son parti et lance sa campagne à Orléans
-  https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-marine-le-pen-reorganise-son-parti-et-lance-sa-campagne-a-orleans-20261025
-  RÉCIT - Devant près de 8500 personnes, la candidate du Rassemblement national propose une « renaissance » de la France, promettant d’inscrire la « communauté nationale » dans la Constitution et de mettre en place un gou…
-- [25/10 19:55] Le Figaro — Congrès du RN : Sébastien Chenu dénonce « cette extrême gauche », qui « met de l’huile sur le feu »
-  https://www.lefigaro.fr/elections/presidentielles/congres-du-rn-sebastien-chenu-denonce-cette-extreme-gauche-qui-met-de-l-huile-sur-le-feu-20261025
-  Invité dimanche soir du « Grand Oral BFMTV-Le Figaro », le nouveau président du groupe RN à l’Assemblée, Sébastien Chenu, a dressé un bilan flatteur du week-end orléanais, mais a refusé de remercier l’État pour sa sécur…
-- [25/10 19:47] franceinfo — À Trappes, un homme blessé par balles à la jambe, son pronostic vital n'est pas engagé, le tireur en fuite
-  https://www.franceinfo.fr/faits-divers/a-trappes-un-homme-blesse-par-balles-a-la-jambe-son-pronostic-vital-n-est-pas-engage-le-tireur-en-fuite_8253463.html#xtor=RSS-3-[lestitres]
-  Une marche blanche en hommage à Volkan, un homme de 23 ans tué en septembre dernier, se tenait dans la ville, dimanche. Le lien entre cette marche et les faits n'est pas avéré, selon une source policière.
-- [25/10 19:43] Le Monde — Attentat raciste de Trappes : plusieurs centaines de personnes à la marche blanche en hommage à Pengo Bossio Wangi
-  https://www.lemonde.fr/societe/article/2026/10/25/attentat-raciste-de-trappes-plusieurs-centaines-de-personnes-a-la-marche-blanche-en-hommage-a-pengo-bossio-wangi_6800112_3224.html
-  Cette marche à Aubervilliers, où la victime pratiquait les arts martiaux mixtes, a réuni famille, amis, élus et des centaines d’anonymes. Des rassemblements en soutien des victimes auront lieu lundi dans plusieurs ville…
-- [25/10 19:42] franceinfo — L'opposante vénézuélienne et prix Nobel de la paix Maria Corina Machado annonce être de retour dans son pays
-  https://www.franceinfo.fr/monde/venezuela/l-opposante-et-prix-nobel-de-la-paix-maria-corina-machado-annonce-etre-de-retour-au-venezuela_8253460.html#xtor=RSS-3-[lestitres]
-  Exilée au Panama, la femme politique de 60 ans avait déjà tenté au moins à sept reprises de rentrer dans son pays, sans y parvenir, selon des sources de son parti.
-- [25/10 19:40] Le Monde — En Algérie, le Parlement autorise l’envoi d’unités militaires au Niger
-  https://www.lemonde.fr/afrique/article/2026/10/25/en-algerie-le-parlement-autorise-l-envoi-d-unites-militaires-au-niger_6800111_3212.html
-  Le déploiement de l’armée algérienne sur le théâtre nigérien, validé dimanche par les députés et les sénateurs, enterre plus de six décennies de doctrine de non-intervention du pays hors de ses frontières. Il promet de…
-- [25/10 19:39] Le Figaro — Violences du 17 octobre : dans les Hauts-de-Seine, le préfet veut expulser un pilleur et ses proches de leur logement social
-  https://www.lefigaro.fr/faits-divers/violences-du-17-octobre-dans-les-hauts-de-seine-le-prefet-veut-expulser-un-pilleur-et-ses-proches-de-leur-logement-social-20261023
-  INFO LE FIGARO - Condamné mardi pour le vol d’un sac de luxe à Paris, Sidi C., 25 ans, occupe un logement social à Asnières-sur-Seine avec ses proches, eux aussi multicondamnés. Alexandre Brugère veut s’appuyer sur cett…
-- [25/10 19:34] franceinfo — "On a gagné la bataille des idées" : à Orléans, Marine Le Pen lance sa campagne dans une ville sous haute surveillance
-  https://www.franceinfo.fr/politique/marine-le-pen/reportage-on-a-gagne-la-bataille-des-idees-a-orleans-marine-le-pen-lance-sa-campagne-dans-une-ville-sous-haute-surveillance_8252908.html#xtor=RSS-3-[lestitres]
-  Pour sa quatrième candidature, la patronne du Rassemblement national a lancé sa campagne dimanche lors d'un meeting à Orléans, accompagnée par Jordan Bardella et Eric Ciotti.
-- [25/10 19:34] franceinfo — REPORTAGE. "On a gagné la bataille des idées" : à Orléans, Marine Le Pen lance sa campagne dans une ville sous haute surveillance
-  https://www.franceinfo.fr/politique/marine-le-pen/reportage-on-a-gagne-la-bataille-des-idees-a-orleans-marine-le-pen-lance-sa-campagne-dans-une-ville-sous-haute-surveillance_8252908.html#xtor=RSS-3-%5Bgeneral%5D
-  Pour sa quatrième candidature, la patronne du Rassemblement national a lancé sa campagne dimanche lors d'un meeting à Orléans, accompagnée par Jordan Bardella et Eric Ciotti.
-- [25/10 19:30] Le Figaro — Manifestations, dette… Petite éclaircie pour l’exécutif, ballotté de crise en crise
-  https://www.lefigaro.fr/elections/presidentielles/manifestations-dette-petite-eclaircie-pour-l-executif-ballotte-de-crise-en-crise-20261025
-  DÉCRYPTAGE - La bonne tenue des cortèges et l’absence de dégradation de l’agence de notation Moody’s offrent un répit relatif à l’exécutif. Mais l’attentat raciste de Trappes accentue les fractures du pays.
-- [25/10 19:29] Le Monde — Lille et Monaco se neutralisent, Rennes en profite pour prendre provisoirement la tête de la Ligue 1
-  https://www.lemonde.fr/sport/article/2026/10/25/lille-et-monaco-se-neutralisent-rennes-en-profite-pour-prendre-provisoirement-la-tete-de-la-ligue-1_6800110_3242.html
-  Fort de son succès face à Strasbourg (3-0), dimanche, le Stade Rennais occupe la première place du championnat de France de football, en attendant le match de clôture de la 8ᵉ journée opposant le PSG à l’OL, lundi, au P…
-- [25/10 19:20] franceinfo — Rennes prend provisoirement les commandes de la Ligue 1 après sa victoire contre Strasbourg, l'OM se fait peur contre le Havre
-  https://www.franceinfo.fr/sports/foot/ligue-1/rennes-prend-provisoirement-les-commandes-de-la-ligue-1-apres-sa-victoire-contre-strasbourg-l-om-se-fait-peur-contre-le-havre_8253424.html#xtor=RSS-3-[lestitres]
-  Les Rennais se sont imposés 3-0 contre les Strasbourgeois, dimanche soir, et prennent provisoirement la tête du championnat en attendant le choc entre le PSG et Lyon, lundi.
-- [25/10 19:11] Le Monde — Ce qu’il faut retenir de l’actualité du week-end des 24 et 25 octobre
-  https://www.lemonde.fr/les-decodeurs/article/2026/10/25/ce-qu-il-faut-retenir-de-l-actualite-du-week-end-des-24-et-25-octobre_6800109_4355770.html
-  Vous n’avez pas suivi l’actualité ces derniers jours ? Voici ce qu’il s’est passé pendant ces dernières quarante-huit heures.
-- [25/10 19:05] Le Figaro — Attaque terroriste dans les Yvelines : Kevin T., tueur d’ultradroite ou schizophrène irresponsable ?
-  https://www.lefigaro.fr/actualite-france/attaque-terroriste-dans-les-yvelines-kevin-t-tueur-d-ultradroite-ou-schizophrene-irresponsable-20261025
-  DÉCRYPTAGE - La garde à vue de l’auteur de la fusillade du vendredi 23 octobre, qui souffrirait de schizophrénie, a été levée samedi soir pour un examen psychiatrique. De son résultat dépendra le destin judiciaire du te…
-- [25/10 19:00] Le Monde — « L’enjeu est existentiel ! » : des milliers d’Israéliens établis à l’étranger affluent dans le pays pour voter aux élections législatives du 27 octobre
-  https://www.lemonde.fr/international/article/2026/10/25/l-enjeu-est-existentiel-des-milliers-d-israeliens-etablis-a-l-etranger-affluent-dans-le-pays-pour-voter-aux-elections-legislatives-du-27-octobre_6800108_3210.html
-  Le vote n’étant pas permis à distance, même dans les ambassades, de nombreux expatriés israéliens ont pris des vols pour participer au scrutin. La mobilisation s’annonce particulièrement forte chez les opposants de Beny…
-- [25/10 18:46] franceinfo — Congrès du RN à Orléans : le discours de Jordan Bardella a été interrompu par des militants de l'Union des étudiants juifs de France
-  https://www.franceinfo.fr/politique/front-national/congres-du-rn-a-orleans-le-discours-de-jordan-bardella-a-ete-interrompu-par-des-militants-de-l-union-des-etudiants-juifs-de-france_8253304.html#xtor=RSS-3-[lestitres]
-  Plusieurs opposants ont déployé une banderole au moment où le président du RN prenait la parole, dimanche. Ils ont alors été violemment pris à partie par des militants RN.
-- [25/10 18:46] franceinfo — Congrès du RN à Orléans : le discours de Jordan Bardella a été interrompu par des militants de l'Union des étudiants juifs de France
-  https://www.franceinfo.fr/politique/front-national/congres-du-rn-a-orleans-le-discours-de-jordan-bardella-a-ete-interrompu-par-des-militants-de-l-union-des-etudiants-juifs-de-france_8253304.html#xtor=RSS-3-%5Bgeneral%5D
-  Plusieurs opposants ont déployé une banderole au moment où le président du RN prenait la parole, dimanche. Ils ont alors été violemment pris à partie par des militants RN.
-- [25/10 18:30] Le Monde — « L’usine Chemours a apporté des emplois. Mais à quel prix ? » : les PFAS et leurs dégâts au cœur du récit « Facteur X » dont « Le Monde » dévoile les extraits
-  https://www.lemonde.fr/idees/article/2026/10/25/l-usine-chemours-a-apporte-des-emplois-mais-a-quel-prix-les-pfas-et-leurs-degats-au-c-ur-du-recit-facteur-x-dont-le-monde-devoile-les-extraits_6800107_3232.html
-  Dans un livre-enquête incarné par nombre de rencontres, à paraître le 29 octobre aux éditions Les Arènes, la militante pour le climat Camille Etienne plonge dans l’histoire de l’industrie de la chimie et de ses conséque…
-- [25/10 18:10] Le Monde — Congrès du RN : pour son premier discours de campagne, Marine Le Pen dit vouloir présider à la « renaissance » de la France
-  https://www.lemonde.fr/politique/article/2026/10/25/congres-du-rn-pour-son-premier-discours-de-campagne-marine-le-pen-dit-vouloir-presider-a-la-renaissance-de-la-france_6800086_823449.html
-  Des opposants au parti d’extrême droite ont été soigneusement tenus à distance du meeting par les 3 000 policiers et gendarmes déployés tout le week-end dans une ville qui s’était barricadée par crainte des débordements.
-- [25/10 18:06] franceinfo — Congrès du RN : Marine Le Pen promet un gouvernement "d'union nationale", "pluraliste" et dirigé par Jordan Bardella
-  https://www.franceinfo.fr/politique/front-national/congres-du-rn-marine-le-pen-promet-un-gouvernement-d-union-nationale-pluraliste-et-dirige-par-jordan-bardella_8253364.html#xtor=RSS-3-%5Bgeneral%5D
-  "L'Etat que nous voulons ne sera pas RN mais ce sera une œuvre collective, une œuvre, certes patriote, mais pas partisane", a assuré la candidate d'extrême droite.
-- [25/10 17:35] Le Monde — L’opposante Maria Corina Machado annonce être de retour au Venezuela
-  https://www.lemonde.fr/international/article/2026/10/25/l-opposante-maria-corina-machado-annonce-etre-de-retour-au-venezuela_6800104_3210.html
-  La cheffe de l’opposition vénézuélienne et Prix Nobel de la paix était en exil depuis près d’un an. Son allié et ex-candidat à la présidence, Edmundo Gonzalez Urrutia, a salué son retour.
-- [25/10 17:30] Le Monde — Le rêve cabossé d’Hollywood face à l’IA : « Tout le monde l’utilise, mais personne ne veut en parler »
-  https://www.lemonde.fr/international/article/2026/10/25/le-reve-cabosse-d-hollywood-face-a-l-ia-tout-le-monde-l-utilise-mais-personne-ne-veut-en-parler_6800103_3210.html
-  « Sur la Route 66, pouls de l’Amérique » (6/6). Déclin des studios mythiques aux tournages trop coûteux, déploiement du streaming, arrivée de l’intelligence artificielle : le fief américain de l’industrie du divertissem…
-- [25/10 17:00] Le Monde — Peut-on laisser nos filles porter des crop tops ?
-  https://www.lemonde.fr/intimites/article/2026/10/25/peut-on-laisser-nos-filles-porter-des-crop-tops_6800099_6190330.html
-  « Le dilemme. » On a beau se revendiquer progressiste, voire féministe, des « Tu ne vas pas t’habiller comme ça ? » s’échappent parfois. Non pas à destination d’un ado au jean tombant sous les fesses, mais d’une ado ven…
-- [25/10 17:00] Le Monde — « La social-démocratie en France n’a pas pris la mesure du rejet qu’elle suscite ni de sa responsabilité dans la droitisation des valeurs »
-  https://www.lemonde.fr/idees/article/2026/10/25/la-social-democratie-en-france-n-a-pas-pris-la-mesure-du-rejet-qu-elle-suscite-ni-de-sa-responsabilite-dans-la-droitisation-des-valeurs_6800096_3232.html
-  L’absence d’un socialisme réformateur dans le paysage politique français alimente un désir de rupture, de repli et de radicalisation à droite, analyse, dans une tribune au « Monde », l’économiste Olivier Passet.
-- [25/10 16:02] Le Monde — Après l’attentat raciste de Trappes, le maire, Ali Rabeh déclare : « Le président de la République n’a pas été le protecteur qu’il aurait dû être »
-  https://www.lemonde.fr/politique/article/2026/10/25/apres-l-attentat-raciste-de-trappes-le-maire-ali-rabeh-le-president-de-la-republique-n-a-pas-ete-le-protecteur-qu-il-aurait-du-etre_6800093_823448.html
-  Dans un entretien au « Monde », Ali Rabeh (Génération.s), 41 ans, réélu en mars, déplore notamment que les discours d’extrême droite aient « fini par pénétrer l’inconscient collectif », et estime ressentir un « climat d…
-- [25/10 16:00] Le Figaro — Entraide, autonomie et respect des autres : en immersion dans la plus petite école de France
-  https://www.lefigaro.fr/actualite-france/entraide-autonomie-et-respect-des-autres-en-immersion-dans-la-plus-petite-ecole-de-france-20261025
-  REPORTAGE - À l’occasion de la sortie, le 4 novembre, de Ma toute petite école, le documentaire de Pascal Plisson, nous avons gagné le hameau de La Gurraz, en Savoie, à la rencontre des héros du film : six élèves réunis…
-- [25/10 15:56] franceinfo — Congrès du RN à Orléans : une centaine de militants antifascistes se sont rassemblés en dépit des interdictions
-  https://www.franceinfo.fr/politique/front-national/congres-du-rn-a-orleans-une-centaine-de-militants-antifascistes-se-sont-rassembles-en-depit-des-interdictions_8253235.html#xtor=RSS-3-%5Bgeneral%5D
-  Marine Le Pen a prononcé son premier grand discours de campagne dans la ville du Loiret, dimanche après-midi.
-- [25/10 15:24] franceinfo — Un bus de militants en partance pour le congrès du RN à Orléans pris pour cible à Grenoble
-  https://www.franceinfo.fr/faits-divers/un-bus-de-militants-en-partance-pour-le-congres-du-rn-a-orleans-pris-pour-cible-a-grenoble_8253211.html#xtor=RSS-3-%5Bgeneral%5D
-  Selon le parquet de Grenoble, qui a ouvert une enquête, une dizaine d'individus "cagoulés et armés de barres de fer" ont brisé les vitres du véhicule.
-- [25/10 15:11] Le Monde — Manifestations du 24 octobre : enquête ouverte à Nice contre des membres de la mouvance d’ultradroite après des agressions de manifestants
-  https://www.lemonde.fr/societe/article/2026/10/25/manifestations-du-24-octobre-enquete-ouverte-a-nice-contre-des-membres-de-la-mouvance-d-ultradroite-apres-des-agressions-de-manifestants_6800088_3224.html
-  Parmi les 59 personnes placées en garde à vue samedi à la suite des manifestations, figurent 11 individus susceptibles d’appartenir à la mouvance d’ultradroite, selon le parquet.
-- [25/10 14:52] Le Figaro — «N’en déplaise aux bourgeois, c’était magnifique» : plongée dans l’ultragauche, accusée d’avoir ouvert la brèche des violences du 17 octobre
-  https://www.lefigaro.fr/actualite-france/n-en-deplaise-aux-bourgeois-c-etait-magnifique-plongee-dans-l-ultragauche-accusee-d-avoir-ouvert-la-breche-des-violences-du-17-octobre-20261024
-  ENQUÊTE - Le gouvernement a clairement imputé la responsabilité des violences survenues ce week-end à «l’ultragauche», accusant LFI d’avoir soufflé sur les braises. Le Figaro s’est penché sur cette nébuleuse suspectée p…
-- [25/10 14:21] Le Figaro — Interpellations, incendies, pillages… Les chiffres du grand écart entre deux samedis de mobilisations
-  https://www.lefigaro.fr/actualite-france/interpellations-incendies-pillages-les-chiffres-du-grand-ecart-entre-deux-samedis-de-mobilisations-20261025
-  Au lendemain d’une nouvelle journée de manifestations, le ministre de l’Intérieur a dressé un bilan provisoire des dégradations.
-- [25/10 14:14] franceinfo — "Il y a une responsabilité politico-médiatique qui arme aussi le coupable" de l'attaque terroriste dans les Yvelines, affirme Mathilde Panot
-  https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/il-y-a-une-responsabilite-politico-mediatique-qui-arme-aussi-le-coupable-de-l-attaque-terroriste-dans-les-yvelines-affirme-mathilde-panot_8253142.html#xtor=RSS-3-%5Bgeneral%5D
-  La présidente du groupe LFI à l'Assemblée nationale était dimanche l'invitée de l'émission "Franc-Jeu" sur France Inter et France 2.
-- [25/10 14:00] Le Monde — Attentat de Trappes : du racisme au terrorisme, une responsabilité collective
-  https://www.lemonde.fr/idees/article/2026/10/25/attentat-de-trappes-du-racisme-au-terrorisme-une-responsabilite-collective_6800082_3232.html
-  Le périple meurtrier de l’homme soupçonné d’avoir tué une personne et d’en avoir blessé cinq autres, dans les Yvelines, vendredi, survient dans une campagne présidentielle polarisée, où les invectives le disputent à la…
-- [25/10 14:00] Le Figaro — Dans le « Texas landais » et dans la Marne, l’incroyable mais courte saga du pétrole français
-  https://www.lefigaro.fr/actualite-france/dans-le-texas-landais-et-dans-la-marne-l-incroyable-mais-courte-saga-du-petrole-francais-20261025
-  REPORTAGE - À chaque crise pétrolière, on redécouvre tout l’intérêt de la minuscule production française. Sa fin a été programmée pour 2040 par la loi Hulot de 2017. Est-ce une bonne idée ? Dans les Landes et dans la Ma…
-- [25/10 13:27] Le Monde — Législatives en Serbie : les serbes se déplacent aux urnes en images
-  https://www.lemonde.fr/international/video/2026/10/25/legislatives-en-serbie-les-serbes-se-rendent-dans-les-bureaux-de-vote-en-images_6800081_3210.html
-  Ce dimanche 25 octobre, les serbes votent dans le cadre des élections législatives anticipées pour élire leur nouveau premier ministre.
-- [25/10 11:56] Le Monde — Manifestations du 24 octobre : 1 314 personnes interpellées dans toute la France, annonce le ministère de l’intérieur
-  https://www.lemonde.fr/politique/article/2026/10/25/manifestations-du-24-octobre-1-314-personnes-interpellees-dans-toute-la-france-annonce-le-ministere-de-l-interieur_6800057_823449.html
-  « Plusieurs enquêtes ont été ouvertes », a annoncé dimanche le ministère, qui fait état de 53 membres des forces de l’ordre blessés et 24 commerces pillés, mais ne donne pas plus de détails sur l’objet des enquêtes ni l…
-- [25/10 11:53] franceinfo — “Sans Emmanuel Macron, Marine Le Pen aurait été présidente en 2017” explique Sandro Gozi, député européen Renew
-  https://www.franceinfo.fr/politique/emmanuel-macron/sans-emmanuel-macron-marine-le-pen-aurait-ete-presidente-en-2017-explique-sandro-gozi-depute-europeen-renew_8253007.html#xtor=RSS-3-%5Bgeneral%5D
-  “Sans Emmanuel Macron, Marine Le Pen aurait été présidente en 2017” explique ce dimanche Sandro Gozi, député européen Renew et conseiller de Paris dans le 8.30 franceinfo, Interrogé par Camille Girerd et Benjamin Recouv…
-- [25/10 11:44] Le Figaro — Des cortèges calmes, moins de casse, des heurts contenus… Une nouvelle journée de mobilisation sous haute surveillance partout en France
-  https://www.lefigaro.fr/actualite-france/des-corteges-calmes-moins-de-casse-des-heurts-contenus-une-nouvelle-journee-de-mobilisation-sous-haute-surveillance-partout-en-france-20261024
-  REPORTAGE - Une semaine après les scènes de chaos du 17 octobre, les manifestations contre la vie chère se sont déroulées dans un calme relatif ce samedi. Malgré des affrontements en fin de cortège dans plusieurs grande…
-- [25/10 10:15] franceinfo — REPORTAGE. "Des raisons pour que Lula reste, il n'y en a pas" : au Brésil, un scrutin présidentiel incertain dans un pays profondément divisé
-  https://www.franceinfo.fr/monde/bresil/reportage-des-raisons-pour-que-lula-reste-il-n-y-en-a-pas-au-bresil-un-scrutin-presidentiel-incertain-dans-un-pays-profondement-divise_8252848.html#xtor=RSS-3-%5Bgeneral%5D
-  Pour le second tour de l'élection présidentielle, dimanche, Lula et Flavio Bolsonaro sont au coude-à-coude, sans favori clairement désigné par les derniers sondages. Dans un pays profondément divisé, les partisans des d…
-- [25/10 08:30] Le Figaro — «C’est normal que les députés sèchent» : à l’Assemblée, comment le chaudron budgétaire s’est transformé en petite bouilloire
-  https://www.lefigaro.fr/politique/c-est-normal-que-les-deputes-sechent-a-l-assemblee-comment-le-chaudron-budgetaire-s-est-transforme-en-petite-bouilloire-20261025
-  RÉCIT - Alors que les parlementaires débattent depuis deux semaines des textes budgétaires, nombre d’élus ne cachent pas leur exaspération quant au travail souvent vain qu’on leur demande de fournir.
-- [25/10 08:28] franceinfo — Comment Marine Le Pen, plus optimiste que jamais pour 2027, veut prendre de la hauteur et installer sa "force tranquille"
-  https://www.franceinfo.fr/politique/marine-le-pen/comment-marine-le-pen-plus-optimiste-que-jamais-pour-2027-veut-prendre-de-la-hauteur-et-installer-sa-force-tranquille_8252809.html#xtor=RSS-3-%5Bgeneral%5D
-  Avec son discours dimanche à Orléans, la candidate du RN entend insuffler de l'optimisme dans un monde chaotique. Et installer encore un peu plus dans l'opinion son statut de favorite du scrutin présidentiel.
-- [25/10 08:24] Le Monde — Manifestations : Olivier Faure (PS) appelle à « répondre aux revendications » ; Laurent Marcangeli (Horizons) suggère de faire payer les dégradations par LFI
-  https://www.lemonde.fr/politique/article/2026/10/25/manifestations-le-patron-des-deputes-horizons-laurent-marcangeli-suggere-de-faire-payer-les-degradations-par-lfi-jugeant-le-mouvement-solidaire-des-casseurs_6800056_823448.html
-  Alors que les violences et les pillages survenus le 17 octobre ont alimenté les débats politiques ces derniers jours, le premier secrétaire du Parti socialiste a regretté que les mobilisations soient traitées comme un s…
-- [25/10 05:30] Le Monde — « Le désir de dissimuler la science “indésirable” en dit long sur la pente trumpiste que dévale la vie politique française »
-  https://www.lemonde.fr/idees/article/2026/10/25/le-desir-de-dissimuler-la-science-indesirable-en-dit-long-sur-la-pente-trumpiste-que-devale-la-vie-politique-francaise_6800036_3232.html
-  Dans sa chronique, Stéphane Foucart, journaliste au « Monde » se penche sur une « note scientifique » faisant état de fortes préoccupations quant aux effets sanitaires et environnementaux de l’acétamipride. Celle-ci n’a…
-- [25/10 05:30] Le Monde — Mobilisation sociale : « Les syndicats, qui devaient canaliser la colère, ne jouent plus leur rôle »
-  https://www.lemonde.fr/idees/article/2026/10/25/mobilisation-sociale-les-syndicats-qui-devaient-canaliser-la-colere-ne-jouent-plus-leur-role_6800034_3232.html
-  Les débordements observés dans les manifestations s’expliquent d’abord par la dérive de notre modèle social, qui a entraîné une baisse du taux de syndicalisation, rappellent les économistes Pierre Cahuc et André Zylberb…
-- [25/10 05:00] Le Monde — A Orléans, une manifestation antifasciste empreinte de gravité et marquée par la division des gauches
-  https://www.lemonde.fr/politique/article/2026/10/25/a-orleans-une-manifestation-antifasciste-empreinte-de-gravite-et-marquee-par-la-division-des-gauches_6799962_823448.html
-  L’attentat raciste de Trappes (Yvelines) et l’urgence de s’unir contre l’extrême droite étaient dans tous les esprits à la manifestation de samedi contre le congrès du RN, dans la préfecture du Loiret. Mais les dissensi…
 
 ## Gendarmerie-police-justice
-- [25/10 21:53] franceinfo — VIDEO. Tirs dans les Yvelines : la garde à vue du suspect levée pour raisons psychiatriques
-  https://www.franceinfo.fr/replay-jt/france-2/20-heures/tirs-dans-les-yvelines-la-garde-a-vue-du-suspect-levee-pour-raisons-psychiatriques_8253484.html#xtor=RSS-3-%5Bgeneral%5D
-  Il avait 26 ans, pratiquait le MMA dont il était l’un des espoirs français. Pengo Bossio Wangi a été abattu à Trappes (Yvelines), vendredi 23 octobre. Une marche blanche s’est tenue en hommage au jeune homme ce dimanche…
-- [25/10 21:51] franceinfo — "Il n'y a pas de coupable dans ces choses-là" : après la mort d’une jeune joueuse de rugby, son père témoigne
-  https://www.franceinfo.fr/replay-jt/france-2/20-heures/il-n-y-a-pas-de-coupable-dans-ces-choses-la-apres-la-mort-d-une-jeune-joueuse-de-rugby-son-pere-temoigne_8253523.html#xtor=RSS-3-%5Bgeneral%5D
-  Cléa, âgée de 17 ans, est morte cette semaine après un violent choc à la tête alors qu’elle disputait avec son équipe un match de rugby, samedi 17 octobre. Ce drame a provoqué une vive émotion dans le monde du ballon ov…
-- [25/10 21:49] franceinfo — "C'est pour garder une certaine distance" : l'arsenal des forces de l'ordre remis en question durant les mobilisations contre la vie chère
-  https://www.franceinfo.fr/replay-jt/france-2/20-heures/c-est-pour-garder-une-certaine-distance-l-arsenal-des-forces-de-l-ordre-remis-en-question_8253505.html#xtor=RSS-3-%5Bgeneral%5D
-  Depuis le début du mouvement social initié par les lycéens, la stratégie du maintien de l’ordre mise en place par le ministère de l’Intérieur a été questionnée. Au cœur des critiques : les armes dites intermédiaires, la…
-- [25/10 19:58] franceinfo — Après l'attaque terroriste dans les Yvelines, des rassemblements contre le racisme organisés partout en France
-  https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/apres-l-attaque-terroriste-dans-les-yvelines-des-rassemblements-contre-le-racisme-organises-partout-en-france_8253274.html#xtor=RSS-3-%5Bgeneral%5D
-  Une marche blanche a rassemblé dimanche plusieurs centaines de personnes, venues défiler à Aubervilliers pour rendre hommage au jeune homme tué vendredi à Trappes. D'autres rassemblements auront lieu dans les jours qui…
-- [25/10 19:47] franceinfo — À Trappes, un homme blessé par balles à la jambe, son pronostic vital n'est pas engagé, le tireur en fuite
-  https://www.franceinfo.fr/faits-divers/a-trappes-un-homme-blesse-par-balles-a-la-jambe-son-pronostic-vital-n-est-pas-engage-le-tireur-en-fuite_8253463.html#xtor=RSS-3-%5Bgeneral%5D
-  Une marche blanche en hommage à Volkan, un homme de 23 ans tué en septembre dernier, se tenait dans la ville, dimanche. Le lien entre cette marche et les faits n'est pas avéré, selon une source policière.
-- [25/10 18:02] franceinfo — REPORTAGE. "Tu resteras à jamais dans nos cœurs" : à Aubervilliers, des centaines de personnes à la marche blanche en hommage à Pengo Bossio Wangi, tué à Trappes
-  https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/reportage-tu-resteras-a-jamais-dans-nos-c-urs-a-aubervilliers-des-centaines-de-personnes-a-la-marche-blanche-en-hommage-a-pengo-bossio-wangi-tue-a-trappes_8253328.html#xtor=RSS-3-%5Bgeneral%5D
-  L'homme de 26 ans, tué lors de l'attentat terroriste et raciste à Trappes vendredi, évoluait dans un club de MMA d'Aubervilliers, dont le fondateur est à l'origine de ce rassemblement.
-- [25/10 16:32] franceinfo — Incendie de la mairie de Limoges : "Un formidable élan de générosité", se réjouit la Fondation du patrimoine avec plus de 543 000 euros récoltés
-  https://www.franceinfo.fr/faits-divers/incendie-de-la-mairie-de-limoges-un-formidable-elan-de-generosite-se-rejouit-la-fondation-du-patrimoine-avec-plus-de-543-000-euros-recoltes_8253259.html#xtor=RSS-3-%5Bgeneral%5D
-  Les fonds récoltés permettront de financer la reconstruction de la mairie de Limoges, incendiée lors de la mobilisation du 17 octobre.
-- [25/10 15:57] franceinfo — Attentat raciste à Trappes : la garde à vue du tireur levée pour motif psychiatrique
-  https://www.franceinfo.fr/replay-jt/france-2/13-heures/attentat-raciste-a-trappes-la-garde-a-vue-du-tireur-levee-pour-motif-psychiatrique_8253151.html#xtor=RSS-3-%5Bgeneral%5D
-  Deux jours après la fusillade dans les Yvelines, la garde à vue du suspect a été suspendue ce dimanche 25 octobre pour raisons psychiatriques, annonce le parquet antiterroriste. Des traces de drogue ont également été dé…
-- [25/10 15:45] franceinfo — "Notre fille n'a pas souffert" : le père de Cléa, 17 ans, se confie après la mort de la jeune joueuse de rugby
-  https://www.franceinfo.fr/replay-jt/france-2/13-heures/notre-fille-n-a-pas-souffert-le-pere-de-clea-17-ans-se-confie-apres-la-mort-de-la-jeune-joueuse-de-rugby_8253094.html#xtor=RSS-3-%5Bgeneral%5D
-  Cléa, 17 ans, était une jeune joueuse de rugby. Elle est morte en pratiquant sa passion lors d’un match survenu le 17 octobre à Marmande, dans le Lot-et-Garonne. Le monde du rugby est en deuil, et les hommages se multip…
-- [25/10 14:46] franceinfo — Attentat raciste à Trappes : une marche blanche à la mémoire de Pengo Bossio Wangi
-  https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/attentat-raciste-a-trappes-une-marche-blanche-a-la-memoire-de-pengo-bossio-wangi_8253190.html#xtor=RSS-3-%5Bgeneral%5D
-  Une marche blanche s'est élancée dimanche 25 octobre de la mairie d'Aubervilliers (Seine-Saint-Denis), en hommage à Pengo Bossio Wangi, le jeune homme de 26 ans mort vendredi dans l'attaque terroriste raciste de Trappes…
-- [25/10 11:00] Le Monde — True Crime Community : « La glorification des criminels, l’imitation de leurs actes et la quête de notoriété peuvent suffire à donner un sens à la violence »
-  https://www.lemonde.fr/idees/article/2026/10/25/true-crime-community-la-glorification-des-criminels-l-imitation-de-leurs-actes-et-la-quete-de-notoriete-peuvent-suffire-a-donner-un-sens-a-la-violence_6800067_3232.html
-  Après l’attaque d’un collégien, le 12 octobre, dans les Bouches-du-Rhône, Alejandra Mariscal Lopez, juriste, et Alexandre Rodde, spécialiste des tueries de masse, appellent, dans une tribune au « Monde », à repenser les…
-- [25/10 10:34] Le Monde — Attentat raciste de Trappes : le suspect transféré en soins psychiatriques ; son analyse de sang a révélé la présence de cannabis et de cocaïne
-  https://www.lemonde.fr/societe/article/2026/10/25/attentat-raciste-de-trappes-le-suspect-transfere-en-soins-psychiatriques-l-analyse-toxicologique-a-revele-la-presence-de-cannabis-et-de-cocaine-dans-son-sang_6800064_3224.html
-  Une observation en soins psychiatriques, qui suspend la mesure de garde à vue et peut durer quarante-huit heures, « doit permettre d’apprécier si son état de santé psychiatrique est compatible avec la possibilité de pou…
-- [25/10 06:30] Le Monde — Rachid Benzine, politiste : après l’attentat raciste de Trappes, « ce n’est pas un tournant que nous subissons, mais une pente »
-  https://www.lemonde.fr/idees/article/2026/10/25/rachid-benzine-politiste-apres-l-attentat-de-trappes-ce-n-est-pas-un-tournant-que-nous-subissons-mais-une-pente_6800048_3232.html
-  Répondant à Emmanuel Macron, le chercheur et habitant de Trappes précise, dans une tribune au « Monde », que ce n’est pas la première fois que des actes terroristes visent des concitoyens en raison de leur couleur ou de…
+- [27/10 03:16] franceinfo — DIRECT. Attentat raciste dans les Yvelines : la garde à vue du principal suspect, qui "conteste le caractère raciste de ses crimes", a repris
+  https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/direct-attentat-raciste-dans-les-yvelines-olivier-christen-procureur-du-parquet-national-antiterroriste-s-exprimera-en-fin-de-journee-lundi_8254480.html#xtor=RSS-3-%5Bgeneral%5D
+  Une personne est morte et cinq autres ont été blessées dans cette attaque survenue vendredi à Trappes et La Verrière.
+- [26/10 22:02] franceinfo — Trappes, les nouvelles images de l'attaque
+  https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/trappes-les-nouvelles-images-de-l-attaque_8254873.html#xtor=RSS-3-%5Bgeneral%5D
+  Une nouvelle vidéo de caméra de surveillance montre le suspect de l'attentat terroriste de Trappes, armé d'un pistolet mitrailleur. Le suspect conteste le caractère raciste de ses crimes affirme le procureur. Le pronost…
+- [26/10 21:42] franceinfo — VIDEO. Attentat raciste à Trappes : des images de vidéosurveillance montrent le parcours du meurtrier dans une station-service
+  https://www.franceinfo.fr/replay-jt/france-2/20-heures/attentat-raciste-a-trappes-revelations-sur-le-parcours-du-meurtrier-presume_8254756.html#xtor=RSS-3-%5Bgeneral%5D
+  Ce sont des images difficiles à voir, qui témoignent de la détermination de l'auteur présumé de l'attentat raciste commis dans les Yvelines. Elles sont issues d’une caméra de vidéosurveillance d’une station-service.
+- [26/10 20:49] Le Monde — Attentat de Trappes : les images des rassemblements en hommage aux victimes, organisés en France
+  https://www.lemonde.fr/societe/video/2026/10/26/attentat-de-trappes-les-images-des-rassemblements-en-hommage-aux-victimes-organises-en-france_6800839_3224.html
+  Plusieurs rassemblements ont été organisés en France en hommage aux victimes de l’attentat raciste de Trappes. L’un des rassemblements déclaré à Paris a finalement été annulé.
+- [26/10 20:29] franceinfo — Comment désamorcer et mettre fin aux mouvements lycéens ? Les informés de franceinfo du lundi 26 octobre 2026
+  https://www.franceinfo.fr/replay-radio/les-informes-de-france-info/comment-desamorcer-et-mettre-fin-aux-mouvements-lyceens-les-informes-de-franceinfo-du-lundi-26-octobre-2026_8233168.html#xtor=RSS-3-%5Bgeneral%5D
+  Tous les soirs, les informés débattent de l'actualité, cette semaine autour de Renaud Blanc.
+- [26/10 20:24] franceinfo — « Il y a une obsession pour l'immigration en France et les immigrés demandent de leur foutre la paix » : Ali Rabeh, maire Génération.s de Trappes
+  https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/il-y-a-une-obsession-pour-l-immigration-en-france-et-les-immigres-demandent-de-leur-foutre-la-paix-ali-rabeh-maire-generation-s-de-trappes_8254762.html#xtor=RSS-3-%5Bgeneral%5D
+  Ali Rabeh, maire (Génération.s) de Trappes, est l'invité de l'émission "C Ce Soir" de 26 octobre. Après l'attentat qui a eu lieu dans sa ville vendredi 23 octobre, il souligne qu'il existe, selon lui, "une obsession pou…
+- [26/10 20:19] Le Monde — Attentat de Trappes : des rassemblements organisés dans plusieurs villes contre la haine raciste
+  https://www.lemonde.fr/societe/article/2026/10/26/attentat-de-trappes-des-rassemblements-organises-a-paris-et-en-france-contre-la-haine-raciste_6800835_3224.html
+  Près de 3 000 personnes se sont réunies dans le nord de Paris, selon la Préfecture de police, tandis qu’ils étaient plusieurs centaines à Lyon comme à Marseille. « Le racisme n’est pas un fait divers. Lorsqu’un acte rac…
+- [26/10 19:43] franceinfo — Un manifestant gravement blessé au tibia par une grenade à Reims lors de la mobilisation du 24 octobre, une enquête confiée à l'IGPN
+  https://www.franceinfo.fr/societe/manifestations/un-manifestant-gravement-blesse-au-tibia-par-une-grenade-a-reims-lors-de-la-mobilisation-du-24-octobre-une-enquete-confiee-a-l-igpn_8254723.html#xtor=RSS-3-%5Bgeneral%5D
+  Les forces de l'ordre ont empêché le cortège de pénétrer dans le centre-ville, samedi, notamment à l'aide de grenades lacrymogènes et de grenades assourdissantes. Deux manifestants ont alors été blessés, selon les pompi…
+- [26/10 19:24] Le Monde — Attentat de Trappes : la garde à vue de Kevin T. a repris lundi après un nouvel examen psychiatrique
+  https://www.lemonde.fr/societe/article/2026/10/26/attentat-de-trappes-la-garde-a-vue-de-kevin-t-a-repris-lundi-apres-un-nouvel-examen-psychiatrique_6800828_3224.html
+  Le procureur antiterroriste a détaillé huit scènes de crime et au moins 128 tirs lors de l’attaque, qui a fait un mort et sept blessés, dans les Yvelines. Le suspect « ne conteste pas la matérialité des faits » mais « c…
+- [26/10 18:52] franceinfo — Le procès de trois policiers jugés pour la mort de Cédric Chouviat renvoyé au mois de juin 2027
+  https://www.franceinfo.fr/faits-divers/justice-proces/le-proces-de-trois-policiers-juges-pour-la-mort-de-cedric-chouviat-renvoye-au-mois-de-juin-2027_8254462.html#xtor=RSS-3-%5Bgeneral%5D
+  Les trois prévenus devaient être jugés lundi et mardi devant le tribunal correctionnel de Paris pour homicide involontaire. Le président a estimé qu'il fallait plus de temps pour juger cette affaire, reprogrammée sur tr…
+- [26/10 17:29] franceinfo — Après l'attentat de Trappes, ils disent non au racisme
+  https://www.franceinfo.fr/l-actu-pour-les-jeunes/apres-l-attentat-de-trappes-ils-disent-non-au-racisme-en-allant-manifester_8254513.html#xtor=RSS-3-%5Bgeneral%5D
+  Lille, Rouen, Montpellier... Partout en France des manifestations ont eu lieu ce lundi pour refuser le racisme après l'attaque terririste du 23 octobre dans les Yvelines. Une personne est décédée et 5 autres ont été ble…
+- [26/10 17:20] Le Monde — Mort de Cédric Chouviat : le procès des policiers mis en cause pour homicide involontaire renvoyé à juin 2027
+  https://www.lemonde.fr/societe/article/2026/10/26/mort-de-cedric-chouviat-le-proces-des-policiers-mis-en-cause-pour-homicide-involontaire-renvoye-a-juin-2027_6800809_3224.html
+  Les avocats des deux parties ont dénoncé un temps d’audience insuffisant au regard de la demande des avocats de la famille de plaider l’« incompétence » du tribunal. Les faits, selon eux, sont de nature criminelle et re…
+- [26/10 16:54] Le Monde — Chris Brown, rappeur américain, condamné à Londres à de la prison avec sursis pour une « agression violente et non provoquée » dans une boîte de nuit en 2023
+  https://www.lemonde.fr/societe/article/2026/10/26/chris-brown-rappeur-americain-condamne-a-londres-a-de-la-prison-avec-sursis-pour-une-agression-violente-et-non-provoquee-dans-une-boite-de-nuit-en-2023_6800803_3224.html
+  Chris Brown et un producteur de musique Omololu Akinlolu s’en étaient pris à un autre producteur Abraham « Abe » Diaw. Dans une discothèque bondée, M. Brown s’était servi d’une bouteille en verre comme arme pour frapper…
+- [26/10 16:50] franceinfo — L'homme armé abattu à Vire, dans le Calvados, "semble lié à une mouvance d'ultradroite", selon le procureur de Caen
+  https://www.franceinfo.fr/faits-divers/l-homme-arme-abattu-a-vire-dans-le-calvados-semble-lie-a-une-mouvance-d-ultradroite-selon-le-procureur-de-caen_8254420.html#xtor=RSS-3-%5Bgeneral%5D
+  Au cours de l'intervention, deux agents des douanes avaient fait usage de leur arme à feu, blessant le trentenaire, qui décédera des suites de ses blessures.
+- [26/10 15:30] franceinfo — Le rappeur américain Chris Brown condamné à huit mois de prison avec sursis pour une rixe en boîte de nuit à Londres
+  https://www.franceinfo.fr/faits-divers/justice-proces/le-rappeur-americain-chris-brown-condamne-a-huit-mois-de-prison-avec-sursis-pour-une-rixe-en-boite-de-nuit-a-londres_8254345.html#xtor=RSS-3-%5Bgeneral%5D
+  La justice britannique a estimé que "ni une amende ni une peine de travail d'intérêt général ne sauraient refléter la gravité des violences répétées" commises par l'artiste.
 
