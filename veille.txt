@@ -1,4 +1,4 @@
-VEILLE — généré le 2026-10-27 03:19 (heure de Paris)
+VEILLE — généré le 2026-10-27 04:20 (heure de Paris)
 Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 
 ## International
@@ -88,6 +88,9 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
   RÉCIT - Sèchement battu après douze ans de pouvoir, l’homme fort du pays doit s’effacer devant un mouvement citoyen dont les leaders restent méconnus.
 
 ## France
+- [27/10 04:05] Le Figaro — Attentat terroriste dans les Yvelines : un hommage rendu à Paris aux victimes, Emmanuel Grégoire chahuté par la foule
+  https://www.lefigaro.fr/actualite-france/attentat-raciste-dans-les-yvelines-un-hommage-rendu-a-paris-aux-victimes-emmanuel-gregoire-chahute-par-la-foule-20261026
+  REPORTAGE - Quelques jours après l’attentat raciste survenu à Trappes, un rassemblement contre le racisme et l’islamophobie s’est déroulé sur la place Stalingrad lundi soir.
 - [27/10 03:17] Le Figaro — Au Brésil, le parti de Flavio Bolsonaro reconnaît la réélection de Lula à la présidence
   https://www.lefigaro.fr/international/au-bresil-le-parti-de-flavio-bolsonaro-reconnait-la-reelection-de-lula-a-la-presidence-20261027
   Flavio Bolsonaro, qui avait annoncé dimanche qu’il demanderait l’annulation du scrutin, a renoncé à cette démarche, déclarant qu’il solliciterait de la justice l’invalidation de la candidature de Lula pour «abus de pouv…
@@ -145,9 +148,6 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [26/10 23:59] franceinfo — Mobilisation des lycéens : "Les élèves vont voir leur vie changer", assure Edouard Geffray, l'intersyndicale jeunesse appelle à poursuivre la mobilisation
   https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-des-lyceens-le-gouvernement-recoit-les-organisations-dans-l-apres-midi-et-promet-des-reponses-tres-concretes_8253718.html#xtor=RSS-3-[lestitres]
   Le gouvernement a reçu les organisations lycéennes puis étudiantes, lundi, en espérant clore cinq semaines de crise entamées par des blocages d'établissements.
-- [26/10 23:58] Le Figaro — Attentat terroriste dans les Yvelines : un hommage rendu à Paris aux victimes, Emmanuel Grégoire chahuté par la foule
-  https://www.lefigaro.fr/actualite-france/attentat-raciste-dans-les-yvelines-un-hommage-rendu-a-paris-aux-victimes-emmanuel-gregoire-chahute-par-la-foule-20261026
-  REPORTAGE - Quelques jours après l’attentat raciste survenu à Trappes, un rassemblement contre le racisme et l’islamophobie s’est déroulé sur la place Stalingrad lundi soir.
 - [26/10 23:54] franceinfo — Ballon d'or 2026 : l'attaquant du Bayern Munich Harry Kane devient le premier Anglais récompensé depuis 25 ans
   https://www.franceinfo.fr/sports/foot/ballon-d-or/ballon-d-or-2026-sacre-a-londres-harry-kane-devient-le-premier-anglais-recompense-depuis-25-ans_8254834.html#xtor=RSS-3-[lestitres]
   L'attaquant de 33 ans a été élu au bout du suspense, lundi, aux dépens de Kylian Mbappé et Lamine Yamal.
@@ -339,7 +339,7 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
   DÉCRYPTAGE - Si le djihadisme demeure la menace dominante, l’antiterrorisme alerte depuis des années sur l’ultradroite radicale violente, responsable de fusillades perpétrées par des tueurs racistes, déséquilibrés, armé…
 
 ## Gendarmerie-police-justice
-- [27/10 03:16] franceinfo — DIRECT. Attentat raciste dans les Yvelines : la garde à vue du principal suspect, qui "conteste le caractère raciste de ses crimes", a repris
+- [27/10 04:10] franceinfo — DIRECT. Attentat raciste dans les Yvelines : la garde à vue du principal suspect, qui "conteste le caractère raciste de ses crimes", a repris
   https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/direct-attentat-raciste-dans-les-yvelines-olivier-christen-procureur-du-parquet-national-antiterroriste-s-exprimera-en-fin-de-journee-lundi_8254480.html#xtor=RSS-3-%5Bgeneral%5D
   Une personne est morte et cinq autres ont été blessées dans cette attaque survenue vendredi à Trappes et La Verrière.
 - [26/10 22:02] franceinfo — Trappes, les nouvelles images de l'attaque
