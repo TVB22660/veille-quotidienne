@@ -1,7 +1,10 @@
-VEILLE — généré le 2026-10-28 03:30 (heure de Paris)
+VEILLE — généré le 2026-10-28 04:29 (heure de Paris)
 Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 
 ## International
+- [28/10 03:30] Le Monde — En Jamaïque, les associations LGBTQ+ prises en étau entre une « culture homophobe » et le manque de moyens
+  https://www.lemonde.fr/international/article/2026/10/28/en-jamaique-les-associations-lgbtq-prises-en-etau-entre-une-culture-homophobe-et-le-manque-de-moyens_6801451_3210.html
+  Sur cette île des Caraïbes où les relations homosexuelles sont punies par la loi, les organisations de défense des droits des minorités queer et les refuges peinent à poursuivre leurs activités après la diminution de l’…
 - [27/10 23:56] franceinfo — Flavio Bolsonaro soupçonné d'avoir fui le Brésil pour les Etats-Unis, le président Lula dénonce un exil "honteux"
   https://www.franceinfo.fr/monde/bresil/flavio-bolsonaro-soupconne-d-avoir-fui-le-bresil-pour-les-etats-unis-le-president-lula-denonce-un-exil-honteux_8256505.html#xtor=RSS-3-%5Bgeneral%5D
   Selon des médias américains, le sénateur conservateur, visé par plusieurs enquêtes, a quitté le pays après sa défaite à la présidentielle. Son coordinateur de campagne assure ne pas savoir où il se trouve.
@@ -68,9 +71,6 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [27/10 16:42] Le Monde — Au Yémen, les houthistes assimilent le soutien militaire de l’Egypte à l’Arabie saoudite à une « déclaration de guerre »
   https://www.lemonde.fr/international/article/2026/10/27/au-yemen-les-houthistes-assimilent-le-soutien-militaire-egyptien-a-riyad-a-une-declaration-de-guerre_6801307_3210.html
   La milice pro-iranienne a annoncé avoir pris pour cible le ministère de la défense saoudien, à Riyad, à l’aide d’un missile balistique. Les forces saoudiennes disent, pour leur part, avoir intercepté deux missiles tirés…
-- [27/10 16:42] Le Monde — Ebola : plus de 10 000 cas recensés en Afrique, la grande majorité en RDC, et 4 887 morts
-  https://www.lemonde.fr/afrique/article/2026/10/27/ebola-plus-de-10-000-cas-recenses-en-afrique-la-grande-majorite-en-rdc-et-4-887-morts_6801306_3212.html
-  Quelque 2 684 guérisons ont été recensées, mais le taux de létalité est proche des 50 %. L’épidémie s’est propagée dans plusieurs autres régions du continent, avec des cas signalés au Kenya et jusqu’en Afrique de l’Oues…
 - [27/10 16:30] Le Figaro — États-Unis : derrière la résistance de l’économie, les désillusions de l’Amérique de Donald Trump
   https://www.lefigaro.fr/conjoncture/etats-unis-derriere-la-resistance-de-l-economie-les-desillusions-de-l-amerique-de-donald-trump-20261027
   DÉCRYPTAGE - À quelques jours des élections de mi-mandat, le président américain affiche un bilan économique mitigé. Si les investissements dans le secteur de la tech continuent d’augmenter, la question du pouvoir d’ach…
@@ -88,6 +88,18 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
   Pour prendre part aux législatives du 27 octobre, les Israéliens expatriés doivent regagner leur pays. Le Likoud, parti de Benyamin Netanyahou, s’est opposé à l’assistance proposée pour leur voyage par une association,…
 
 ## France
+- [28/10 04:12] Le Figaro — Élections en Israël : au coude-à-coude avec l’opposition, Netanyahou prône un gouvernement «de droite» et «fort»
+  https://www.lefigaro.fr/international/elections-en-israel-au-coude-a-coude-avec-l-opposition-netanyahou-appelle-a-un-gouvernement-de-droite-et-fort-20261028
+  Alors que les listes arabes israéliennes pourraient obtenir un nombre record de sièges, le premier ministre israélien a appelé mercredi «la majorité juive et sioniste» à s’unir.
+- [28/10 03:57] Le Monde — EN DIRECT, législatives en Israël : les deux blocs au coude-à-coude ; Benyamin Nétanyahou et Gadi Eisenkot revendiquent chacun leur volonté de former un gouvernement
+  https://www.lemonde.fr/international/live/2026/10/28/en-direct-legislatives-en-israel-les-deux-blocs-au-coude-a-coude-benyamin-netanyahou-et-gadi-eisenkot-revendiquent-chacun-leur-volonte-de-former-un-gouvernement_6801217_3210.html
+  Les dernières estimations donnent les camps du premier ministre et du chef de l’opposition à égalité, et loin de pouvoir former une majorité, dans un scrutin marqué par une forte mobilisation (77,7 %), ainsi qu’une pous…
+- [28/10 03:52] Le Figaro — Attentat de Sydney : un homme inculpé pour de fausses demandes d'indemnisation
+  https://www.lefigaro.fr/international/attentat-de-sydney-un-homme-inculpe-pour-de-fausses-demandes-d-indemnisation-20261028
+  La police australienne a indiqué avoir arrêté un homme de 46 ans mardi et l’avoir inculpé pour la diffusion d’informations fausses et trompeuses dans le but d’en tirer un avantage.
+- [28/10 03:31] Ouest-France — Pérou : le parquet classe une affaire sur des milliers de stérilisations forcées de femmes
+  https://www.ouest-france.fr/monde/perou/perou-le-parquet-classe-une-affaire-sur-des-milliers-de-sterilisations-forcees-de-femmes-54aae710-d275-11f1-af78-2d36ec019942?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
+  Le parquet péruvien a classé mardi 27 octobre une affaire sur la stérilisation forcée de milliers de femmes indigènes sous la présidence d’Alberto Fujimori, père de l’actuelle présidente. Le tribunal a jugé que les fait…
 - [28/10 03:25] Le Monde — Pérou : la justice classe une affaire sur des milliers de stérilisations forcées de femmes pendant les années 1990
   https://www.lemonde.fr/international/article/2026/10/28/perou-la-justice-classe-une-affaire-sur-des-milliers-de-sterilisations-forcees-de-femmes-pendant-les-annees-1990_6801450_3210.html
   Malgré la mobilisation des associations et une récente condamnation internationale, la justice péruvienne referme le dossier des stérilisations forcées, suscitant la colère des victimes et de leurs soutiens.
@@ -97,9 +109,6 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [28/10 03:13] Ouest-France — Le changement climatique doit être déclaré « urgence sanitaire mondiale » selon un rapport
   https://www.ouest-france.fr/environnement/rechauffement-climatique/le-changement-climatique-doit-etre-declare-urgence-sanitaire-mondiale-selon-un-rapport-67f5c392-d263-11f1-af78-2d36ec019942?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
   Selon une étude publiée mardi 27 octobre dans la revue médicale britannique The Lancet, le changement climatique doit être déclaré « urgence sanitaire mondiale » afin de financer l’adaptation des systèmes de santé et de…
-- [28/10 02:54] Le Figaro — Élections en Israël : au coude-à-coude avec l’opposition, Netanyahou prône un gouvernement «de droite» et «fort»
-  https://www.lefigaro.fr/international/elections-en-israel-au-coude-a-coude-avec-l-opposition-netanyahou-appelle-a-un-gouvernement-de-droite-et-fort-20261028
-  Alors que les listes arabes israéliennes pourraient obtenir un nombre record de sièges, le premier ministre israélien a appelé mercredi «la majorité juive et sioniste» à s’unir.
 - [28/10 02:51] Ouest-France — Élections législatives en Israël : annoncé perdant, le bloc de Benyamin Netanyahou passe en tête selon les estimations
   https://www.ouest-france.fr/monde/israel/elections-legislatives-en-israel-annonce-perdant-le-bloc-de-benyamin-netanyahou-passe-en-tete-selon-les-estimations-e04ca6d8-d265-11f1-af78-2d36ec019942?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
   Annoncé perdant en début de soirée des élections législatives du 27 octobre selon les estimations en sortie d’urne, la coalition du Premier ministre sortant Benyamin Netanyahou est passée devant le bloc d’opposition à m…
@@ -109,9 +118,6 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [28/10 02:06] Le Figaro — SK Hynix : porté par l’IA, le bénéfice net bondit de 216% au troisième trimestre
   https://www.lefigaro.fr/societes/sk-hynix-portes-par-l-ia-le-benefice-net-bondit-de-216-au-troisieme-trimestre-20261028
   Le géant sud-coréen des puces électroniques a annoncé mercredi des bénéfices en forte hausse au troisième trimestre.
-- [28/10 01:47] Le Figaro — Le Sénat adopte et élargit le projet de loi «casseurs-payeurs», après les débordements du 17 octobre
-  https://www.lefigaro.fr/politique/le-senat-adopte-et-elargit-le-projet-de-loi-casseurs-payeurs-apres-les-debordements-du-17-octobre-20261028
-  Très critiqué à gauche, le texte a été adopté à 229 voix contre 105 et est désormais transmis à l’Assemblée nationale.
 - [28/10 01:46] Ouest-France — « Vous voulez moins de précaires à manifester dans les rues » : la loi « casseurs payeurs » met le Sénat en tension
   https://www.ouest-france.fr/politique/institutions/senat/vous-voulez-moins-de-precaires-a-manifester-dans-les-rues-la-loi-casseurs-payeurs-met-le-senat-en-tension-78347790-d208-11f1-81f2-0d14b9f9c452?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
   Adopté dans la nuit du mardi 27 octobre au Sénat, le texte permet de faire payer des destructions et vols, commis lors d’une manifestation, à toute personne identifiée appartenant à un groupe. Même si elle n’en est pas…
@@ -178,12 +184,6 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [27/10 23:00] franceinfo — L'adolescente de 17 ans qui a perdu un œil à Mulhouse en marge de la mobilisation du 17 octobre va porter plainte
   https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/l-adolescente-de-17-ans-qui-a-perdu-un-il-a-mulhouse-en-marge-de-la-mobilisation-du-17-octobre-va-porter-plainte_8256484.html#xtor=RSS-3-[lestitres]
   La jeune fille aurait été grièvement blessée en raison d'un projectile lancé par les forces de l'ordre pendant la manifestation, une enquête a déjà été confiée à l'IGPN.
-- [27/10 22:53] Le Monde — EN DIRECT, législatives en Israël : les deux blocs au coude-à-coude ; Benyamin Nétanyahou et Gadi Eisenkot revendiquent chacun leur volonté de former un gouvernement
-  https://www.lemonde.fr/international/live/2026/10/27/en-direct-legislatives-en-israel-les-premieres-estimations-favorables-a-l-opposition-mais-l-incertitude-sur-une-future-majorite-est-complete_6801217_3210.html
-  Les dernières estimations donnent les camps du premier ministre et du chef de l’opposition à égalité, et loin de pouvoir former une majorité, dans un scrutin marqué par une forte mobilisation (77,7 %), ainsi qu’une pous…
-- [27/10 22:52] Ouest-France — Ligue des champions. Le RC Lens sanctionné après des jets de fumigènes des supporters à Bruges
-  https://www.ouest-france.fr/sport/football/ligue-des-champions/ligue-des-champions-le-rc-lens-sanctionne-apres-des-jets-de-fumigenes-des-supporters-a-bruges-f55e1128-d24d-11f1-af78-2d36ec019942?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
-  Après des débordements dans le parcage du RC Lens face au Club Bruges en Ligue des champions (défaite 3-0), mercredi 21 octobre, le club nordiste a été sanctionné par l’UEFA d’une amende, ainsi qu’une interdiction stric…
 - [27/10 22:45] franceinfo — Après les pillages de commerces, plus de 1 700 annonces suspectes ont été supprimées des plateformes de revente en ligne, selon le gouvernement
   https://www.franceinfo.fr/societe/manifestations/apres-les-pillages-de-commerces-plus-de-1-700-annonces-suspectes-ont-ete-supprimees-des-plateformes-de-revente-en-ligne-selon-le-gouvernement_8256394.html#xtor=RSS-3-[lestitres]
   En marge de la manifestation du 17 octobre, plus de 1 000 commerces avaient été pillés, saccagés ou incendiés, selon un bilan du réseau CCI France. Plusieurs centaines d'annonces font toujours l'objet d'investigations.
