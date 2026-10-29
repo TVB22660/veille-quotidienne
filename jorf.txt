@@ -1,5 +1,89 @@
-JORF — généré le 2026-10-28 04:29 (heure de Paris)
-Archives lues : 6 ; textes retenus : 302 ; JO trouvés : 2026-10-28, 2026-10-27, 2026-10-25
+JORF — généré le 2026-10-29 03:33 (heure de Paris)
+Archives lues : 6 ; textes retenus : 368 ; JO trouvés : 2026-10-29, 2026-10-28, 2026-10-27
+
+# JO du 2026-10-29 (n° 0253) — 123 textes au total
+## Présidence de la République
+- rien
+
+## Premier ministre
+Mesures nominatives :
+- Arrêté du 16 octobre 2026 portant admission à la retraite (administrateurs de l'Etat)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055024021
+- Arrêté du 16 octobre 2026 portant admission à la retraite (administrateurs de l'Etat)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055024027
+- Arrêté du 26 octobre 2026 portant admission à la retraite (chambres régionales des comptes)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055024033
+- Arrêté du 26 octobre 2026 rapportant l'arrêté du 12 août 2026 portant admission à la retraite (administrateurs de l'Etat)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055024039
+- Arrêté du 28 octobre 2026 portant admission au cycle préparatoire au troisième concours d'entrée à l'Institut national du service public des candidats reçus aux épreuves qui se sont déroulées en 2026
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055024046
+
+## Intérieur
+Textes :
+- Décret n° 2026-1001 du 26 octobre 2026 relatif aux droits des ressortissants étrangers autorisés à travailler en France, aux conditions d'octroi d'une carte de séjour pluriannuelle aux travailleurs hautement qualifiés et aux membres de leur famille et à la dispense d'autorisation de travail pour les ressortissants étrangers détachés en France par un employeur britannique
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055023061
+- Décret n° 2026-1003 du 27 octobre 2026 portant application de l'article L. 211-11-1 du code de la sécurité intérieure à la trentième édition du salon Euronaval
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055023163
+- Décret n° 2026-1004 du 27 octobre 2026 portant application de l'article L. 211-11-1 du code de la sécurité intérieure à la neuvième édition du Forum de Paris sur la Paix
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055023178
+- Décret du 26 octobre 2026 abrogeant le décret portant reconnaissance de l'association dite « Association des anciens étudiants de l'Ecole nationale d'administration municipale » comme établissement d'utilité publique
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055023193
+- Décret du 26 octobre 2026 abrogeant le décret portant reconnaissance de l'association dite « Œuvre parisienne des bains-douches à bon marché » comme établissement d'utilité publique
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055023198
+- Arrêté du 12 octobre 2026 modifiant l'arrêté du 30 décembre 2019 fixant par groupes la liste des emplois de la gendarmerie nationale ouvrant droit à l'attribution de l'indemnité spécifique de haute responsabilité
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055023203
+- Arrêté du 27 octobre 2026 portant reconnaissance de l'état de catastrophe naturelle
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055023210
+- Arrêté du 27 octobre 2026 modifiant l'arrêté du 12 août 2013 modifié portant organisation interne du secrétariat général du ministère de l'intérieur
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055023233
+Mesures nominatives :
+- Décret n° 2026-1002 du 27 octobre 2026 modifiant le décret n° 2021-536 du 30 avril 2021 modifié portant création d'un service à compétence nationale dénommé « Service central des armes et explosifs »
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055023148
+- Décision du 27 octobre 2026 portant délégation de signature (direction nationale de la police judiciaire)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055023248
+- Décision du 27 octobre 2026 portant délégation de signature en matière d'exercice des droits d'accès direct aux traitements automatisés de données à caractère personnel (direction nationale de la police judiciaire)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055023270
+- Décret du 28 octobre 2026 portant affectations et élévations dans la 1re section des officiers généraux
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055024055
+- Décret du 28 octobre 2026 portant affectation d'officiers généraux
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055024059
+- Arrêté du 23 octobre 2026 portant nomination (régisseuse mandataire suppléante d'avances et de recettes)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055024063
+
+## Justice
+Mesures nominatives :
+- Arrêté du 31 août 2026 portant réintégration et affectation (tribunaux administratifs et cours administratives d'appel)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055024076
+- Arrêté du 23 octobre 2026 portant nomination d'une société à responsabilité limitée (officiers publics ou ministériels)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055024078
+- Arrêté du 26 octobre 2026 portant nomination d'une notaire salariée (officiers publics ou ministériels)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055024088
+- Arrêté du 26 octobre 2026 portant nomination d'une notaire salariée (officiers publics ou ministériels)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055024092
+- Arrêté du 26 octobre 2026 portant nomination d'une société d'exercice libéral par actions simplifiée (officiers publics ou ministériels)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055024096
+- Arrêté du 26 octobre 2026 portant nomination d'une notaire salariée (officiers publics ou ministériels)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055024105
+- Arrêté du 27 octobre 2026 modifiant l'arrêté du 20 octobre 2026 portant nomination d'une notaire salariée (officiers publics ou ministériels)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055024109
+
+## Armées
+Textes :
+- Arrêté du 26 octobre 2026 autorisant l'ouverture des concours militaires d'accès à la formation au diplôme d'Etat d'aide-soignant à l'école du personnel paramédical des armées en 2027
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055023287
+- Arrêté du 27 octobre 2026 accordant aux militaires participant à l'opération « EUTM Somalie » le bénéfice des dispositions de l'article L. 4123-4 du code de la défense
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055023297
+- Avis autorisant au titre de l'année 2027 l'ouverture du concours sur épreuves pour le recrutement dans le corps des internes des hôpitaux des armées
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055024258
+- Avis autorisant au titre de l'année 2027 l'ouverture du concours sur titres, parmi les officiers sous contrat servant en qualité de praticien des armées, pour le recrutement dans le corps des médecins, des pharmaciens, des vétérinaires et des chirurgiens-dentistes des armées
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055024265
+Mesures nominatives :
+- Arrêté du 27 octobre 2026 fixant le taux de promotion au titre de l'année 2027 du corps des ingénieurs civils de la défense du ministère des armées et des anciens combattants
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055023304
+- Arrêté du 27 octobre 2026 portant nomination de la directrice générale de l'enseignement et de la recherche de l'Ecole de l'air et de l'espace
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055024066
+- Avis autorisant au titre de l'année 2027 l'ouverture du concours pour l'admission à l'école de santé des armées d'élèves officiers recrutés en qualité d'élève médecin, d'élève pharmacien, d'élève chirurgien-dentiste et d'élève vétérinaire
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055024272
 
 # JO du 2026-10-28 (n° 0252) — 137 textes au total
 ## Présidence de la République
@@ -142,60 +226,4 @@ Mesures nominatives :
 Mesures nominatives :
 - Arrêté du 22 octobre 2026 portant admission à la retraite (ingénieurs civils de la défense)
   https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055018562
-
-# JO du 2026-10-25 (n° 0250) — 57 textes au total
-## Présidence de la République
-- rien
-
-## Premier ministre
-- rien
-
-## Intérieur
-Textes :
-- Décret du 23 octobre 2026 abrogeant le décret portant reconnaissance de l'association dite « Fédération nationale des militaires belges mutilés et invalides de guerre » comme établissement d'utilité publique
-  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055013174
-- Décret du 23 octobre 2026 abrogeant le décret portant reconnaissance de l'association « Société archéologique de Montpellier » comme établissement d'utilité publique
-  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055013179
-- Décret du 23 octobre 2026 portant abrogation du titre d'existence légale d'un établissement particulier d'une congrégation
-  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055013187
-- Avis de vacance d'un emploi de directeur du secrétariat général commun départemental (secrétariat général commun départemental de l'Essonne)
-  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055013740
-- Avis de vacance d'un emploi de directeur du secrétariat général commun départemental (secrétariat général commun départemental de l'Isère)
-  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055013768
-- Avis de vacance d'un emploi de directeur du secrétariat général commun départemental (secrétariat général commun départemental de la Haute-Garonne)
-  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055013796
-Mesures nominatives :
-- Décision du 1er octobre 2026 portant délégation de signature (direction générale de la police nationale, service national des enquêtes administratives de sécurité)
-  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055013189
-- Décision du 23 octobre 2026 portant délégation de signature (direction générale de la police nationale, service national des enquêtes d'autorisation de voyage)
-  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055013205
-- Décret du 23 octobre 2026 portant naturalisation, réintégration, mention d'enfants mineurs bénéficiant de l'effet collectif attaché à l'acquisition de la nationalité française par leurs parents et francisation de noms et de prénoms (Accès protégé)
-  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055013575
-- Arrêté du 20 octobre 2026 rapportant les dispositions d'un arrêté portant admission à la retraite
-  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055013578
-
-## Justice
-Textes :
-- Décret n° 2026-990 du 23 octobre 2026 relatif à l'extension de l'aide juridictionnelle en matières civile et administrative au territoire de Wallis-et-Futuna
-  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055013248
-- Arrêté du 20 octobre 2026 fixant le nombre de postes offerts au concours professionnel pour l'accès au grade de brigadier-chef pénitentiaire de la filière « encadrement » au titre de l'année 2027
-  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055013335
-- Arrêté du 21 octobre 2026 autorisant au titre de l'année 2027 l'ouverture d'une 2e session de concours externe et interne pour le recrutement des greffiers des services judiciaires (épreuves écrites en mars et avril 2027)
-  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055013344
-- Décret du 22 octobre 2026 portant changements de noms (Accès protégé)
-  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055013591
-- Arrêté du 22 octobre 2026 complétant l'arrêté du 20 juillet 2026 portant désignation d'examinateurs spécialisés adjoints au jury du certificat d'aptitude, du certificat préparatoire et de l'épreuve d'aptitude aux fonctions de commissaire aux comptes
-  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055013605
-Mesures nominatives :
-- Décret du 23 octobre 2026 portant radiation des cadres (magistrature) - Mme DUQUESNAY (Charlène)
-  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055013594
-- Arrêté du 21 octobre 2026 portant nomination à un emploi de direction du ministère de la justice (groupe III)
-  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055013601
-- Arrêté du 21 octobre 2026 portant nomination à un emploi de direction du ministère de la justice (groupe III)
-  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055013603
-
-## Armées
-Textes :
-- Arrêté du 22 octobre 2026 modifiant l'arrêté du 21 septembre 2026 portant création d'une zone interdite identifiée LF-P 87 Narbonne Malvési, dans la région de Narbonne (Aude), dans la région d'information de vol de Marseille
-  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055013219
 
