@@ -1,4 +1,4 @@
-VEILLE — généré le 2026-10-29 03:33 (heure de Paris)
+VEILLE — généré le 2026-10-29 04:31 (heure de Paris)
 Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 
 ## International
@@ -88,13 +88,13 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
   DÉCRYPTAGE - Créditée de 8 ou 9 sièges sur 120, Les Démocrates, une formation dirigée par l’ancien général Yair Golan qui a succédé au Parti travailliste, a doublé ses forces, mais son message reste marginal.
 
 ## France
-- [29/10 03:28] franceinfo — Mobilisation des lycéens : Emmanuel Macron appelle à une rentrée dans "le calme" lundi
+- [29/10 04:28] franceinfo — Mobilisation des lycéens : Emmanuel Macron appelle à une rentrée dans "le calme" lundi
   https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisations-des-lyceens-les-deputes-seront-invites-mercredi-a-debattre-a-l-assemblee-nationale-sur-l-avenir-de-parcoursup-selon-une-source-ministerielle-a-france-televisions_8256817.html#xtor=RSS-3-%5Bgeneral%5D
   "La jeunesse a été entendue", a estimé le chef de l'Etat, mercredi, dans un entretien accordé au journaliste Hugo Travers.
 - [29/10 03:14] Le Monde — EN DIRECT, guerre en Ukraine | Le cessez-le-feu à Olechky est un « immense succès », selon Volodymyr Zelensky, qui appelle à une rencontre entre Moscou, Kiev et Washington en novembre
   https://www.lemonde.fr/international/live/2026/10/29/en-direct-guerre-en-ukraine-le-cessez-le-feu-a-olechky-est-un-immense-succes-selon-volodymyr-zelensky-qui-appelle-a-une-rencontre-entre-moscou-kiev-et-washington-en-novembre_6799896_3210.html
   Le président ukrainien s’est, en outre, réjoui que la trêve ait accordé un répit aux habitants de Kherson, chef-lieu de l’oblast, qui se trouve face à Olechky, sur l’autre rive du Dniepr.
-- [29/10 03:06] Ouest-France — Mobilisation lycéenne, Parcoursup, pouvoir d’achat… Ce qu’il faut retenir de l’intervention d’Emmanuel Macron
+- [29/10 03:06] Ouest-France — Mobilisation lycéenne, Parcoursup, pouvoir d’achat… Ce qu’il faut retenir de l’interview d’Emmanuel Macron
   https://www.ouest-france.fr/societe/manifestation/mobilisation-lyceenne-parcoursup-pouvoir-dachat-ce-quil-faut-retenir-de-lintervention-demmanuel-macron-f3925bd0-d0e8-11f1-95ba-26d2045f6620?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
   Le chef de l’État, Emmanuel Macron, s’est exprimé deux jours après les annonces de l’exécutif à destinées à éteindre la colère des lycéens et des étudiants, mercredi 28 octobre, sur la chaîne « Hugo Décrypte ». On fait…
 - [29/10 03:04] Le Monde — EN DIRECT, Midterms 2026 : Donald Trump en meeting dans l’Ohio, Barack Obama en Géorgie… Suivez la campagne des élections de mi-mandat aux Etats-Unis
@@ -274,6 +274,9 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [28/10 19:30] Le Figaro — Garde entre voisins, baby-sitters, ateliers privés… Ces parents qui font tout pour éviter le périscolaire depuis la rentrée
   https://www.lefigaro.fr/actualite-france/garde-entre-voisins-baby-sitters-ateliers-prives-ces-parents-qui-font-tout-pour-eviter-le-periscolaire-depuis-la-rentree-20261028
   ENQUÊTE - Après le scandale du périscolaire qui a secoué des écoles à Paris et à travers la France, de nombreux parents ont fait le choix d’une solution de garde alternative pour leurs enfants à la sortie de l’école. Un…
+- [28/10 19:27] Le Monde — Eric Olhats, l’ex-conseiller et recruteur d’Antoine Griezmann, visé par une nouvelle enquête pour violences sexuelles sur mineur
+  https://www.lemonde.fr/societe/article/2026/10/28/eric-olhats-l-ex-conseiller-et-recruteur-d-antoine-griezmann-vise-par-une-nouvelle-enquete-pour-violences-sexuelles-sur-mineur_6801628_3224.html
+  L’ancien formateur de 63 ans purge une peine de six ans de prison prononcée l’an dernier pour « atteintes sexuelles sur mineurs » et « corruption de mineur » sur six jeunes footballeurs, entre 1997 et 2002, puis en 2021…
 - [28/10 19:20] Le Figaro — Après l’attentat de Trappes, la gauche joue la surenchère et charge le gouvernement
   https://www.lefigaro.fr/politique/apres-l-attentat-de-trappes-la-gauche-joue-la-surenchere-et-charge-le-gouvernement-20261028
   RÉCIT - Après des échanges houleux à l’Assemblée, le face-à-face se tend entre la gauche et Sébastien Lecornu, accusé d’avoir « banalisé un acte terroriste » en évoquant mardi la mort de Quentin Deranque.
@@ -283,9 +286,6 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [28/10 19:00] Le Figaro — Sur fond de jalousie ou de dépression, une mort violente tous les trois jours au sein du couple
   https://www.lefigaro.fr/actualite-france/sur-fond-de-jalousie-ou-de-depression-une-mort-violente-tous-les-trois-jours-au-sein-du-couple-20261028
   DÉCRYPTAGE - Meurtres, assassinats, empoisonnements… Ces crimes peuvent prendre mille visages. Une étude a analysé les 136 cas de l’année 2025.
-- [28/10 18:59] Le Monde — En 2025, 2 000 lits d’hospitalisation complète supprimés dans les hôpitaux et les cliniques en France
-  https://www.lemonde.fr/societe/article/2026/10/28/en-2025-2-000-lits-d-hospitalisation-complete-supprimes-dans-les-hopitaux-et-les-cliniques-en-france_6801623_3224.html
-  La direction de la recherche, des études, de l’évaluation et des statistiques note aussi un « rebond inédit » dans le secteur public, qui gagne 200 lits en 2025.
 - [28/10 18:55] Le Monde — Mobilisation lycéenne : des experts de l’ONU se disent consternés par la répression des manifestations, et dénoncent un « recours excessif à la force »
   https://www.lemonde.fr/politique/article/2026/10/28/mobilisation-lyceenne-des-experts-de-l-onu-se-disent-consternes-par-la-repression-des-manifestations-et-denoncent-un-recours-excessif-a-la-force_6801622_823448.html
   « Les blessures graves et, dans certains cas, irréversibles subies par des manifestants, mineurs, dans le cadre d’opérations de maintien de l’ordre, sont inacceptables et injustifiables », soulignent ces experts.
@@ -357,9 +357,6 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [28/10 19:39] Le Monde — Attentat raciste de Trappes : un homme condamné pour apologie du terrorisme à Marseille
   https://www.lemonde.fr/societe/article/2026/10/28/attentat-raciste-de-trappes-un-homme-condamne-pour-apologie-du-terrorisme-a-marseille_6801633_3224.html
   Il affirmait, sur un live TikTok, vouloir « massacrer » des musulmans tout en glorifiant l’acte de l’auteur des faits dans les Yvelines : « J’ai la haine, je vais devenir le nouveau Kévin ».
-- [28/10 19:27] Le Monde — Eric Olhats, l’ex-conseiller et recruteur d’Antoine Griezmann, visé par une nouvelle enquête pour violences sexuelles sur mineur
-  https://www.lemonde.fr/societe/article/2026/10/28/eric-olhats-l-ex-conseiller-et-recruteur-d-antoine-griezmann-vise-par-une-nouvelle-enquete-pour-violences-sexuelles-sur-mineur_6801628_3224.html
-  L’ancien formateur de 63 ans purge une peine de six ans de prison prononcée l’an dernier pour « atteintes sexuelles sur mineurs » et « corruption de mineur » sur six jeunes footballeurs, entre 1997 et 2002, puis en 2021…
 - [28/10 17:30] franceinfo — Un sous-marin volé retrouvé par la police dans le Doubs, deux personnes convoquées devant la justice
   https://www.franceinfo.fr/faits-divers/un-sous-marin-vole-retrouve-par-la-police-dans-l-ain-deux-personnes-convoquees-devant-la-justice_8257679.html#xtor=RSS-3-%5Bgeneral%5D
   L'engin dérobé appartenant à un particulier a été mis en vente sur le site "Leboncoin".
