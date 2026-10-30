@@ -1,4 +1,4 @@
-VEILLE — généré le 2026-10-30 03:32 (heure de Paris)
+VEILLE — généré le 2026-10-30 04:31 (heure de Paris)
 Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 
 ## International
@@ -38,6 +38,9 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [29/10 21:51] franceinfo — Collision meurtrière de trains en Espagne : comment est assurée la sécurité dans les TGV français ?
   https://www.franceinfo.fr/economie/transports/accident-mortel-de-trains-en-espagne-comment-est-assuree-la-securite-dans-les-tgv-francais_8259440.html#xtor=RSS-3-%5Bgeneral%5D
   Un drame ferroviaire semblable à celui que connaît l'Espagne pourrait-il se produire en France ? Quels sont les dispositifs que la SNCF met en place pour éviter pareille catastrophe ? Quelles sont les règles en cas de p…
+- [29/10 21:15] Le Monde — La responsable berlinoise du parti de gauche radicale Die Linke admet, dans une note confidentielle, avoir « peur » de militants proches de son parti
+  https://www.lemonde.fr/international/article/2026/10/29/la-responsable-berlinoise-du-parti-de-gauche-radicale-die-linke-admet-dans-une-note-confidentielle-avoir-peur-de-militants-proches-de-son-parti_6802390_3210.html
+  Probable future maire de Berlin, Elif Eralp, arrivée en tête aux élections du 20 septembre, a évoqué sans les citer, dans un texte envoyé par erreur au « Spiegel », certains militants propalestiniens, et dit craindre po…
 - [29/10 21:00] franceinfo — 17 ans d'arrêt maladie : une professeure payée à ne rien faire
   https://www.franceinfo.fr/monde/europe/allemagne/17-ans-d-arret-maladie-une-professeure-payee-a-ne-rien-faire_8259077.html#xtor=RSS-3-%5Bgeneral%5D
   Payée à ne rien faire : en Allemagne, depuis 2009, une professeure était en arrêt maladie tout en étant rémunérée. Pendant près de 17 ans, elle a fournit de faux certificats médicaux et pourrait être condamnée pour frau…
@@ -56,18 +59,12 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [29/10 20:10] Le Figaro — Midterms aux États-Unis : Steve Hilton, le « Maga » anglais qui veut conquérir la Californie démocrate
   https://www.lefigaro.fr/international/midterms-aux-etats-unis-steve-hilton-le-maga-anglais-qui-veut-conquerir-la-californie-democrate-20261029
   PORTRAIT - Soutenu par Donald Trump, l’ancien conseiller de David Cameron, devenu Américain en 2021, veut conquérir un État qui n’a plus élu de gouverneur républicain depuis vingt ans.
-- [29/10 20:00] Le Monde — Stérilisations forcées au Pérou : après le classement de l’enquête, les victimes estiment que « la recherche de justice n’est pas terminée »
-  https://www.lemonde.fr/international/article/2026/10/29/sterilisations-forcees-au-perou-apres-le-classement-de-l-enquete-les-victimes-estiment-que-la-recherche-de-justice-n-est-pas-terminee_6802381_3210.html
-  Les plaignantes vont saisir le parquet général des droits humains après la décision du ministère public, mardi 27 octobre, de classer l’affaire portant sur la stérilisation forcée de milliers de femmes autochtones sous…
 - [29/10 19:39] Le Figaro — Élections en Israël : des proches de Donald Trump espéraient la défaite de Benyamin Netanyahou
   https://www.lefigaro.fr/international/elections-en-israel-des-proches-de-donald-trump-esperaient-la-defaite-de-benyamin-netanyahou-20261029
   Une enquête de Politico publiée ce jeudi 29 octobre révèle les divergences au sein du camp présidentiel américain sur l’avenir du pouvoir israélien, entre fidélité personnelle et ambitions diplomatiques au Moyen-Orient.
 - [29/10 19:29] Le Figaro — À Tolède, les familles des victimes de l’accident de train en Espagne cherchent leurs proches et des réponses
   https://www.lefigaro.fr/international/a-tolede-les-familles-des-victimes-de-l-accident-de-train-en-espagne-cherchent-leurs-proches-et-des-reponses-20261029
   TÉMOIGNAGES - Dans cette ville espagnole proche du lieu de la collision de mercredi, le commandement de la Garde civile effectue des prélèvements ADN pour identifier les victimes, dont les familles se rendent aussi à l’…
-- [29/10 19:11] Le Monde — Midterms 2026 : deux Dan Sullivan pour un siège en Alaska, la manipulation des démocrates dévoilée
-  https://www.lemonde.fr/international/article/2026/10/29/midterms-2026-deux-dan-sullivan-pour-un-siege-en-alaska-la-manipulation-des-democrates-devoilee_6802377_3210.html
-  Le « New York Times » a révélé, mercredi 28 octobre, que le recrutement d’un homonyme du sénateur sortant républicain a été orchestré par l’entourage de la candidate démocrate, Mary Peltola.
 - [29/10 17:55] Le Figaro — Vladimir Poutine mise sur le sommet des Brics pour accroître le poids de la Russie en Afrique
   https://www.lefigaro.fr/international/vladimir-poutine-mise-sur-le-sommet-des-brics-pour-accroitre-le-poids-de-la-russie-en-afrique-20261029
   DÉCRYPTAGE - Le chef du Kremlin, qui accueillait les 28 et 29 octobre à Moscou le 3e sommet Russie-Afrique, a plaidé pour une plus grande coopération des pays émergents afin d’aider le continent africain à gagner en sou…
@@ -85,12 +82,21 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
   RÉCIT - Attirés par ses terrains bon marché, son eau et son électricité, les projets de centres de données se multiplient. Hausse des factures annoncée, négociations menées dans le secret, projets imposés aux communes :…
 
 ## France
+- [30/10 04:21] Le Monde — Crise énergétique : onze pays de l’UE vont libérer 42,6 millions de barils de pétrole afin de stabiliser les prix du gazole avant l’hiver
+  https://www.lemonde.fr/economie/article/2026/10/30/crise-energetique-onze-pays-de-l-ue-vont-liberer-42-6-millions-de-barils-de-petrole-afin-de-stabiliser-les-prix-du-gazole-avant-l-hiver_6802691_3234.html
+  Face à la flambée des prix, l’Union européenne va puiser dans ses réserves stratégiques, tout en assurant que la sécurité d’approvisionnement ne serait pas menacée cet hiver.
+- [30/10 03:50] Le Monde — Flavio Bolsonaro aurait fui le Brésil à bord d’un avion payé depuis les Etats-Unis
+  https://www.lemonde.fr/international/article/2026/10/30/flavio-bolsonaro-aurait-fui-le-bresil-a-bord-d-un-avion-paye-depuis-les-etats-unis_6802658_3210.html
+  Le jet qui a transporté le sénateur brésilien et sa famille, mercredi, aurait été payé par un intermédiaire à partir d’un compte bancaire américain. Selon le « Wall Street Journal » et le « New York Times », l’appareil…
+- [30/10 03:32] Le Figaro — Fonds gelés, près de 6 milliards de dollars volés, cyberattaque massive : le piratage de la plateforme Binance plonge le secteur des cryptos dans la panique
+  https://www.lefigaro.fr/secteur/high-tech/fonds-geles-pres-de-6-milliards-de-dollars-voles-cyberattaque-massive-le-piratage-de-la-plateforme-binance-plonge-le-secteur-des-cryptos-dans-la-panique-20261030
+  RÉCIT - Près de 6 milliards de dollars auraient transité de la plateforme jusqu’à un programme informatique inconnu, en l’espace de quarante minutes, jeudi soir.
 - [30/10 03:00] Le Monde — Après Google, Amazon pris entre la progression de l’IA et la déception sur ses métiers traditionnels
   https://www.lemonde.fr/economie/article/2026/10/30/apres-google-amazon-pris-entre-la-progression-de-l-ia-et-la-deception-sur-ses-metiers-traditionnels_6802592_3234.html
   La firme de Jeff Bezos dévissait en Bourse, jeudi, dans les échanges post-clôture, après avoir présenté des résultats trimestriels inférieurs aux attentes, au moment où la mutation de plusieurs géants de la tech est san…
 - [30/10 02:52] Le Monde — Quatre pétroliers en feu après des explosions de mines dans le détroit d’Ormuz
   https://www.lemonde.fr/international/article/2026/10/30/quatre-petroliers-en-feu-apres-des-explosions-de-mines-dans-le-detroit-d-ormuz_6802559_3210.html
-  L’Iran affirme avoir saisi un drone américain et accuse des navires d’avoir désactivé leurs systèmes de navigation avant les explosions.
+  L’Iran affirme avoir saisi un drone américain et accuse certains navires d’avoir désactivé leurs systèmes de navigation avant les explosions.
 - [30/10 02:35] Le Monde — EN DIRECT, guerre en Ukraine : Kiev visée par une nouvelle salve de missiles balistiques russes
   https://www.lemonde.fr/international/live/2026/10/30/en-direct-guerre-en-ukraine-kiev-visee-par-une-nouvelle-salve-de-missiles-balistiques-russes_6799896_3210.html
   L’attaque a tué au moins une personne, jeudi soir. Un drone russe a par ailleurs fait au moins 14 morts et 14 blessés à la gare de Dnipro, dans le centre-est de l’Ukraine. D’autres frappes meurtrières ont touché des qua…
@@ -124,9 +130,6 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [30/10 01:09] Le Figaro — Le bitcoin dévisse après des rumeurs de cyberattaque massive sur la plateforme de cryptomonnaies Binance
   https://www.lefigaro.fr/secteur/high-tech/le-bitcoin-devisse-apres-des-rumeurs-de-cyberattaque-massive-sur-la-plateforme-de-cryptomonnaies-binance-20261029
   Alors que plusieurs spécialistes ont fait état de détournements colossaux, Binance a assuré que les fonds déposés par les clients sur son site étaient «totalement à l’abri».
-- [30/10 00:27] Le Figaro — Flavio Bolsonaro a fui le Brésil dans un avion payé depuis un compte bancaire aux États-Unis
-  https://www.lefigaro.fr/international/flavio-bolsonaro-a-fui-le-bresil-dans-un-avion-paye-depuis-un-compte-bancaire-aux-etats-unis-20261030
-  Selon le New York Times, l’avion aurait été affrété par Jason Miller, un conseiller du président américain Donald Trump.
 - [30/10 00:18] Ouest-France — La Corée du Nord teste des drones d’attaque, Kim veut la « supériorité absolue »
   https://www.ouest-france.fr/monde/coree-du-nord/la-coree-du-nord-teste-des-drones-dattaque-kim-veut-la-superiorite-absolue-6e1e5e80-d3eb-11f1-af78-2d36ec019942?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
   La Corée du Nord a tiré une dizaine de missiles balistiques de courte portée en direction de la mer de l’Est. Le dernier lancement intervient environ une semaine après que Séoul a proposé de tenir une réunion militaire…
@@ -214,9 +217,6 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [29/10 21:26] Le Monde — Accident de trains en Espagne : le roi Felipe VI a rendu visite aux victimes
   https://www.lemonde.fr/international/article/2026/10/29/accident-de-trains-en-espagne-le-roi-felipe-vi-a-rendu-visite-aux-victimes_6802375_3211.html
   A un mois des élections législatives, la pire tragédie sur le réseau ferré espagnol depuis 2013 a relancé jeudi les questions sur son entretien et sur la sécurité des passagers.
-- [29/10 21:15] Le Monde — La responsable berlinoise du parti de gauche radicale Die Linke admet, dans une note confidentielle, avoir « peur » de militants proches de son parti
-  https://www.lemonde.fr/international/article/2026/10/29/la-responsable-berlinoise-du-parti-de-gauche-radicale-die-linke-admet-dans-une-note-confidentielle-avoir-peur-de-militants-proches-de-son-parti_6802390_3210.html
-  Probable future maire de Berlin, Elif Eralp, arrivée en tête aux élections du 20 septembre, a évoqué sans les citer, dans un texte envoyé par erreur au « Spiegel », certains militants propalestiniens, et dit craindre po…
 - [29/10 21:13] Le Monde — Patrick Stewart, acteur britannique célèbre pour ses rôles dans « X-Men » et « Star Trek », est mort
   https://www.lemonde.fr/culture/article/2026/10/29/patrick-stewart-acteur-britannique-celebre-pour-ses-roles-dans-x-men-et-star-trek-est-mort_6802388_3246.html
   Bien qu’il soit surtout connu pour ses rôles du professeur Charles Xavier et du capitaine Jean-Luc Picard, respectivement dans « X-Men » et « Star Trek », il a passé la majeure partie de sa carrière sur les planches.
