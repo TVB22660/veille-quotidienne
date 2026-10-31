@@ -1,99 +1,353 @@
-===== LISTE web/www/horas/Latin/Tabulae/Kalendaria
-ERREUR HTTPError HTTP Error 404: Not Found
+$ rm -rf /tmp/dof && git clone --depth 1 -q https://github.com/DivinumOfficium/divinum-officium /tmp/dof && du -sh /tmp/dof
+[code 0]
+--- stdout ---
+467M	/tmp/dof
 
-===== LISTE web/www/horas/Latin/Tabulae
-ERREUR HTTPError HTTP Error 404: Not Found
 
-===== https://raw.githubusercontent.com/DivinumOfficium/divinum-officium/master/web/www/horas/Latin/Tabulae/Kalendaria/1960.txt
-ERREUR HTTPError HTTP Error 404: Not Found
+$ find /tmp/dof -path '*Kalendaria*' -name '*1960*' | head; ls /tmp/dof/web/cgi-bin 2>&1 | head -20
+[code 0]
+--- stdout ---
+/tmp/dof/web/www/Tabulae/Kalendaria/1960.txt
+DivinumOfficium
+admin
+horas
+missa
 
-===== https://raw.githubusercontent.com/DivinumOfficium/divinum-officium/master/web/www/horas/Latin/Tabulae/Kalendaria/1962.txt
-ERREUR HTTPError HTTP Error 404: Not Found
 
-===== https://raw.githubusercontent.com/DivinumOfficium/divinum-officium/master/web/www/missa/Latin/Sancti/10-31.txt
-[Officium]
-In Vigilia Omnium Sanctorum
+$ (sudo apt-get update -qq && sudo apt-get install -y -qq libcgi-pm-perl libwww-perl libdatetime-perl) 2>&1 | tail -3
+[code 0]
+--- stdout ---
+No user sessions are running outdated binaries.
 
-[Rank]
-;;Vigilia;;1.5
+No VM guests are running outdated hypervisor (qemu) binaries on this host.
 
-[Rule]
-no Gloria
-Suffragium=Spiritu;Papa,Ecclesiæ;;
 
-[Introitus]
-!Sap 3:8
-v. Júdicant Sancti gentes et dominántur pópulis: et regnábit Dóminus, Deus illórum, in perpétuum.
-!Ps 32:1
-Exsultáte, justi, in Dómino: rectos decet collaudátio.
-&Gloria
-v. Júdicant Sancti gentes et dominántur pópulis: et regnábit Dóminus, Deus illórum, in perpétuum.
+$ grep -rn 'Rubrics 1960' /tmp/dof/web/cgi-bin/horas/*.pl /tmp/dof/web/cgi-bin/horas/*.pm 2>/dev/null | head -5
+[code 0]
+--- stdout ---
+/tmp/dof/web/cgi-bin/horas/kalendar.pl:104:our $version1 = check_version(our $version) || (error("Unknown version: $version1") && 'Rubrics 1960 - 1960');
+/tmp/dof/web/cgi-bin/horas/kalendar.pl:108:if ($version1 eq $version2) { $version2 = 'Rubrics 1960 - 1960'; }
+/tmp/dof/web/cgi-bin/horas/officium.pl:127:$version = check_version($version) || (error("Unknown version: $version") && 'Rubrics 1960 - 1960');
+/tmp/dof/web/cgi-bin/horas/officium.pl:169:  if ($version eq $version2) { $version2 = 'Rubrics 1960 - 1960'; }
+/tmp/dof/web/cgi-bin/horas/specmatins.pl:958:      setbuild2("Contract scripture from Commune for Rubrics 1960");
 
-[Oratio]
-Dómine, Deus noster, multiplica super nos grátiam tuam: et, quorum prævenímus gloriósa sollémnia, tríbue subsequi in sancta professione lætítiam.
-$Per Dominum
 
-[Lectio]
-Léctio libri Apocalýpsis beáti Joánnis Apóstoli
-!Apoc 5:6-12
-In diébus illis: Ecce, ego Joánnes vidi in médio throni et quatuor animálium et in médio seniórum Agnum stantem tamquam occísum, habéntem córnua septem et óculos septem: qui sunt septem spíritus Dei, missi in omnem terram. Et venit: et accépit de déxtera sedéntis in throno librum. Et cum aperuísset librum, quatuor animália et vigínti quatuor senióres ceciderunt coram Agno, habéntes singuli cítharas, et phiálas áureas plenas odoramentórum, quæ sunt oratiónes sanctórum: et cantábant cánticum novum, dicéntes: Dignus es, Dómine, accípere librum et aperíre signácula ejus: quóniam occisus es, et redemísti nos Deo in sánguine tuo ex omni tribu et lingua et pópulo et natióne: et fecísti nos Deo nostro regnum et sacerdótes: et regnábimus super terram. Et vidi, et audívi vocem Angelórum multórum in circúitu throni et animálium et seniórum: et erat númerus eórum mília mílium, dicéntium voce magna: Dignus est Agnus, qui occísus est, accípere virtútem et divinitátem et sapiéntiam et fortitúdinem et honórem et glóriam et benedictiónem in sǽcula sæculórum. Amen.
+===== missa/missa.pl date=10-31-2026
+$ perl missa.pl
+[code 0]
+--- stdout ---
+Set-Cookie:missap=%27Leone%2CLeo%27%3B%3B%3B%27%28nomen%20Episcopi%20in%20casu%20ablativus%29%2C%28name%20of%20Bishop%29%27%3B%3B%3B%27Latin%27%3B%3B%3B%271%27%3B%3B%3B%27%27%3B%3B%3B%27-1%27%3B%3B%3B%27%20italic%20red%27%3B%3B%3B%27%2B2%20bold%20italic%20red%27%3B%3B%3B%27%2B1%20bold%20italic%20red%27%3B%3B%3B%271%20red%27%3B%3B%3B%27%2B1%20red%27%3B%3B%3B%271024%27%3B%3B%3B%27100%27%3B%3B%3B%270%27%3B%3B%3B%270%27%3B%3B%3B%27English%27%3B%3B%3B%27disabled%27%3B%3B%3B%27%27%20%20%20%20%3B%3B%3Bttobcccccccnnbbtot%3B%3B%3B; path=/; expires=Sun, 31 Oct 2027 06:35:20 GMT
+Set-Cookie:missag=%27Rubrics%201960%20-%201960%27%3B%3B%3B%27English%27%3B%3B%3B%27Generale%27%3B%3B%3B%27Hodie%27%3B%3B%3B%271%27%3B%3B%3B%270%27%3B%3B%3Boooobb%3B%3B%3B; path=/; expires=Sun, 31 Oct 2027 06:35:20 GMT
+Content-type: text/html; charset=utf-8
 
-[Graduale]
-!Ps 149:5; 149:1
-Exsultábunt Sancti in glória: lætabúntur in cubílibus suis.
-V.
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML><HEAD>
 
-===== https://raw.githubusercontent.com/DivinumOfficium/divinum-officium/master/web/www/missa/English/Sancti/10-31.txt
-[Officium]
-Vigil of All Saints
+  <META NAME="Resource-type" CONTENT="Document">
+  <META NAME="description" CONTENT="Divine Office">
+  <META NAME="keywords" CONTENT="Divine Office, Breviarium, Liturgy, Traditional, Zsolozsma">
+  <META NAME="Copyright" CONTENT="Like GNU">
+  <meta name="color-scheme" content="dark light">
+  <STYLE>
+    /* https://www.30secondsofcode.org/css/s/offscreen/ */
+    .offscreen {
+      border: 0;
+      clip: rect(0 0 0 0);
+      height: 1px;
+      margin: -1px;
+      overflow: hidden;
+      padding: 0;
+      position: absolute;
+      width: 1px;
+    }
+    h1, h2 {
+      text-align: center;
+      font-weight: normal;
+    }
+    h2 {
+      margin-top: 4ex;
+      color: maroon;
+      font-size: 112%;
+      font-weight: bold;
+      font-style: italic;
+    }
+    p {
+      color: black;
+    }
+    a:link { color: blue; }
+    a:visited { color: blue; }
+    body {
+      background: #eeeeee;
+    }
+    .contrastbg { background: white; }
+    .nigra { color: black; }
+    .lw .gloss { display: none; }
+    body.interlinear-hint .lw { cursor: pointer; }
+    body.interlinear-hint .lw.revealed .gloss { display: inline; font-size: 0.85em; font-weight: normal; font-style: normal; }
+    body.interlinear-all .lw .gloss { display: inline; font-size: 0.85em; font-weight: normal; font-style: normal; }
+    body.interlinear-all .lw.learned .gloss { display: none; }
+    body.interlinear-all .lw { cursor: pointer; }
+    @media (prefers-color-scheme: dark) {
+      body {
+        background: black;
+        color: white;
+      }
+      table { color: white; }
+      a:link { color: #AFAFFF; }
+      a:visited { color: #AFAFFF; }
+      p { color: white; }
+      .contrastbg {
+        background: #3F3F3F;
+        color: white;
+      }
+      .nigra {  color: white;  }
+      }
+  </STYLE>
+  <TITLE>Sancta Missa</TITLE>
+<SCRIPT TYPE='text/JavaScript' LANGUAGE='JavaScript1.2'>
 
-[Introitus]
-!Wis 3:8
-v. They shall judge nations, and rule over people, and their Lord shall reign for ever.
-!Ps 32:1
-v. Rejoice in the Lord, O ye just: praise becometh the upright.
-&Gloria
-v. They shall judge nations, and rule over people, and their Lord shall reign for ever.
+//position
+function applyLearnedWords() {
+  var learned = JSON.parse(localStorage.getItem('learnedWords') || '[]');
+  document.querySelectorAll('.lw').forEach(function(el) {
+    if (learned.indexOf(el.childNodes[0].textContent.toLowerCase()) !== -1) {
+      el.classList.add('learned');
+    }
+  });
+}
 
-[Oratio]
-Multiply thy grace upon us, O Lord our God, and grant that by following in holiness of life those whose glorious festival we anticipate, we may attain to their bliss.
-$Per Dominum
+function dismissGloss(el) {
+  var word = el.childNodes[0].textContent.toLowerCase();
+  var learned = JSON.parse(localStorage.getItem('learnedWords') || '[]');
+  var idx = learned.indexOf(word);
+  if (idx === -1) {
+    learned.push(word);
+  } else {
+    learned.splice(idx, 1);
+  }
+  localStorage.setItem('learnedWords', JSON.stringify(learned));
+  var hidden = idx === -1;
+  document.querySelectorAll('.lw').forEach(function(e) {
+    if (e.childNodes[0].textContent.toLowerCase() === word) {
+      e.classList.toggle('learned', hidden);
+    }
+  });
+}
 
-[Lectio]
-Lesson from the book of Revelation
-!Rev 5:6-12
-v. And I saw: and behold in the midst of the throne and of the four living creatures, and in the midst of the ancients, a Lamb standing as it were slain, having seven horns and seven eyes: which are the seven Spirits of God, sent forth into all the earth. And he came and took the book out of the right hand of him that sat on the throne. And when he had opened the book, the four living creatures, and the four and twenty ancients fell down before the Lamb, having every one of them harps, and golden vials full of odours, which are the prayers of saints: And they sung a new canticle, saying: Thou art worthy, O Lord, to take the book, and to open the seals thereof; because thou wast slain, and hast redeemed us to God, in thy blood, out of every tribe, and tongue, and people, and nation. And hast made us to our God a kingdom and priests, and we shall reign on the earth. And I beheld, and I heard the voice of many angels round about the throne, and the living creatures, and the ancients; and the number of them was thousands of thousands, Saying with a loud voice: The Lamb that was slain is worthy to receive power, and divinity, and wisdom, and strength, and honour, and glory, and benediction.
+function resetLearnedWords() {
+  localStorage.removeItem('learnedWords');
+  document.querySelectorAll('.lw.learned').forEach(function(el) {
+    el.classList.remove('learned');
+  });
+}
 
-[Graduale]
-!Ps 149:5; 149:1
-v. The sa
+function startup() {
+  var i = 1;
+  while (i <= 0) {
+    a = document.getElementById('L' + i);
+    i++;
+    if (a) a.scrollIntoView();
+  }
+  applyLearnedWords();
+  function handleGlossTap(e) {
+    var lw = e.target.closest && e.target.closest('.lw');
+    if (!lw) return;
+    if (document.body.classList.contains('interlinear-hint')) {
+      e.preventDefault();
+      lw.classList.toggle('revealed');
+    } else if (document.body.classList.contains('interlinear-all')) {
+      e.preventDefault();
+      dismissGloss(lw);
+    }
+  }
+  document.addEventListener('click', handleGlossTap);
+  document.addEventListener('touchend', handleGlossTap);
+}
 
-===== https://raw.githubusercontent.com/DivinumOfficium/divinum-officium/master/web/www/horas/Latin/Sancti/10-31.txt
-[Officium]
-In Vigilia Omnium Sanctorum
+//prepare position
+function setsearch(ind) {
+  document.forms[0].searchvalue.value = ind;
+  parchange();
+}
 
-[Rank]
-;;Vigilia;;1.5
+//call a setup table
+function pset(p) {
+  document.forms[0].command.value = "setup" + p;
+  document.forms[0].submit();
+}
 
-[Rule]
-Responsory Feria
-Preces feriales
-Versum Feria
-no Te Deum
-Laudes 2 
-No Suffragium
+//call an individual hora
+function hset(p) {
+  if (p.match('Persoluta')) {
+	return okbutton();
+  }
+  if (p.match('Propers')) {
+    p = "";
+	if (!p) p = 0;
+	p = 1 - p;
+	document.forms[0].Propers.value = p;
+	p = 'Sancta Missa';
+  }
+  clearradio();
+  if ("") {document.forms[0].caller.value = 1;}
+  document.forms[0].co
 
-[Oratio]
-Dómine, Deus noster, multíplica super nos grátiam tuam: et, quorum prævenímus gloriósa solemnia, tríbue subsequi in sancta professióne lætítiam. 
-$Per Dominum
+===== horas/officium.pl date=10-31-2026
+$ perl officium.pl
+[code 0]
+--- stdout ---
+Set-Cookie:horasp=%270%27%3B%3B%3B%270%27%3B%3B%3B%27Latin%27%3B%3B%3B%270%27%3B%3B%3B%271%27%3B%3B%3B%27%27%3B%3B%3B%27-1%27%3B%3B%3B%27%20italic%20red%27%3B%3B%3B%27%2B2%20bold%20italic%20red%27%3B%3B%3B%27%2B1%20bold%20italic%20red%27%3B%3B%3B%271%20red%27%3B%3B%3B%27%2B1%20red%27%3B%3B%3B%271024%27%3B%3B%3B%27100%27%3B%3B%3B%270%27%3B%3B%3B%270%27%3B%3B%3B%270%27%3B%3B%3B%271%27%3B%3B%3B%271%27%3B%3B%3B%27English%27%3B%3B%3B%27Proper%27%3B%3B%3B%271%27%3B%3B%3B%27disabled%27%3B%3B%3B%27%27%20%20%20%20%3B%3B%3Bbbtbbbtcccccnnbbbbbttbot%3B%3B%3B; path=/; expires=Sun, 31 Oct 2027 06:35:20 GMT
+Set-Cookie:horasgo=%27tota%27%3B%3B%3B%27Rubrics%201960%20-%201960%27%3B%3B%3B%27Generale%27%3B%3B%3B%27English%27%3B%3B%3B%27Hodie%27%3B%3B%3Booooo%3B%3B%3B; path=/; expires=Sun, 31 Oct 2027 06:35:20 GMT
+Content-type: text/html; charset=utf-8
 
-[Lectio1]
-@Commune/C3:Lectio7 in 2 loco
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML><HEAD>
 
-[Lectio2]
-@Commune/C3:Lectio8 in 2 loco
+  <META NAME="Resource-type" CONTENT="Document">
+  <META NAME="description" CONTENT="Divine Office">
+  <META NAME="keywords" CONTENT="Divine Office, Breviarium, Liturgy, Traditional, Zsolozsma">
+  <META NAME="Copyright" CONTENT="Like GNU">
+  <meta name="color-scheme" content="dark light">
+  <STYLE>
+    /* https://www.30secondsofcode.org/css/s/offscreen/ */
+    .offscreen {
+      border: 0;
+      clip: rect(0 0 0 0);
+      height: 1px;
+      margin: -1px;
+      overflow: hidden;
+      padding: 0;
+      position: absolute;
+      width: 1px;
+    }
+    h1, h2 {
+      text-align: center;
+      font-weight: normal;
+    }
+    h2 {
+      margin-top: 4ex;
+      color: maroon;
+      font-size: 112%;
+      font-weight: bold;
+      font-style: italic;
+    }
+    p {
+      color: black;
+    }
+    a:link { color: blue; }
+    a:visited { color: blue; }
+    body {
+      background: #eeeeee;
+    }
+    .contrastbg { background: white; }
+    .nigra { color: black; }
+    .lw .gloss { display: none; }
+    body.interlinear-hint .lw { cursor: pointer; }
+    body.interlinear-hint .lw.revealed .gloss { display: inline; font-size: 0.85em; font-weight: normal; font-style: normal; }
+    body.interlinear-all .lw .gloss { display: inline; font-size: 0.85em; font-weight: normal; font-style: normal; }
+    body.interlinear-all .lw.learned .gloss { display: none; }
+    body.interlinear-all .lw { cursor: pointer; }
+    @media (prefers-color-scheme: dark) {
+      body {
+        background: black;
+        color: white;
+      }
+      table { color: white; }
+      a:link { color: #AFAFFF; }
+      a:visited { color: #AFAFFF; }
+      p { color: white; }
+      .contrastbg {
+        background: #3F3F3F;
+        color: white;
+      }
+      .nigra {  color: white;  }
+      }
+  </STYLE>
+  <TITLE>Divinum Officium Laudes</TITLE>
+<SCRIPT TYPE='text/JavaScript' LANGUAGE='JavaScript1.2'>
 
-[Lectio3]
-@Commune/C3:Lectio9 in 2 loco
+//position
+function startup() {
+  if (!"") {
+    var d = new Date();
+    var day = d.getDate();
+    document.forms[0].browsertime.value = (d.getMonth() + 1) + "-" + day + "-" + d.getFullYear();
+    if (!"10-31-2026") {
+      var a = (day > 31) ? "-+" : (day < 31) ? "--" : "";
+      document.forms[0].date.value = document.forms[0].browsertime.value + a;
+      if (a) document.forms[0].submit();
+    }
+  }
+  var i = 1;
+  while (i <= 0) {
+    a = document.getElementById('L' + i);
+    i++;
+    if (a) a.scrollIntoView();
+  }
+}
 
+//call a setup table
+function pset(p) {
+  clearradio();
+  
+  var pc = document.createElement("input");
+  pc.setAttribute("type", "hidden");
+  pc.setAttribute("name", "pcommand");
+  pc.setAttribute("value", "pray" + document.forms[0].command.value);
+  document.forms[0].appendChild(pc);
+  document.forms[0].command.value = "setup" + p;
+  document.forms[0].submit();
+}
+
+//call an individual hora
+function hset(p, d) {
+  clearradio();
+
+  if (p != 'Laudes' && d) {
+    document.forms[0].date.value = d;
+    document.forms[0].caller.value = 1;
+  }
+  if (0) {document.forms[0].caller.value = 1;}
+  document.forms[0].command.value = "pray" + p;
+  document.forms[0].action = "officium.pl";
+  document.forms[0].target = "_self"
+  document.forms[0].submit();
+}
+
+// call appendix
+function appendix(a) {
+  document.forms[0].command.value = "Appendix " + a;
+  console.log(document.forms[0].command.value);
+  document.forms[0].submit();
+}
+
+// Jump straight to an hour of the Office for the Dead.
+function defunctorum(hour) {
+  clearradio();
+
+  document.forms[0].caller.value = 1;
+  document.forms[0].votive.value = "C9";
+  document.forms[0].command.value = "pray" + hour;
+  document.forms[0].action = "officium.pl";
+  document.forms[0].target = "_self"
+  document.forms[0].submit();
+}
+
+//calls compare
+function callcompare() {
+  document.forms[0].action = "Cofficium.pl";
+  document.forms[0].target = "_self"
+  document.forms[0].submit();
+}
+//to prevent inhearitance of popup
+function clearradio() {
+  var a= document.forms[0].popup;
+  if (a) a.value = 0;
+  document.forms[0].action = "officium.pl";
+  document.forms[0].target = "_self"
+  return;
+}
+
+// set a popup tab
+function linkit(name,ind,
 

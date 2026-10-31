@@ -1,4 +1,4 @@
-SAINTS — généré le 2026-10-31 07:32 (heure de Paris)
+SAINTS — généré le 2026-10-31 07:34 (heure de Paris)
 Date : samedi 31 octobre 2026 (2026-10-31)
 Source : AELF, calendrier liturgique romain pour la France (https://api.aelf.org/v1/informations/2026-10-31/france)
 
