@@ -1,10 +1,14 @@
-SAINTS — généré le 2026-10-31 07:36 (heure de Paris)
+SAINTS — généré le 2026-10-31 07:48 (heure de Paris)
 Date : samedi 31 octobre 2026 (2026-10-31)
-Source : AELF, calendrier liturgique romain pour la France (https://api.aelf.org/v1/informations/2026-10-31/france)
 
+## Calendrier romain actuel (AELF, France)
 - Jour liturgique : de la férie
 - Fête / saint : de la férie
 - Ligne 1 : samedi, 30ème Semaine du Temps Ordinaire
 - Ligne 2 : de la férie
 - Couleur liturgique : vert
 - Temps liturgique : ordinaire
+
+## Calendrier traditionnel de 1962 (Divinum Officium, rubriques de 1960)
+- Jour : Sanctæ Mariæ Sabbato ~ IV. classis
+- Scriptura: Sabbato infra Hebdomadam XXII post Octavam Pentecostes V. Octobris
