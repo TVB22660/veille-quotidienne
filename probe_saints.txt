@@ -1,0 +1,64 @@
+===== AELF JSON complet
+{"informations": {"date": "2026-10-31", "zone": "romain", "couleur": "vert", "annee": "Paire", "temps_liturgique": "ordinaire", "semaine": "30ème Semaine du Temps Ordinaire", "jour": "samedi", "jour_liturgique_nom": "de la férie", "fete": "de la férie", "degre": "", "ligne1": "samedi, 30ème Semaine du Temps Ordinaire", "ligne2": "de la férie", "ligne3": "", "couleur2": null, "couleur3": null}}
+
+===== Nominis
+-- https://nominis.cef.fr/
+38900 octets
+Nominis - Saints, Fêtes et Prénoms Nominis Saints Prénoms Calendriers Carte Frise Podcasts Rechercher Date Pas de version audio possible. La fête des prénoms ! Les saints dans votre poche ! Carte des saints Frise chronologique Le Saviez-vous ? Le site Nominis est actualisé très régulièrement! A découvrir Samedi 31 octobre 2026 Saint Quentin Martyr dans le Vermandois (III e siècle) Il était romain, cinquième enfant, si l'on en croit son nom, ce qui était rare dans le Bas-Empire. Il partit pour la Gaule avec saint Lucien de Beauvais et plusieurs compagnons pour évangéliser cette région du Beauvaisis et de la Picardie. Selon les 'Actes' de sa vie, son succès provoqua la colère du préfet romain Rictiovare qui l'arrêta à Soissons, lui fit subir interrogatoires et supplices, le fit enfin décapiter, le 31 octobre. Sur le lieu de son martyre, s'éleva une ville qui prendra son nom: Saint-Quentin. Illustration: Laissez-vous conter Saint-Quentin (Saint-Quentin, ville d'art et d'histoire) Quentin est le fils d'un sénateur romain, (cinquième enfant, si l'on en croit son nom) serait venu en Gaule avec saint Lucien, futur évêque de Beauvais, en mission d'évangélisation. Établi à Amiens il est décapité à Augusta Veromandum, capitale du Vermandois, qui deviendra Saint-Quentin. Il est fêté le 31 octobre. (source: Saints du Pas de Calais - diocèse d'Arras ) Saint Quentin fut un de ces jeunes Romains qui, comme saint Crépin et saint Crépinien , vinrent prêcher l'Évangile dans les Gaules et y com
+liens : /webpack/nominis.dd4005704170d1005390.css | /rss/nominis.php | https://nominis.cef.fr/ | /images/saintimage144.png | /images/saintimage114.png | /images/saintimage72.png | /images/saintimage57.png | /contenus/saint/alphabetique.html | /contenus/saint/calendrier/simple.html | /contenus/saint/carte.html | /contenus/saint/frise/1-siecle.html | https://play.google.com/store/apps/details?id=fr.cef.nominis | https://apps.apple.com/fr/app/nominis/id6766048336 | https://play.google.com/store/apps/details?id=fr.cef.nominis | https://apps.apple.com/fr/app/nominis/id6766048336
+-- https://nominis.cef.fr/contenus/accueil.html
+ERREUR HTTPError HTTP Error 404: Not Found
+
+===== Divinum Officium martyrologe
+fichiers : obsolete/martyrologium-source/Bohemice/Martyrologium/10-31.txt | obsolete/martyrologium-source/English/Martyrologium/10-31.txt | obsolete/martyrologium-source/Espanol/Martyrologium/10-31.txt | obsolete/martyrologium-source/Francais/Martyrologium/10-31.txt | obsolete/martyrologium-source/Italiano/Martyrologium/10-31.txt | obsolete/martyrologium-source/Latin/Martyrologium/10-31.txt | obsolete/martyrologium-source/Latin/Martyrologium1570/10-31.txt | obsolete/martyrologium-source/Latin/Martyrologium1955R/10-31.txt | obsolete/martyrologium-source/Latin/Martyrologium1960/10-31.txt | obsolete/martyrologium-source/Polski/Martyrologium/10-31.txt | obsolete/martyrologium-source/Portugues/Martyrologium/10-31.txt | obsolete/martyrologium-source/Portugues/Martyrologium1960/10-31.txt
+-- obsolete/martyrologium-source/Bohemice/Martyrologium/10-31.txt
+31. října
+_
+V Římě završil svou pozemskou pouť svatý jáhen Nemesius a jeho panenská dcera Lucilla.* Protože je ne­dokázali přimět, aby se vzdali víry v Krista, byli na příkaz Galeria a Valeriána dvacátého pátého srpna sťati. + Jejich památka se těší velké úctě, neboť svatý Sixtus (Xystus) nechal jejich ostatky s velkou slávou uložit na Via Appia. †   
+Ve Vermandois ve Francii svatý Quinti­nus.* Koruny mučedníků došel za císaře Maximiána.+ Jeho tělo bylo na pokyn anděla ohledáno a i po padesáti pěti le­tech shledáno neporušené. †
+
+-- obsolete/martyrologium-source/English/Martyrologium/10-31.txt
+The morrow is the Eve of All the Saints. 
+Upon the same day, were born into the better life:
+_
+At Rome, the blessed Deacon Nemesius, and the Virgin Lucilla his daughter for as much as it was impossible to make them swerve from their faith in Christ, they were beheaded by order of the Emperor Valerian upon the 25th day of August. 
+Their bodies were buried by blessed Pope Stephen; then, upon the 31st day of October, were laid in a more honourable place upon the Appian Way by blessed Xystus. Gregory V moved them to the Deaconry of St. Mary the New, along with those of the holy martyrs Symphronius, the Tribune Olympius, Exuperia his wife, and Theodulus his son, who had all been converted by the said Symphronius, and baptized by the said holy Stephen, and crowned with martyrdom. The bodies of these Saints were found in the church aforesaid in the time of the Supreme Pontiff Gregory XIII, and honourably reburied under the altar there upon the 8th day of December.
+The holy martyrs Ampliatus, Urban, and Narcissus, of whom mention is made by holy Paul, writing unto the Romans, and who were slain by the Jews and Gentiles for Christ's Gospel's sake. 
+At Saint-Quentin, in Gaul, holy Quentin, a Roman citizen of senatorial rank, who suffered martyrdom under the Emperor Maximian. His body was shown by the revelation of an Angel after fifty-five years, and was found incorrupt. 
+At Constantinople, the holy Archbishop Stachys, who was ordained by the blessed Apostle Andrew as the first Bishop of that city. 
+At Milan, (in the seventh century,)  the holy Confessor Antoninus, Bishop (of that see.)  
+At Ratisbon, (in the tenth century,) holy Wolfgang, Bishop (of that see.)  
+
+-- obsolete/martyrologium-source/Espanol/Martyrologium/10-31.txt
+31 de octubre
+_
+Vigilia de la Solemnidad de Todos los Santos
+Los santos Ampliado, Urbano y Narciso.
+En Roma, los santos Ampliado, Urbano y Narciso, de quienes hace mención san Pablo escribiendo a los Romanos; los cuales, por el Evangelio de Cristo fueron muertos por los Judíos y Gentiles.
+En Constantinopla, san Estaquio, Obispo, el cual fue ordenado por san Andrés Apóstol primer Obispo de aquella ciudad.
+En Augusta de los Veromandos en Francia, san Quintín, ciudadano Romano del orden Senatorio, el cual en tiempo del Emperador Maximiano fue martirizado. Su cuerpo, al cabo de cincuenta y cinco años, por revelación de un Ángel, fue hallado incorrupto.
+En Milán, san Antonino, Obispo y Confesor.
+En Ratisbona de Baviera, san Wolfango, Obispo.
+En Palma de la isla de Mallorca, san Alfonso Rodríguez, Coadjutor temporal formado de la Compañía de Jesús y Confesor, insigne por la humildad y por el continuo deseo de la mortificación; el Sumo Pontífice León XIII le puso en el número de los Santos.
+En Roma, la Traslación de San Nemesio, Diácono, y de su hija Lucila, Virgen, los cuales el 25 de Agosto fueron degollados.
+
+
+===== Wikipédia fr
+page 31_octobre, 70615 caractères
+Célébrations ==
+* [[Journée mondiale de l'épargne|Journée mondiale de l’épargne]]
+* [[Bulgarie]], [[Géorgie (pays)|Géorgie]], [[Roumanie]], [[Russie]], [[Turquie]] et [[Ukraine]] : journée internationale pour la protection de la [[mer Noire]]<ref>Source : [https://bnr.bg/fr/post/100174337/journe-internationale-pour-la-protection-de-la-mer-noire].</ref>, ''en particulier dans ces pays baignés par ladite mer (voir Saint Amplias ci-après).''
+* [[Costa Rica]] : ''día de las mascaradas tradicionales costarricenses''<ref>''[http://www.guiascostarica.com/pueblo/mascaradas.html www.guiascostarica.com] El gobierno firmó un decreto para instaurar el Día de la Mascarada Tradicional Costarricense; que se celebra el 31 de Octubre de cada año''.</ref>, ou « journée des mascarades traditionnelles du Costa Rica » peut-être en lien avec Halloween ci-après.[[Fichier:Jack-o'-Lantern 2003-10-31.jpg|vignette|{{Centrer|Évocation du ''Jack-o'-Lantern'' de Halloween}}]]
+* [[Équateur (pays)|Équateur]] : ''día del escudo nacional del Ecuador''<ref>{{es}} [http://www.eltiempo.com.ec/noticias-cuenca/26987 ''El Tiempo''].</ref>{{,}}<ref>« ''En el artículo de su decreto del 31 de octubre del 1900, transcribe la disposición de 1845, con la única modificación de que se use los tricolores colombianos en lugar de las banderas bicolores. Esto es, se mantuvo el mismo escudo que dibujará Olmedo, pero con el cambio de los colores de las Banderas, firmándose el ejecútese en el Registro Oficial Nº 1272 el 5 de diciembre de 1900. Por eso se le llamo el "dia del escudo de armas" »''.</ref> ou « journée des [[Armoiries de l'Équateur|armoiries]] nationales de l'Équateur ».
+* [[Pérou]] : ''día de la canción criolla de Perú''<ref>''[http://www.amautacunadehistoria.com/2007/10/da-de-la-cancin-criolla.html www.amautacunadehistoria.com] DÍA DE LA CANCIÓN CRIOLLA''.</ref> ou « journée de la chanson créole du Pérou » depuis [[1944]].
+
+
+* [[Halloween]] : fête [[Folklore|folklorique]] d'origine celtique principalement en [[Irlande (pays)|Irlande]], au [[Royaume-Uni]], aux [[États-Unis]], [[Canada]] et en [[Australie]], équivalant à l'ancienne fête druidique (gauloise, bretonne, etc.) de [[Samain (mythologie)|Samain]] les veilles de l'équivalent des lendemains {{1er novembre}} de l'ancien [[calendrier celtique]] (et pendant vers l'hiver boréal (hémisphère terrestre nord) de Carnaval dès l'Épiphanie vers les ''beaux jours'', de la Chandeleur les {{date+|2 février}} ou encore de la mi-Carême etc. ; voir aussi Toussaint des {{1er novembre}} et jours des défunts des {{date+|2 novembre}} les surlendemains, ''illustration ci-contre'').
+
+
+* [[Églises évangéliques luthériennes|Église évangélique luthérienne]] : [[fête de la Réformation]] en rapport avec les {{Nombre|95 remontrances}} de Luther en 1517, fériée dans plusieurs pays de tradition majoritaire protestante comme en [[Slovénie]], mais aussi catholique comme au [[Chili]] (''{{Lang|es|día nacional de las iglesias evangélicas y protestantes}}''<ref>''[http://www.leychile.cl/Navegar?idNorma=279294&idVersion=2008-10-11 www.leychile.cl] Feriados; Día Nacional de Iglesias Evangélicas (31 de octubre); Ley no. 20.299''.</ref>, ou « journée nationale des Églises évangéliques et protestantes », déplacée au vendredi antérieur ou postérieur si la date tombe respectivement un mardi ou un mercredi).
+{{clr}}
+=== Saints des Églises chrétiennes ===
+==== Catholiques ====
+* {{Lien|langue=en|trad=Amplias|fr=Amplias|texte=Amplias}}, ''Amplías'' ou ''Ampliatus''
+
