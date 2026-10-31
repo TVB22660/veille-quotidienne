@@ -1,64 +1,69 @@
-===== AELF JSON complet
-{"informations": {"date": "2026-10-31", "zone": "romain", "couleur": "vert", "annee": "Paire", "temps_liturgique": "ordinaire", "semaine": "30ème Semaine du Temps Ordinaire", "jour": "samedi", "jour_liturgique_nom": "de la férie", "fete": "de la férie", "degre": "", "ligne1": "samedi, 30ème Semaine du Temps Ordinaire", "ligne2": "de la férie", "ligne3": "", "couleur2": null, "couleur3": null}}
+===== Nominis RSS
+<?xml version="1.0" encoding="utf-8"?><rss version="2.0" xmlns:xhtml="http://www.w3.org/1999/xhtml"><channel><title>Nominis</title><link>https://nominis.cef.fr</link><description>Tous les saints du jour</description><category>religion</category><language>fr-FR</language><pubDate>Sat, 31 Oct 2026 12:00:00 +0000</pubDate><docs>https://nominis.cef.fr/rss/nominis.php</docs><image><title>Nominis</title><width>54</width><height>54</height><link>https://nominis.cef.fr</link><url>https://nominis.cef.fr/images/logocef.jpg</url><description>Tous les saints du jour</description></image><webMaster>contact@nominis.cef.fr</webMaster><item><title>Saint Quentin - Martyr dans le Vermandois (III<sup>e</sup> siècle)</title><link>https://nominis.cef.fr/contenus/saint/2110/Saint-Quentin.html</link><guid>https://nominis.cef.fr/contenus/saint/2110/Saint-Quentin.html</guid><description>Il était romain, cinquième enfant, si l'on en croit son nom, ce qui était rare dans le Bas-Empire. Il partit pour la Gaule avec saint Lucien de Beauvais et plusieurs compagnons pour évangéliser cette région du Beauvaisis et de la Picardie. Selon les 'Actes' de sa vie, son succès provoqua la colère du préfet romain Rictiovare qui l'arrêta à Soissons, lui fit subir interrogatoires et supplices, le fit enfin décapiter, le 31 octobre. Sur le lieu de son martyre, s'éleva une ville qui prendra son nom: Saint-Quentin. Illustration: Laissez-vous conter Saint-Quentin (Saint-Quentin, ville d'art et d'histoire)Quentin est le fils d'un sénateur romain, (cinquième enfant, si l'on en croit son nom) serait venu en Gaule avec saint Lucien, futur évêque de Beauvais, en mission d'évangélisation. Établi à Amiens il est décapité à Augusta Veromandum, capitale du Vermandois, qui deviendra Saint-Quentin. Il est fêté le 31 octobre. (source: Saints du Pas de Calais - diocèse d'Arras)Saint Quentin fut un de ces jeunes Romains qui, comme saint Crépin et saint Crépinien, vinrent prêcher l'Évangile dans les Gaules et y communiquer le trésor de la foi qu'ils avaient reçu... (diocèse de Soissons, Laon et Saint-Quentin)Dans le Vermandois, en Gaule Belgique, vers la fin du IIIe siècle, saint Quentin, martyr, qui était de l'Ordre sacerdotal et fut mis à mort pour le Christ sous l'empereur Maximien.</description><pubDate>Sat, 31 Oct 2026 12:00:00 +0000</pubDate><source url="https://nominis.cef.fr/rss/nominis.php"></source><author>contact@nominis.cef.fr</author></item></channel></rss>
 
-===== Nominis
--- https://nominis.cef.fr/
-38900 octets
-Nominis - Saints, Fêtes et Prénoms Nominis Saints Prénoms Calendriers Carte Frise Podcasts Rechercher Date Pas de version audio possible. La fête des prénoms ! Les saints dans votre poche ! Carte des saints Frise chronologique Le Saviez-vous ? Le site Nominis est actualisé très régulièrement! A découvrir Samedi 31 octobre 2026 Saint Quentin Martyr dans le Vermandois (III e siècle) Il était romain, cinquième enfant, si l'on en croit son nom, ce qui était rare dans le Bas-Empire. Il partit pour la Gaule avec saint Lucien de Beauvais et plusieurs compagnons pour évangéliser cette région du Beauvaisis et de la Picardie. Selon les 'Actes' de sa vie, son succès provoqua la colère du préfet romain Rictiovare qui l'arrêta à Soissons, lui fit subir interrogatoires et supplices, le fit enfin décapiter, le 31 octobre. Sur le lieu de son martyre, s'éleva une ville qui prendra son nom: Saint-Quentin. Illustration: Laissez-vous conter Saint-Quentin (Saint-Quentin, ville d'art et d'histoire) Quentin est le fils d'un sénateur romain, (cinquième enfant, si l'on en croit son nom) serait venu en Gaule avec saint Lucien, futur évêque de Beauvais, en mission d'évangélisation. Établi à Amiens il est décapité à Augusta Veromandum, capitale du Vermandois, qui deviendra Saint-Quentin. Il est fêté le 31 octobre. (source: Saints du Pas de Calais - diocèse d'Arras ) Saint Quentin fut un de ces jeunes Romains qui, comme saint Crépin et saint Crépinien , vinrent prêcher l'Évangile dans les Gaules et y com
-liens : /webpack/nominis.dd4005704170d1005390.css | /rss/nominis.php | https://nominis.cef.fr/ | /images/saintimage144.png | /images/saintimage114.png | /images/saintimage72.png | /images/saintimage57.png | /contenus/saint/alphabetique.html | /contenus/saint/calendrier/simple.html | /contenus/saint/carte.html | /contenus/saint/frise/1-siecle.html | https://play.google.com/store/apps/details?id=fr.cef.nominis | https://apps.apple.com/fr/app/nominis/id6766048336 | https://play.google.com/store/apps/details?id=fr.cef.nominis | https://apps.apple.com/fr/app/nominis/id6766048336
--- https://nominis.cef.fr/contenus/accueil.html
-ERREUR HTTPError HTTP Error 404: Not Found
+===== Nominis HTML autour de 'A découvrir'
+position 'couvrir' : 11065
+  <!-- /robots -->
+                <div class="d-none d-md-block card mt-2">
+<div class="card-header">Le Saviez-vous ?</div>
+<div class="card-body text-center">Le site Nominis est actualisé très régulièrement!<br /></div>
+</div>
+<div class="d-none d-md-block card mt-2">
+<div class="card-header">A découvrir</div>
+<div class="card-body text-center"><p><a href="https://www.vaticannews.va/fr/taglist.chiesa-e-religioni.testimoni-della-fede.santi.html" target="_blank" rel="noopener"><img class="img-rounded" style="margin: 5px;" alt="Saints et Bienheureux, VaticanNews" width="150" height="113" data-src="/images/vaticannewstagsaintsbienheureux.jpg" data-srcset="/images/vaticannewstagsaintsbienheureux.webp 150w"></a><br><a href="https://sites.google.com/view/etmaintenant92/accueil" target="_blank" rel="noopener"><img class="img-rounded" style="margin: 5px;" alt="Confinement, Déconfinement, Et maintenant" width="150" height="114" data-src="/images/gallerie/covid150.jpg" data-srcset="/images/gallerie/webp/covid150.webp 150w"></a><br><a href="https://toutestlie.catholique.fr/" target="_blank" rel="noopener"><img style="margin: 5px;" alt="Tout est lié" width="150" height="113" data-src="/images/gallerie/toutestlie2.jpg" data-srcset="/images/gallerie/webp/toutestlie2.webp 150w"></a></p></div>
+</div>
+            </div>
+            <div class="col-md-8" id="layoutMiddle">
+                  <div class="row">
+     <div class="col-md-12 mb-2 mt-2">
+         <h1>Samedi 31 octobre 2026</h1>
+     </div>
+ </div>
+ <div class="row">
+     <div class="col-md-7">
+                          <div class="card mb-2">
+                     <div class="card-header">
+                         <h2><a href="/contenus/saint/2110/Saint-Quentin.html">Saint Quentin</a></h2>
+                         <h3>Martyr dans le Vermandois&nbsp;(III<sup>e</sup> siècle)</h3>
+                     </div>
+                     <div class="card-body">
+                         <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<?xml encoding="utf-8" ?><html><body><p>Il &eacute;tait romain, cinqui&egrave;me enfant, si l'on en croit son nom, ce qui &eacute;tait rare dans le Bas-Empire. Il partit pour la Gaule avec&nbsp;<a title="Saint Lucien de Beauvais, Martyr en Beauvaisis&nbsp;(+ 290)" href="/contenus/saint/392/Saint-Lucien-de-Beauvais.html">saint Lucien de Beauvais</a> et&nbsp;plusieurs compagnons pour &eacute;vang&eacute;liser cette r&eacute;gion du Beauvaisis et de la Picardie. Selon les 'Actes' de sa vie, son succ&egrave;s provoqua la col&egrave;re du pr&eacute;fet romain Rictiovare qui l'arr&ecirc;ta &agrave; Soissons, lui fit subir interrogatoires et supplices, le fit enfin d&eacute;capiter, le 31 octobre. Sur le lieu de son martyre, s'&eacute;leva u
 
-===== Divinum Officium martyrologe
-fichiers : obsolete/martyrologium-source/Bohemice/Martyrologium/10-31.txt | obsolete/martyrologium-source/English/Martyrologium/10-31.txt | obsolete/martyrologium-source/Espanol/Martyrologium/10-31.txt | obsolete/martyrologium-source/Francais/Martyrologium/10-31.txt | obsolete/martyrologium-source/Italiano/Martyrologium/10-31.txt | obsolete/martyrologium-source/Latin/Martyrologium/10-31.txt | obsolete/martyrologium-source/Latin/Martyrologium1570/10-31.txt | obsolete/martyrologium-source/Latin/Martyrologium1955R/10-31.txt | obsolete/martyrologium-source/Latin/Martyrologium1960/10-31.txt | obsolete/martyrologium-source/Polski/Martyrologium/10-31.txt | obsolete/martyrologium-source/Portugues/Martyrologium/10-31.txt | obsolete/martyrologium-source/Portugues/Martyrologium1960/10-31.txt
--- obsolete/martyrologium-source/Bohemice/Martyrologium/10-31.txt
-31. října
+===== Martyrologe (DoF, obsolete)
+-- Francais/Martyrologium/10-31.txt
+La veille des calendes de novembre
 _
-V Římě završil svou pozemskou pouť svatý jáhen Nemesius a jeho panenská dcera Lucilla.* Protože je ne­dokázali přimět, aby se vzdali víry v Krista, byli na příkaz Galeria a Valeriána dvacátého pátého srpna sťati. + Jejich památka se těší velké úctě, neboť svatý Sixtus (Xystus) nechal jejich ostatky s velkou slávou uložit na Via Appia. †   
-Ve Vermandois ve Francii svatý Quinti­nus.* Koruny mučedníků došel za císaře Maximiána.+ Jeho tělo bylo na pokyn anděla ohledáno a i po padesáti pěti le­tech shledáno neporušené. †
+Vigile de la fête de tous les Saints. 
+À Rome, les saints Ampliat, Urbain et Narcisse, dont parle saint Paul dans l’Épître aux Romains. Ils furent massacrés par les Juifs et les païens, en haine de l’Évangile du Christ.
+À Constantinople, saint Stachis, Évêque, qui fut ordonné premier Évêque de cette ville par le bienheureux Apôtre André.
+À Augusta Viromanduorum, en Gaule (aujourd’hui Saint-Quentin), saint Quentin, citoyen romain, de rang sénatorial. Il souffrit le martyre sous l’empereur Maximien. Par la révélation d’un Ange, son corps fut trouvé sans corruption, cinquante-cinq ans après sa mort.
+À Milan, saint Antonin, Évêque et Confesseur.
+À Ratisbonne, en Bavière, saint Wolfgang, Évêque.
+À Palma, dans l’île de Majorque, saint Alphonse Rodriguez, frère coadjuteur de la Compagnie de Jésus et Confesseur. Remarquable par son humilité et son application constante à la mortification, il a été inscrit au nombre des saints par le souverain Pontife Léon XIII.
+À Rome, la translation du bienheureux Némèse, Diacre, et de sa fille la Vierge Lucille. Tous deux furent décapités le 8 des calendes de septembre (25 août).
 
--- obsolete/martyrologium-source/English/Martyrologium/10-31.txt
-The morrow is the Eve of All the Saints. 
-Upon the same day, were born into the better life:
+-- Francais/Martyrologium/11-01.txt
+Aux calendes de novembre
 _
-At Rome, the blessed Deacon Nemesius, and the Virgin Lucilla his daughter for as much as it was impossible to make them swerve from their faith in Christ, they were beheaded by order of the Emperor Valerian upon the 25th day of August. 
-Their bodies were buried by blessed Pope Stephen; then, upon the 31st day of October, were laid in a more honourable place upon the Appian Way by blessed Xystus. Gregory V moved them to the Deaconry of St. Mary the New, along with those of the holy martyrs Symphronius, the Tribune Olympius, Exuperia his wife, and Theodulus his son, who had all been converted by the said Symphronius, and baptized by the said holy Stephen, and crowned with martyrdom. The bodies of these Saints were found in the church aforesaid in the time of the Supreme Pontiff Gregory XIII, and honourably reburied under the altar there upon the 8th day of December.
-The holy martyrs Ampliatus, Urban, and Narcissus, of whom mention is made by holy Paul, writing unto the Romans, and who were slain by the Jews and Gentiles for Christ's Gospel's sake. 
-At Saint-Quentin, in Gaul, holy Quentin, a Roman citizen of senatorial rank, who suffered martyrdom under the Emperor Maximian. His body was shown by the revelation of an Angel after fifty-five years, and was found incorrupt. 
-At Constantinople, the holy Archbishop Stachys, who was ordained by the blessed Apostle Andrew as the first Bishop of that city. 
-At Milan, (in the seventh century,)  the holy Confessor Antoninus, Bishop (of that see.)  
-At Ratisbon, (in the tenth century,) holy Wolfgang, Bishop (of that see.)  
-
--- obsolete/martyrologium-source/Espanol/Martyrologium/10-31.txt
-31 de octubre
+La fête de tous les Saints. Après avoir, le 3 des ides de mai (13 mai), dédié le Panthéon, le pape Boniface IV institua cette fête en l’honneur de la bienheureuse Vierge Marie, Mère de Dieu, et des saints Martyrs, pour être célébrée chaque année dans la ville de Rome. Dans la suite, le pape Grégoire IV ordonna que cette même fête, qui s’observait déjà en différentes Églises, mais de diverses façons, serait désormais solennisée en ce jour par l’Église Universelle et en 
+-- Francais/Martyrologium/11-02.txt
+Le 4 des nones de novembre
 _
-Vigilia de la Solemnidad de Todos los Santos
-Los santos Ampliado, Urbano y Narciso.
-En Roma, los santos Ampliado, Urbano y Narciso, de quienes hace mención san Pablo escribiendo a los Romanos; los cuales, por el Evangelio de Cristo fueron muertos por los Judíos y Gentiles.
-En Constantinopla, san Estaquio, Obispo, el cual fue ordenado por san Andrés Apóstol primer Obispo de aquella ciudad.
-En Augusta de los Veromandos en Francia, san Quintín, ciudadano Romano del orden Senatorio, el cual en tiempo del Emperador Maximiano fue martirizado. Su cuerpo, al cabo de cincuenta y cinco años, por revelación de un Ángel, fue hallado incorrupto.
-En Milán, san Antonino, Obispo y Confesor.
-En Ratisbona de Baviera, san Wolfango, Obispo.
-En Palma de la isla de Mallorca, san Alfonso Rodríguez, Coadjutor temporal formado de la Compañía de Jesús y Confesor, insigne por la humildad y por el continuo deseo de la mortificación; el Sumo Pontífice León XIII le puso en el número de los Santos.
-En Roma, la Traslación de San Nemesio, Diácono, y de su hija Lucila, Virgen, los cuales el 25 de Agosto fueron degollados.
+La Commémoraison de tous les Fidèles Défunts.
+_
+À Pettau, en Haute-Pannonie (aujourd'hui Ptuj en Slovénie), l’anniversaire de saint Victorin, Évêque de cette ville. Après avoir composé plusieurs ouvrages (au témoignage de saint Jérôme) il reçut la couronne du martyre, durant la persécution de Dioclétien.
+À Trieste, la passion du bienheureux Just, qui, durant la même persécution, consomma son martyre sous le préfet Manace.
+À Sébaste, en Arménie, les saints Cartère, St
+-- Latin/Martyrologium1960/10-31.txt
+Prídie Kaléndas Novémbris
+_
+Romæ sanctórum Ampliáti, Urbáni et Narcíssi, quorum méminit sanctus Paulus ad Romános scribens, qui, ob Evangélium Christi, a Judǽis et Gentílibus cæsi sunt.
+Constantinópoli sancti Stachis Epíscopi, qui a beáto Andréa Apóstolo primus ejúsdem civitátis Epíscopus ordinátus est.
+Apud Augústam Veromanduórum, in Gállia, sancti Quinctíni, civis Románi et ex órdine Senatório viri, qui sub Maximiáno Imperatóre martýrium passus est; cujus corpus post annos quinquagínta quinque, revelánte Angelo, invéntum est incorrúptum.
+Medioláni sancti Antoníni, Epíscopi et Confessóris.
+Ratisbónæ, in Bavária, sancti Wolfgángi Epíscopi.
+Palmæ, in Majórca ínsula, sancti Alfónsi Rodríguez, Coadjutóris temporális formáti e Societáte Jesu et Confessóris, humilitáte ac jugi mortificatiónis stúdio insígnis; quem Leo Décimus tértius, Póntifex Máximus, Sanctórum fastis adscrípsit.
+Romæ Translátio beáti Nemésii Diáconi, et fíliæ Lucíllæ Vírginis, qui octávo Kaléndas Septémbris decolláti sunt.
 
-
-===== Wikipédia fr
-page 31_octobre, 70615 caractères
-Célébrations ==
-* [[Journée mondiale de l'épargne|Journée mondiale de l’épargne]]
-* [[Bulgarie]], [[Géorgie (pays)|Géorgie]], [[Roumanie]], [[Russie]], [[Turquie]] et [[Ukraine]] : journée internationale pour la protection de la [[mer Noire]]<ref>Source : [https://bnr.bg/fr/post/100174337/journe-internationale-pour-la-protection-de-la-mer-noire].</ref>, ''en particulier dans ces pays baignés par ladite mer (voir Saint Amplias ci-après).''
-* [[Costa Rica]] : ''día de las mascaradas tradicionales costarricenses''<ref>''[http://www.guiascostarica.com/pueblo/mascaradas.html www.guiascostarica.com] El gobierno firmó un decreto para instaurar el Día de la Mascarada Tradicional Costarricense; que se celebra el 31 de Octubre de cada año''.</ref>, ou « journée des mascarades traditionnelles du Costa Rica » peut-être en lien avec Halloween ci-après.[[Fichier:Jack-o'-Lantern 2003-10-31.jpg|vignette|{{Centrer|Évocation du ''Jack-o'-Lantern'' de Halloween}}]]
-* [[Équateur (pays)|Équateur]] : ''día del escudo nacional del Ecuador''<ref>{{es}} [http://www.eltiempo.com.ec/noticias-cuenca/26987 ''El Tiempo''].</ref>{{,}}<ref>« ''En el artículo de su decreto del 31 de octubre del 1900, transcribe la disposición de 1845, con la única modificación de que se use los tricolores colombianos en lugar de las banderas bicolores. Esto es, se mantuvo el mismo escudo que dibujará Olmedo, pero con el cambio de los colores de las Banderas, firmándose el ejecútese en el Registro Oficial Nº 1272 el 5 de diciembre de 1900. Por eso se le llamo el "dia del escudo de armas" »''.</ref> ou « journée des [[Armoiries de l'Équateur|armoiries]] nationales de l'Équateur ».
-* [[Pérou]] : ''día de la canción criolla de Perú''<ref>''[http://www.amautacunadehistoria.com/2007/10/da-de-la-cancin-criolla.html www.amautacunadehistoria.com] DÍA DE LA CANCIÓN CRIOLLA''.</ref> ou « journée de la chanson créole du Pérou » depuis [[1944]].
-
-
-* [[Halloween]] : fête [[Folklore|folklorique]] d'origine celtique principalement en [[Irlande (pays)|Irlande]], au [[Royaume-Uni]], aux [[États-Unis]], [[Canada]] et en [[Australie]], équivalant à l'ancienne fête druidique (gauloise, bretonne, etc.) de [[Samain (mythologie)|Samain]] les veilles de l'équivalent des lendemains {{1er novembre}} de l'ancien [[calendrier celtique]] (et pendant vers l'hiver boréal (hémisphère terrestre nord) de Carnaval dès l'Épiphanie vers les ''beaux jours'', de la Chandeleur les {{date+|2 février}} ou encore de la mi-Carême etc. ; voir aussi Toussaint des {{1er novembre}} et jours des défunts des {{date+|2 novembre}} les surlendemains, ''illustration ci-contre'').
-
-
-* [[Églises évangéliques luthériennes|Église évangélique luthérienne]] : [[fête de la Réformation]] en rapport avec les {{Nombre|95 remontrances}} de Luther en 1517, fériée dans plusieurs pays de tradition majoritaire protestante comme en [[Slovénie]], mais aussi catholique comme au [[Chili]] (''{{Lang|es|día nacional de las iglesias evangélicas y protestantes}}''<ref>''[http://www.leychile.cl/Navegar?idNorma=279294&idVersion=2008-10-11 www.leychile.cl] Feriados; Día Nacional de Iglesias Evangélicas (31 de octubre); Ley no. 20.299''.</ref>, ou « journée nationale des Églises évangéliques et protestantes », déplacée au vendredi antérieur ou postérieur si la date tombe respectivement un mardi ou un mercredi).
-{{clr}}
-=== Saints des Églises chrétiennes ===
-==== Catholiques ====
-* {{Lien|langue=en|trad=Amplias|fr=Amplias|texte=Amplias}}, ''Amplías'' ou ''Ampliatus''
 
