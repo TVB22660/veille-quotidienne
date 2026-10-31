@@ -1,4 +1,4 @@
-VEILLE — généré le 2026-10-31 07:17 (heure de Paris)
+VEILLE — généré le 2026-10-31 07:30 (heure de Paris)
 Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 
 ## International
@@ -97,15 +97,18 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
   1,4 % des touristes dans le monde effectuent déjà leurs achats grâce à cette technologie, dont le poids a doublé au cours des six derniers mois.
 
 ## France
+- [31/10 07:26] franceinfo — Mobilisation du 31 octobre : le Conseil d'Etat valide le parcours de la manifestation voulu par la Préfecture de police de Paris
+  https://www.franceinfo.fr/economie/greve/direct-mobilisation-du-31-octobre-suivez-cette-troisieme-journee-de-manifestations-pour-laquelle-le-gouvernement-prevoit-un-dispositif-de-securite-exceptionnel_8260562.html#xtor=RSS-3-[lestitres]
+  La juridiction du Palais Royal annule la décision du tribunal administratif qui avait donné raison aux organisateurs qui souhaitaient un parcours entre Bastille et Nation. Les manifestants défileront entre Porte de Bagn…
 - [31/10 07:11] Le Figaro — EN DIRECT - Manifestation du 31 octobre : le parcours Bastille-Nation à Paris finalement interdit par le Conseil d’État
   https://www.lefigaro.fr/actualite-france/en-direct-manifestation-du-31-octobre-le-parcours-bastille-nation-a-paris-finalement-interdit-par-le-conseil-d-etat-20261031
   Une journée «à risque très élevé de troubles à l’ordre public» : 70.000 policiers et gendarmes sont mobilisés ce samedi et les autorités redoutent des violences «notamment en soirée», avec la fête d’Halloween. Lycéens e…
-- [31/10 07:10] franceinfo — Mobilisation du 31 octobre : le Conseil d'Etat valide la parcours de la manifestation voulu par la préfecture de police de Paris
-  https://www.franceinfo.fr/economie/greve/direct-mobilisation-du-31-octobre-suivez-cette-troisieme-journee-de-manifestations-pour-laquelle-le-gouvernement-prevoit-un-dispositif-de-securite-exceptionnel_8260562.html#xtor=RSS-3-[lestitres]
-  La juridiction du Palais Royal annule la décision du tribunal administratif qui avait donné raison aux organisateurs qui souhaitaient un défilé entre Bastille et Nation. Laurent Nuñez avait fait appel.
 - [31/10 07:10] Ouest-France — Tennis. « C’est un peu la nouvelle coqueluche du tennis français » : à Brest, la star c’est Moïse Kouame
   https://www.ouest-france.fr/sport/tennis/open-de-brest/tennis-cest-un-peu-la-nouvelle-coqueluche-du-tennis-francais-a-brest-la-star-cest-moise-kouame-24a22332-d45d-11f1-84f3-5611f158a658?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
   Moïse Kouame a remporté son quart de finale, ce vendredi 30 octobre, contre l’Italien Francesco Maestrelli (6-3, 6-4). Mais au-delà du résultat, le Parisien a pu voir que sa notoriété était grandissante.
+- [31/10 07:10] Le Figaro — Cancer de la prostate : cette technique sans incision qui permet de traiter les tumeurs en préservant les patients
+  https://www.lefigaro.fr/bordeaux/cancer-de-la-prostate-cette-technique-sans-incision-qui-permet-de-traiter-les-tumeurs-en-preservant-les-patients-20261031
+  RÉCIT - Grâce à une technologie nommée HIFU, des ultrasons viennent cibler les cellules cancéreuses, sans incision ni cicatrice, limitant les effets secondaires sur les fonctions urinaire et sexuelle. 216 patients ont d…
 - [31/10 07:03] Ouest-France — Soupçonné d’agressions sexuelles sur sept enfants, un animateur périscolaire à Angers convoqué au tribunal
   https://www.ouest-france.fr/faits-divers/violence-sexuelle/soupconne-dagressions-sexuelles-sur-sept-enfants-un-animateur-periscolaire-a-angers-convoque-au-tribunal-a927f0da-d464-11f1-84f3-5611f158a658?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
   INFO LE COURRIER DE L’OUEST. Le procès d’un animateur périscolaire de l’école la Blancheraie a été fixé au 11 décembre 2026 à Angers. L’agent municipal de 54 ans doit comparaître pour des agressions sexuelles susceptibl…
@@ -151,7 +154,7 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [31/10 06:30] Ouest-France — ENTRETIEN. Florian Rousseau : « Sur la piste, la France n’est pas à la place où elle doit être »
   https://www.ouest-france.fr/sport/cyclisme/piste/entretien-florian-rousseau-sur-la-piste-la-france-nest-pas-a-la-place-ou-elle-doit-etre-fccb9b06-d441-11f1-84f3-5611f158a658?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
   Présent aux championnats de France de l’avenir de cyclisme à Loudéac (Côtes-d’Armor), le directeur technique national Florian Rousseau (52 ans) a accepté de s’épancher sur l’état de la piste française, loin du niveau qu…
-- [31/10 06:30] Ouest-France — GRAND ENTRETIEN : « Le trumpisme n’est pas un isolationnisme »
+- [31/10 06:30] Ouest-France — ENTRETIEN. « Le trumpisme n’est pas un isolationnisme, Donald Trump aime l’expansion »
   https://www.ouest-france.fr/medias/ouest-france/le-grand-entretien/grand-entretien-le-trumpisme-nest-pas-un-isolationnisme-8974f8ee-d461-11f1-84f3-5611f158a658?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
   Maud Quessard dirige le domaine Euro-Atlantique à l’Institut de recherche stratégique de l’École militaire (Irsem). Dans son récent ouvrage, « La puissance sans principe – le nouvel empire américain » (Seuil), elle nous…
 - [31/10 06:00] Le Monde — En Guyane, une sécheresse record complique l’accès à l’eau potable
@@ -205,9 +208,6 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [31/10 02:17] Le Monde — Lille s’offre le derby face à Lens et reste dans le sillage du PSG en haut de la Ligue 1 où Nice poursuit sa remontée
   https://www.lemonde.fr/sport/article/2026/10/31/lille-s-offre-le-derby-face-a-lens-et-reste-dans-le-sillage-du-psg-en-haut-de-la-ligue-1-ou-nice-poursuit-sa-remontee_6803268_3242.html
   Grâce à un unique but signé Olivier Giroud, les Dogues se sont imposés, vendredi soir, et demeurent à 2 points du PSG qui a déroulé au Havre (5-1). Rennes a craqué à Nice (2-5) qui signe un quatrième succès en cinq jour…
-- [31/10 01:14] Le Figaro — Crise politique en Pologne : le chef de l’État se rend au Tribunal constitutionnel bloqué par la police
-  https://www.lefigaro.fr/international/crise-politique-en-pologne-le-president-du-tribunal-constitutionnel-ecarte-la-police-anti-emeutes-deployee-20261030
-  Des dizaines de policiers anti-émeutes empêchaient l’accès à l’enceinte de la plus haute juridiction polonaise aux nombreux soutiens du parti national-conservateur Droit et Justice (PiS, opposition). La cour dénonce un…
 - [31/10 00:19] Le Monde — L’agence Fitch maintient la note de la dette souveraine de la France mais dégrade sa perspective
   https://www.lemonde.fr/economie/article/2026/10/31/l-agence-fitch-maintient-la-note-de-la-dette-souveraine-de-la-france-mais-degrade-sa-perspective_6803235_3234.html
   Relevant une détérioration de la situation budgétaire et des taux d’emprunts, l’agence de notation abaisse la perspective de stable à négative. « Cette appréciation confirme l’absolue nécessité d’adopter d’ici la fin de…
@@ -247,15 +247,15 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [30/10 22:32] franceinfo — "J'ai peur d'être morte, vu que je suis musulmane" : après l'attentat raciste de Trappes, l'inquiétude gagne les enfants et les personnes âgées de la ville
   https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/comment-on-peut-construire-une-societe-avec-des-enfants-qui-ont-peur-des-le-plus-jeune-age-les-habitants-de-trappes-se-confient-une-semaine-apres-l-attaque_8261015.html#xtor=RSS-3-[lestitres]
   Comment vivre avec le sentiment d'être devenus des cibles ? Une équipe de France Télévisions a passé plusieurs jours à Trappes (Yvelines) pour recueillir la parole et l'état d'esprit des habitants après l'attentat du 23…
-- [30/10 22:16] Le Figaro — Pertes colossales, clients criminels, modèles toujours incontrôlables… Ces petits secrets honteux qu’Anthropic révèle dans 335 pages à destination des investisseurs
-  https://www.lefigaro.fr/secteur/high-tech/pertes-colossales-clients-criminels-modeles-toujours-incontrolables-ces-petits-secrets-honteux-qu-anthropic-revele-dans-335-pages-a-destination-des-investisseurs-20261030
-  DÉCRYPTAGE - La firme californienne, qui ne sait pas si elle atteindra un jour la rentabilité, joue la carte de la transparence et liste les nombreux problèmes auxquelles elle fait face, et tous ceux qui vont s’aggraver…
 - [30/10 21:26] franceinfo — Le pape Léon XIV a voté pour les élections de mi-mandat aux Etats-Unis
   https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/le-pape-leon-xiv-a-vote-pour-les-elections-de-mi-mandat-aux-etats-unis_8261009.html#xtor=RSS-3-[lestitres]
   "Le Saint-Père exprime sa conviction quant au droit et au devoir des citoyens de participer aux processus démocratiques", a souligné le Vatican, vendredi.
 - [30/10 21:18] Le Monde — Rafael, mineur, frappé à Paris par « des dizaines » de policiers le 17 octobre : une enquête a été confiée à l’IGPN
   https://www.lemonde.fr/societe/article/2026/10/30/rafael-mineur-frappe-a-paris-par-des-dizaines-de-policiers-le-17-octobre-une-enquete-a-ete-confiee-a-l-igpn_6803135_3224.html
   Sur une vidéo devenue virale, on voit Rafael, 17 ans, vêtu de noir et d’un chapeau de paille, pris au milieu d’une charge policière place de la République. Au sol, des dizaines de policiers l’entourent et de nombreux le…
+- [30/10 20:47] Le Figaro — Pourquoi les banques françaises résistent aussi bien dans un contexte dégradé
+  https://www.lefigaro.fr/societes/pourquoi-les-banques-francaises-resistent-aussi-bien-dans-un-contexte-degrade-20261030
+  DÉCRYPTAGE - Grâce notamment à leur diversification internationale, les établissements financiers ont dégagé des profits élevés depuis le début de l’année. Mais l’horizon s’assombrit.
 - [30/10 20:30] Le Figaro — Alloncle et Patrier-Leitus: le «match retour» des pros de l’audiovisuel public... Les indiscrets du Figaro
   https://www.lefigaro.fr/politique/alloncle-et-patrier-leitus-le-match-retour-des-pros-de-l-audiovisuel-public-les-indiscrets-du-figaro-20261030
   CONFIDENTIELS - Chaque semaine, la rédaction emmène ses lecteurs dans les coulisses de la vie politique.

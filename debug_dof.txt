@@ -1,0 +1,9 @@
+===== https://www.divinumofficium.com/cgi-bin/missa/missa.pl?date=10-31-2026&version=Rubrics%201960%20-%201960&lang2=English
+ERREUR HTTPError HTTP Error 403: Forbidden
+
+===== https://www.divinumofficium.com/cgi-bin/horas/officium.pl?date=10-31-2026&command=prayLaudes&version=Rubrics%201960%20-%201960&lang2=English
+ERREUR HTTPError HTTP Error 403: Forbidden
+
+===== https://www.divinumofficium.com/cgi-bin/horas/kalendar.pl?kyear=2026&browsekal=Browse%20Calendar&version=Rubrics%201960%20-%201960
+ERREUR HTTPError HTTP Error 403: Forbidden
+
