@@ -1,10 +1,12 @@
 #!/usr/bin/env python3
 """Écrit saints.txt : saint du jour et rang liturgique, selon DEUX calendriers.
 
-1. Calendrier romain actuel (France) : API publique de l'AELF (https://api.aelf.org).
+1. Calendrier romain actuel (France) : API publique de l'AELF (https://api.aelf.org)
+   pour le jour liturgique et le rang, flux RSS de Nominis (CEF) pour le(s) saint(s).
 2. Calendrier traditionnel de 1962 : moteur Divinum Officium (rubriques de 1960),
    exécuté localement (dépôt cloné dans /tmp/dof par le workflow), car le site
-   public refuse les accès automatiques.
+   public refuse les accès automatiques, pour le jour et le rang ; martyrologe
+   romain (texte français du même dépôt) pour les saints du jour.
 
 Le fichier est toujours écrit ; chaque section dit « INDISPONIBLE » en cas d'échec,
 indépendamment de l'autre.
@@ -68,6 +70,58 @@ def section_aelf(iso):
     return lines
 
 
+def get_text(url, tries=3):
+    last = None
+    for i in range(tries):
+        try:
+            req = urllib.request.Request(url, headers={"User-Agent": UA})
+            with urllib.request.urlopen(req, timeout=30) as r:
+                return r.read().decode("utf-8", "replace")
+        except Exception as e:
+            last = e
+            time.sleep(2 * (i + 1))
+    raise last
+
+
+def section_nominis():
+    """Saint(s) du jour selon Nominis (Conférence des évêques de France), via son flux RSS."""
+    xml = get_text("https://nominis.cef.fr/rss/nominis.php")
+    items = re.findall(r"(?is)<item>.*?<title>(.*?)</title>.*?</item>", xml)
+    lines = []
+    for t in items:
+        t = text_of(re.sub(r"(?is)<!\[CDATA\[(.*?)\]\]>", r"\1", t))
+        t = re.sub(r"\s+", " ", t)
+        if t:
+            lines.append(f"- Saint du jour (Nominis) : {t}")
+    if not lines:
+        raise ValueError("aucun saint dans le flux Nominis")
+    return lines
+
+
+def section_martyrologe(now):
+    """Martyrologe romain du jour (texte français du dépôt Divinum Officium)."""
+    rel = f"obsolete/martyrologium-source/Francais/Martyrologium/{now:%m-%d}.txt"
+    local = os.path.join(DOF_DIR, rel)
+    if os.path.isfile(local):
+        with open(local, encoding="utf-8", errors="replace") as f:
+            raw = f.read()
+    else:
+        raw = get_text("https://raw.githubusercontent.com/DivinumOfficium/"
+                       f"divinum-officium/master/{rel}")
+    lines = []
+    rows = [e.strip() for e in raw.splitlines() if e.strip()]
+    # la 1re ligne est la date en calendes/nones/ides ; « _ » sépare les blocs
+    for entry in rows[1:]:
+        if entry == "_":
+            continue
+        if len(entry) > 230:
+            entry = entry[:227].rstrip() + "…"
+        lines.append(f"- Martyrologe : {entry}")
+    if not lines:
+        raise ValueError("martyrologe vide")
+    return lines[:8]
+
+
 def text_of(fragment):
     txt = re.sub(r"<[^>]+>", " ", fragment)
     return re.sub(r"\s+", " ", html.unescape(txt)).strip()
@@ -122,8 +176,14 @@ def main():
         lines += section_aelf(iso)
         print("AELF : ok")
     except Exception as e:  # ne bloque jamais le reste du workflow
-        lines.append(f"INDISPONIBLE : {type(e).__name__} {e}")
+        lines.append(f"- Jour liturgique et rang : INDISPONIBLE : {type(e).__name__} {e}")
         print(f"AELF : indisponible ({type(e).__name__} {e})")
+    try:
+        lines += section_nominis()
+        print("Nominis : ok")
+    except Exception as e:
+        lines.append(f"- Saint du jour (Nominis) : INDISPONIBLE : {type(e).__name__} {e}")
+        print(f"Nominis : indisponible ({type(e).__name__} {e})")
     lines.append("")
 
     lines.append("## Calendrier traditionnel de 1962 (Divinum Officium, rubriques de 1960)")
@@ -131,8 +191,14 @@ def main():
         lines += section_1962(now)
         print("1962 : ok")
     except Exception as e:
-        lines.append(f"INDISPONIBLE : {type(e).__name__} {e}")
+        lines.append(f"- Jour et rang : INDISPONIBLE : {type(e).__name__} {e}")
         print(f"1962 : indisponible ({type(e).__name__} {e})")
+    try:
+        lines += section_martyrologe(now)
+        print("Martyrologe : ok")
+    except Exception as e:
+        lines.append(f"- Martyrologe : INDISPONIBLE : {type(e).__name__} {e}")
+        print(f"Martyrologe : indisponible ({type(e).__name__} {e})")
 
     with open("saints.txt", "w", encoding="utf-8") as f:
         f.write("\n".join(lines) + "\n")
