@@ -1,7 +1,10 @@
-VEILLE — généré le 2026-10-31 07:47 (heure de Paris)
+VEILLE — généré le 2026-10-31 07:56 (heure de Paris)
 Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 
 ## International
+- [31/10 07:50] franceinfo — Impressionnés par le mouvement social en France, des militants britanniques sortent un "kit pratique pour apprendre à manifester"
+  https://www.franceinfo.fr/societe/manifestations/impressionnes-par-le-mouvement-social-en-france-des-militants-britanniques-sortent-un-kit-pratique-pour-apprendre-a-manifester_8261060.html#xtor=RSS-3-%5Bgeneral%5D
+  Certains jeunes Britanniques ont défilé en France samedi 17 octobre. Ils rentrent au Royaume-Uni prêts à exporter les méthodes de manifestations françaises chez eux.
 - [31/10 07:30] franceinfo — Pourquoi les importations de gaz naturel liquéfié russe n'ont-elles jamais été aussi hautes dans l'Union européenne, deux mois avant leur interdiction complète ?
   https://www.franceinfo.fr/monde/europe/pourquoi-les-importations-de-gaz-naturel-liquefie-russe-n-ont-elles-jamais-ete-aussi-hautes-dans-l-union-europeenne-deux-mois-avant-leur-interdiction-complete_8255563.html#xtor=RSS-3-%5Bgeneral%5D
   Les pays de l'UE n'auront plus le droit d'importer du GNL russe à partir du 1er janvier. Cependant, plusieurs facteurs, dont la guerre au Moyen-Orient, ont poussé ces Etats à se tourner ces derniers mois vers le pays de…
@@ -11,9 +14,6 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [31/10 06:00] Le Monde — Sénégal : pourquoi la colère enfle à l’ouverture des Jeux olympiques de la jeunesse ?
   https://www.lemonde.fr/videos/video/2026/10/31/senegal-pourquoi-la-colere-enfle-a-l-ouverture-des-jeux-olympiques-de-la-jeunesse_6803396_1669088.html
   Alors que c’est la première fois que l’Afrique accueille des JO, les Jeux olympiques de la jeunesse peinent à susciter l’engouement au Sénégal.
-- [31/10 06:00] Le Monde — Midterms aux Etats-Unis : le petit guide pour tout comprendre aux élections de mi-mandat
-  https://www.lemonde.fr/les-decodeurs/article/2026/10/31/midterms-aux-etats-unis-le-petit-guide-pour-tout-comprendre-aux-elections-de-mi-mandat_6803393_4355770.html
-  Outre le renouvellement d’une partie du Congrès, avec un enjeu important pour la suite de la présidence Trump, certains électeurs américains seront amenés, mardi 3 novembre, à élire leurs représentants locaux et à se pr…
 - [31/10 05:30] Le Monde — A New York, le prix des crèches et des écoles et des structures de garde est si exorbitant qu’avoir un enfant est devenu un luxe
   https://www.lemonde.fr/economie/article/2026/10/31/a-new-york-le-prix-des-creches-et-des-ecoles-et-des-structures-de-garde-est-si-exorbitant-qu-avoir-un-enfant-est-devenu-un-luxe_6803386_3234.html
   « L’Amérique hors de prix » (3/3). La garde des enfants en bas âge peut représenter de 30 % à 40 % du budget d’une famille new-yorkaise. Pour éviter de payer plusieurs dizaines de milliers de dollars par an, la plupart…
@@ -71,9 +71,6 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [30/10 18:01] franceinfo — "Pays de chiottes" : la Norvège se moque de Donald Trump et transforme l'insulte en publicité touristique
   https://www.franceinfo.fr/monde/norvege/pays-de-chiottes-la-norvege-se-moque-de-donald-trump-et-transforme-l-insulte-en-publicite-touristique_8260499.html#xtor=RSS-3-%5Bgeneral%5D
   L'organisme Visit Norway a profité de l'outrance du président des Etats-Unis pour vanter les toilettes "les plus spectaculaires au monde".
-- [30/10 17:51] franceinfo — Bloquer des comptes en masse : la stratégie politique brésilienne qui s'invite en France, est-elle efficace ?
-  https://www.franceinfo.fr/politique/bloquer-des-comptes-en-masse-la-strategie-politique-bresilienne-qui-s-invite-en-france-est-elle-efficace_8260805.html#xtor=RSS-3-%5Bgeneral%5D
-  Sur les réseaux sociaux, de nombreux internautes appellent à bloquer des comptes liés à l'extrême droite en vue de la présidentielle. Une stratégie politique venue de la gauche brésilienne. Mais est-elle réellement effi…
 - [30/10 17:30] Le Figaro — Jean-Yves Le Drian a lu Le Nouveau rideau de fer : «Un signal d’alarme sur le danger d’extension de la guerre en Europe»
   https://www.lefigaro.fr/vox/monde/jean-yves-le-drian-a-lu-le-nouveau-rideau-de-fer-un-signal-d-alarme-sur-le-danger-d-extension-de-la-guerre-en-europe-20261030
   TRIBUNE - L’ancien ministre des Affaires étrangères et de la Défense a lu le livre de Cyrille Louis, Le Nouveau Rideau de fer. Il salue un ouvrage passionnant qui raconte au plus près du terrain, de la Norvège à la Polo…
@@ -97,9 +94,27 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
   1,4 % des touristes dans le monde effectuent déjà leurs achats grâce à cette technologie, dont le poids a doublé au cours des six derniers mois.
 
 ## France
+- [31/10 07:55] Ouest-France — F1. GP du Mexique : Isack Hadjar appelé à s’expliquer après une altercation avec un fan, Verstappen et Lawson pénalisés
+  https://www.ouest-france.fr/sport/formule-1/f1-gp-du-mexique-isack-hadjar-appele-a-sexpliquer-apres-une-altercation-avec-un-fan-verstappen-et-lawson-penalises-b0c77356-d4f5-11f1-84f3-5611f158a658?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
+  Le pilote français Isack Hadjar a été convoqué par les commissaires de course, ce samedi 31 octobre 2026, afin de s’expliquer sur une altercation qu’il a eu avec un jeune supporter dans le paddock de ce Grand Prix du Me…
+- [31/10 07:54] Ouest-France — « Sans Stéphane Heulot, j’aurais lâché l’affaire en juillet » : Jean-René Bernaudeau sait que son équipe va continuer
+  https://www.ouest-france.fr/sport/cyclisme/totalenergies/sans-stephane-heulot-jaurais-lache-laffaire-en-juillet-jean-rene-bernaudeau-sait-que-son-equipe-va-continuer-0cccd8a0-d44f-11f1-84f3-5611f158a658?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
+  Le mois d’octobre s’achève, les coureurs vont bientôt reprendre l’entraînement, mais la formation vendéenne cherche toujours un sponsor titre afin de prendre le relais de TotalEnergies. Président de la SA Vendée, Jean-R…
+- [31/10 07:52] Ouest-France — TÉMOIGNAGE. « Il déteste la neige, il aime les bons restaurants » : Christian Mbili l’homme derrière les gants de boxe
+  https://www.ouest-france.fr/sport/boxe/boxe-avant-son-combat-contre-canelo-noe-cloutier-raconte-nous-christian-mbilli-619ed99a-d482-11f1-84f3-5611f158a658?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
+  Le monde du Noble Art aura les yeux rivés sur Riyad (Arabie saoudite) ce samedi 31 octobre. Christian Mbilli va enfin voir son rêve se réaliser. Le boxeur, qui a évolué trois saisons au Boxing Nazairien et qui conserve…
+- [31/10 07:45] Le Figaro — «Il n’y a pas de complexe à avoir» : Tom Laperche, un benjamin ambitieux dans la catégorie reine de la Route du Rhum
+  https://www.lefigaro.fr/sports/voile/route-du-rhum/il-n-y-a-pas-de-complexe-a-avoir-tom-laperche-un-benjamin-ambitieux-dans-la-categorie-reine-de-la-route-du-rhum-20261031
+  PORTRAIT - Le skipper du trimaran SVR Lazartigue, plus jeune marin au départ de la catégorie Ultim, découvre en favori la légendaire transat, qui s’élance ce dimanche de Saint-Malo.
+- [31/10 07:43] Le Figaro — Manifestation du 31 octobre : le Conseil d'État annule la décision du tribunal administratif de Paris, le parcours Bastille/Nation est interdit
+  https://www.lefigaro.fr/actualite-france/manifestation-du-31-octobre-le-conseil-d-etat-annule-la-decision-du-tribunal-administratif-de-paris-le-parcours-bastille-nation-est-interdit-20261031
+  Le parcours validé pour cette journée à risques est celui proposé par la préfecture, de la porte de Bagnolet à celle de Charenton, en périphérie de la capitale.
 - [31/10 07:42] Ouest-France — Manifestations du 31 octobre : « Acte III » des Gilets jaunes, lycéens, parcours… À quoi faut-il s’attendre ce samedi ?
   https://www.ouest-france.fr/societe/manifestation/manifestations-du-31-octobre-acte-iii-des-gilets-jaunes-lyceens-parcours-a-quoi-faut-il-sattendre-ce-samedi-01ad7e4a-d399-11f1-81f2-0d14b9f9c452?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
   Des rassemblements sont prévus un peu partout en France samedi 31 octobre à l’appel des Gilets jaunes et de syndicats. À Paris, le parcours Bastille-Nation est finalement interdit. Voici ce qu’il faut savoir de cette no…
+- [31/10 07:41] franceinfo — Une enquête pour provocation à la haine raciale ouverte à la suite d'appels sur les réseaux sociaux à agresser des livreurs noirs ou d'origine arabe
+  https://www.franceinfo.fr/societe/racisme/une-enquete-pour-provocation-a-la-haine-raciale-ouverte-a-la-suite-d-appels-sur-les-reseaux-sociaux-a-agresser-des-livreurs-noirs-ou-d-origine-arabe_8261495.html#xtor=RSS-3-[lestitres]
+  La plateforme Uber indique avoir envoyé des messages de prévention à tous ses chauffeurs et livreurs.
 - [31/10 07:40] Le Figaro — Route du rhum : qui va remporter la bataille des Ultim ? Le Figaro se mouille dans les pronostics
   https://www.lefigaro.fr/sports/voile/route-du-rhum/route-du-rhum-qui-va-remporter-la-bataille-des-ultim-le-figaro-se-mouille-dans-les-pronostics-20261031
   Dimanche à 13h02, huit Ultim se lanceront à l’assaut de la Transatlantique mais quelques favoris se détachent. Le Figaro vous livre ses pronostics.
@@ -142,24 +157,12 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [31/10 07:02] Ouest-France — « Il pleut dans le hall d’entrée » : des habitants démunis face à des fuites d’eau dans leur immeuble
   https://www.ouest-france.fr/societe/logement/il-pleut-dans-le-hall-dentree-des-habitants-demunis-face-a-des-fuites-deau-dans-leur-immeuble-5df2b714-d467-11f1-84f3-5611f158a658?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
   Depuis une semaine, les habitants d’un immeuble de la rue des Maillets au Mans (Sarthe) subissent les conséquences d’importantes fuites d’eau. Privés d’électricité dans les parties communes et donc d’ascenseur, ils déno…
-- [31/10 07:00] Ouest-France — Pourquoi les prix des médicaments ne figurent-ils pas sur leurs emballages ? Ouest-France vous répond
-  https://sante.ouest-france.fr/medicament/pourquoi-les-prix-des-medicaments-ne-figurent-ils-pas-sur-leurs-emballages-ouest-france-vous-repond-08144c30-c3e7-11f1-bba2-d026901fbfe4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
-  En France, l’affichage des prix est une obligation légale pour tous les professionnels. Les tarifs doivent impérativement être indiqués de manière claire, visible et lisible. Mais qu’en est-il en pharmacie ? Pourquoi le…
-- [31/10 07:00] Ouest-France — Rachat de crédits : taux, critères d’octroi… Les banques acceptent-elles encore de regrouper vos dettes ?
-  https://www.ouest-france.fr/economie/budget/rachat-de-credits-taux-criteres-doctroi-les-banques-acceptent-elles-encore-de-regrouper-vos-dettes-0983e274-d468-11f1-84f3-5611f158a658?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
-  Vous voulez faire racheter vos crédits et ne payer qu’une seule et unique mensualité de prêt ? Voici tout ce qu’il y a à savoir sur les obstacles que certains emprunteurs rencontrent en cette fin 2026.
-- [31/10 07:00] Ouest-France — « On ne comprenait pas trop ce qui nous arrivait » : mariée depuis 30 ans à un homme, Anne tombe amoureuse d’une femme
-  https://www.ouest-france.fr/societe/on-ne-comprenait-pas-trop-ce-qui-nous-arrivait-mariee-depuis-30-ans-a-un-homme-anne-tombe-amoureuse-dune-femme-9d3be710-c3e6-11f1-bba2-d026901fbfe4?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
-  Ce qui aurait pu rester une simple histoire d’amitié entre collègues va bouleverser la vie d’Anne. Mariée à Pierre depuis plus de trente ans, elle n’avait jamais imaginé pouvoir être attirée par une femme. Mais sa renco…
 - [31/10 07:00] Le Monde — Derrière la coordination nationale des « gilets jaunes », des militants aguerris qui cherchent à fédérer les colères
   https://www.lemonde.fr/societe/article/2026/10/31/derriere-la-coordination-nationale-des-gilets-jaunes-des-militants-aguerris-qui-cherchent-a-federer-les-coleres_6803466_3224.html
   Profitant des mobilisations d’octobre, la coordination nationale des « gilets jaunes » tente de structurer la contestation. Mais la place prise par certains porte-paroles, ancrés à gauche, interroge les figures historiq…
 - [31/10 07:00] Le Figaro — «Aucune révolution ne s’est faite dans la douceur» : après des propos jugés «illicites» sur les émeutes du 17 octobre, ces influenceurs dans le viseur des autorités
   https://www.lefigaro.fr/actualite-france/aucune-revolution-ne-s-est-faite-dans-la-douceur-apres-des-propos-juges-illicites-sur-les-emeutes-du-17-octobre-ces-influenceurs-dans-le-viseur-des-autorites-20261031
   ENQUÊTE - Plusieurs influenceurs ont été placés en garde à vue pour des propos tenus en ligne en marge des mobilisations. En renforçant la surveillance des contenus numériques pour prévenir de nouvelles violences, le go…
-- [31/10 07:00] Le Figaro — Le Musée des Confluences expose des photographies d’œuvres aux pompes funèbres pour « accompagner les familles dans leur deuil »
-  https://www.lefigaro.fr/arts-expositions/le-musee-des-confluences-expose-des-photographies-d-oeuvres-aux-pompes-funebres-pour-accompagner-les-familles-dans-leur-deuil-20261031
-  Trois établissements funéraires de la métropole de Lyon accueillent, en marge de la Toussaint, des clichés géants d’artefacts provenant d’Égypte, d’Amérique latine et du Caucase pour « offrir quelques clés de compréhens…
 - [31/10 07:00] Le Figaro — À la grande surprise des habitants, il n’y aura pas d’exonération partielle de taxe foncière pour une partie du village olympique
   https://immobilier.lefigaro.fr/article/a-la-grande-surprise-des-habitants-il-n-y-aura-pas-d-exoneration-partielle-de-taxe-fonciere-pour-une-partie-du-village-olympique-20261031
   C’est une mauvaise nouvelle pour certains habitants du village des médias et du village olympique qui vont payer une taxe foncière plus élevée que prévu.
@@ -169,6 +172,9 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [31/10 06:00] Le Monde — En Guyane, une sécheresse record complique l’accès à l’eau potable
   https://www.lemonde.fr/planete/article/2026/10/31/en-guyane-une-secheresse-record-complique-l-acces-a-l-eau-potable_6803397_3244.html
   Décuplée par l’intensité du phénomène El Niño et le changement climatique, la sécheresse qui sévit actuellement dans le territoire amazonien exacerbe les difficultés chroniques d’accès à l’eau potable des Guyanais, nota…
+- [31/10 06:00] Le Monde — Midterms aux Etats-Unis : le petit guide pour tout comprendre aux élections de mi-mandat
+  https://www.lemonde.fr/les-decodeurs/article/2026/10/31/midterms-aux-etats-unis-le-petit-guide-pour-tout-comprendre-aux-elections-de-mi-mandat_6803393_4355770.html
+  Outre le renouvellement d’une partie du Congrès, avec un enjeu important pour la suite de la présidence Trump, certains électeurs américains seront amenés, mardi 3 novembre, à élire leurs représentants locaux et à se pr…
 - [31/10 06:00] Le Monde — Que faire, que voir, où aller ? L’agenda culturel et lifestyle à partir du 31 octobre
   https://www.lemonde.fr/m-styles/article/2026/10/31/que-faire-que-voir-ou-aller-l-agenda-culturel-et-lifestyle-a-partir-du-31-octobre_6803392_4497319.html
   Chaque samedi, « Le Goût du Monde » vous propose sa sélection de rendez-vous et d’adresses, à Paris et partout en France. Cette semaine, une exposition événement sur Andy Warhol à Paris, une ode à la courge dans l’Eure,…
@@ -253,9 +259,6 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [30/10 22:46] franceinfo — Le Ballon d'or a échappé de très peu à Kylian Mbappé face à Harry Kane, révèle "France Football"
   https://www.franceinfo.fr/sports/foot/ballon-d-or/le-ballon-d-or-a-echappe-de-tres-peu-a-kylian-mbappe-face-a-harry-kane-revele-france-football_8261069.html#xtor=RSS-3-[lestitres]
   Le mensuel sportif, qui décerne le prestigieux trophée, a publié, vendredi, le classement détaillé du Ballon d'or. L'attaquant français a recueilli 1 027 points, contre 1 055 pour le lauréat britannique.
-- [30/10 22:32] franceinfo — "J'ai peur d'être morte, vu que je suis musulmane" : après l'attentat raciste de Trappes, l'inquiétude gagne les enfants et les personnes âgées de la ville
-  https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/comment-on-peut-construire-une-societe-avec-des-enfants-qui-ont-peur-des-le-plus-jeune-age-les-habitants-de-trappes-se-confient-une-semaine-apres-l-attaque_8261015.html#xtor=RSS-3-[lestitres]
-  Comment vivre avec le sentiment d'être devenus des cibles ? Une équipe de France Télévisions a passé plusieurs jours à Trappes (Yvelines) pour recueillir la parole et l'état d'esprit des habitants après l'attentat du 23…
 - [30/10 21:18] Le Monde — Rafael, mineur, frappé à Paris par « des dizaines » de policiers le 17 octobre : une enquête a été confiée à l’IGPN
   https://www.lemonde.fr/societe/article/2026/10/30/rafael-mineur-frappe-a-paris-par-des-dizaines-de-policiers-le-17-octobre-une-enquete-a-ete-confiee-a-l-igpn_6803135_3224.html
   Sur une vidéo devenue virale, on voit Rafael, 17 ans, vêtu de noir et d’un chapeau de paille, pris au milieu d’une charge policière place de la République. Au sol, des dizaines de policiers l’entourent et de nombreux le…
@@ -277,6 +280,9 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [30/10 18:00] Le Figaro — Eva Illouz, sociologue franco-israélienne : « Les convergences entre la gauche et l’islam sont particulièrement frappantes en France »
   https://www.lefigaro.fr/actualite-france/eva-illouz-sociologue-franco-israelienne-les-convergences-entre-la-gauche-et-l-islam-sont-particulierement-frappantes-en-france-20261030
   Les thèses développées dans le nouveau livre de la sociologue interpellent, au regard des récentes manifestations en France, mais aussi des résultats électoraux à Berlin. La haine dont Israël est la cible pourrait bient…
+- [30/10 17:51] franceinfo — Bloquer des comptes en masse : la stratégie politique brésilienne qui s'invite en France, est-elle efficace ?
+  https://www.franceinfo.fr/politique/bloquer-des-comptes-en-masse-la-strategie-politique-bresilienne-qui-s-invite-en-france-est-elle-efficace_8260805.html#xtor=RSS-3-%5Bgeneral%5D
+  Sur les réseaux sociaux, de nombreux internautes appellent à bloquer des comptes liés à l'extrême droite en vue de la présidentielle. Une stratégie politique venue de la gauche brésilienne. Mais est-elle réellement effi…
 - [30/10 16:54] Le Figaro — Me Méhanna Mouhou : «En 2019, l’antiterrorisme aurait dû se saisir de l’attaque contre la mosquée de Bayonne»
   https://www.lefigaro.fr/actualite-france/me-mehanna-mouhou-en-2019-l-antiterrorisme-aurait-du-se-saisir-de-l-attaque-contre-la-mosquee-de-bayonne-20261030
   ENTRETIEN - Le 28 octobre 2019, un homme blessait grièvement deux fidèles devant la mosquée de Bayonne. Après évaluation de l’état psychique et des mobiles de l’assaillant, l’antiterrorisme ne s’était pas saisi du dossi…
