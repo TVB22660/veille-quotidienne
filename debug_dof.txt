@@ -1,9 +1,99 @@
-===== https://www.divinumofficium.com/cgi-bin/missa/missa.pl?date=10-31-2026&version=Rubrics%201960%20-%201960&lang2=English
-ERREUR HTTPError HTTP Error 403: Forbidden
+===== LISTE web/www/horas/Latin/Tabulae/Kalendaria
+ERREUR HTTPError HTTP Error 404: Not Found
 
-===== https://www.divinumofficium.com/cgi-bin/horas/officium.pl?date=10-31-2026&command=prayLaudes&version=Rubrics%201960%20-%201960&lang2=English
-ERREUR HTTPError HTTP Error 403: Forbidden
+===== LISTE web/www/horas/Latin/Tabulae
+ERREUR HTTPError HTTP Error 404: Not Found
 
-===== https://www.divinumofficium.com/cgi-bin/horas/kalendar.pl?kyear=2026&browsekal=Browse%20Calendar&version=Rubrics%201960%20-%201960
-ERREUR HTTPError HTTP Error 403: Forbidden
+===== https://raw.githubusercontent.com/DivinumOfficium/divinum-officium/master/web/www/horas/Latin/Tabulae/Kalendaria/1960.txt
+ERREUR HTTPError HTTP Error 404: Not Found
+
+===== https://raw.githubusercontent.com/DivinumOfficium/divinum-officium/master/web/www/horas/Latin/Tabulae/Kalendaria/1962.txt
+ERREUR HTTPError HTTP Error 404: Not Found
+
+===== https://raw.githubusercontent.com/DivinumOfficium/divinum-officium/master/web/www/missa/Latin/Sancti/10-31.txt
+[Officium]
+In Vigilia Omnium Sanctorum
+
+[Rank]
+;;Vigilia;;1.5
+
+[Rule]
+no Gloria
+Suffragium=Spiritu;Papa,Ecclesiæ;;
+
+[Introitus]
+!Sap 3:8
+v. Júdicant Sancti gentes et dominántur pópulis: et regnábit Dóminus, Deus illórum, in perpétuum.
+!Ps 32:1
+Exsultáte, justi, in Dómino: rectos decet collaudátio.
+&Gloria
+v. Júdicant Sancti gentes et dominántur pópulis: et regnábit Dóminus, Deus illórum, in perpétuum.
+
+[Oratio]
+Dómine, Deus noster, multiplica super nos grátiam tuam: et, quorum prævenímus gloriósa sollémnia, tríbue subsequi in sancta professione lætítiam.
+$Per Dominum
+
+[Lectio]
+Léctio libri Apocalýpsis beáti Joánnis Apóstoli
+!Apoc 5:6-12
+In diébus illis: Ecce, ego Joánnes vidi in médio throni et quatuor animálium et in médio seniórum Agnum stantem tamquam occísum, habéntem córnua septem et óculos septem: qui sunt septem spíritus Dei, missi in omnem terram. Et venit: et accépit de déxtera sedéntis in throno librum. Et cum aperuísset librum, quatuor animália et vigínti quatuor senióres ceciderunt coram Agno, habéntes singuli cítharas, et phiálas áureas plenas odoramentórum, quæ sunt oratiónes sanctórum: et cantábant cánticum novum, dicéntes: Dignus es, Dómine, accípere librum et aperíre signácula ejus: quóniam occisus es, et redemísti nos Deo in sánguine tuo ex omni tribu et lingua et pópulo et natióne: et fecísti nos Deo nostro regnum et sacerdótes: et regnábimus super terram. Et vidi, et audívi vocem Angelórum multórum in circúitu throni et animálium et seniórum: et erat númerus eórum mília mílium, dicéntium voce magna: Dignus est Agnus, qui occísus est, accípere virtútem et divinitátem et sapiéntiam et fortitúdinem et honórem et glóriam et benedictiónem in sǽcula sæculórum. Amen.
+
+[Graduale]
+!Ps 149:5; 149:1
+Exsultábunt Sancti in glória: lætabúntur in cubílibus suis.
+V.
+
+===== https://raw.githubusercontent.com/DivinumOfficium/divinum-officium/master/web/www/missa/English/Sancti/10-31.txt
+[Officium]
+Vigil of All Saints
+
+[Introitus]
+!Wis 3:8
+v. They shall judge nations, and rule over people, and their Lord shall reign for ever.
+!Ps 32:1
+v. Rejoice in the Lord, O ye just: praise becometh the upright.
+&Gloria
+v. They shall judge nations, and rule over people, and their Lord shall reign for ever.
+
+[Oratio]
+Multiply thy grace upon us, O Lord our God, and grant that by following in holiness of life those whose glorious festival we anticipate, we may attain to their bliss.
+$Per Dominum
+
+[Lectio]
+Lesson from the book of Revelation
+!Rev 5:6-12
+v. And I saw: and behold in the midst of the throne and of the four living creatures, and in the midst of the ancients, a Lamb standing as it were slain, having seven horns and seven eyes: which are the seven Spirits of God, sent forth into all the earth. And he came and took the book out of the right hand of him that sat on the throne. And when he had opened the book, the four living creatures, and the four and twenty ancients fell down before the Lamb, having every one of them harps, and golden vials full of odours, which are the prayers of saints: And they sung a new canticle, saying: Thou art worthy, O Lord, to take the book, and to open the seals thereof; because thou wast slain, and hast redeemed us to God, in thy blood, out of every tribe, and tongue, and people, and nation. And hast made us to our God a kingdom and priests, and we shall reign on the earth. And I beheld, and I heard the voice of many angels round about the throne, and the living creatures, and the ancients; and the number of them was thousands of thousands, Saying with a loud voice: The Lamb that was slain is worthy to receive power, and divinity, and wisdom, and strength, and honour, and glory, and benediction.
+
+[Graduale]
+!Ps 149:5; 149:1
+v. The sa
+
+===== https://raw.githubusercontent.com/DivinumOfficium/divinum-officium/master/web/www/horas/Latin/Sancti/10-31.txt
+[Officium]
+In Vigilia Omnium Sanctorum
+
+[Rank]
+;;Vigilia;;1.5
+
+[Rule]
+Responsory Feria
+Preces feriales
+Versum Feria
+no Te Deum
+Laudes 2 
+No Suffragium
+
+[Oratio]
+Dómine, Deus noster, multíplica super nos grátiam tuam: et, quorum prævenímus gloriósa solemnia, tríbue subsequi in sancta professióne lætítiam. 
+$Per Dominum
+
+[Lectio1]
+@Commune/C3:Lectio7 in 2 loco
+
+[Lectio2]
+@Commune/C3:Lectio8 in 2 loco
+
+[Lectio3]
+@Commune/C3:Lectio9 in 2 loco
+
 
