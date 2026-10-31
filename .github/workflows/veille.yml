@@ -6,7 +6,7 @@ on:
     - cron: '0 3 * * *'    # 03:00 UTC = 5h00 (été) / 4h00 (hiver) : 2e passage, avant le récap de 6h10
   workflow_dispatch:        # permet de lancer à la main
   push:
-    paths: ['fetch_jorf.py']  # relance automatique quand ce script change
+    paths: ['fetch_jorf.py', 'fetch_saints.py']  # relance automatique quand un script change
 
 permissions:
   contents: write
@@ -24,11 +24,15 @@ jobs:
       - name: Lire le Journal officiel (DILA)
         run: python fetch_jorf.py
         continue-on-error: true
+      - name: Saint du jour (AELF)
+        run: python fetch_saints.py
+        continue-on-error: true
       - name: Publier les fichiers
         run: |
           git config user.name "veille-bot"
           git config user.email "veille-bot@users.noreply.github.com"
           git add veille.txt jorf.txt
+          if [ -f saints.txt ]; then git add saints.txt; fi
           if ! git diff --cached --quiet; then
             git commit -m "Veille du $(date -u +%F-%H%M)"
             git push
