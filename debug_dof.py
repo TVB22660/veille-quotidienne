@@ -1,39 +1,59 @@
 #!/usr/bin/env python3
-"""Script de sondage TEMPORAIRE : écrit debug_dof.txt (début du HTML de pages Divinum Officium)."""
-import re
-import urllib.parse
+"""Script de sondage TEMPORAIRE : écrit debug_dof.txt (données Divinum Officium sur GitHub)."""
+import json
 import urllib.request
-from datetime import datetime
-from zoneinfo import ZoneInfo
 
 UA = "Mozilla/5.0 (compatible; veille-quotidienne/1.0; +https://github.com)"
-now = datetime.now(ZoneInfo("Europe/Paris"))
-d = f"{now.month}-{now.day}-{now.year}"
-v = urllib.parse.quote("Rubrics 1960 - 1960")
-BASE = "https://www.divinumofficium.com/cgi-bin"
-URLS = [
-    f"{BASE}/missa/missa.pl?date={d}&version={v}&lang2=English",
-    f"{BASE}/horas/officium.pl?date={d}&command=prayLaudes&version={v}&lang2=English",
-    f"{BASE}/horas/kalendar.pl?kyear={now.year}&browsekal=Browse%20Calendar&version={v}",
-]
+REPO = "DivinumOfficium/divinum-officium"
+RAW = f"https://raw.githubusercontent.com/{REPO}/master"
+API = f"https://api.github.com/repos/{REPO}/contents"
+
+
+def get(url):
+    req = urllib.request.Request(url, headers={"User-Agent": UA})
+    with urllib.request.urlopen(req, timeout=40) as r:
+        return r.read().decode("utf-8", "replace")
+
+
 out = []
-for url in URLS:
-    out.append(f"===== {url}")
+# 1. Contenu des dossiers de calendriers
+for d in ("web/www/horas/Latin/Tabulae/Kalendaria", "web/www/horas/Latin/Tabulae"):
+    out.append(f"===== LISTE {d}")
     try:
-        req = urllib.request.Request(url, headers={"User-Agent": UA})
-        with urllib.request.urlopen(req, timeout=40) as r:
-            raw = r.read().decode("utf-8", "replace")
-        out.append(f"status OK, {len(raw)} octets")
-        body = re.sub(r"(?is)<script.*?</script>|<style.*?</style>", "", raw)
-        out.append("--- HTML (4000 premiers caractères) ---")
-        out.append(body[:4000])
-        txt = re.sub(r"<[^>]+>", " ", body)
-        txt = re.sub(r"\s+", " ", txt)
-        out.append("--- TEXTE (1500 premiers caractères) ---")
-        out.append(txt[:1500])
+        data = json.loads(get(f"{API}/{d}"))
+        out.append(", ".join(f"{x['name']}({x['type']})" for x in data))
     except Exception as e:
         out.append(f"ERREUR {type(e).__name__} {e}")
     out.append("")
+
+# 2. Fichier du calendrier 1960
+for name in ("1960.txt", "1962.txt"):
+    url = f"{RAW}/web/www/horas/Latin/Tabulae/Kalendaria/{name}"
+    out.append(f"===== {url}")
+    try:
+        txt = get(url)
+        lines = txt.splitlines()
+        out.append(f"{len(lines)} lignes")
+        out.append("--- 25 premières lignes ---")
+        out += lines[:25]
+        out.append("--- lignes 10-30 à 11-03 ---")
+        out += [l for l in lines if l.startswith(("10-30", "10-31", "11-01", "11-02", "11-03"))]
+    except Exception as e:
+        out.append(f"ERREUR {type(e).__name__} {e}")
+    out.append("")
+
+# 3. Fichiers de fête du 31 octobre (latin et anglais)
+for url in (f"{RAW}/web/www/missa/Latin/Sancti/10-31.txt",
+            f"{RAW}/web/www/missa/English/Sancti/10-31.txt",
+            f"{RAW}/web/www/horas/Latin/Sancti/10-31.txt"):
+    out.append(f"===== {url}")
+    try:
+        txt = get(url)
+        out.append(txt[:1800])
+    except Exception as e:
+        out.append(f"ERREUR {type(e).__name__} {e}")
+    out.append("")
+
 with open("debug_dof.txt", "w", encoding="utf-8") as f:
     f.write("\n".join(out) + "\n")
 print("debug_dof.txt écrit")
