@@ -1,23 +1,19 @@
-SAINTS — généré le 2026-11-01 04:37 (heure de Paris)
-Date : dimanche 1 novembre 2026 (2026-11-01)
+SAINTS — généré le 2026-11-02 03:38 (heure de Paris)
+Date : lundi 2 novembre 2026 (2026-11-02)
 
 ## Calendrier romain actuel (AELF, France)
-- Jour liturgique : Tous les Saints (dimanche)
-- Fête / saint : Solennité
-- Rang : Solennité
-- Ligne 1 : Tous les Saints
-- Ligne 2 : Solennité
-- Couleur liturgique : blanc
-- Saint du jour (Nominis) : Tous les saints - La Toussaint, fête de tous les saints
+- Jour liturgique : Commémoration de tous les fidèles défunts, on peut choisir d’autres lectures dans le Lectionnaire III : Messe des défunts (adultes)
+- Ligne 1 : Commémoration de tous les fidèles défunts, on peut choisir d’autres lectures dans le Lectionnaire III : Messe des défunts (adultes)
+- Couleur liturgique : violet
+- Saint du jour (Nominis) : Commémoration des défunts - Lendemain de la Toussaint
 
 ## Calendrier traditionnel de 1962 (Divinum Officium, rubriques de 1960)
-- Jour : Omnium Sanctorum ~ I. classis
-- Commemoratio: Dominica XXIII Post Pentecosten I. Novembris
-- Martyrologe : La fête de tous les Saints. Après avoir, le 3 des ides de mai (13 mai), dédié le Panthéon, le pape Boniface IV institua cette fête en l’honneur de la bienheureuse Vierge Marie, Mère de Dieu, et des saints Martyrs, pour être cél…
-- Martyrologe : En Perse, les saints Martyrs Jean, Évêque, et Jacques, Prêtre, sous le roi Sapor.
-- Martyrologe : À Terracine, en Campanie, l’anniversaire de saint Césaire, Diacre, qui, après une longue et rigoureuse prison, fut enfermé dans un sac avec le Prêtre saint Julien,et précipité dans la mer.
-- Martyrologe : Dans la ville de Dijon, saint Bénigne, Prêtre. Envoyé en Gaule, par le bienheureux Polycarpe pour y prêcher l’Évangile, il fut, sous l’empereur Marc-Aurèle et par ordre du juge Térence, plusieurs fois soumis à de très cruels su…
-- Martyrologe : À Damas, la passion des saints Césaire, Dace et de cinq autres.
-- Martyrologe : Le même jour, sainte Marie, esclave. Accusée d’être Chrétienne, elle fut, sous l’empereur Adrien, cruellement flagellée, étendue sur le chevalet, déchirée avec des peignes de fer. Elle accomplit ainsi son martyre.
-- Martyrologe : À Tarse, en Cilicie, les saintes Martyres Cyrénie et Julienne, sous l’empereur Maximien.
-- Martyrologe : Dans la cité des Arvernes (Clermont-Ferrand), en Gaule, saint Austremoine, qui fut le premier Évêque de cette ville.
+- Jour : In Commemoratione Omnium Fidelium Defunctorum Ad primam Missam ~ I. classis
+- Martyrologe : La Commémoraison de tous les Fidèles Défunts.
+- Martyrologe : À Pettau, en Haute-Pannonie (aujourd'hui Ptuj en Slovénie), l’anniversaire de saint Victorin, Évêque de cette ville. Après avoir composé plusieurs ouvrages (au témoignage de saint Jérôme) il reçut la couronne du martyre, durant…
+- Martyrologe : À Trieste, la passion du bienheureux Just, qui, durant la même persécution, consomma son martyre sous le préfet Manace.
+- Martyrologe : À Sébaste, en Arménie, les saints Cartère, Styriaque, Tobie, Eudoxe, Agape et leurs compagnons Martyrs, sous l’empereur Licinius.
+- Martyrologe : En Perse, les saints Martyrs Acindyne, Pegase, Aphtone, Elpidiphore et Anempodiste, avec plusieurs compagnons.
+- Martyrologe : En Afrique, l’anniversaire des saints Martyrs Publius, Victor, Hermès et Papias.
+- Martyrologe : À Tarse, en Cilicie, sainte Eustochium, Vierge et Martyre. Après avoir enduré de cruels tourments sous Julien l’Apostat, elle rendit l’esprit en priant.
+- Martyrologe : À Laodicée, en Syrie, saint Théodote, Évêque, qui fut non seulement puissant en paroles, mais aussi orné de bonnes œuvres et de vertus.
