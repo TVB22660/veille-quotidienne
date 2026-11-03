@@ -1,19 +1,24 @@
-SAINTS — généré le 2026-11-02 04:41 (heure de Paris)
-Date : lundi 2 novembre 2026 (2026-11-02)
+SAINTS — généré le 2026-11-03 03:36 (heure de Paris)
+Date : mardi 3 novembre 2026 (2026-11-03)
 
 ## Calendrier romain actuel (AELF, France)
-- Jour liturgique : Commémoration de tous les fidèles défunts, on peut choisir d’autres lectures dans le Lectionnaire III : Messe des défunts (adultes)
-- Ligne 1 : Commémoration de tous les fidèles défunts, on peut choisir d’autres lectures dans le Lectionnaire III : Messe des défunts (adultes)
-- Couleur liturgique : violet
-- Saint du jour (Nominis) : Commémoration des défunts - Lendemain de la Toussaint
+- Jour liturgique : de la férie
+- Fête / saint : S. Martin de Porrès, religieux
+- Ligne 1 : mardi, 31ème Semaine du Temps Ordinaire (semaine III du Psautier)
+- Ligne 2 : S. Martin de Porrès, religieux
+- Ligne 3 : Mémoire facultative
+- Couleur liturgique : vert
+- Temps liturgique : ordinaire
+- Saint du jour (Nominis) : Saint Hubert - Évêque de Tongres-Maastricht-Liège (+ 727)
+- Saint du jour (Nominis) : Saint Martin de Porres - Frère dominicain à Lima (+ 1639)
 
 ## Calendrier traditionnel de 1962 (Divinum Officium, rubriques de 1960)
-- Jour : In Commemoratione Omnium Fidelium Defunctorum Ad primam Missam ~ I. classis
-- Martyrologe : La Commémoraison de tous les Fidèles Défunts.
-- Martyrologe : À Pettau, en Haute-Pannonie (aujourd'hui Ptuj en Slovénie), l’anniversaire de saint Victorin, Évêque de cette ville. Après avoir composé plusieurs ouvrages (au témoignage de saint Jérôme) il reçut la couronne du martyre, durant…
-- Martyrologe : À Trieste, la passion du bienheureux Just, qui, durant la même persécution, consomma son martyre sous le préfet Manace.
-- Martyrologe : À Sébaste, en Arménie, les saints Cartère, Styriaque, Tobie, Eudoxe, Agape et leurs compagnons Martyrs, sous l’empereur Licinius.
-- Martyrologe : En Perse, les saints Martyrs Acindyne, Pegase, Aphtone, Elpidiphore et Anempodiste, avec plusieurs compagnons.
-- Martyrologe : En Afrique, l’anniversaire des saints Martyrs Publius, Victor, Hermès et Papias.
-- Martyrologe : À Tarse, en Cilicie, sainte Eustochium, Vierge et Martyre. Après avoir enduré de cruels tourments sous Julien l’Apostat, elle rendit l’esprit en priant.
-- Martyrologe : À Laodicée, en Syrie, saint Théodote, Évêque, qui fut non seulement puissant en paroles, mais aussi orné de bonnes œuvres et de vertus.
+- Jour : Feria Tertia infra Hebdomadam XXIII post Octavam Pentecostes I. Novembris ~ IV. classis
+- Martyrologe : À Milan, l’anniversaire de saint Charles Borromée, Cardinal, Évêque de Milan, et Confesseur. Éminent par sa sainteté et illustre par ses miracles, il a été inscrit au nombre des saints par le pape Paul V. Sa fête se célèbre le…
+- Martyrologe : Le même jour, l’anniversaire de saint Quart, disciple des Apôtres.
+- Martyrologe : À Viterbe, les saints Martyrs Valentin, Prêtre, et Hilaire, Diacre. Durant la persécution de Maximien, ils furent, pour la Foi du Christ, précipités dans le Tibre, une grosse pierre au cou, mais un Ange les en retira miraculeus…
+- Martyrologe : À Césarée de Cappadoce, les saints Martyrs Germain, Théophile, Césaire et Vital, qui rendirent un généreux témoignage de leur Foi, durant la persécution de Dèce.
+- Martyrologe : À Saragosse, en Espagne, une multitude innombrable de saints Martyrs, qui, sous Dacien, préfet des Espagnes, souffrirent pour le Christ une mort glorieuse.
+- Martyrologe : En Angleterre, sainte Wénéfride, Vierge et Martyre.
+- Martyrologe : Au monastère de Clairvaux, en France, la mise au tombeau de saint Malachie, Évêque de Connor en Irlande, rendu célèbre en son temps par ses nombreuses vertus. Sa vie a été écrite par saint Bernard, Abbé.
+- Martyrologe : Le même jour, saint Hubert, Évêque de Tongres.
