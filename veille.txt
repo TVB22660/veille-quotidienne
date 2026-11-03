@@ -1,7 +1,10 @@
-VEILLE — généré le 2026-11-03 03:35 (heure de Paris)
+VEILLE — généré le 2026-11-03 04:37 (heure de Paris)
 Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 
 ## International
+- [03/11 04:13] Le Monde — Iran : l’armée américaine a effectué des frappes sur l’île de Qeshm, selon le « Wall Street Journal »
+  https://www.lemonde.fr/international/article/2026/11/03/iran-l-armee-americaine-a-effectue-des-frappes-sur-l-ile-de-qeshm-selon-le-wall-street-journal_6805420_3210.html
+  Ces frappes secrètes interviennent à la veille des élections de mi-mandat aux Etats-Unis, et alors que Donald Trump a déclaré qu’un accord avec l’Iran « pourrait arriver ».
 - [02/11 23:47] franceinfo — Cinq personnes tuées par des frappes israéliennes dans la bande de Gaza, selon la défense civile
   https://www.franceinfo.fr/monde/palestine/gaza/cinq-personnes-tuees-par-des-frappes-israeliennes-dans-la-bande-de-gaza-selon-la-defense-civile_8264864.html#xtor=RSS-3-%5Bgeneral%5D
   L'armée israélienne dit avoir "frappé plusieurs terroristes" à divers endroits de l'enclave palestinienne.
@@ -41,6 +44,9 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [02/11 20:30] franceinfo — Retour au calme dans les lycées ou poursuite des mobilisations après la rentrée scoaire ? Les informés de franceinfo du lundi 2 novembre 2026
   https://www.franceinfo.fr/replay-radio/les-informes-de-france-info/retour-au-calme-dans-les-lycees-ou-poursuite-des-mobilisations-apres-la-rentree-scoaire-les-informes-de-franceinfo-du-lundi-2-novembre-2026_8243368.html#xtor=RSS-3-%5Bgeneral%5D
   Tous les soirs, les informés débattent de l'actualité, cette semaine autour de Hadrien Bect.
+- [02/11 20:00] Le Monde — En Allemagne, les violences en marge des manifestations du week-end suscitent un vif débat politique au sein du gouvernement
+  https://www.lemonde.fr/international/article/2026/11/02/en-allemagne-les-violences-en-marge-des-manifestations-du-week-end-suscitent-un-vif-debat-politique-au-sein-du-gouvernement_6805312_3210.html
+  Le ministre de l’intérieur conservateur accuse l’extrême gauche et les « fauteurs de troubles de la communauté immigrée » d’être responsables des violences à Francfort en marge des manifestations. « Le chancelier fédéra…
 - [02/11 20:00] franceinfo — Donald Trump peut-il perdre le bastion républicain du Texas ?
   https://www.franceinfo.fr/monde/usa/midterms-2018/donald-trump-peut-il-perdre-le-bastion-republicain-du-texas_8264615.html#xtor=RSS-3-%5Bgeneral%5D
   Les élections de mi-mandat américaines pourraient rebattre les cartes au Congrès : Donald Trump risque-t-il de perdre sa majorité ? 52 millions d’Américains ont déjà voté par anticipation, et la bataille pourrait notamm…
@@ -65,12 +71,6 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [02/11 18:30] Le Monde — « En Inde, les manifestants veulent en finir avec le régime d’impunité dont bénéficie le premier ministre, Narendra Modi »
   https://www.lemonde.fr/idees/article/2026/11/02/en-inde-les-manifestants-veulent-en-finir-avec-le-regime-d-impunite-dont-beneficie-le-premier-ministre-narendra-modi_6805299_3232.html
   Le 1ᵉʳ novembre, des milliers de personnes ont défilé à New Delhi contre la révision électorale, qu’elles jugent favorable au chef du gouvernement. La journaliste et essayiste Vidya Krishnan estime, dans une tribune au…
-- [02/11 18:04] Le Monde — En Afghanistan, à Herat, sous le régime des talibans, des femmes désespérées : « L’air nous a été retiré »
-  https://www.lemonde.fr/international/article/2026/11/02/en-afghanistan-a-herat-sous-le-regime-des-talibans-des-femmes-desesperees-l-air-nous-a-ete-retire_6805297_3210.html
-  Dans cette ville, où une manifestation a été réprimée dans le sang en juin, deux jeunes femmes de 18 ans et leurs mères racontent leur quotidien : les écoles clandestines, la peur des représailles, un club de lecture or…
-- [02/11 18:02] Le Monde — Des cyberattaques contre des réfrigérateurs et des congélateurs visent plusieurs supermarchés en Europe
-  https://www.lemonde.fr/international/article/2026/11/02/des-cyberattaques-contre-des-refrigerateurs-et-des-congelateurs-visent-plusieurs-supermarches-en-europe_6805296_3210.html
-  En Belgique, en Suède, en Finlande, en Estonie, au Luxembourg et en Irlande, des pirates ont pris, dans la nuit du 1ᵉʳ au 2 novembre, le contrôle de systèmes de régulation frigorifiques connectés à Internet. Comme lors…
 - [02/11 17:52] franceinfo — En Chine, l’IA remplace les acteurs des mini-séries
   https://www.franceinfo.fr/monde/en-chine-l-ia-remplace-les-acteurs-des-mini-series_8264522.html#xtor=RSS-3-%5Bgeneral%5D
   En Chine, de plus en plus de mini-séries sont entièrement générées par intelligence artificielle, sans caméra ni acteurs. Au studio Jubao Huyu, l’IA représente déjà 70 à 80 % de la production. Mais cette industrie fait…
@@ -82,6 +82,9 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
   DÉCRYPTAGE - Trente-six gouverneurs doivent être élus le 3 novembre. Les Américains ne désigneront donc pas seulement ceux qui votent les lois à Washington mais choisiront aussi ceux qui pourront, demain, épauler le pré…
 
 ## France
+- [03/11 03:57] Le Monde — Cryptomonnaies : la Corée du Nord nie être impliquée dans le piratage de la plateforme Binance, rejetant les accusations du FBI
+  https://www.lemonde.fr/pixels/article/2026/11/03/la-coree-du-nord-nie-etre-impliquee-dans-le-piratage-de-la-plateforme-de-cryptomonnaies-binance-rejetant-les-accusations-du-fbi_6805387_4408996.html
+  La police fédérale américaine a accusé le groupe de pirates informatiques nord-coréens TraderTraitor d’être à l’origine du vol de 6,3 milliards de dollars d’actifs numériques. « Une grave provocation politique », a déno…
 - [03/11 03:22] Le Figaro — Les États-Unis ont mené des frappes contre l'île iranienne de Qeshm, selon le Wall Street Journal
   https://www.lefigaro.fr/international/les-etats-unis-ont-mene-des-frappes-contre-l-ile-iranienne-de-qeshm-selon-le-wall-street-journal-20261103
   L’agence de presse officielle iranienne Irna avait plus tôt fait état de cinq explosions entendues sur cette île située dans le stratégique détroit d’Ormuz.
@@ -103,9 +106,9 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [03/11 00:55] Le Figaro — Guerre en Ukraine : Washington annonce des pourparlers entre Moscou et Kiev la semaine prochaine à Abou Dhabi
   https://www.lefigaro.fr/international/guerre-en-ukraine-washington-annonce-des-pourparlers-entre-moscou-et-kiev-la-semaine-prochaine-a-abou-dhabi-20261103
   Les discussions sous médiation américaine porteront notamment sur la sécurité d’après-guerre et les efforts humanitaires, selon l’émissaire américain Steve Witkoff.
-- [03/11 00:53] Le Monde — Budget 2027 : les députés remanient la TVA sur l’électricité, la télévision payante ou encore les produits de première nécessité
+- [03/11 00:53] Le Monde — Budget 2027 : les députés des amendements au devenir incertain, remaniant la TVA sur l’électricité ou encore la télévision payante
   https://www.lemonde.fr/politique/article/2026/11/03/budget-2027-les-deputes-remanient-la-tva-sur-l-electricite-la-television-payante-ou-encore-les-produits-de-premiere-necessite_6805244_823449.html
-  Dans un hémicycle clairsemé, les parlementaires ont voté lundi des mesures qu’ils savent peu susceptibles de perdurer, compte tenu du rejet probable du budget, et d’un recours au 49.3 ou aux ordonnances par l’exécutif.
+  Dans un hémicycle clairsemé, les parlementaires ont voté lundi des mesures qu’ils savent peu susceptibles de perdurer, compte tenu du rejet probable du budget, et d’un possible recours par l’exécutif au 49.3 ou aux ordo…
 - [03/11 00:45] Ouest-France — Fusillade à Marseille : un mort, un blessé grave
   https://www.ouest-france.fr/provence-alpes-cote-dazur/marseille-13000/fusillade-a-marseille-un-mort-un-blesse-grave-7127bbd4-d716-11f1-84f3-5611f158a658?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
   Un homme de 33 ans a été tué et un autre, âgé de 32 ans, blessé lundi 2 novembre 2026 au soir dans une fusillade près de la cité de la Cayolle dans le sud de Marseille, indiquent les marins-pompiers, confirmant une info…
@@ -232,12 +235,6 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [02/11 20:05] franceinfo — Bénéfices de Total : "L'État doit être capable d'obtenir de Total qu'il y ait des gestes en faveur des gros rouleurs", estime Guilhem Carayon, vice-président délégué de l'UDR
   https://www.franceinfo.fr/economie/transports/prix-des-carburants/benefices-de-total-l-etat-doit-etre-capable-d-obtenir-de-total-qu-il-y-ait-des-gestes-en-faveur-des-gros-rouleurs-estime-guilhem-carayon-vice-president-delegue-de-l-udr_8264684.html#xtor=RSS-3-%5Bgeneral%5D
   Invité du "Duel" d'"Avant le 20H" face à Philippe Laurent, maire UDI de Sceaux (Hauts-de-Seine) et vice-président de l'AMF (Association des maires de France), le vice-président de l'Union des droites pour la République,…
-- [02/11 20:00] Le Monde — Comment l’IA permet aux bidouilleurs de « décompiler », de fusionner ou de copier plus rapidement des jeux vidéo
-  https://www.lemonde.fr/pixels/article/2026/11/02/comment-l-ia-permet-aux-bidouilleurs-de-decompiler-de-fusionner-ou-de-copier-plus-rapidement-des-jeux-video_6805311_4408996.html
-  Depuis des années, des communautés de passionnés travaillent d’arrache-pied pour déchiffrer et reproduire le code de certains jeux afin de les réinventer ou de les faire fonctionner sur d’autres machines. Mais l’arrivée…
-- [02/11 20:00] Le Monde — En Allemagne, les violences en marge des manifestations du week-end suscitent un vif débat politique au sein du gouvernement
-  https://www.lemonde.fr/international/article/2026/11/02/en-allemagne-les-violences-en-marge-des-manifestations-du-week-end-suscitent-un-vif-debat-politique-au-sein-du-gouvernement_6805312_3210.html
-  Le ministre de l’intérieur conservateur accuse l’extrême gauche et les « fauteurs de troubles de la communauté immigrée » d’être responsables des violences à Francfort en marge des manifestations. « Le chancelier fédéra…
 - [02/11 19:43] franceinfo — Pour Gérald Darmanin, Jean-Luc Mélenchon et Marine Le Pen "tueront l'Europe telle qu'elle existe" en cas de victoire à la présidentielle
   https://www.franceinfo.fr/elections/presidentielle/pour-gerald-darmanin-jean-luc-melenchon-et-marine-le-pen-tueront-l-europe-telle-qu-elle-existe-en-cas-de-victoire-a-la-presidentielle_8264663.html#xtor=RSS-3-[lestitres]
   Le garde des Sceaux, qui soutient Edouard Philippe, estime que "les projets des deux candidats sont extrêmement clairs et se construisent sur la fin de cette Europe".
@@ -354,7 +351,4 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [02/11 06:00] Le Monde — « Dubai Papers » : l’heure du procès pour une « officine de fraude fiscale à grande échelle »
   https://www.lemonde.fr/les-decodeurs/article/2026/11/02/dubai-papers-l-heure-du-proces-pour-une-officine-de-fraude-fiscale-a-grande-echelle_6804884_4355770.html
   Neuf responsables du cabinet Hélin International, trois avocats et un expert-comptable français sont jugés à partir de lundi à Paris. Ils sont accusés d’avoir méthodiquement aidé plus de 300 contribuables français à fra…
-- [01/11 22:06] Le Monde — Pierre-Olivier Costa retrouve la présidence du Mucem après sa suspension
-  https://www.lemonde.fr/societe/article/2026/11/01/pierre-olivier-costa-retrouve-la-presidence-du-mucem-apres-sa-suspension_6804671_3224.html
-  Pierre-Olivier Costa, suspendu depuis fin juin dans un contexte de tensions sociales et d’enquêtes sur des faits de « mal-être au sein du musée marseillais », a retrouvé ses fonctions et entend se rendre à son bureau dè…
 
