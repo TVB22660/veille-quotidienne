@@ -1,6 +1,25 @@
-MARÉES — Perros-Guirec — généré le 2026-11-03 13:46 (heure de Paris)
-INDISPONIBLE : aucune source exploitable
-https://marine.meteoconsult.fr/meteo-marine/horaires-des-marees/perros-guirec-962/novembre-2026 : inaccessible (HTTP Error 403: Forbidden)
-https://marine.meteoconsult.fr/meteo-marine/horaires-des-marees/perros-guirec-962/decembre-2026 : inaccessible (HTTP Error 403: Forbidden)
-https://maree.info/66 : alternance pleine mer / basse mer incohérente ; extrait : "maree.info - Marées Perros-Guirec / France - horaire, hauteur, coefficient de marée Bienvenue sur marée . info - horaires et coefficients des marées ! Ports Marées Mon compte ? Mardi 03 Novembre 2026 UTC+1 Semaine 45 48°49' N 3°28' W Perros-Guirec Tableau horaire - marée haute - marée basse Date Heure Hauteur Coeff. Mar. 03 00h47 06h59 13h16 19h52 7,34m 3,71m 7,61m 3,32m 47 48 Mer. 04 02h12 08h24 14h36 21h05 7,55m 3,44m 7,91m 2,92m 52 56 Jeu. 05 03h17 09h30 15h37 22h02 7,99m 2,94m 8,33m 2,46m 61 66 Ven. 06 04h09 10h24 16h28 22h50 8,43m 2,45m 8,69m 2,10m 71 75 Sam. 07 04h54 11h10 17h13 23h32 8,77m 2,09m 8,92m 1,89m 78 81 Dim. 08 05h34 11h"
-https://point-maree.fr/port/perros-guirec/ : écarts entre marées incohérents ; extrait : "Marée Perros-Guirec : horaires SHOM, coefficients Rechercher Tous les ports Les 199 ports français, par région Passages à gué Le Gois, l'île Tascon : quand traverser Calendrier des grandes marées Blog À propos Contact Données officielles du SHOM Mentions légales · Confidentialité Rechercher Route du Rhum 2026 : positions en direct : positions des bateaux et classement en direct → CAP Licence Ouverte Marées à Perros-Guirec 🎣 Médiocre Bretagne Nord Partager mar. 3 nov. 48 mer. 4 nov. 56 jeu. 5 nov. 66 ven. 6 nov. 75 sam. 7 nov. 81 dim. 8 nov. 84 lun. 9 nov. 84 Aujourd'hui Mardi 3 novembre Prochaine marée 47 Morte-eau"
+MARÉES — Perros-Guirec — généré le 2026-11-03 13:51 (heure de Paris)
+Source : https://maree.info/66
+2026-11-03 00:47 PM 7.34 coef=47
+2026-11-03 06:59 BM 3.71
+2026-11-03 13:16 PM 7.61 coef=48
+2026-11-03 19:52 BM 3.32
+2026-11-04 02:12 PM 7.55 coef=52
+2026-11-04 08:24 BM 3.44
+2026-11-04 14:36 PM 7.91 coef=56
+2026-11-04 21:05 BM 2.92
+2026-11-05 03:17 PM 7.99 coef=61
+2026-11-05 09:30 BM 2.94
+2026-11-05 15:37 PM 8.33 coef=66
+2026-11-05 22:02 BM 2.46
+2026-11-06 04:09 PM 8.43 coef=71
+2026-11-06 10:24 BM 2.45
+2026-11-06 16:28 PM 8.69 coef=75
+2026-11-06 22:50 BM 2.10
+2026-11-07 04:54 PM 8.77 coef=78
+2026-11-07 11:10 BM 2.09
+2026-11-07 17:13 PM 8.92 coef=81
+2026-11-07 23:32 BM 1.89
+2026-11-08 05:34 PM 8.98 coef=83
+2026-11-08 11:51 BM 1.89
+2026-11-08 17:52 PM 9.02 coef=84
