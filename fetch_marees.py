@@ -62,9 +62,10 @@ TOKEN = re.compile(
 
 
 def analyser(texte, today):
-    evts, cur, mois_cur = [], None, None
-    pending = None  # (date, hh, mm)
-    last_height_evt = None
+    """Découpe le texte par jour ; dans chaque jour, apparie les heures et les hauteurs
+    dans l'ordre (que la page les range en colonnes ou ligne par ligne). Les coefficients
+    sont les nombres qui suivent directement une hauteur."""
+    blocs, cur, mois_cur, dernier = {}, None, None, None
     for m in TOKEN.finditer(texte):
         if m.group("date"):
             j = int(m.group("jour"))
@@ -75,7 +76,7 @@ def analyser(texte, today):
                 mo = today.month
             else:
                 mo = mois_cur
-            if mois_cur is not None and not m.group("mois") and j < (cur.day if cur else 1) - 15:
+            if mois_cur is not None and not m.group("mois") and cur is not None and j < cur.day - 15:
                 mo = mois_cur % 12 + 1
             an = today.year
             if mo < today.month - 6:
@@ -87,27 +88,44 @@ def analyser(texte, today):
             except ValueError:
                 cur = None
             mois_cur = mo
-            pending = None
-            last_height_evt = None
+            dernier = None
+            if cur is not None:
+                blocs.setdefault(cur, {"t": [], "h": [], "c": []})
+        elif cur is None:
+            continue
         elif m.group("heure"):
-            pending = (cur, int(m.group("hh")), int(m.group("mm"))) if cur else None
-            last_height_evt = None
+            blocs[cur]["t"].append((int(m.group("hh")), int(m.group("mm"))))
+            dernier = "t"
         elif m.group("haut"):
-            if pending:
-                d, hh, mm = pending
-                evts.append({"dt": datetime(d.year, d.month, d.day, hh, mm), "h": float(m.group("m").replace(",", ".")), "coef": None})
-                last_height_evt = evts[-1]
-                pending = None
+            blocs[cur]["h"].append(float(m.group("m").replace(",", ".")))
+            dernier = "h"
         elif m.group("coef"):
             c = int(m.group("c"))
-            if last_height_evt is not None and 20 <= c <= 120:
-                last_height_evt["coef"] = c
-            last_height_evt = None
+            if dernier in ("h", "c") and 20 <= c <= 120:
+                blocs[cur]["c"].append(c)
+                dernier = "c"
+            else:
+                dernier = None
+    evts = []
+    for d, b in blocs.items():
+        if not b["t"] or len(b["t"]) != len(b["h"]):
+            continue
+        jour = []
+        for (hh, mm), h in zip(b["t"], b["h"]):
+            jour.append({"dt": datetime(d.year, d.month, d.day, hh, mm), "h": h, "coef": None})
+        b["evts"] = jour
+        evts.extend(jour)
     evts.sort(key=lambda e: e["dt"])
     uniques = []
     for e in evts:
         if not uniques or e["dt"] != uniques[-1]["dt"]:
             uniques.append(e)
+    classer(uniques)
+    for d, b in blocs.items():
+        pm = [e for e in b.get("evts", []) if e["type"] == "PM"]
+        if b["c"] and len(b["c"]) == len(pm):
+            for e, c in zip(pm, b["c"]):
+                e["coef"] = c
     return uniques
 
 
@@ -115,8 +133,6 @@ def classer(evts):
     for i, e in enumerate(evts):
         voisins = [evts[j]["h"] for j in (i - 1, i + 1) if 0 <= j < len(evts)]
         e["type"] = "PM" if e["h"] > sum(voisins) / len(voisins) else "BM"
-        if e["type"] == "BM":
-            e["coef"] = None
 
 
 def coherent(evts, today):
@@ -127,7 +143,6 @@ def coherent(evts, today):
         return "le jour même n'apparaît pas"
     if not all(0 <= e["h"] <= 15 for e in evts):
         return "hauteurs hors plage"
-    classer(evts)
     alt = sum(1 for a, b in zip(evts, evts[1:]) if a["type"] != b["type"])
     if alt < 0.8 * (len(evts) - 1):
         return "alternance pleine mer / basse mer incohérente"
