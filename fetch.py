@@ -73,6 +73,8 @@ def jetons(titre):
     mots = re.findall(r"[A-Za-zÀ-ÿ]+", titre)
     for i, w in enumerate(mots):
         k = sans_accents(w)
+        if k.endswith("s") and len(k) > 5:
+            k = k[:-1]                      # démocrate / démocrates : même mot
         if len(k) < 5 or k in MOTS_VIDES:
             continue
         propre = i > 0 and w[0].isupper()
@@ -110,6 +112,15 @@ def trier_rubriques(sections):
                 continue
             neuf.setdefault(r, []).append(it)
     refs = [jetons(it[2]) for it in neuf.get("International", [])]
+    # un mot présent dans au moins un quart des titres internationaux du jour (4 au minimum) est le sujet du jour : il suffit à rattacher un article
+    freq = {}
+    for r in refs:
+        for k in r:
+            freq[k] = freq.get(k, 0) + 1
+    for r in refs:
+        for k in r:
+            if freq[k] >= max(4, len(refs) / 4):
+                r[k] = 3
     for rubrique in ("France", "Gendarmerie-police-justice"):
         gardes = []
         for it in neuf.get(rubrique, []):
