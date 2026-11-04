@@ -1,24 +1,24 @@
-SAINTS — généré le 2026-11-03 13:51 (heure de Paris)
-Date : mardi 3 novembre 2026 (2026-11-03)
+SAINTS — généré le 2026-11-04 03:34 (heure de Paris)
+Date : mercredi 4 novembre 2026 (2026-11-04)
 
 ## Calendrier romain actuel (AELF, France)
 - Jour liturgique : de la férie
-- Fête / saint : S. Martin de Porrès, religieux
-- Ligne 1 : mardi, 31ème Semaine du Temps Ordinaire (semaine III du Psautier)
-- Ligne 2 : S. Martin de Porrès, religieux
-- Ligne 3 : Mémoire facultative
-- Couleur liturgique : vert
+- Fête / saint : S. Charles Borromée, évêque
+- Ligne 1 : mercredi, 31ème Semaine du Temps Ordinaire
+- Ligne 2 : S. Charles Borromée, évêque
+- Ligne 3 : Mémoire
+- Couleur liturgique : blanc
 - Temps liturgique : ordinaire
-- Saint du jour (Nominis) : Saint Hubert - Évêque de Tongres-Maastricht-Liège (+ 727)
-- Saint du jour (Nominis) : Saint Martin de Porres - Frère dominicain à Lima (+ 1639)
+- Saint du jour (Nominis) : Saint Charles Borromée - Archevêque de Milan (+ 1584)
 
 ## Calendrier traditionnel de 1962 (Divinum Officium, rubriques de 1960)
-- Jour : Feria Tertia infra Hebdomadam XXIII post Octavam Pentecostes I. Novembris ~ IV. classis
-- Martyrologe : À Milan, l’anniversaire de saint Charles Borromée, Cardinal, Évêque de Milan, et Confesseur. Éminent par sa sainteté et illustre par ses miracles, il a été inscrit au nombre des saints par le pape Paul V. Sa fête se célèbre le…
-- Martyrologe : Le même jour, l’anniversaire de saint Quart, disciple des Apôtres.
-- Martyrologe : À Viterbe, les saints Martyrs Valentin, Prêtre, et Hilaire, Diacre. Durant la persécution de Maximien, ils furent, pour la Foi du Christ, précipités dans le Tibre, une grosse pierre au cou, mais un Ange les en retira miraculeus…
-- Martyrologe : À Césarée de Cappadoce, les saints Martyrs Germain, Théophile, Césaire et Vital, qui rendirent un généreux témoignage de leur Foi, durant la persécution de Dèce.
-- Martyrologe : À Saragosse, en Espagne, une multitude innombrable de saints Martyrs, qui, sous Dacien, préfet des Espagnes, souffrirent pour le Christ une mort glorieuse.
-- Martyrologe : En Angleterre, sainte Wénéfride, Vierge et Martyre.
-- Martyrologe : Au monastère de Clairvaux, en France, la mise au tombeau de saint Malachie, Évêque de Connor en Irlande, rendu célèbre en son temps par ses nombreuses vertus. Sa vie a été écrite par saint Bernard, Abbé.
-- Martyrologe : Le même jour, saint Hubert, Évêque de Tongres.
+- Jour : S. Caroli Episcopi et Confessoris ~ III. classis
+- Commemoratio ad Laudes tantum: Ss. Mart. Vitalis et Agricolæ
+- Martyrologe : Saint Charles Borromée, Cardinal, Évêque de Milan et Confesseur, qui s’en alla au ciel la veille de ce jour.
+- Martyrologe : À Bologne, les saints Martyrs Vital et Agricola. Le premier était serviteur du second et devint son collègue et son associé dans le martyre. Contre Vital, les persécuteurs employèrent tous les genres de tortures, à ce point que…
+- Martyrologe : Au monastère de Cerfroid, au territoire de Meaux, l’anniversaire de saint Félix de Valois, Prêtre et Confesseur, fondateur de l’Ordre de la très sainte Trinité pour le rachat des captifs. Par décret du pape Innocent XI, sa fête…
+- Martyrologe : Le même jour, l’anniversaire des saints Philologue et Patrobas, disciples de l’Apôtre saint Paul.
+- Martyrologe : À Autun, saint Procule, Évêque et Martyr.
+- Martyrologe : À Myre, en Lycie, les saints Martyrs Nicandre, Évêque, et Hermas, Prêtre, sous le préfet Libanius.
+- Martyrologe : Dans le Vexin, en France, saint Clair, Prêtre et Martyr.
+- Martyrologe : À Éphèse, saint Porphyre, Martyr, sous l’empereur Aurélien.
