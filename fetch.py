@@ -2,7 +2,9 @@
 """Lit des flux RSS publics et écrit veille.txt (titres, liens, dates, chapôs)."""
 import re
 import html
+import unicodedata
 import urllib.request
+from urllib.parse import urlparse
 import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
@@ -30,7 +32,95 @@ FEEDS = [
     ("Gendarmerie-police-justice", "franceinfo", "https://www.francetvinfo.fr/faits-divers.rss"),
     ("Gendarmerie-police-justice", "franceinfo", "https://www.francetvinfo.fr/justice.rss"),
     ("France", "Ouest-France", "https://www.ouest-france.fr/rss/une"),
+    # armées : un flux spécialisé (un flux en panne ne bloque pas les autres)
+    ("Gendarmerie-police-justice", "Zone Militaire", "https://www.opex360.com/feed/"),
 ]
+
+# --- Tri par rubrique -------------------------------------------------------
+# Les flux « généraux » des journaux mélangent tout. On reclasse chaque article d'après
+# la première partie de son adresse (rubrique du journal), sans liste de sujets.
+SEG_INTERNATIONAL = {"international", "monde"}
+SEG_JUSTICE = {"faits-divers", "justice", "police-justice"}
+SEG_ECARTES = {"sport", "sports", "football", "rugby", "tennis", "cyclisme", "culture", "videos", "video",
+               "replay-radio", "podcasts", "jeux", "loisirs", "route-du-rhum", "voile", "sortir", "gastronomie", "idees"}
+
+# Titres du genre « États-Unis : … » : un pays étranger en tête, suivi de deux-points (liste stable, sans lien avec l'actualité)
+PAYS_ETRANGERS = ("États-Unis|Etats-Unis|Chine|Russie|Ukraine|Israël|Iran|Irak|Gaza|Liban|Syrie|Turquie|Royaume-Uni|"
+                  "Allemagne|Espagne|Italie|Portugal|Pologne|Hongrie|Roumanie|Moldavie|Belgique|Suisse|Pays-Bas|Grèce|"
+                  "Japon|Inde|Pakistan|Corée du Nord|Corée du Sud|Taïwan|Brésil|Argentine|Venezuela|Colombie|Canada|"
+                  "Mexique|Cuba|Haïti|Algérie|Maroc|Tunisie|Égypte|Soudan|Éthiopie|Afrique du Sud|Nigeria|Mali|Niger|"
+                  "Arabie saoudite|Australie|Birmanie|Thaïlande|Philippines|Indonésie")
+RE_PAYS_EN_TETE = re.compile(r"^(?:%s)\s*:" % PAYS_ETRANGERS)
+
+# Mots trop courants pour caractériser une affaire (comparaison entre articles)
+MOTS_VIDES = set(("apres avant contre selon entre depuis pendant cette leurs ainsi alors dans sous cinq trois "
+                  "quatre france francais francaise aussi encore toute toutes tous leur dont cela comme plus moins "
+                  "avoir etre fait faire pour sans vers chez notre votre pourquoi comment direct video apres").split())
+
+
+def sans_accents(s):
+    return "".join(c for c in unicodedata.normalize("NFD", s.lower()) if unicodedata.category(c) != "Mn")
+
+
+def segment(url):
+    p = [x for x in urlparse(url).path.split("/") if x]
+    return p[0] if p else ""
+
+
+def jetons(titre):
+    """{mot: poids} : 2 pour un nom propre (majuscule hors début de titre), 1 sinon ; mots de 5 lettres et plus."""
+    res = {}
+    mots = re.findall(r"[A-Za-zÀ-ÿ]+", titre)
+    for i, w in enumerate(mots):
+        k = sans_accents(w)
+        if len(k) < 5 or k in MOTS_VIDES:
+            continue
+        propre = i > 0 and w[0].isupper()
+        res[k] = max(res.get(k, 0), 2 if propre else 1)
+    return res
+
+
+def meme_affaire(a, b, seuil=3):
+    """Deux titres traitent la même affaire si leurs mots communs pèsent au moins `seuil`
+    (par exemple un nom propre + un autre mot, ou deux noms propres)."""
+    return sum(max(a[k], b[k]) for k in a if k in b) >= seuil
+
+
+def rubrique_reelle(rubrique, url, titre=""):
+    """None = article écarté (sport, culture...) ; sinon la rubrique d'après l'adresse."""
+    seg = segment(url)
+    if seg in SEG_ECARTES:
+        return None
+    if seg in SEG_INTERNATIONAL or RE_PAYS_EN_TETE.match(titre):
+        return "International"
+    if seg in SEG_JUSTICE and rubrique == "France":
+        return "Gendarmerie-police-justice"
+    return rubrique
+
+
+def trier_rubriques(sections):
+    """Reclasse par adresse, puis renvoie vers International tout article France / Gendarmerie
+    qui traite la même affaire qu'un article déjà international. Retourne (sections, stats)."""
+    neuf, ecartes, deplaces = {}, 0, 0
+    for rubrique, items in sections.items():
+        for it in items:
+            r = rubrique_reelle(rubrique, it[3], it[2])
+            if r is None:
+                ecartes += 1
+                continue
+            neuf.setdefault(r, []).append(it)
+    refs = [jetons(it[2]) for it in neuf.get("International", [])]
+    for rubrique in ("France", "Gendarmerie-police-justice"):
+        gardes = []
+        for it in neuf.get(rubrique, []):
+            j = jetons(it[2])
+            if any(meme_affaire(j, r) for r in refs):
+                neuf.setdefault("International", []).append(it)
+                deplaces += 1
+            else:
+                gardes.append(it)
+        neuf[rubrique] = gardes
+    return neuf, f"{ecartes} article(s) écartés (sport, culture…), {deplaces} renvoyé(s) vers International"
 
 
 def clean(text, limit=220):
@@ -99,10 +189,14 @@ def main():
             stats.append(f"AFP {url} : {len(items)} entrées, {nodate} sans date, {len(kept)} récentes ; plus récente : {max((i[0] for i in items if i[0]), default=None)} ; ex. : {items[0][1] if items else '-'}")
         kept.sort(key=lambda i: i[0], reverse=True)
         for date, title, link, desc in kept[:MAX_PER_FEED]:
-            if link in seen:
+            cle = link.split("#")[0]
+            if cle in seen:
                 continue
-            seen.add(link)
+            seen.add(cle)
             sections.setdefault(rubrique, []).append((date, media, title, link, desc))
+
+    sections, tri = trier_rubriques(sections)
+    stats.append(f"Tri : {tri}")
 
     lines = [f"VEILLE — généré le {now.astimezone(PARIS):%Y-%m-%d %H:%M} (heure de Paris)",
              f"Articles publiés depuis moins de {MAX_AGE_H} h, du plus récent au plus ancien.", ""]
@@ -116,7 +210,7 @@ def main():
                 lines.append(f"  {desc}")
         lines.append("")
     if stats:
-        lines.append("## Diagnostic AFP")
+        lines.append("## Diagnostic")
         lines += [f"- {e}" for e in stats]
     if errors:
         lines.append("## Flux en erreur")
