@@ -1,4 +1,4 @@
-VEILLE — généré le 2026-11-04 07:24 (heure de Paris)
+VEILLE — généré le 2026-11-04 07:26 (heure de Paris)
 Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 
 ## International
@@ -23,6 +23,9 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [04/11 07:06] franceinfo — Victoire démocrate au Sénat, Donald Trump promet d'accepter les résultats... Les premiers enseignements des midterms 2026 aux Etats-Unis
   https://www.franceinfo.fr/monde/usa/midterms-2018/victoire-democrate-au-senat-donald-trump-promet-d-accepter-les-resultats-les-premiers-enseignements-des-midterms-2026-aux-etats-unis_8266958.html#xtor=RSS-3-[lestitres]
   Les élections de mi-mandat ont pris l'allure de déroute pour le Parti républicain au fil des heures, mercredi. Donald Trump a salué le "bon boulot" des démocrates, qui sont également largement en tête à la Chambre des r…
+- [04/11 07:05] Le Figaro — Midterms 2026: le dollar et les Bourses d'Asie trébuchent face à la vague démocrate
+  https://www.lefigaro.fr/conjoncture/midterms-2026-le-dollar-et-les-bourses-d-asie-trebuchent-face-a-la-vague-democrate-20261104
+  Les premiers résultats des élections de mi-mandat aux États-Unis pointent vers un vote sanction mardi contre Donald Trump. Pour les marchés, c’est l’ampleur de cette “vague bleue” qui compte.
 - [04/11 07:03] Le Figaro — Midterms 2026 : une gouverneure noire, un sénateur ouvertement gay… Les premières historiques du scrutin
   https://www.lefigaro.fr/international/midterms-2026-une-gouverneure-noire-un-senateur-ouvertement-gay-les-premieres-historiques-du-scrutin-20261104
   Au-delà de la bataille entre démocrates et républicains, les élections de mi-mandat ont été marquées par plusieurs victoires historiques. Du Congrès aux postes de gouverneurs, plusieurs candidats ont brisé des barrières…
@@ -50,7 +53,7 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [04/11 06:51] Le Monde — Midterms 2026 : les démocrates reprennent la main sur le Sénat et visent la majorité à la Chambre des représentants
   https://www.lemonde.fr/international/article/2026/11/04/midterms-2026-les-democrates-reprennent-la-main-sur-le-senat-et-visent-la-majorite-a-la-chambre-des-representants_6806113_3210.html
   Les démocrates ont remporté des sièges de sénateurs dans plusieurs bastions républicains comme le Kansas et le Texas. S’ils obtiennent également la majorité à la Chambre des représentants, ils pourront considérablement…
-- [04/11 06:46] franceinfo — Midterms 2026 : les démocrates décrochent la majorité absolue au Sénat et largement en tête à la Chambre des représentants
+- [04/11 06:46] franceinfo — Midterms 2026 : les démocrates décrochent la majorité absolue au Sénat et sont sur le point de remporter la Chambre des représentants
   https://www.franceinfo.fr/monde/usa/midterms-2018/direct-midterms-2026-nette-avance-democrate-au-congres-des-premieres-victoires-historiques-suivez-les-resultats-des-elections-de-mi-mandat_8265776.html#xtor=RSS-3-[lestitres]
   Aux Etats-Unis, les résultats des élections de mi-mandat laissent entrevoir une journée difficile pour le camp du président républicain Donald Trump.
 - [04/11 06:44] Le Monde — Midterms 2026 : pour les démocrates, une nuit d’euphorie avant deux années de confrontation
@@ -151,9 +154,6 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [04/11 07:19] Ouest-France — Manifestation du 5 novembre à Nantes : les syndicats refusent que le préfet dicte l’itinéraire
   https://www.ouest-france.fr/pays-de-la-loire/nantes-44000/manifestation-du-5-novembre-a-nantes-les-syndicats-refusent-que-le-prefet-dicte-litineraire-2f9f0e4a-d7a9-11f1-a1e1-ae8104d72c9a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
   Toutes les organisations syndicales de Loire-Atlantique font bloc. Pas question de laisser la préfecture leur imposer le parcours de la manifestation de jeudi 5 novembre, maintenue au départ du miroir d’eau de Nantes.
-- [04/11 07:05] Le Figaro — Midterms 2026: le dollar et les Bourses d'Asie trébuchent face à la vague démocrate
-  https://www.lefigaro.fr/conjoncture/midterms-2026-le-dollar-et-les-bourses-d-asie-trebuchent-face-a-la-vague-democrate-20261104
-  Les premiers résultats des élections de mi-mandat aux États-Unis pointent vers un vote sanction mardi contre Donald Trump. Pour les marchés, c’est l’ampleur de cette “vague bleue” qui compte.
 - [04/11 07:00] Ouest-France — TÉMOIGNAGES. « Anti-stress » ou « contrainte injustifiée », la présence d’animaux au travail divise nos lecteurs
   https://www.ouest-france.fr/societe/animaux/temoignages-anti-stress-ou-contrainte-injustifiee-la-presence-danimaux-au-travail-divise-nos-lecteurs-3eeab3d4-d6c0-11f1-84f3-5611f158a658?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
   Si, selon une étude, une majorité de travailleurs est pour une plus grande acceptation des animaux de compagnie au bureau, de nombreux Français s’opposent à cette tendance « pet at work » qui se développe fortement depu…
@@ -350,4 +350,4 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
   Trente-neuf ans après avoir abandonné le corps supplicié de leur fille Inass, 4 ans, en bordure d’autoroute, Halima El Bakhti, 72 ans, et Ahmed Touloub, 74 ans, sont apparus très diminués devant la cour d’assises du Loi…
 
 ## Diagnostic
-- Tri : 14 article(s) écartés (sport, culture…), 1 renvoyé(s) vers International
+- Tri : 14 article(s) écartés (sport, culture…), 2 renvoyé(s) vers International
