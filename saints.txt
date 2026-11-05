@@ -1,24 +1,22 @@
-SAINTS — généré le 2026-11-04 07:27 (heure de Paris)
-Date : mercredi 4 novembre 2026 (2026-11-04)
+SAINTS — généré le 2026-11-05 03:43 (heure de Paris)
+Date : jeudi 5 novembre 2026 (2026-11-05)
 
 ## Calendrier romain actuel (AELF, France)
 - Jour liturgique : de la férie
-- Fête / saint : S. Charles Borromée, évêque
-- Ligne 1 : mercredi, 31ème Semaine du Temps Ordinaire
-- Ligne 2 : S. Charles Borromée, évêque
-- Ligne 3 : Mémoire
-- Couleur liturgique : blanc
+- Fête / saint : de la férie
+- Ligne 1 : jeudi, 31ème Semaine du Temps Ordinaire
+- Ligne 2 : de la férie
+- Couleur liturgique : vert
 - Temps liturgique : ordinaire
-- Saint du jour (Nominis) : Saint Charles Borromée - Archevêque de Milan (+ 1584)
+- Saint du jour (Nominis) : Sainte Bertille - Moniale à Jouarre puis abbesse de Chelles (+ v. 705)
 
 ## Calendrier traditionnel de 1962 (Divinum Officium, rubriques de 1960)
-- Jour : S. Caroli Episcopi et Confessoris ~ III. classis
-- Commemoratio ad Laudes tantum: Ss. Mart. Vitalis et Agricolæ
-- Martyrologe : Saint Charles Borromée, Cardinal, Évêque de Milan et Confesseur, qui s’en alla au ciel la veille de ce jour.
-- Martyrologe : À Bologne, les saints Martyrs Vital et Agricola. Le premier était serviteur du second et devint son collègue et son associé dans le martyre. Contre Vital, les persécuteurs employèrent tous les genres de tortures, à ce point que…
-- Martyrologe : Au monastère de Cerfroid, au territoire de Meaux, l’anniversaire de saint Félix de Valois, Prêtre et Confesseur, fondateur de l’Ordre de la très sainte Trinité pour le rachat des captifs. Par décret du pape Innocent XI, sa fête…
-- Martyrologe : Le même jour, l’anniversaire des saints Philologue et Patrobas, disciples de l’Apôtre saint Paul.
-- Martyrologe : À Autun, saint Procule, Évêque et Martyr.
-- Martyrologe : À Myre, en Lycie, les saints Martyrs Nicandre, Évêque, et Hermas, Prêtre, sous le préfet Libanius.
-- Martyrologe : Dans le Vexin, en France, saint Clair, Prêtre et Martyr.
-- Martyrologe : À Éphèse, saint Porphyre, Martyr, sous l’empereur Aurélien.
+- Jour : Feria Quinta infra Hebdomadam XXIII post Octavam Pentecostes I. Novembris ~ IV. classis
+- Martyrologe : Saint Zacharie, Prêtre et Prophète, père du bienheureux Jean-Baptiste, Précurseur du Seigneur.
+- Martyrologe : De plus, sainte Élisabeth, mère du même saint Précurseur.
+- Martyrologe : À Terracine, en Campanie, l’anniversaire des saints Martyrs Félix, Prêtre et Eusèbe, Moine. Eusèbe, qui avait enseveli les saints Martyrs Julien et Césaire et qui convertissait à la Foi du Christ de nombreux païens auxquels le…
+- Martyrologe : À Émèse, en Phénicie (aujourd’hui Homs en Syrie), les saints Martyrs Galation et Epistème son épouse. Durant la persécution de Dèce, ils furent déchirés à coups de fouets. On leur coupa ensuite les mains, les pieds et la langue…
+- Martyrologe : De plus, les saints Martyrs Domnin, Théotime, Philothée, Silvain et leurs compagnons, sous l’empereur Maximien.
+- Martyrologe : À Milan, saint Magne, Évêque et Confesseur.
+- Martyrologe : À Brescia, saint Dominateur, Évêque.
+- Martyrologe : À Trèves, saint Fibice, qui d’Abbé devint Évêque de cette ville.
