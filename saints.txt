@@ -1,22 +1,21 @@
-SAINTS — généré le 2026-11-05 04:42 (heure de Paris)
-Date : jeudi 5 novembre 2026 (2026-11-05)
+SAINTS — généré le 2026-11-06 03:42 (heure de Paris)
+Date : vendredi 6 novembre 2026 (2026-11-06)
 
 ## Calendrier romain actuel (AELF, France)
 - Jour liturgique : de la férie
 - Fête / saint : de la férie
-- Ligne 1 : jeudi, 31ème Semaine du Temps Ordinaire
+- Ligne 1 : vendredi, 31ème Semaine du Temps Ordinaire
 - Ligne 2 : de la férie
 - Couleur liturgique : vert
 - Temps liturgique : ordinaire
-- Saint du jour (Nominis) : Sainte Bertille - Moniale à Jouarre puis abbesse de Chelles (+ v. 705)
+- Saint du jour (Nominis) : Saint Léonard de Noblat - Ermite en Limousin (VI e siècle)
 
 ## Calendrier traditionnel de 1962 (Divinum Officium, rubriques de 1960)
-- Jour : Feria Quinta infra Hebdomadam XXIII post Octavam Pentecostes I. Novembris ~ IV. classis
-- Martyrologe : Saint Zacharie, Prêtre et Prophète, père du bienheureux Jean-Baptiste, Précurseur du Seigneur.
-- Martyrologe : De plus, sainte Élisabeth, mère du même saint Précurseur.
-- Martyrologe : À Terracine, en Campanie, l’anniversaire des saints Martyrs Félix, Prêtre et Eusèbe, Moine. Eusèbe, qui avait enseveli les saints Martyrs Julien et Césaire et qui convertissait à la Foi du Christ de nombreux païens auxquels le…
-- Martyrologe : À Émèse, en Phénicie (aujourd’hui Homs en Syrie), les saints Martyrs Galation et Epistème son épouse. Durant la persécution de Dèce, ils furent déchirés à coups de fouets. On leur coupa ensuite les mains, les pieds et la langue…
-- Martyrologe : De plus, les saints Martyrs Domnin, Théotime, Philothée, Silvain et leurs compagnons, sous l’empereur Maximien.
-- Martyrologe : À Milan, saint Magne, Évêque et Confesseur.
-- Martyrologe : À Brescia, saint Dominateur, Évêque.
-- Martyrologe : À Trèves, saint Fibice, qui d’Abbé devint Évêque de cette ville.
+- Jour : Feria Sexta infra Hebdomadam XXIII post Octavam Pentecostes I. Novembris ~ IV. classis
+- Martyrologe : À Barcelone, en Espagne, saint Sévère, Évêque et Martyr. Pour la Foi Catholique, il eut la tête percée d’un clou et reçut la couronne du martyre.
+- Martyrologe : À Thynissa, en Afrique (ajourd’hui El Kala en Algérie), l’anniversaire de saint Félix, Martyr. Après qu’il eut confessé sa Foi, on différa son supplice, mais le lendemain il fut trouvé mort dans la prison, comme nous l’apprend…
+- Martyrologe : À Théopolis, c’est-à-dire à Antioche de Syrie (aujourd’hui Antakya, en Turquie), dix saints Martyrs que l’on dit avoir été mis à mort par les Sarrasins.
+- Martyrologe : En Phrygie, saint Attique, Martyr.
+- Martyrologe : À Bergues, en Flandre, la mise au tombeau de saint Winoc, Abbé. Célèbre par ses vertus et ses miracles, il se fit pendant longtemps le serviteur des religieux qu’il avait sous sa conduite.
+- Martyrologe : À Fondi, dans le Latium, saint Félix, Moine.
+- Martyrologe : À Limoges, en Aquitaine, saint Léonard, Confesseur, disciple du bienheureux Évêque Rémi. De noble famille, il embrassa la vie solitaire et brilla par ses miracles et sa sainteté. Sa puissance se manifesta particulièrement dans…
