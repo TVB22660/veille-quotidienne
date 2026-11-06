@@ -1,16 +1,19 @@
-VEILLE — généré le 2026-11-06 03:41 (heure de Paris)
+VEILLE — généré le 2026-11-06 04:39 (heure de Paris)
 Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 
 ## International
+- [06/11 04:24] Le Monde — Moscou saisit les actifs russes de la société nippone Japan Tobacco, sur fond de tensions avec Tokyo
+  https://www.lemonde.fr/international/article/2026/11/06/moscou-saisit-les-actifs-russes-de-la-societe-japan-tobacco-sur-fond-de-tensions-diplomatiques-avec-tokyo_6807512_3210.html
+  Le gouvernement japonais a réclamé la libération immédiate des actifs du cigarettier, dont la saisie a été ordonnée quelques semaines après l’arrestation, en Russie, d’un journaliste nippon accusé d’espionnage.
+- [06/11 03:47] Le Figaro — Tokyo exige la levée immédiate de la saisie des actifs russes de Japan Tobacco
+  https://www.lefigaro.fr/societes/moscou-saisit-les-actifs-en-russie-de-japan-tobacco-international-le-cigarettier-examine-d-eventuelles-mesures-20261106
+  Deux ministres japonais en visite en Russie ont remis une note de protestation après la saisie, sur ordre du Kremlin, des actifs de Japan Tobacco dans le pays. Tokyo exige la levée immédiate de la mesure, sur fond de te…
 - [06/11 03:30] Le Monde — Hongkong se pose en future Monaco asiatique
   https://www.lemonde.fr/international/article/2026/11/06/hongkong-se-pose-en-future-monaco-asiatique_6807479_3210.html
   Depuis des décennies, le territoire se compare à Singapour, et réciproquement. Mais c’est désormais davantage à la Principauté qu’il a l’intention de ressembler, ambitionnant de devenir la capitale asiatique du yachting.
 - [06/11 02:53] Le Monde — Cuba : arrestation de deux opposantes dont la journaliste Yoani Sanchez, libérée dans la journée
   https://www.lemonde.fr/international/article/2026/11/06/cuba-arrestation-de-deux-opposantes-dont-la-journaliste-yoani-sanchez-liberee-dans-la-journee_6807446_3210.html
   Berta Soler, la dirigeante du mouvement des Dames en blanc, qui rassemble des mères et des épouses d’opposants arrêtés sous Fidel Castro, était, elle, toujours détenue, jeudi soir. Elle fait régulièrement l’objet d’arre…
-- [06/11 01:45] Le Figaro — À Cuba, la journaliste Yoani Sánchez annonce sa libération après son «arrestation arbitraire»
-  https://www.lefigaro.fr/international/cuba-la-journaliste-yoani-sanchez-annonce-sa-liberation-apres-son-arrestation-arbitraire-20261106
-  Figure du journalisme indépendant à Cuba, Yoani Sánchez a annoncé jeudi avoir regagné son domicile après quelques heures de détention à La Havane.
 - [06/11 01:36] Le Monde — Etats-Unis : Google accusé d’avoir laissé son assistant IA Gemini aider une collégienne à planifier un suicide
   https://www.lemonde.fr/pixels/article/2026/11/06/etats-unis-google-accuse-d-avoir-laisse-son-assistant-ia-gemini-aider-une-collegienne-a-planifier-son-suicide_6807413_4408996.html
   Avant que ses parents n’interviennent, l’adolescente de 13 ans a échangé, à l’aide de l’ordinateur fourni par son école, des milliers de messages avec le modèle phare d’intelligence artificielle du groupe américain, dan…
@@ -44,9 +47,6 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [05/11 22:39] Ouest-France — Antonio Ferrara, figure française du grand banditisme condamné à 13 ans de prison en Belgique
   https://www.ouest-france.fr/societe/faits-divers/antonio-ferrara-figure-francaise-du-grand-banditisme-condamne-a-13-ans-de-prison-en-belgique-59a23554-d95d-11f1-b736-5b9907ef0b5a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
   Figure du grand banditisme, le Français Antonio Ferrara a été condamné jeudi 5 novembre 2026 à 13 ans de prison par un tribunal de Bruxelles pour un projet de braquage en Allemagne en 2025.
-- [05/11 22:32] Le Figaro — Qu’est-ce que l’«État masculin», ce mouvement russe d’ultradroite, raciste et misogyne, qui serait à l’origine de deux alertes à la bombe en Europe ?
-  https://www.lefigaro.fr/international/qu-est-ce-que-l-etat-masculin-ce-mouvement-russe-d-ultradroite-raciste-et-misogyne-qui-serait-a-l-origine-de-deux-alertes-a-la-bombe-en-europe-20261105
-  RÉCIT - Les aéroports de Rome et Sofia, visés par une alerte à la bombe ce jeudi, ont reçu un mystérieux courriel en début de journée, attribué aux membres de ce groupe masculiniste.
 - [05/11 22:07] Le Figaro — Le coût de la guerre en Ukraine contraint des régions russes à réduire les indemnités versées aux familles de soldats morts
   https://www.lefigaro.fr/conjoncture/le-cout-de-la-guerre-en-ukraine-contraint-des-regions-russes-a-reduire-les-indemnites-versees-aux-familles-de-soldats-morts-20261105
   Saratov, Samara, Belgorod… plus d’une dizaine de régions ont réduit ou supprimé les indemnités versées aux familles endeuillées par le conflit en Ukraine, alors que l’ensemble des budgets régionaux affiche un lourd défi…
@@ -68,6 +68,9 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [05/11 20:57] Le Monde — Midterms 2026 : à Los Angeles, la victoire de Nithya Raman à la mairie illustre la montée en puissance d’une nouvelle gauche aux Etats-Unis
   https://www.lemonde.fr/international/article/2026/11/05/midterms-2026-a-los-angeles-la-victoire-de-nithya-raman-a-la-mairie-illustre-la-montee-en-puissance-d-une-nouvelle-gauche-aux-etats-unis_6807341_3210.html
   La démocrate, 45 ans, a battu l’actuelle maire de la ville de Los Angeles, Karen Bass, 73 ans, une responsable politique pourtant chevronnée. Comme Zohran Mamdani, maire de New York, Nithya Raman se concentre sur les pr…
+- [05/11 20:17] Le Figaro — Présidentielle 2027 : pourquoi la gauche a tort de voir dans la défaite de Donald Trump un mauvais présage pour Marine Le Pen
+  https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-pourquoi-la-gauche-a-tort-de-voir-dans-la-defaite-de-donald-trump-un-mauvais-presage-pour-marine-le-pen-20261105
+  ANALYSE - Socialistes, écologistes et Insoumis voient dans le raz-de-marée démocrate aux « midterms » un signal encourageant pour la présidentielle, au point d’imaginer un échec du RN, pourtant largement donné gagnant.…
 - [05/11 20:15] Le Figaro — « Ce qui s’est passé en Amérique est une catastrophe » : après la déroute de Donald Trump, Israël craint de voir s’éloigner son plus proche allié
   https://www.lefigaro.fr/international/ce-qui-s-est-passe-en-amerique-est-une-catastrophe-apres-la-deroute-de-donald-trump-israel-craint-de-voir-s-eloigner-son-plus-proche-allie-20261105
   RÉCIT - Le président américain a annoncé la fin de l’aide militaire à Israël le matin même des élections. Dans la soirée, son camp perdait la maîtrise du Congrès. Pour Benyamin Netanyahou, qui avait fait de cette allian…
@@ -95,9 +98,6 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [05/11 19:05] Le Monde — Gaza : cinq personnes, dont un enfant, tuées par des bombardements israéliens, selon les services de secours palestiniens
   https://www.lemonde.fr/international/article/2026/11/05/gaza-quatre-personnes-dont-un-enfant-tuees-par-des-bombardements-israeliens-selon-les-services-de-secours-palestiniens_6807330_3210.html
   Les principaux hôpitaux du centre et du sud du territoire, qui ont reçu les corps des victimes, ont confirmé ces informations.
-- [05/11 19:00] Le Monde — En Nouvelle-Zélande, les Maoris très critiques vis-à-vis du bilan du gouvernement : « En trois ans, il a détruit cinquante ans d’acquis »
-  https://www.lemonde.fr/international/article/2026/11/05/en-nouvelle-zelande-les-maoris-tres-critiques-vis-a-vis-du-bilan-du-gouvernement-en-trois-ans-il-a-detruit-cinquante-ans-d-acquis_6807328_3210.html
-  Une large part de l’électorat maori, qui a vu ses droits remis en cause par le gouvernement libéral-conservateur dirigé par Christopher Luxon, entend sanctionner le pouvoir sortant lors des élections législatives du 7 n…
 - [05/11 18:51] franceinfo — La Première dame américaine, Melania Trump, appelle à un cessez-le-feu "durable" en Ukraine
   https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/la-premiere-dame-americaine-melania-trump-appelle-a-un-cessez-le-feu-durable-en-ukraine_8269724.html#xtor=RSS-3-%5Bgeneral%5D
   "Ensemble, nous pouvons bâtir quelque chose de plus durable qu'un simple cessez-le-feu temporaire", a-t-elle dit en recevant des représentants russes et ukrainiens à la Maison Blanche, quelques jours après la trêve huma…
@@ -133,6 +133,12 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
   Au moins 12 vols européens ont fait l'objet d'alertes à la bombe jeudi et plusieurs appareils ont été escortés par des avions de chasse tandis que deux vols ont été déroutés, ont annoncé les autorités et les compagnies…
 
 ## France
+- [06/11 04:22] Ouest-France — La guerre au Moyen-Orient fait chuter les émissions de CO2 de la Chine, selon une étude
+  https://www.ouest-france.fr/environnement/climat/la-guerre-au-moyen-orient-fait-chuter-les-emissions-de-co2-de-la-chine-selon-une-etude-2eb00515-3899-4e1a-bed3-3792c05f0e9d?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
+  Les émissions chinoises de dioxyde de carbone ont reculé de 3,1 % au troisième trimestre, leur baisse la plus rapide depuis le Covid-19, sur fond de la guerre au Moyen-Orient selon une étude.
+- [06/11 03:51] Le Figaro — IA : Anthropic pourrait revoir à la baisse ses ambitions boursières
+  https://www.lefigaro.fr/secteur/high-tech/ia-anthropic-pourrait-revoir-a-la-baisse-ses-ambitions-boursieres-20261106
+  Le créateur de l’assistant Claude vise une introduction en Bourse la semaine du 16 novembre et devait lever jusqu’à 100 milliards de dollars, selon la presse américaine, ce qui en ferait la plus importante de l’histoire.
 - [06/11 03:24] Le Monde — La Corse en vigilance orange pluie-inondation jusqu’à vendredi midi, plusieurs évacuations au sud de l’île
   https://www.lemonde.fr/planete/article/2026/11/06/la-corse-en-vigilance-orange-pluie-inondation-jusqu-a-vendredi-midi-plusieurs-evacuations-au-sud-de-l-ile_6806834_3245.html
   Des pluies torrentielles ont provoqué des inondations, des évacuations et la fermeture de routes en Corse, jeudi, alors que l’Hérault et le Gard ont également été frappés par des orages.
@@ -195,7 +201,7 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
   Le candidat à l’élection présidentielle s’était tenu éloigné des cortèges depuis le début des mobilisations sociales. Jeudi, alors qu’il était aux côtés de toute la famille socialiste pour manifester, il n’a pu bouger d…
 - [05/11 20:35] Le Monde — A Wall Street, la victoire démocrate aux midterms a fait exploser la bulle de l’IA
   https://www.lemonde.fr/economie/article/2026/11/05/a-wall-street-la-victoire-democrate-aux-midterms-a-fait-exploser-la-bulle-de-l-ia_6807339_3234.html
-  Le Nasdaq, l’indice qui regroupe de nombreuses valeurs technologiques, perdait plus de 5 % en séance, jeudi 5 novembre. Les résultats des élections américaines de mi-mandat accentuent la défiance envers la plupart des v…
+  Le Nasdaq, l’indice qui regroupe de nombreuses valeurs technologiques, a perdu plus de 5,5 %, jeudi 5 novembre. Les résultats des élections américaines de mi-mandat accentuent la défiance envers la plupart des valeurs l…
 - [05/11 20:35] franceinfo — Le gaz lacrymogène a-t-il des effets sur les cycles menstruels ?
   https://www.franceinfo.fr/vrai-ou-fake/le-gaz-lacrymogene-a-t-il-des-effets-sur-les-cycles-menstruels_8269799.html#xtor=RSS-3-[lestitres]
   Le gaz lacrymogène peut-il perturber les cycles menstruels ? Sur les réseaux sociaux, une vague de témoignages a émergé depuis début octobre sur le lien éventuel entre l'inhalation de gaz lacrymogène et des effets indés…
@@ -264,9 +270,6 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
   Avec un certain franc-parler, le secrétaire général de l’enseignement catholique, fort de ses 7200 établissements, explique la crise actuelle des lycées et propose ses solutions.
 
 ## Gendarmerie-police-justice
-- [06/11 00:40] Le Figaro — Meurtre conjugal dans l'Essonne : 28 ans de réclusion, pour une thèse de l'accident qui ne convainc pas
-  https://www.lefigaro.fr/faits-divers/meurtre-conjugal-dans-l-essonne-28-ans-de-reclusion-pour-une-these-de-l-accident-qui-ne-convainc-pas-20261106
-  Yacine A. a été reconnu coupable jeudi par la cour d’assises de l’Essonne du meurtre de sa compagne en 2023.
 - [05/11 23:43] Ouest-France — Un gynécologue condamné à cinq ans de prison pour viol et agression sexuelle sur des patientes
   https://www.ouest-france.fr/faits-divers/violence-sexuelle/un-gynecologue-condamne-a-cinq-ans-de-prison-pour-viol-et-agression-sexuelle-sur-des-patientes-9cfaee26-d963-11f1-b736-5b9907ef0b5a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
   Un gynécologue a été condamné jeudi 5 novembre 2026 par la cour criminelle de l’Eure à cinq ans de prison pour un viol et une agression sexuelle commis en 2018 et 2020 sur des patientes.
@@ -333,9 +336,6 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [04/11 23:42] Le Monde — Aux assises des Bouches-du-Rhône, les ex-amis Amine Oualane et Zakaria Bensaci s’accusent mutuellement du triple homicide commis à Marseille en 2020
   https://www.lemonde.fr/societe/article/2026/11/04/aux-assises-des-bouches-du-rhone-les-ex-amis-amine-oualane-et-zakaria-bensaci-s-accusent-du-triple-homicide-commis-a-marseille-en-2020_6806465_3224.html
   Fondateur présumé de la DZ Mafia, Amine Oualane, jugé depuis le 19 octobre, voit dans les accusations de son ancien partenaire Zakaria Bensaci la main du clan Yoda.
-- [04/11 22:01] Le Monde — Tours : enquête ouverte après la blessure à l’œil d’un tiktokeur lors d’une manifestation
-  https://www.lemonde.fr/societe/article/2026/11/04/tours-enquete-ouverte-apres-la-blessure-a-l-il-d-un-tiktokeur-lors-d-une-manifestation_6806430_3224.html
-  Enzo Gimgembre, 22 ans, s’était rendu samedi à la manifestation « pour filmer ». Jusqu’à ce qu’un « petit groupe de CRS » se détache et qu’une « grenade de désencerclement » soit lancée dans sa direction, explique-t-il.
 
 ## Diagnostic
-- Tri : 13 article(s) écartés (sport, culture…), 4 renvoyé(s) vers International
+- Tri : 12 article(s) écartés (sport, culture…), 6 renvoyé(s) vers International
