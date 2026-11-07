@@ -1,5 +1,71 @@
-JORF — généré le 2026-11-06 04:39 (heure de Paris)
-Archives lues : 7 ; textes retenus : 356 ; JO trouvés : 2026-11-06, 2026-11-05, 2026-11-04, 2026-11-03
+JORF — généré le 2026-11-07 03:34 (heure de Paris)
+Archives lues : 7 ; textes retenus : 350 ; JO trouvés : 2026-11-07, 2026-11-06, 2026-11-05, 2026-11-04
+
+# JO du 2026-11-07 (n° 0261) — 62 textes au total
+## Présidence de la République
+- rien
+
+## Premier ministre
+Textes :
+- Avis de vacance d'un emploi de sous-directeur
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055069940
+- Avis de vacance d'un emploi de chef de service
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055069962
+- Avis de vacance d'un emploi de sous-directeur
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055069980
+Mesures nominatives :
+- Décret du 5 novembre 2026 portant réintégration et radiation du corps des administrateurs de l'Etat
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055069710
+
+## Intérieur
+Textes :
+- Décret du 4 novembre 2026 abrogeant le décret portant reconnaissance de l'association dite « Association des artistes musiciens » (fondation Taylor) comme établissement d'utilité publique
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055069059
+- Décret du 4 novembre 2026 approuvant la dissolution de la fondation reconnue d'utilité publique dite « Fondation Louise de Bettignies », abrogeant le décret portant reconnaissance de cette fondation comme établissement d'utilité publique
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055069064
+- Arrêté du 4 novembre 2026 modifiant l'arrêté du 1er septembre 2025 portant création de zones protégées
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055069072
+- Décret du 5 novembre 2026 rapportant un décret de naturalisation (Accès protégé)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055069738
+- Décret du 5 novembre 2026 portant déchéance de la nationalité française (Accès protégé)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055069741
+- Décret du 5 novembre 2026 rapportant un décret de naturalisation (Accès protégé)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055069744
+Mesures nominatives :
+- Décret du 5 novembre 2026 portant naturalisation, réintégration, mention d'enfants mineurs bénéficiant de l'effet collectif attaché à l'acquisition de la nationalité française par leurs parents et francisation de noms et de prénoms (Accès protégé)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055069735
+- Arrêté du 27 octobre 2026 rapportant les dispositions d'un arrêté portant admission à la retraite
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055069747
+- Arrêté du 29 octobre 2026 rapportant les dispositions d'un précédent arrêté portant admission à la retraite
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055069749
+
+## Justice
+Textes :
+- Arrêté du 2 novembre 2026 portant modification de l'arrêté du 26 avril 2010 portant création d'un service territorial éducatif de milieu ouvert à Saint-Gaudens (31)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055069441
+- Décret du 5 novembre 2026 portant décharge de fonctions (magistrature)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055069787
+Mesures nominatives :
+- Décret du 5 novembre 2026 portant nomination (magistrature)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055069792
+- Décret du 6 novembre 2026 portant cessation de fonctions d'une présidente de cour administrative d'appel (Conseil d'Etat) - Mme FOMBEUR (Pascale)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055069803
+- Arrêté du 30 octobre 2026 portant nomination à la commission de contrôle de la réglementation du Centre national du cinéma et de l'image animée
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055069809
+- Arrêté du 5 novembre 2026 portant radiation du corps interministériel des attachés d'administration de l'Etat (Conseil d'Etat et Cour nationale du droit d'asile)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055069811
+
+## Armées
+Textes :
+- Arrêté du 30 octobre 2026 modifiant l'arrêté du 27 février 2024 fixant le programme, la nature des épreuves, les règles d'organisation générale et le fonctionnement des jurys des concours pour le recrutement dans le corps des ingénieurs civils de la défense
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055069088
+- Arrêté du 30 octobre 2026 modifiant l'arrêté du 27 février 2024 fixant le programme, la nature des épreuves, les règles d'organisation générale et le fonctionnement des jurys des concours pour le recrutement dans le grade de technicien supérieur d'études et de fabrication de 2e classe du corps des techniciens supérieurs d'études et de fabrication du ministère de la défense
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055069106
+- Arrêté du 30 octobre 2026 modifiant l'arrêté du 27 février 2024 fixant le programme, la nature des épreuves, les règles d'organisation générale et le fonctionnement des jurys des concours de recrutement dans le grade de technicien supérieur d'études et de fabrications de 3e classe du corps des techniciens supérieurs d'études et de fabrications du ministère de la défense
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055069121
+Mesures nominatives :
+- Décret du 5 novembre 2026 portant nomination et promotion dans l'armée active
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055069752
 
 # JO du 2026-11-06 (n° 0260) — 104 textes au total
 ## Présidence de la République
@@ -196,46 +262,4 @@ Textes :
 Mesures nominatives :
 - Arrêté du 26 octobre 2026 modifiant l'arrêté du 21 avril 2006 relatif à la liste des professions, des fonctions et des établissements ou parties d'établissements permettant l'attribution d'une allocation spécifique de cessation anticipée d'activité à certains ouvriers de l'Etat, fonctionnaires et agents non titulaires du ministère de la défense
   https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055053463
-
-# JO du 2026-11-03 (n° 0257) — 68 textes au total
-## Présidence de la République
-- rien
-
-## Premier ministre
-Textes :
-- Arrêté du 23 octobre 2026 relatif à la composition du comité éthique et scientifique chargé de suivre l'activité du service de vigilance et de protection contre les ingérences numériques étrangères
-  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055047672
-Mesures nominatives :
-- Arrêté du 16 octobre 2026 portant admission à la retraite (administrateurs de l'Etat)
-  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055047652
-- Arrêté du 16 octobre 2026 portant admission à la retraite (administrateurs de l'Etat)
-  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055047659
-- Arrêté du 16 octobre 2026 portant admission à la retraite (administrateurs de l'Etat)
-  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055047665
-
-## Intérieur
-Textes :
-- Décision du 28 octobre 2026 modifiant la décision du 11 décembre 2019 portant création des trésoreries et sous-trésoreries militaires
-  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055047276
-- Appel à candidatures au titre de l'année 2027 sur l'emploi fonctionnel de sous-préfet en application de l'article 10 du décret n° 2022-491 du 6 avril 2022 relatif aux emplois de préfet et de sous-préfet (administration territoriale)
-  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055047888
-
-## Justice
-Textes :
-- Arrêté du 29 octobre 2026 modifiant l'arrêté du 23 octobre 2026 relatif à une société d'exercice libéral à responsabilité limitée (officiers publics ou ministériels)
-  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055047695
-- Arrêté du 29 octobre 2026 relatif à une société à responsabilité limitée (officiers publics ou ministériels)
-  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055047704
-Mesures nominatives :
-- Arrêté du 29 octobre 2026 portant nomination d'une notaire salariée (officiers publics ou ministériels)
-  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055047700
-- Arrêté du 29 octobre 2026 portant nomination d'une notaire salariée (officiers publics ou ministériels)
-  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055047709
-- Arrêté du 29 octobre 2026 portant admission à la retraite d'une attachée d'administration de l'Etat (Conseil d'Etat et Cour nationale du droit d'asile)
-  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055047713
-
-## Armées
-Mesures nominatives :
-- Décret du 1er novembre 2026 portant affectation d'un officier général
-  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055047681
 
