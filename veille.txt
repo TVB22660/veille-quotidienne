@@ -1,7 +1,13 @@
-VEILLE — généré le 2026-11-07 03:33 (heure de Paris)
+VEILLE — généré le 2026-11-07 04:35 (heure de Paris)
 Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 
 ## International
+- [07/11 04:30] Ouest-France — Les Houthistes proposent un laissez-passer en mer Rouge aux navires qui en font la demande par mail
+  https://www.ouest-france.fr/monde/iran/les-houthistes-proposent-un-laissez-passer-en-mer-rouge-aux-navires-qui-en-font-la-demande-par-mail-00705b44-da4f-11f1-81f5-8e32b0872d76?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
+  Le Wall Street Journal a examiné la correspondance entre des navires et le bureau de dédouanement peu connu des milices Houtistes pro-iraniens, révélant un système d’autorisation pour traverser la mer Rouge
+- [07/11 03:49] Ouest-France — Les États-Unis offrent 20 millions de dollars pour des informations sur le programme nucléaire iranien
+  https://www.ouest-france.fr/monde/iran/les-etats-unis-offrent-20-millions-de-dollars-pour-des-informations-sur-le-programme-nucleaire-iranien-c52dd8cc-da4e-11f1-81f5-8e32b0872d76?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
+  Les États-Unis ont annoncé vendredi 6 novembre 2026 offrir une récompense de 20 millions de dollars « et un possible déménagement » à toute personne apportant des informations sur le programme nucléaire iranien.
 - [07/11 03:13] Le Monde — Les Etats-Unis offrent 20 millions de dollars et « un possible déménagement » pour des informations sur le programme nucléaire iranien
   https://www.lemonde.fr/international/article/2026/11/07/les-etats-unis-offrent-20-millions-de-dollars-et-un-possible-demenagement-pour-des-informations-sur-le-programme-nucleaire-iranien_6808067_3210.html
   Ces informations peuvent concerner « [les] installations, [les] équipements et le personnel associé », a précisé le commandement militaire américain pour le Moyen-Orient.
@@ -320,4 +326,4 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
   D’anciens salariés du syndic Cipa ont été entendus comme témoins, jeudi, au tribunal judiciaire de Paris. Au cœur des interrogations, le fait que cette société n’avait pas recouru à la procédure d’urgence qui lui aurait…
 
 ## Diagnostic
-- Tri : 18 article(s) écartés (sport, culture…), 2 renvoyé(s) vers International
+- Tri : 16 article(s) écartés (sport, culture…), 2 renvoyé(s) vers International
