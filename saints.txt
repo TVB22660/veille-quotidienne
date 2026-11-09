@@ -1,20 +1,24 @@
-SAINTS — généré le 2026-11-08 04:40 (heure de Paris)
-Date : dimanche 8 novembre 2026 (2026-11-08)
+SAINTS — généré le 2026-11-09 03:41 (heure de Paris)
+Date : lundi 9 novembre 2026 (2026-11-09)
 
 ## Calendrier romain actuel (AELF, France)
-- Jour liturgique : 32ème dimanche du Temps Ordinaire (semaine IV du Psautier)
-- Ligne 1 : 32ème dimanche du Temps Ordinaire (semaine IV du Psautier)
-- Couleur liturgique : vert
-- Temps liturgique : ordinaire
-- Saint du jour (Nominis) : Saint Geoffroy d'Amiens - Évêque d'Amiens (+ 1115)
+- Jour liturgique : Dédicace de la Basilique du Latran
+- Fête / saint : Fête
+- Rang : Fête
+- Ligne 1 : Dédicace de la Basilique du Latran
+- Ligne 2 : Fête
+- Couleur liturgique : blanc
+- Saint du jour (Nominis) : Dédicace de la Basilique du Latran - Basilique saint Jean de Latran, à Rome
+- Saint du jour (Nominis) : Saint Théodore - Soldat, martyr à Euchaïta, dans le Pont (+ v. 304)
 
 ## Calendrier traditionnel de 1962 (Divinum Officium, rubriques de 1960)
-- Jour : Dominica V quæ superfuit Post Epiphaniam III. Novembris ~ II. classis
-- Martyrologe : L’octave de la fête de tous les Saints.
-- Martyrologe : À Rome, sur la via Labicana, à trois mille de la Ville, la passion des saints Martyrs Claude, Nicostrate, Symphorien, Castorius et Simplice. Mis en prison d’abord, ils furent ensuite cruellement déchirés avec des scorpions, mai…
-- Martyrologe : Sur la même via Labicana, l’anniversaire des saints Quatre Couronnés, frères : Sévère, Sévérien, Carpophore et Victorin. Sous le même empereur, ils furent si cruellement meurtris avec des cordes garnies de plomb qu’ils expirère…
-- Martyrologe : De plus, à Rome, le Pape saint Deusdedit Ier, dont le mérite fut si grand qu’il guérit un lépreux par un baiser.
-- Martyrologe : Au village de Blexen, près du Weser, en Germanie, saint Willehad, premier Évêque de Brême. Avec saint Boniface, dont il fut le disciple, il propagea l’Évangile dans la Frise et dans la Saxe.
-- Martyrologe : À Soissons, en France, saint Geoffroy, Évêque d’Amiens, homme d’une grande sainteté.
-- Martyrologe : À Verdun, en Gaule, saint Maur, Évêque et Confesseur.
-- Martyrologe : À Tours, en Gaule, saint Clair, Prêtre, dont l’épitaphe fut composée par saint Paulin.
+- Jour : In Dedicatione Basilicæ Ss. Salvatoris ~ II. classis
+- Commemoratio ad Laudes tantum: S. Theodori Martyris
+- Martyrologe : À Rome, au Latran, la Dédicace de la basilique du Très-Saint-Sauveur, mère et tête de toutes les églises de la Ville et du monde.
+- Martyrologe : À Amasée, dans le Pont, l’anniversaire de saint Théodore, soldat. Au temps de l’empereur Maximien, pour avoir confessé la Foi Chrétienne, il fut meurtri cruellement et mis en prison, puis réconforté par une apparition du Seigne…
+- Martyrologe : À Tyane, en Cappadoce, la passion de saint Oreste, sous l’empereur Dioclétien.
+- Martyrologe : À Thessalonique, saint Alexandre, Martyr, sous l’empereur Maximien.
+- Martyrologe : À Bourges, en Aquitaine, saint Ursin, Confesseur. Ordonné à Rome par les successeurs des Apôtres, il fut désigné pour être le premier Évêque de cette ville de Bourges.
+- Martyrologe : À Naples, en Campanie, saint Agrippin, Évêque, célèbre par ses miracles.
+- Martyrologe : À Constantinople, les saintes Vierges Eustolie Romaine, et Sopatre, fille de l’empereur Maurice.
+- Martyrologe : À Beyrouth, en Syrie, commémoraison de l’image du Sauveur, laquelle ayant été crucifiée par les Juifs, répandit du sang en telle abondance que les églises d’Orient et d’Occident purent en recevoir à leur gré.
