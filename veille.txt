@@ -1,4 +1,4 @@
-VEILLE — généré le 2026-11-09 03:40 (heure de Paris)
+VEILLE — généré le 2026-11-09 04:42 (heure de Paris)
 Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 
 ## International
@@ -28,9 +28,6 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [08/11 22:44] franceinfo — Le géant de la tech Nvidia lance une enquête interne sur son patron, qui a entretenu une relation avec une femme soupçonnée d'être une espionne chinoise
   https://www.franceinfo.fr/internet/le-geant-de-la-tech-nvidia-lance-une-enquete-interne-sur-son-patron-qui-a-entretenu-une-relation-avec-une-femme-soupconnee-d-etre-une-espionne-chinoise_8273777.html#xtor=RSS-3-[lestitres]
   Le conseil d'administration du mastodonte des semi-conducteurs "a confiance en Jensen [Huang] et son équipe dirigeante", écrit-il dans un communiqué après les révélations de plusieurs médias.
-- [08/11 22:41] Ouest-France — Cinq morts à Gaza à la suite de pluies diluviennes
-  https://www.ouest-france.fr/monde/gaza/cinq-morts-a-gaza-a-la-suite-de-pluies-diluviennes-2d5bc388-dbbb-11f1-81f5-8e32b0872d76?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
-  D’importantes pluies ont touché l’enclave palestinienne au cours des deux derniers jours, causant la mort d’au moins cinq personnes dont trois enfants.
 - [08/11 21:15] franceinfo — La guerre des câbles sous-marins : "les premières étapes d'une attaque de plus grande ampleur"
   https://www.franceinfo.fr/replay-jt/france-2/20-heures/la-guerre-des-cables-sous-marins-les-premieres-etapes-d-une-attaque-de-plus-grande-ampleur_8273729.html#xtor=RSS-3-%5Bgeneral%5D
   La France et l’Europe sont victimes chaque semaine de vagues de cyberattaques. Des rappels permanents qu’une guerre hybride est en cours. Elle se joue aussi sous les océans, avec un secteur stratégique de plus en plus c…
@@ -124,14 +121,14 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [08/11 05:15] Le Monde — A Paris, la Maison de l’Amérique latine, un symbole de la gauche glorieuse à vendre
   https://www.lemonde.fr/m-le-mag/article/2026/11/08/a-paris-la-maison-de-l-amerique-latine-un-symbole-de-la-gauche-glorieuse-a-vendre_6808391_4500055.html
   Décor des soirées électorales du Parti socialiste, les salons feutrés de cette institution située boulevard Saint-Germain, à Paris, ont vu passer les leaders anti-impérialistes sud-américains. Mais le lieu a aussi accue…
-- [07/11 22:32] Le Figaro — Au Paraguay, tout juste démis, l’ex-président Santiago Peña placé en détention provisoire après l’effondrement d’une banque en ligne
-  https://www.lefigaro.fr/conjoncture/au-paraguay-le-president-santiago-pena-emporte-par-l-effondrement-d-une-banque-en-ligne-20261106
-  RÉCIT - La première banque numérique du pays, Ueno, où la moitié des Paraguayens possédait un compte, a été placée sous tutelle mardi. Mis en cause pour ces liens avec cet établissement, le chef de l’État a présenté sa…
 
 ## France
-- [09/11 03:39] franceinfo — Présidentielle : contraint de quitter le cortège parisien jeudi, Raphaël Glucksmann affirme qu'il retournera aux prochaines manifestations de l'intersyndicale
+- [09/11 04:41] franceinfo — Présidentielle : contraint de quitter le cortège parisien jeudi, Raphaël Glucksmann affirme qu'il retournera aux prochaines manifestations de l'intersyndicale
   https://www.franceinfo.fr/politique/direct-politique-je-n-attends-plus-grand-chose-de-ce-gouvernement-a-part-de-le-remplacer-par-nous-memes-tacle-le-depute-lfi-antoine-leaument_8273093.html#xtor=RSS-3-%5Bgeneral%5D
   Le candidat social-démocrate à la présidentielle a également déclaré dimanche soir vouloir "mettre fin à l’hégémonie de Jean-Luc Mélenchon sur la gauche française".
+- [09/11 04:18] Ouest-France — De provocateur star à gourou déchu condamné pour viol : Russell Brand fixé sur sa peine lundi
+  https://www.ouest-france.fr/europe/royaume-uni/de-provocateur-star-a-gourou-dechu-condamne-pour-viol-russell-brand-fixe-sur-sa-peine-lundi-96ad422a-dbc1-11f1-81f5-8e32b0872d76?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
+  Humoriste et animateur vedette ayant bâti sa célébrité sur la provocation, reconverti en gourou complotiste avant d’être rattrapé par la justice, le Britannique Russell Brand va être fixé ce lundi sur sa peine après avo…
 - [09/11 00:54] Ouest-France — Face à Javier Milei, le pape appelle à mettre « l’économie au service de la personne » et à « chercher des compromis »
   https://www.ouest-france.fr/societe/religions/pape-leon-xiv/face-a-javier-milei-le-pape-appelle-a-mettre-leconomie-au-service-de-la-personne-et-a-chercher-des-compromis-1a71d70e-dbc4-11f1-81f5-8e32b0872d76?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
   Lors de sa visite en Argentine le pape Léon XIV a plaidé pour une économie au service de la personne et a appelé les dirigeants à observer « le soin apporté à la parole » dans la vie publique et à la « recherche patient…
@@ -198,9 +195,9 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [08/11 18:40] Le Figaro — Arnaud Viala, nouveau ministre de la ruralité : un fin tacticien politique proche du terrain
   https://www.lefigaro.fr/actualite-france/arnaud-viala-nouveau-ministre-de-la-ruralite-un-fin-tacticien-politique-proche-du-terrain-20261108
   PORTRAIT - À la tête du département de l’Aveyron, il est très attaché au dialogue avec les agriculteurs, un milieu dont il est issu. Sur l’échiquier politique, cet ancien membre des LR de centre droit a rejoint Horizons…
-- [08/11 18:00] Le Monde — L’affaire Michel Zecler, emblématique des violences policières, devant la justice
-  https://www.lemonde.fr/societe/article/2026/11/08/l-affaire-michel-zecler-emblematique-des-violences-policieres-devant-la-justice_6808454_3224.html
-  A partir du lundi 9 novembre, trois policiers comparaissent devant la cour criminelle de Paris pour des violences infligées au producteur de musique, dont les images avaient choqué l’opinion en 2020.
+- [08/11 18:00] Le Monde — En Turquie, la COP31 vise à remettre le climat en haut de l’agenda, dans un monde percuté par les crises
+  https://www.lemonde.fr/planete/article/2026/11/08/en-turquie-la-cop31-vise-a-remettre-le-climat-en-haut-de-l-agenda-dans-un-monde-percute-par-les-crises_6808456_3244.html
+  La 31ᵉ conférence mondiale sur le climat s’ouvre lundi à Antalya. Sur fond de crise énergétique et de tensions géopolitiques, ces négociations internationales doivent aplanir les obstacles qui freinent la décarbonation…
 - [08/11 16:55] Le Figaro — Annie Genevard au Figaro : «Une primaire ne doit pas être crainte»
   https://www.lefigaro.fr/elections/presidentielles/annie-genevard-au-figaro-une-primaire-ne-doit-pas-etre-crainte-20261108
   ENTRETIEN - Auparavant hostile à une primaire, la ministre de l’Agriculture et ex-dirigeante de LR estime que les candidats de la droite et du centre doivent entendre «le désarroi» d’une «France silencieuse consternée»…
@@ -290,6 +287,9 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [08/11 18:44] franceinfo — Dans le Var, une femme avoue avoir tué sa mère de 89 ans au fusil de chasse
   https://www.franceinfo.fr/faits-divers/dans-le-var-une-femme-avoue-avoir-tue-sa-mere-de-89-ans-au-fusil-de-chasse_8273585.html#xtor=RSS-3-%5Bgeneral%5D
   Selon les premiers éléments de l'enquête, la quinquagénaire résidait seule avec sa mère, qui souffrait d'une maladie neurodégénérative.
+- [08/11 18:00] Le Monde — L’affaire Michel Zecler, emblématique des violences policières, devant la justice
+  https://www.lemonde.fr/societe/article/2026/11/08/l-affaire-michel-zecler-emblematique-des-violences-policieres-devant-la-justice_6808454_3224.html
+  A partir du lundi 9 novembre, trois policiers comparaissent devant la cour criminelle de Paris pour des violences infligées au producteur de musique, dont les images avaient choqué l’opinion en 2020.
 - [08/11 13:13] Zone Militaire — Le porte-avions britannique HMS Queen Elizabeth a lancé ses premiers drones d’attaque
   https://www.opex360.com/2026/11/08/le-porte-avions-britannique-hms-queen-elizabeth-a-lance-ses-premiers-drones-dattaque/
   Lors du salon de l’armement DSEI 25, le chef d’état-major de la Royal Navy, le général Gwyn Jenkins, avait fixé un cap : «déployer des navires sans équipage autant que possible» et «déployer des navires avec équipage se…
