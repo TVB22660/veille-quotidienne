@@ -1,7 +1,13 @@
-VEILLE — généré le 2026-11-10 03:37 (heure de Paris)
+VEILLE — généré le 2026-11-10 04:37 (heure de Paris)
 Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 
 ## International
+- [10/11 03:57] Le Monde — Etats-Unis : les électeurs de Californie rejettent un avatar de la taxe Zucman sur les milliardaires
+  https://www.lemonde.fr/international/article/2026/11/10/etats-unis-les-electeurs-de-californie-rejettent-un-avatar-de-la-taxe-zucman-sur-les-milliardaires_6808768_3210.html
+  La taxation ponctuelle de 5 % des milliardaires, qui était soumise à référendum le 3 novembre, a été repoussée selon les résultats proclamés dans la nuit de lundi à mardi. Après la victoire des démocrates aux midterms,…
+- [10/11 03:43] Le Monde — Accord sécuritaire Salvador-Haïti : Amnesty International appelle à la transparence et au respect des droits humains
+  https://www.lemonde.fr/international/article/2026/11/10/accord-securitaire-salvador-haiti-amnesty-international-appelle-a-la-transparence-et-au-respect-des-droits-humains_6808767_3210.html
+  Sous couvert d’une mission de récupération de quatre soldats portés disparus à Port-au-Prince, Nayib Bukele pourrait, selon des analystes, chercher à exporter son modèle de lutte sans merci contre la criminalité.
 - [10/11 03:34] Le Monde — La Cour suprême américaine autorise la reprise de travaux de l’administration Trump à la frontière avec le Mexique dans un parc national au Texas
   https://www.lemonde.fr/international/article/2026/11/10/la-cour-supreme-americaine-autorise-la-reprise-de-travaux-de-l-administration-trump-a-la-frontiere-avec-le-mexique-dans-un-parc-national-au-texas_6808766_3210.html
   Le chantier dans le parc national de Big Bend, auquel s’opposent les associations environnementales, peut désormais redémarrer à tout moment.
@@ -95,9 +101,6 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [09/11 19:35] Le Figaro — « Ouvrez les portes de vos maisons au Christ » : à Buenos Aires, Léon XIV défend le modèle de la famille chrétienne
   https://www.lefigaro.fr/actualite-france/ouvrez-les-portes-de-vos-maisons-au-christ-a-buenos-aires-leon-xiv-defend-le-modele-de-la-famille-chretienne-20261109
   REPORTAGE - Le pape a rappelé, lors d’une messe géante, le rôle historique qu’elle avait eu dans la construction et l’émancipation de la société argentine. Il a par ailleurs averti le président Javier Milei des risques…
-- [09/11 19:20] Le Monde — Grèce : les traversées de migrants depuis la Libye vers la Crète toujours plus nombreuses et périlleuses
-  https://www.lemonde.fr/international/article/2026/11/09/grece-les-traversees-de-migrants-depuis-la-libye-vers-la-crete-toujours-plus-nombreuses-et-perilleuses_6808689_3210.html
-  Au moins vingt-deux migrants partis de Libye sont morts après leur traversée pour rejoindre la Crète entre le 8 et le 9 novembre. Face à cette hausse des arrivées sur l’île, Athènes dénonce le manque de coopération des…
 - [09/11 19:00] franceinfo — Truffe blanche vendue 100 000 € aux enchères
   https://www.franceinfo.fr/monde/italie/truffe-blanche-vendue-100-000-aux-encheres_8274923.html#xtor=RSS-3-%5Bgeneral%5D
   100 000 €, c’est le prix auquel a été vendue une truffe blanche d’Alba de 850 g, lors de cette vente aux enchères dans le Piémont, en Italie. Les fonds récoltés sont reversés à des associations.
@@ -130,6 +133,9 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
   PORTRAITS - Cinq prétendants à l’investiture se distinguent au sein d’une nouvelle génération.
 
 ## France
+- [10/11 04:24] Ouest-France — Les députés ont voté un texte en commission pour interdire l’importation en France de produits des colonies israéliennes
+  https://www.ouest-france.fr/politique/institutions/assemblee-nationale/les-deputes-ont-vote-un-texte-en-commission-pour-interdire-limportation-en-france-de-produits-des-colonies-israeliennes-2d7c600e-28bb-4306-b042-64e0754a2ca8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
+  Les députés ont adopté lundi 9 novembre 2026 en commission à une proposition de loi visant à interdire l’importation des produits des colonies israéliennes et les services contribuant à la colonisation.
 - [10/11 02:00] Ouest-France — Cop31 : la baisse mondiale des émissions de gaz à effet de serre reste très fragile, révèle le Global Carbon Budget
   https://www.ouest-france.fr/environnement/cop21/cop31-la-baisse-mondiale-des-emissions-de-gaz-a-effet-de-serre-reste-tres-fragile-revele-le-global-carbon-budget-3eb7665a-dc1a-11f1-81f5-8e32b0872d76?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
   La quantité de dioxyde de carbone (CO2) relâché dans l’atmosphère, gaz responsable du changement climatique, devrait diminuer de 0,4 %, souligne un bilan mondial annuel, dévoilé ce mardi 10 novembre. L’effet des énergie…
@@ -193,18 +199,12 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [09/11 21:39] franceinfo — "Nous sommes devenus des cibles" : le principal syndicat des proviseurs appelle au rassemblement vendredi 13 novembre
   https://www.franceinfo.fr/societe/education/blocage-des-lycees/nous-sommes-devenus-des-cibles-le-principal-syndicat-des-proviseurs-appelle-au-rassemblement-vendredi-13-novembre_8275154.html#xtor=RSS-3-[lestitres]
   "Nous sommes seuls", déplore Nicolas Bonnet, secrétaire national du SNPDEN-Unsa, lundi sur franceinfo. Ce proviseur d'un lycée à Libourne (Gironde) est confronté à des "jets de pavés, des poubelles brûlées, des tentativ…
-- [09/11 21:33] Le Monde — « Je suis un simple exécutant » : les explications chaotiques du « boucher » au procès du triple narchomicide de 2020
-  https://www.lemonde.fr/societe/article/2026/11/09/je-suis-un-simple-executant-les-explications-chaotiques-du-boucher-au-proces-du-triple-narchomicide-de-2020_6808700_3224.html
-  S’il reconnaît avoir démembré une des victimes, Malik Kariba, l’un des cinq coaccusés au procès du triple homicide de décembre 2020, lié au trafic de drogue, assure avoir agi sur ordre, « terrifié ».
 - [09/11 21:25] franceinfo — Caméras, brigade de surveillance… Ces communes qui luttent activement contre les dépôts sauvages d'ordures
   https://www.franceinfo.fr/environnement/actions-ecologiques/gestion-des-dechets/cameras-brigade-de-surveillance-ces-communes-qui-luttent-activement-contre-les-depots-sauvages-d-ordures_8275148.html#xtor=RSS-3-%5Bgeneral%5D
   C'est un problème auquel de nombreux maires se heurtent : les décharges sauvages, dont le nettoyage coûte cher aux communes. Alors, comment empêcher ces dépôts ? Les équipes du "20 Heures" se sont penchées sur la questi…
 - [09/11 21:18] franceinfo — Le maire d'Evreux, dans l'Eure, a saisi le Conseil d'Etat pour contester l'annulation des deux tours de l'élection municipale
   https://www.franceinfo.fr/elections/municipales/le-maire-d-evreux-dans-l-eure-a-saisi-le-conseil-d-etat-pour-contester-l-annulation-des-deux-tours-de-l-election-municipale_8275130.html#xtor=RSS-3-[lestitres]
   En cas de confirmation du jugement rendu par le tribunal administratif de Rouen, de nouvelles élections devront être organisées au plus tard début août 2027.
-- [09/11 20:56] Le Monde — Solange Alexandre, ancienne résistante et cheffe de maquis, est morte à l’âge de 104 ans
-  https://www.lemonde.fr/disparitions/article/2026/11/09/solange-alexandre-ancienne-resistante-et-cheffe-de-maquis-est-morte-a-l-age-de-104-ans_6808698_3382.html
-  Sous le nom de code « Corlay », elle avait été agente de liaison et espionne avant de créer en 1944 le maquis « Pas-de-Bœuf » à Ruillé-sur-Loir. Elle avait terminé la guerre avec le grade de lieutenante des Forces franç…
 - [09/11 20:42] Le Figaro — Plongée dans les opérations secrètes de Shahid Kaveh, l’armée de l’ombre iranienne suspectée d’avoir saboté les frigos de supermarchés français
   https://www.lefigaro.fr/secteur/high-tech/plongee-dans-les-operations-secretes-de-shahid-kaveh-l-armee-de-l-ombre-iranienne-suspectee-d-avoir-sabote-les-frigos-de-supermarches-francais-20261109
   DÉCRYPTAGE - Aussi connus sous le nom de «CyberAv3ngers» et de «Intelligence Team 13», ces hackeurs iraniens, liés au régime de Téhéran, sont considérés par nombre d’observateurs comme l’«une des unités les plus agressi…
@@ -285,6 +285,9 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [09/11 21:52] franceinfo — Agression de Michel Zecler : trois policiers accusés de violences et d’avoir falsifié leur procès-verbal
   https://www.franceinfo.fr/replay-jt/france-2/20-heures/agression-de-michel-zecler-trois-policiers-accuses-de-violences-et-d-avoir-falsifie-leur-proces-verbal_8275181.html#xtor=RSS-3-%5Bgeneral%5D
   En novembre 2020, le producteur de musique Michel Zecler était roué de coups dans l’entrée de son studio. Les images d'une caméra de vidéosurveillance avaient contredit le récit des fonctionnaires. Six ans plus tard, tr…
+- [09/11 21:33] Le Monde — « Je suis un simple exécutant » : les explications chaotiques du « boucher » au procès du triple narchomicide de 2020
+  https://www.lemonde.fr/societe/article/2026/11/09/je-suis-un-simple-executant-les-explications-chaotiques-du-boucher-au-proces-du-triple-narchomicide-de-2020_6808700_3224.html
+  S’il reconnaît avoir démembré une des victimes, Malik Kariba, l’un des cinq coaccusés au procès du triple homicide de décembre 2020, lié au trafic de drogue, assure avoir agi sur ordre, « terrifié ».
 - [09/11 21:25] franceinfo — Domicile d'un policier incendié à Auch : pas de lien avec sa profession à ce stade, selon le parquet
   https://www.franceinfo.fr/faits-divers/domicile-d-un-policier-incendie-a-auch-pas-de-lien-avec-sa-profession-a-ce-stade-selon-le-parquet_8275139.html#xtor=RSS-3-[lestitres]
   Le ministre de l'Intérieur avait affirmé samedi soir que "tout laisse à penser que cet acte criminel intolérable a été commis en raison de la profession de ce policier"
@@ -332,4 +335,4 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
   Le gouvernement espère faire voter ce texte très attendu en matière de cybersécurité, sans son article 16 bis, qui hérisse les services de renseignement. Pour ce faire, il a annoncé renoncer à l’introduction de portes d…
 
 ## Diagnostic
-- Tri : 11 article(s) écartés (sport, culture…), 4 renvoyé(s) vers International
+- Tri : 9 article(s) écartés (sport, culture…), 4 renvoyé(s) vers International
