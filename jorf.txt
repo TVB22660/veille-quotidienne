@@ -1,7 +1,42 @@
-JORF — généré le 2026-11-09 04:42 (heure de Paris)
-Archives lues : 1 ; textes retenus : 43 ; JO trouvés : 2026-11-08, 2026-11-07
+JORF — généré le 2026-11-10 03:37 (heure de Paris)
+Archives lues : 3 ; textes retenus : 108 ; JO trouvés : 2026-11-10, 2026-11-08, 2026-11-07
 
-# JO du 2026-11-08 (n° 0262) — 41 textes au total
+# JO du 2026-11-10 (n° 0263) — 48 textes au total
+## Présidence de la République
+Mesures nominatives :
+- Décret du 9 novembre 2026 portant nomination dans l'ordre national de la Légion d'honneur
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055075185
+
+## Premier ministre
+Textes :
+- Arrêté du 2 juillet 2026 relatif à l'approbation du cahier des charges de l'appel à projets « Laboratoires d'excellence - LabEx 2030 »
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055075191
+- Arrêté du 16 septembre 2026 relatif à l'approbation du cahier des charges de l'appel à candidatures « Chaires Séniors en Innovation Vaccinale »
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055075198
+
+## Intérieur
+Mesures nominatives :
+- Arrêté du 4 novembre 2026 fixant les taux de promotion pour l'avancement de grade des corps de catégorie A relevant des filières numérique, sécurité routière et technique du ministère de l'intérieur pour l'année 2027
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055075205
+
+## Justice
+Textes :
+- Décret n° 2026-1036 du 9 novembre 2026 modifiant le décret n° 2008-689 du 9 juillet 2008 relatif à l'organisation du ministère de la justice
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055075265
+- Arrêté du 9 novembre 2026 modifiant l'arrêté du 30 décembre 2019 relatif à l'organisation du secrétariat général et des directions du ministère de la justice
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055075282
+Mesures nominatives :
+- Décret du 9 novembre 2026 portant détachement (magistrature) - Mme BENHAMOU (Clara)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055075555
+- Décret du 9 novembre 2026 portant détachement (magistrature) - Mme EDERIQUE (Laura)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055075569
+
+## Armées
+Mesures nominatives :
+- Décret du 9 novembre 2026 portant promotion à titre exceptionnel dans l'armée active
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055075549
+
+# JO du 2026-11-08 (n° 0262) — 43 textes au total
 ## Présidence de la République
 Mesures nominatives :
 - Décret du 6 novembre 2026 fixant un contingent de croix de la Légion d'honneur et de l'ordre national du Mérite pour une promotion spéciale « Derniers médaillés de la Résistance »
@@ -11,6 +46,9 @@ Mesures nominatives :
 Textes :
 - Avis de vacance d'un emploi de sous-directeur
   https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055070655
+Mesures nominatives :
+- Décret du 7 novembre 2026 chargeant le ministre délégué chargé de la transition écologique auprès de la ministre de la transition écologique, de la biodiversité et des négociations internationales sur le climat et la nature de l'intérim des fonctions de porte-parole du Gouvernement auprès du Premier ministre
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055070195
 
 ## Intérieur
 Mesures nominatives :
@@ -44,7 +82,7 @@ Mesures nominatives :
 - Arrêté du 6 novembre 2026 portant nomination (administration centrale)
   https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055070423
 
-# JO du 2026-11-07 (n° 0261) — 2 textes au total
+# JO du 2026-11-07 (n° 0261) — 17 textes au total
 ## Présidence de la République
 - rien
 
@@ -57,10 +95,20 @@ Textes :
   https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055069059
 - Décret du 4 novembre 2026 approuvant la dissolution de la fondation reconnue d'utilité publique dite « Fondation Louise de Bettignies », abrogeant le décret portant reconnaissance de cette fondation comme établissement d'utilité publique
   https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055069064
+- Arrêté du 4 novembre 2026 modifiant l'arrêté du 1er septembre 2025 portant création de zones protégées
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055069072
 
 ## Justice
-- rien
+Textes :
+- Arrêté du 2 novembre 2026 portant modification de l'arrêté du 26 avril 2010 portant création d'un service territorial éducatif de milieu ouvert à Saint-Gaudens (31)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055069441
 
 ## Armées
-- rien
+Textes :
+- Arrêté du 30 octobre 2026 modifiant l'arrêté du 27 février 2024 fixant le programme, la nature des épreuves, les règles d'organisation générale et le fonctionnement des jurys des concours pour le recrutement dans le corps des ingénieurs civils de la défense
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055069088
+- Arrêté du 30 octobre 2026 modifiant l'arrêté du 27 février 2024 fixant le programme, la nature des épreuves, les règles d'organisation générale et le fonctionnement des jurys des concours pour le recrutement dans le grade de technicien supérieur d'études et de fabrication de 2e classe du corps des techniciens supérieurs d'études et de fabrication du ministère de la défense
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055069106
+- Arrêté du 30 octobre 2026 modifiant l'arrêté du 27 février 2024 fixant le programme, la nature des épreuves, les règles d'organisation générale et le fonctionnement des jurys des concours de recrutement dans le grade de technicien supérieur d'études et de fabrications de 3e classe du corps des techniciens supérieurs d'études et de fabrications du ministère de la défense
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055069121
 

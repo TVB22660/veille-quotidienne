@@ -1,24 +1,24 @@
-SAINTS — généré le 2026-11-09 04:42 (heure de Paris)
-Date : lundi 9 novembre 2026 (2026-11-09)
+SAINTS — généré le 2026-11-10 03:37 (heure de Paris)
+Date : mardi 10 novembre 2026 (2026-11-10)
 
 ## Calendrier romain actuel (AELF, France)
-- Jour liturgique : Dédicace de la Basilique du Latran
-- Fête / saint : Fête
-- Rang : Fête
-- Ligne 1 : Dédicace de la Basilique du Latran
-- Ligne 2 : Fête
+- Jour liturgique : de la férie
+- Fête / saint : S. Léon le Grand, pape et docteur de l'Eglise
+- Ligne 1 : mardi, 32ème semaine du Temps Ordinaire
+- Ligne 2 : S. Léon le Grand, pape et docteur de l'Eglise
+- Ligne 3 : Mémoire
 - Couleur liturgique : blanc
-- Saint du jour (Nominis) : Dédicace de la Basilique du Latran - Basilique saint Jean de Latran, à Rome
-- Saint du jour (Nominis) : Saint Théodore - Soldat, martyr à Euchaïta, dans le Pont (+ v. 304)
+- Temps liturgique : ordinaire
+- Saint du jour (Nominis) : Saint Léon le Grand - Pape (45 e ) de 440 à 461 (+ 461)
 
 ## Calendrier traditionnel de 1962 (Divinum Officium, rubriques de 1960)
-- Jour : In Dedicatione Basilicæ Ss. Salvatoris ~ II. classis
-- Commemoratio ad Laudes tantum: S. Theodori Martyris
-- Martyrologe : À Rome, au Latran, la Dédicace de la basilique du Très-Saint-Sauveur, mère et tête de toutes les églises de la Ville et du monde.
-- Martyrologe : À Amasée, dans le Pont, l’anniversaire de saint Théodore, soldat. Au temps de l’empereur Maximien, pour avoir confessé la Foi Chrétienne, il fut meurtri cruellement et mis en prison, puis réconforté par une apparition du Seigne…
-- Martyrologe : À Tyane, en Cappadoce, la passion de saint Oreste, sous l’empereur Dioclétien.
-- Martyrologe : À Thessalonique, saint Alexandre, Martyr, sous l’empereur Maximien.
-- Martyrologe : À Bourges, en Aquitaine, saint Ursin, Confesseur. Ordonné à Rome par les successeurs des Apôtres, il fut désigné pour être le premier Évêque de cette ville de Bourges.
-- Martyrologe : À Naples, en Campanie, saint Agrippin, Évêque, célèbre par ses miracles.
-- Martyrologe : À Constantinople, les saintes Vierges Eustolie Romaine, et Sopatre, fille de l’empereur Maurice.
-- Martyrologe : À Beyrouth, en Syrie, commémoraison de l’image du Sauveur, laquelle ayant été crucifiée par les Juifs, répandit du sang en telle abondance que les églises d’Orient et d’Occident purent en recevoir à leur gré.
+- Jour : S. Andreæ Avellini Confessoris ~ III. classis
+- Commemoratio ad Laudes tantum: Ss. Tryphonis, Respicii, et Nymphæ Virg., Martyrum
+- Martyrologe : À Naples, en Campanie, l’anniversaire de saint André Avellin, clerc régulier et Confesseur, très célèbre par la sainteté et son zèle à procurer le salut du prochain. En raison de l’éclat de ses miracles, le souverain Pontife Cl…
+- Martyrologe : Le même jour, l’anniversaire des saints Martyrs Tryphon et Respice, et de sainte Nymphe, Vierge.
+- Martyrologe : À Rome, l’anniversaire du Pape saint Léon Ier, Confesseur et Docteur de l’Église, qui, en raison de ses éminentes vertus, a reçu le surnom de Grand. De son temps fut célébré le saint Concile de Chalcédoine, dans lequel il conda…
+- Martyrologe : À Iconium, en Lycaonie, les saintes femmes Tryphenne et Tryphose. Instruites par la prédication du bienheureux Paul et l’exemple de Thècle, elles firent de merveilleux progrès dans la perfection chrétienne.
+- Martyrologe : À Antioche, les saints Démétrius, Évêque, Agnan, Diacre, Eustose, et vingt autres Martyrs.
+- Martyrologe : Au territoire d’Agde, en Gaule, les saints Martyrs Tibère, Modeste et Florence. Au temps de l’empereur Dioclétien, ils souffrirent divers tourments et consommèrent ainsi leur martyre.
+- Martyrologe : À Ravenne, saint Probe, Évêque, célèbre par ses miracles.
+- Martyrologe : À Orléans, en Gaule, saint Moniteur, Évêque et Confesseur.
