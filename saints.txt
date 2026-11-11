@@ -1,24 +1,24 @@
-SAINTS — généré le 2026-11-10 04:38 (heure de Paris)
-Date : mardi 10 novembre 2026 (2026-11-10)
+SAINTS — généré le 2026-11-11 03:35 (heure de Paris)
+Date : mercredi 11 novembre 2026 (2026-11-11)
 
 ## Calendrier romain actuel (AELF, France)
 - Jour liturgique : de la férie
-- Fête / saint : S. Léon le Grand, pape et docteur de l'Eglise
-- Ligne 1 : mardi, 32ème semaine du Temps Ordinaire
-- Ligne 2 : S. Léon le Grand, pape et docteur de l'Eglise
+- Fête / saint : S. Martin de Tours, évêque
+- Ligne 1 : mercredi, 32ème semaine du Temps Ordinaire
+- Ligne 2 : S. Martin de Tours, évêque
 - Ligne 3 : Mémoire
 - Couleur liturgique : blanc
 - Temps liturgique : ordinaire
-- Saint du jour (Nominis) : Saint Léon le Grand - Pape (45 e ) de 440 à 461 (+ 461)
+- Saint du jour (Nominis) : Saint Martin de Tours - évêque (+ 397)
 
 ## Calendrier traditionnel de 1962 (Divinum Officium, rubriques de 1960)
-- Jour : S. Andreæ Avellini Confessoris ~ III. classis
-- Commemoratio ad Laudes tantum: Ss. Tryphonis, Respicii, et Nymphæ Virg., Martyrum
-- Martyrologe : À Naples, en Campanie, l’anniversaire de saint André Avellin, clerc régulier et Confesseur, très célèbre par la sainteté et son zèle à procurer le salut du prochain. En raison de l’éclat de ses miracles, le souverain Pontife Cl…
-- Martyrologe : Le même jour, l’anniversaire des saints Martyrs Tryphon et Respice, et de sainte Nymphe, Vierge.
-- Martyrologe : À Rome, l’anniversaire du Pape saint Léon Ier, Confesseur et Docteur de l’Église, qui, en raison de ses éminentes vertus, a reçu le surnom de Grand. De son temps fut célébré le saint Concile de Chalcédoine, dans lequel il conda…
-- Martyrologe : À Iconium, en Lycaonie, les saintes femmes Tryphenne et Tryphose. Instruites par la prédication du bienheureux Paul et l’exemple de Thècle, elles firent de merveilleux progrès dans la perfection chrétienne.
-- Martyrologe : À Antioche, les saints Démétrius, Évêque, Agnan, Diacre, Eustose, et vingt autres Martyrs.
-- Martyrologe : Au territoire d’Agde, en Gaule, les saints Martyrs Tibère, Modeste et Florence. Au temps de l’empereur Dioclétien, ils souffrirent divers tourments et consommèrent ainsi leur martyre.
-- Martyrologe : À Ravenne, saint Probe, Évêque, célèbre par ses miracles.
-- Martyrologe : À Orléans, en Gaule, saint Moniteur, Évêque et Confesseur.
+- Jour : S. Martini Episcopi et Confessoris ~ III. classis
+- Commemoratio ad Laudes tantum: S. Mennæ Martyris
+- Martyrologe : À Tours, en Gaule, l’anniversaire du bienheureux Martin, Évêque et Confesseur. Sa vie fut illustrée par de tels miracles qu’il obtint la résurrection de trois morts.
+- Martyrologe : À Cotyée, en Phrygie (aujourd'hui Kütahya en Turquie), la glorieuse passion de saint Mennas, soldat égyptien. Pendant la persécution de Dioclétien, renonçant à la profession des armes, il obtint de combattre au désert pour le R…
+- Martyrologe : À Ravenne, les saints Martyrs Valentin, Félicien et Victorin, qui reçurent la couronne durant la persécution de Dioclétien.
+- Martyrologe : En Mésopotamie, saint Athénodore, Martyr. Sous le même Dioclétien et le préfet Éleuse, il fut tourmenté par le feu, soumis à d’autres supplices, puis condamné à être décapité. Mais le bourreau ayant été renversé à terre et pers…
+- Martyrologe : À Lyon, en Gaule, saint Véran, Évêque, dont la vie a été rendue célèbre par sa Foi et les mérites de ses vertus.
+- Martyrologe : À Constantinople, saint Théodore Studite, Abbé. Il lutta avec force contre les Iconoclastes pour la Foi Catholique, et se rendit ainsi célèbre dans toute l’Église Catholique.
+- Martyrologe : Au monastère de Grottaferrata, dans la campagne de Tusculum, saint Barthélemy, Abbé, compagnon de saint Nil, dont il a écrit la vie.
+- Martyrologe : Dans la Sabine, le bienheureux Mennas, solitaire, dont le Pape saint Grégoire rapporte les vertus et les miracles.

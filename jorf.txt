@@ -1,5 +1,5 @@
-JORF — généré le 2026-11-10 04:37 (heure de Paris)
-Archives lues : 3 ; textes retenus : 108 ; JO trouvés : 2026-11-10, 2026-11-08, 2026-11-07
+JORF — généré le 2026-11-11 03:34 (heure de Paris)
+Archives lues : 4 ; textes retenus : 91 ; JO trouvés : 2026-11-10, 2026-11-08
 
 # JO du 2026-11-10 (n° 0263) — 48 textes au total
 ## Présidence de la République
@@ -81,34 +81,4 @@ Mesures nominatives :
 Mesures nominatives :
 - Arrêté du 6 novembre 2026 portant nomination (administration centrale)
   https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055070423
-
-# JO du 2026-11-07 (n° 0261) — 17 textes au total
-## Présidence de la République
-- rien
-
-## Premier ministre
-- rien
-
-## Intérieur
-Textes :
-- Décret du 4 novembre 2026 abrogeant le décret portant reconnaissance de l'association dite « Association des artistes musiciens » (fondation Taylor) comme établissement d'utilité publique
-  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055069059
-- Décret du 4 novembre 2026 approuvant la dissolution de la fondation reconnue d'utilité publique dite « Fondation Louise de Bettignies », abrogeant le décret portant reconnaissance de cette fondation comme établissement d'utilité publique
-  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055069064
-- Arrêté du 4 novembre 2026 modifiant l'arrêté du 1er septembre 2025 portant création de zones protégées
-  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055069072
-
-## Justice
-Textes :
-- Arrêté du 2 novembre 2026 portant modification de l'arrêté du 26 avril 2010 portant création d'un service territorial éducatif de milieu ouvert à Saint-Gaudens (31)
-  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055069441
-
-## Armées
-Textes :
-- Arrêté du 30 octobre 2026 modifiant l'arrêté du 27 février 2024 fixant le programme, la nature des épreuves, les règles d'organisation générale et le fonctionnement des jurys des concours pour le recrutement dans le corps des ingénieurs civils de la défense
-  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055069088
-- Arrêté du 30 octobre 2026 modifiant l'arrêté du 27 février 2024 fixant le programme, la nature des épreuves, les règles d'organisation générale et le fonctionnement des jurys des concours pour le recrutement dans le grade de technicien supérieur d'études et de fabrication de 2e classe du corps des techniciens supérieurs d'études et de fabrication du ministère de la défense
-  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055069106
-- Arrêté du 30 octobre 2026 modifiant l'arrêté du 27 février 2024 fixant le programme, la nature des épreuves, les règles d'organisation générale et le fonctionnement des jurys des concours de recrutement dans le grade de technicien supérieur d'études et de fabrications de 3e classe du corps des techniciens supérieurs d'études et de fabrications du ministère de la défense
-  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055069121
 
