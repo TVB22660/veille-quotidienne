@@ -1,7 +1,13 @@
-VEILLE — généré le 2026-11-11 03:34 (heure de Paris)
+VEILLE — généré le 2026-11-11 04:40 (heure de Paris)
 Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 
 ## International
+- [11/11 04:33] Le Monde — Trinité-et-Tobago : la justice dépénalise l’homosexualité
+  https://www.lemonde.fr/international/article/2026/11/11/trinite-et-tobago-la-justice-depenalise-l-homosexualite_6808920_3210.html
+  En vertu de la loi, les personnes condamnées pour « sodomie » risquaient jusqu’à cinq ans d’emprisonnement, et celles pour « indécence grave » deux ans.
+- [11/11 04:16] Le Monde — Au Brésil, Meta condamnée à une lourde amende pour un traitement jugé inégal entre Lula et Flavio Bolsonaro durant la présidentielle
+  https://www.lemonde.fr/international/article/2026/11/11/au-bresil-meta-condamnee-a-une-lourde-amende-pour-un-traitement-juge-inegal-entre-lula-et-flavio-bolsonaro-durant-la-presidentielle_6808918_3210.html
+  Au cours de la campagne, l’équipe de Lula avait accusé la maison mère de Facebook, d’Instagram et de WhatsApp de s’être livrée à une « manipulation algorithmique » destinée à avantager son rival de droite.
 - [11/11 03:30] Le Monde — La Suède stupéfaite après l’achat d’une immense forêt par Alex Karp, patron de Palantir
   https://www.lemonde.fr/international/article/2026/11/11/la-suede-stupefaite-apres-l-achat-d-une-immense-foret-par-alex-karp-patron-de-palantir_6808917_3210.html
   L’acquisition de 15 000 hectares de bois par le milliardaire américain suscite rumeurs et interrogations dans le royaume scandinave, où les syndicats réclament plus de transparence sur les activités de la compagnie d’an…
@@ -110,9 +116,6 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [10/11 20:00] franceinfo — Les naufragés du lac Tanganyika
   https://www.franceinfo.fr/monde/afrique/les-naufrages-du-lac-tanganyika_8276450.html#xtor=RSS-3-%5Bmonde%5D
   Au Burundi, autour du lac Tanganyika, des villages sont engloutis par les eaux en raison des pluies diluviennes provoquées par le changement climatique. Deux millions d'habitants, vivent un cauchemar.
-- [10/11 19:58] Le Monde — Gaza : sept personnes, dont un adolescent, tuées par des bombardements et des tirs israéliens, selon les services de secours palestiniens
-  https://www.lemonde.fr/international/article/2026/11/10/gaza-sept-personnes-dont-un-adolescent-tuees-par-des-bombardements-et-des-tirs-israeliens-selon-les-services-de-secours-palestiniens_6808897_3210.html
-  Un « raid », deux bombardements et des tirs israéliens ont tué sept personnes, mardi, dans différents endroits du territoire, alors que le cessez-le-feu entre l’Etat hébreu et le Hamas est toujours en vigueur.
 - [10/11 19:41] Le Figaro — Moins 20 % depuis octobre : la spectaculaire chute des prix du pétrole peut-elle durer ?
   https://www.lefigaro.fr/conjoncture/moins-20-depuis-octobre-la-spectaculaire-chute-des-prix-du-petrole-peut-elle-durer-20261110
   DÉCRYPTAGE - Le baril est repassé sous les 90 dollars. Une baisse portée par l’espoir d’un accord entre Washington et Téhéran.
@@ -142,6 +145,12 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
   Des hackeurs biélorusses et ukrainiens ont réussi à pénétrer le réseau interne de Rosstat, le service fédéral des statistiques d’État et révèlent des chiffres tenus secrets jusque-là par le Kremlin.
 
 ## France
+- [11/11 04:21] Le Figaro — Le père de Meghan Markle renvoyé en prison après avoir retiré son bracelet électronique
+  https://madame.lefigaro.fr/celebrites/actu-people/le-pere-de-meghan-markle-renvoye-en-prison-apres-avoir-retire-son-bracelet-electronique-20261111
+  Thomas Markle est inculpé pour détention d’images «d’agression sexuelle sur mineurs».
+- [11/11 04:07] Ouest-France — Intelligence artificielle : l’Élysée fait signer un « appel de Paris » pour protéger les plus jeunes
+  https://www.ouest-france.fr/high-tech/intelligence-artificielle/intelligence-artificielle-lelysee-fait-signer-un-appel-de-paris-pour-proteger-les-plus-jeunes-764f7d9a-dd6f-11f1-86b6-0a2fbb1d8ed9?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
+  Une charte rendue publique mardi 10 novembre 2026, signée par des géants de la tech comme Microsoft et OpenAI, tente d’établir des bonnes pratiques dans le domaine des intelligences artificielles pour protéger les plus…
 - [11/11 02:00] Ouest-France — Le Parti socialiste ne soutiendra pas le sortant David Lisnard à la présidence des maires de France
   https://www.ouest-france.fr/politique/le-parti-socialiste-ne-soutiendra-pas-le-sortant-david-lisnard-a-la-presidence-des-maires-de-france-8b7c2b9c-dd64-11f1-86b6-0a2fbb1d8ed9?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
   Le Parti socialiste a annoncé mardi 10 novembre 2026, à l’issue d’un bureau national, qu’il ne soutiendrait pas David Lisnard, candidat à sa réélection à la tête de l’Association des maires de France qui se tiendra à la…
@@ -166,9 +175,6 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [10/11 22:37] Ouest-France — Une enquête ouverte après une cyberattaque visant les chambres froides de l’Établissement français du sang
   https://www.ouest-france.fr/societe/cyberattaque/une-enquete-ouverte-apres-une-cyberattaque-visant-les-chambres-froides-de-letablissement-francais-du-sang-6ab88a68-dd4b-11f1-86b6-0a2fbb1d8ed9?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
   Une enquête a été ouverte pour « atteinte à un système de traitement informatisé de données », a annoncé mardi 10 novembre le ministère public. Au début du mois, l’Établissement français du sang avait été la cible d’une…
-- [10/11 22:35] Ouest-France — REPORTAGE. À la frontière syrienne, l’industriel turc Re & Up révolutionne le recyclage du textile
-  https://www.ouest-france.fr/economie/alors-quun-grand-fonds-dedie-a-la-decarbonation-du-textile-est-lance-lindustriel-turc-re-up-revolutionne-le-recyclage-f82fc294-dd14-11f1-86b6-0a2fbb1d8ed9?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
-  Inditex (Zara) annonce ce mardi 10 novembre investir 50 millions d’euros dans un fonds dédié à la décarbonation du secteur textile, lancé par la Banque mondiale. Reportage chez l’industriel turc Re & Up : soutenu dans s…
 - [10/11 22:18] franceinfo — "La violence n'a pas sa place en démocratie", condamne Emmanuel Macron après l'agression d'une élue devant un lycée bloqué à Chelles
   https://www.franceinfo.fr/societe/education/blocage-des-lycees/la-violence-n-a-pas-sa-place-en-democratie-condamne-emmanuel-macron-apres-l-agression-d-une-elue-devant-un-lycee-bloque-a-chelles_8276969.html#xtor=RSS-3-[lestitres]
   Le président de la République a apporté mardi son "soutien" à l'élue qui a été "aspergée d'essence" devant un lycée bloqué en Seine-et-Marne.
@@ -301,9 +307,6 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [10/11 00:02] Le Figaro — En Argentine, le pape encourage les chefs d’entreprise et défend les syndicats, «institution indispensable»
   https://www.lefigaro.fr/actualite-france/en-argentine-le-pape-encourage-les-chefs-d-entreprise-et-defend-les-syndicats-institution-indispensable-20261110
   Au deuxième jour de sa visite en Argentine, Léon XIV a rencontré lundi dans une ambiance extrêmement chaleureuse, des représentants du monde du travail à l’université catholique de Buenos Aires, mêlant chefs d’entrepris…
-- [09/11 22:13] Le Figaro — Au procès de l’affaire Zecler, trois policiers aux profils déroutants
-  https://www.lefigaro.fr/actualite-france/au-proces-de-l-affaire-zecler-trois-policiers-aux-profils-deroutants-20261109
-  Accusés d’avoir sauvagement tabassé un producteur de rap puis d’avoir rédigé un procès-verbal truqué, ils n’ont pas un profil de brutes. Comment comprendre leur déchaînement de violence ?
 
 ## Gendarmerie-police-justice
 - [10/11 22:35] franceinfo — "Il m'annonce 900 euros à lui payer en virement" : attention à l'arnaque au faux vétérinaire, qui cible les propriétaires d'animaux déclarés disparus
