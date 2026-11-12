@@ -1,24 +1,24 @@
-SAINTS — généré le 2026-11-11 04:41 (heure de Paris)
-Date : mercredi 11 novembre 2026 (2026-11-11)
+SAINTS — généré le 2026-11-12 03:38 (heure de Paris)
+Date : jeudi 12 novembre 2026 (2026-11-12)
 
 ## Calendrier romain actuel (AELF, France)
 - Jour liturgique : de la férie
-- Fête / saint : S. Martin de Tours, évêque
-- Ligne 1 : mercredi, 32ème semaine du Temps Ordinaire
-- Ligne 2 : S. Martin de Tours, évêque
+- Fête / saint : S. Josaphat, évêque et martyr
+- Ligne 1 : jeudi, 32ème semaine du Temps Ordinaire
+- Ligne 2 : S. Josaphat, évêque et martyr
 - Ligne 3 : Mémoire
-- Couleur liturgique : blanc
+- Couleur liturgique : rouge
 - Temps liturgique : ordinaire
-- Saint du jour (Nominis) : Saint Martin de Tours - évêque (+ 397)
+- Saint du jour (Nominis) : Saint Josaphat Kuntsevych - évêque basilien et martyr à Vitebak (+ 1623)
 
 ## Calendrier traditionnel de 1962 (Divinum Officium, rubriques de 1960)
-- Jour : S. Martini Episcopi et Confessoris ~ III. classis
-- Commemoratio ad Laudes tantum: S. Mennæ Martyris
-- Martyrologe : À Tours, en Gaule, l’anniversaire du bienheureux Martin, Évêque et Confesseur. Sa vie fut illustrée par de tels miracles qu’il obtint la résurrection de trois morts.
-- Martyrologe : À Cotyée, en Phrygie (aujourd'hui Kütahya en Turquie), la glorieuse passion de saint Mennas, soldat égyptien. Pendant la persécution de Dioclétien, renonçant à la profession des armes, il obtint de combattre au désert pour le R…
-- Martyrologe : À Ravenne, les saints Martyrs Valentin, Félicien et Victorin, qui reçurent la couronne durant la persécution de Dioclétien.
-- Martyrologe : En Mésopotamie, saint Athénodore, Martyr. Sous le même Dioclétien et le préfet Éleuse, il fut tourmenté par le feu, soumis à d’autres supplices, puis condamné à être décapité. Mais le bourreau ayant été renversé à terre et pers…
-- Martyrologe : À Lyon, en Gaule, saint Véran, Évêque, dont la vie a été rendue célèbre par sa Foi et les mérites de ses vertus.
-- Martyrologe : À Constantinople, saint Théodore Studite, Abbé. Il lutta avec force contre les Iconoclastes pour la Foi Catholique, et se rendit ainsi célèbre dans toute l’Église Catholique.
-- Martyrologe : Au monastère de Grottaferrata, dans la campagne de Tusculum, saint Barthélemy, Abbé, compagnon de saint Nil, dont il a écrit la vie.
-- Martyrologe : Dans la Sabine, le bienheureux Mennas, solitaire, dont le Pape saint Grégoire rapporte les vertus et les miracles.
+- Jour : S. Martini Papæ et Martyris ~ III. classis
+- Scriptura: Feria V infra Hebdomadam V quæ superfuit post Epiphaniam III. Novembris
+- Martyrologe : Saint Martin Ier, Pape et Martyr, dont l’anniversaire est mentionné le 16 des calendes d’octobre (16 septembre).
+- Martyrologe : À Vitebsk, en Pologne, la passion de saint Josaphat, de l’Ordre de saint Basile, Évêque de Polotsk et Martyr, cruellement massacré par les schismatiques en haine de l’unité et de la Vérité catholiques. Il a été inscrit au catal…
+- Martyrologe : À Alcala, en Espagne, l’anniversaire de saint Didace, Confesseur, de l’Ordre des Frères Mineurs, célèbre par son humilité. Il a été inséré au catalogue des saints par le souverain Pontife Sixte Quint. Sa fête se célèbre le jour…
+- Martyrologe : En Asie, la passion des saints Évêques Aurèle et Publius.
+- Martyrologe : À Esschen, en Belgique, saint Liévin, Évêque et Martyr. Après avoir converti beaucoup d’infidèles à la Foi du Christ, il fut mis à mort par les païens. Son corps fut par la suite transféré à Gand.
+- Martyrologe : Près de Casimir, en Pologne, les saints Ermites Martyrs Benoît, Jean, Matthieu, Isaac et Christian. Tandis qu’ils célébraient le service divin, ils furent cruellement tourmentés et mis à mort par des brigands.
+- Martyrologe : Près du bourg de Sergines, au territoire de Sens, saint Paterne, Moine et Martyr. Des voleurs, qu’il rencontra dans la forêt et qu’il exhorta à changer de vie, le mirent à mort.
+- Martyrologe : À Avignon, saint Ruf, premier Évêque de cette ville.

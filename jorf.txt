@@ -1,5 +1,78 @@
-JORF — généré le 2026-11-11 04:40 (heure de Paris)
-Archives lues : 4 ; textes retenus : 91 ; JO trouvés : 2026-11-10, 2026-11-08
+JORF — généré le 2026-11-12 03:38 (heure de Paris)
+Archives lues : 5 ; textes retenus : 156 ; JO trouvés : 2026-11-11, 2026-11-10
+
+# JO du 2026-11-11 (n° 0264) — 108 textes au total
+## Présidence de la République
+Textes :
+- Décret du 10 novembre 2026 portant élévation dans l'ordre national de la Légion d'honneur en faveur des militaires n'appartenant pas à l'armée active
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055078260
+- Décret du 10 novembre 2026 portant concession de la Médaille militaire en faveur des militaires n'appartenant pas à l'armée active
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055078277
+- Décret du 10 novembre 2026 portant concession de la Médaille militaire en faveur des militaires n'appartenant pas à l'armée active, au titre des mutilés de guerre
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055078279
+- Décret du 10 novembre 2026 portant élévation dans l'ordre national du Mérite en faveur des militaires n'appartenant pas à l'armée active
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055078284
+- Décret du 10 novembre 2026 portant élévation dans l'ordre national de la Légion d'honneur en faveur des militaires n'appartenant pas à l'armée active
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055078290
+- Décret du 10 novembre 2026 portant élévation dans l'ordre national de la Légion d'honneur en faveur d'un déporté résistant
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055078292
+- Décret du 10 novembre 2026 portant élévation dans l'ordre national du Mérite en faveur d'un militaire n'appartenant pas à l'armée active
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055078298
+Mesures nominatives :
+- Décret du 10 novembre 2026 portant promotion dans l'ordre national de la Légion d'honneur en faveur des militaires n'appartenant pas à l'armée active
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055078263
+- Décret du 10 novembre 2026 portant promotion et nomination dans l'ordre national de la Légion d'honneur en faveur des militaires n'appartenant pas à l'armée active
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055078266
+- Décret du 10 novembre 2026 portant nomination dans l'ordre national de la Légion d'honneur en faveur des anciens combattants des Théâtres d'opérations extérieurs et de l'Afrique du Nord
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055078269
+- Décret du 10 novembre 2026 portant promotion et nomination dans l'ordre national de la Légion d'honneur en faveur des mutilés de guerre
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055078272
+- Décret du 10 novembre 2026 portant promotion et nomination dans l'ordre national du Mérite en faveur des militaires n'appartenant pas à l'armée active
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055078286
+- Décret du 10 novembre 2026 portant nomination dans l'ordre national de la Légion d'honneur en faveur des militaires n'appartenant pas à l'armée active
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055078295
+- Décret du 10 novembre 2026 portant nomination dans l'ordre national du Mérite en faveur des militaires n'appartenant pas à l'armée active
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055078300
+
+## Premier ministre
+Textes :
+- Arrêté du 9 novembre 2026 relatif à la composition de l'instance collégiale d'évaluation des cadres supérieurs au sein des services du Premier ministre
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055078722
+Mesures nominatives :
+- Arrêté du 9 novembre 2026 portant admission à la retraite (administrateurs de l'Etat)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055078707
+- Arrêté du 9 novembre 2026 portant nomination au Conseil d'analyse économique
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055078714
+
+## Intérieur
+Mesures nominatives :
+- Décret du 10 novembre 2026 portant cessation de fonctions du sous-préfet de Toul - M. AZOUZ (Nizar)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055078732
+- Décret du 10 novembre 2026 portant nomination du sous-préfet chargé de mission auprès du préfet des Yvelines - M. MADELIN (Pierre)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055078740
+
+## Justice
+Textes :
+- Arrêté du 9 novembre 2026 portant attribution de fonctions (tribunaux administratifs et cours administratives d'appel)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055078805
+Mesures nominatives :
+- Arrêté du 9 novembre 2026 fixant les taux de promotion pour l'avancement de grade dans les corps des adjoints administratifs et des adjoints techniques du ministère de la justice pour l'année 2027
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055078313
+- Décret du 9 novembre 2026 portant admission à la retraite (magistrature) - Mme LABROUSSE-MURAT DE MONTAI (Pascale)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055078769
+- Décret du 9 novembre 2026 portant admission à la retraite (magistrature) - Mme MICHEL-AMSELLEM (Valérie)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055078778
+- Décret du 10 novembre 2026 portant nomination du contrôleur général des lieux de privation de liberté - M. COPPEY (Pierre)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055078785
+- Arrêté du 6 novembre 2026 portant admission à la retraite (magistrature)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055078790
+- Arrêté du 9 novembre 2026 portant réintégration (Conseil d'Etat) - Mme LE CORRE (Mireille)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055078792
+
+## Armées
+Mesures nominatives :
+- Décret du 10 novembre 2026 portant nomination au conseil d'administration de l'Institution nationale des invalides
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055078749
 
 # JO du 2026-11-10 (n° 0263) — 48 textes au total
 ## Présidence de la République
@@ -35,50 +108,4 @@ Mesures nominatives :
 Mesures nominatives :
 - Décret du 9 novembre 2026 portant promotion à titre exceptionnel dans l'armée active
   https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055075549
-
-# JO du 2026-11-08 (n° 0262) — 43 textes au total
-## Présidence de la République
-Mesures nominatives :
-- Décret du 6 novembre 2026 fixant un contingent de croix de la Légion d'honneur et de l'ordre national du Mérite pour une promotion spéciale « Derniers médaillés de la Résistance »
-  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055070184
-
-## Premier ministre
-Textes :
-- Avis de vacance d'un emploi de sous-directeur
-  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055070655
-Mesures nominatives :
-- Décret du 7 novembre 2026 chargeant le ministre délégué chargé de la transition écologique auprès de la ministre de la transition écologique, de la biodiversité et des négociations internationales sur le climat et la nature de l'intérim des fonctions de porte-parole du Gouvernement auprès du Premier ministre
-  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055070195
-
-## Intérieur
-Mesures nominatives :
-- Décision du 5 novembre 2026 portant délégation de signature (direction de l'immigration)
-  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055070199
-
-## Justice
-Textes :
-- Arrêté du 2 novembre 2026 autorisant l'ouverture des concours externe et interne pour le recrutement de directeurs pénitentiaires d'insertion et de probation au titre de l'année 2027
-  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055070244
-- Arrêté du 3 novembre 2026 fixant le nombre de postes offerts à l'examen professionnel pour l'accès au grade de directeur pénitentiaire d'insertion et de probation hors classe au titre de l'année 2027
-  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055070263
-- Arrêté du 3 novembre 2026 fixant le nombre de postes offerts à l'examen professionnel pour l'accès au grade de major pénitentiaire de la filière encadrement au titre de l'année 2027
-  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055070272
-- Arrêté du 3 novembre 2026 fixant le nombre de postes offerts à l'examen professionnel pour l'accès au grade de commandant pénitentiaire au titre de l'année 2027
-  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055070281
-- Arrêté du 3 novembre 2026 modifiant l'arrêté du 26 octobre 2026 fixant le nombre de postes ouverts à l'examen professionnel pour l'accès au grade de conseiller pénitentiaire d'insertion et de probation de classe exceptionnelle au titre de l'année 2027
-  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055070289
-- Arrêté du 6 novembre 2026 portant modification du montant de l'avance de la régie auprès de la direction territoriale de la protection judiciaire de la jeunesse du Finistère et Morbihan
-  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055070299
-Mesures nominatives :
-- Décision du 6 novembre 2026 portant délégation de signature (direction des affaires civiles et du sceau)
-  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055070312
-- Arrêté du 6 novembre 2026 portant détachement (Conseil d'Etat)
-  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055070429
-- Arrêté du 6 novembre 2026 portant détachement (Conseil d'Etat) - Mme NAUDASCHER (Hortense)
-  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055070438
-
-## Armées
-Mesures nominatives :
-- Arrêté du 6 novembre 2026 portant nomination (administration centrale)
-  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055070423
 
