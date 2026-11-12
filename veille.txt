@@ -1,7 +1,13 @@
-VEILLE — généré le 2026-11-12 03:37 (heure de Paris)
+VEILLE — généré le 2026-11-12 04:39 (heure de Paris)
 Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 
 ## International
+- [12/11 04:12] Ouest-France — Centrafrique : vers un retrait progressif de la Minusca, la mission de l’ONU
+  https://www.ouest-france.fr/monde/centrafrique/centrafrique-vers-un-retrait-progressif-de-la-minusca-la-mission-de-lonu-8e17929e-de34-11f1-a62b-776e3051b0df?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
+  Après douze années de présence en Centrafrique, l’opération de maintien de la paix menée par l’ONU va entamer une « reconfiguration » et une baisse progressive de ses effectifs.
+- [12/11 03:41] Le Monde — A New York, au moins deux morts dans l’effondrement d’un immeuble de Brooklyn
+  https://www.lemonde.fr/international/article/2026/11/12/a-new-york-au-moins-deux-morts-dans-l-effondrement-d-un-immeuble-de-brooklyn_6809041_3210.html
+  Dix-sept personnes, dont sept enfants, ont été blessées, alors que les pompiers continuent de rechercher d’éventuelles personnes sous les décombres. Les causes de l’effondrement sont pour l’heure inconnues.
 - [12/11 03:36] Le Monde — Un représentant des colonies juives en Cisjordanie refoulé à son arrivée en France, Israël dénonce une mesure « inacceptable »
   https://www.lemonde.fr/international/article/2026/11/12/un-representant-des-colonies-juives-en-cisjordanie-refoule-a-son-arrivee-en-france-israel-denonce-une-mesure-inacceptable_6809040_3210.html
   Cet incident intervient dans un climat de tensions entre l’Etat hébreu et les pays européens. « Israël va exiger des explications au gouvernement français et envisagera les suites à donner en conséquence », a réagi, mer…
@@ -11,9 +17,6 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [12/11 02:40] Le Monde — Paraguay : la Banque centrale rembourse en partie tous les clients de Ueno Bank dont l’effondrement a provoqué la chute du président
   https://www.lemonde.fr/international/article/2026/11/12/paraguay-la-banque-centrale-rembourse-en-partie-tous-les-clients-de-ueno-bank-dont-l-effondrement-a-provoque-la-chute-du-president_6809038_3210.html
   L’institution a partiellement remboursé des fonds à plus de 1,8 million d’épargnants de cette banque en ligne placée sous administration judiciaire début novembre en raison de problèmes de solvabilité. Les plus gros dép…
-- [12/11 02:25] Ouest-France — Centrafrique : vers un retrait progressif de la Minusca, la mission de l’ONU
-  https://www.ouest-france.fr/monde/centrafrique/centrafrique-vers-un-retrait-progressif-de-la-minusca-la-mission-de-lonu-8e17929e-de34-11f1-a62b-776e3051b0df?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
-  Après douze années de présence en Centrafrique, l’opération de maintien de la paix menée par l’ONU va entamer une « reconfiguration » et une baisse progressive de ses effectifs.
 - [12/11 02:04] Le Monde — Midterms 2026 : le démocrate Scott Colom devient le premier sénateur noir du Mississippi depuis près de 150 ans
   https://www.lemonde.fr/international/article/2026/11/12/midterms-2026-le-democrate-scott-colom-devient-le-premier-senateur-noir-du-mississippi-depuis-pres-de-150-ans_6809036_3210.html
   Ce procureur de district de 43 ans a battu de justesse la sénatrice républicaine sortante, Cindy Hyde-Smith, dans un Etat traditionnellement conservateur. Aucun démocrate ne représentait le Mississippi au Sénat depuis 1…
@@ -113,9 +116,6 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [11/11 19:50] franceinfo — L'Iran menace de frapper des bases américaines en Europe si elles servent à lancer des attaques
   https://www.franceinfo.fr/monde/iran/l-iran-menace-de-frapper-des-bases-americaines-en-europe-si-elles-servent-a-lancer-des-attaques_8278151.html#xtor=RSS-3-%5Bmonde%5D
   Plus de huit mois après le début de la guerre entre Téhéran et Washington, les efforts diplomatiques se poursuivent pour tenter de mettre fin aux hostilités, sans avancées visibles.
-- [11/11 19:40] Le Monde — En Suède, le Parlement ouvre la voie à la déchéance de nationalité des binationaux
-  https://www.lemonde.fr/international/article/2026/11/11/en-suede-le-parlement-ouvre-la-voie-a-la-decheance-de-nationalite-des-binationaux_6809021_3210.html
-  Cette révision constitutionnelle vise les citoyennetés obtenues par fraude ou les personnes condamnées pour des crimes portant gravement atteinte aux « intérêts vitaux » du pays, mais ses modalités restent à définir par…
 - [11/11 18:59] Le Figaro — Guerre en Ukraine : les négociations d’Abu Dhabi mises en échec par l’intransigeance russe
   https://www.lefigaro.fr/international/guerre-en-ukraine-les-negociations-d-abu-dhabi-mises-en-echec-par-l-intransigeance-russe-20261111
   Les médiateurs américains vont rencontrer jeudi Vladimir Poutine puis Volodymyr Zelensky. Mais aucune percée diplomatique n’a été annoncée.
@@ -277,9 +277,6 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [11/11 02:50] Le Figaro — «Succès à tout prix, argent, obsession de l’apparence, quête effrénée du plaisir» : Léon XIV dénonce les «idoles de notre temps»
   https://www.lefigaro.fr/actualite-france/succes-a-tout-prix-argent-obsession-de-l-apparence-quete-effrenee-du-plaisir-leon-xiv-denonce-les-idoles-de-notre-temps-20261111
   Devant un million de jeunes argentins réunis mardi soir à Buenos Aires, le pape a renouvelé son appel à la «sainteté». Il quitte l’Argentine ce mercredi pour le Pérou, dernière étape de son périple en Amérique latine.
-- [10/11 21:55] Le Figaro — Procès de l’explosion de la rue de Trévise : l’absence de recherche des causes de l’affaissement du trottoir au cœur des débats
-  https://www.lefigaro.fr/actualite-france/proces-de-l-explosion-de-la-rue-de-trevise-l-absence-de-recherche-des-causes-de-l-affaissement-du-trottoir-au-coeur-des-debats-20261110
-  COMPTE RENDU D’AUDIENCE - Deux ingénieurs de la Ville de Paris, prévenue aux côtés du syndic CIPA, ont été auditionnés en leur qualité de témoins par le tribunal correctionnel.
 
 ## Gendarmerie-police-justice
 - [11/11 22:56] franceinfo — Quatre organisations syndicales de journalistes déposent plainte contre X après plusieurs entraves par des forces de l'ordre lors de manifestations
