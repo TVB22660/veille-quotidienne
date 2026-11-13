@@ -1,7 +1,13 @@
-VEILLE — généré le 2026-11-13 03:33 (heure de Paris)
+VEILLE — généré le 2026-11-13 04:39 (heure de Paris)
 Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 
 ## International
+- [13/11 04:31] Ouest-France — Au moins 10 morts en Guinée dans des affrontements mercredi entre orpailleurs et forces de l’ordre
+  https://www.ouest-france.fr/monde/guinee/au-moins-10-morts-en-guinee-dans-des-affrontements-mercredi-entre-orpailleurs-et-forces-de-lordre-7a7aa618-def7-11f1-86b6-0a2fbb1d8ed9?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
+  Une dizaine de personnes sont mortes à Siguiri dans le nord de la Guinée à la suite d’affrontements entre les forces de l’ordre et des orpailleurs dont le gouvernement tente de bannir les activités.
+- [13/11 03:30] Le Monde — Au Brésil, le « beau gosse de la Paulista » redonne à la gauche son pouvoir de séduction
+  https://www.lemonde.fr/international/article/2026/11/13/au-bresil-le-beau-gosse-de-la-paulista-redonne-a-la-gauche-son-pouvoir-de-seduction_6809261_3210.html
+  Dans l’entre-deux-tours de la présidentielle, dont Lula est sorti vainqueur, les militants ont fait preuve d’une grande créativité pour parvenir à cet exploit. L’irruption de la sensualité dans la campagne a contribué à…
 - [13/11 03:11] Le Figaro — Sommet de l’Apec : Sanae Takaichi se rendra en Chine pour la première fois depuis son arrivée au pouvoir
   https://www.lefigaro.fr/international/sommet-de-l-apec-sanae-takaichi-se-rendra-en-chine-pour-la-premiere-fois-depuis-son-arrivee-au-pouvoir-20261113
   La première ministre japonaise participera au sommet de l’Apec à Shenzhen, a annoncé vendredi le gouvernement nippon.
@@ -122,9 +128,6 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [12/11 17:25] Le Monde — Qui est Alice Huang, l’intermédiaire soupçonnée d’espionnage à l’origine de la chute de Jensen Huang ?
   https://www.lemonde.fr/economie/article/2026/11/12/alice-huang-l-insaisissable-intermediaire-de-l-ombre-a-l-origine-de-la-chute-de-jensen-huang-le-patron-de-nvidia_6809128_3234.html
   Soupçonnée d’espionnage et maîtresse déclarée du fondateur du géant des puces américain, cette habituée des montages financiers complexes, naviguant entre les mondes des affaires et de la politique, éclaire, par son par…
-- [12/11 17:00] Le Monde — Le Canada envisage d’abolir la « loi sur les Indiens », vestige de la colonisation
-  https://www.lemonde.fr/international/article/2026/11/12/le-canada-envisage-d-abolir-la-loi-sur-les-indiens-vestige-de-la-colonisation_6809124_3210.html
-  Le premier ministre canadien, Mark Carney, a ouvert la voie à une possible abolition de cette loi, qui encadre depuis cent cinquante ans la vie des peuples autochtones. Si son caractère colonial et obsolète est consensu…
 - [12/11 13:35] Le Figaro — « On me traite comme si j’étais une petite fille » : les Chinoises cherchent à s’affranchir des rôles traditionnels
   https://www.lefigaro.fr/international/on-me-traite-comme-si-j-etais-une-petite-fille-les-chinoises-cherchent-a-s-affranchir-des-roles-traditionnels-20261112
   REPORTAGE - Face à la censure des contenus féministes sur internet, des librairies, des bars et des cafés offrent aux femmes des espaces où elles peuvent partager leurs expériences et remettre en question les inégalités.
@@ -359,4 +362,4 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
   Désireux de « mettre fin à cette crise », le gouvernement a assuré que « la sécurisation des établissements continuera d’être assurée (…) aussi longtemps que nécessaire » et que « des poursuites disciplinaires seront en…
 
 ## Diagnostic
-- Tri : 14 article(s) écartés (sport, culture…), 4 renvoyé(s) vers International
+- Tri : 13 article(s) écartés (sport, culture…), 4 renvoyé(s) vers International
