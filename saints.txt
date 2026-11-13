@@ -1,24 +1,23 @@
-SAINTS — généré le 2026-11-12 04:40 (heure de Paris)
-Date : jeudi 12 novembre 2026 (2026-11-12)
+SAINTS — généré le 2026-11-13 03:34 (heure de Paris)
+Date : vendredi 13 novembre 2026 (2026-11-13)
 
 ## Calendrier romain actuel (AELF, France)
 - Jour liturgique : de la férie
-- Fête / saint : S. Josaphat, évêque et martyr
-- Ligne 1 : jeudi, 32ème semaine du Temps Ordinaire
-- Ligne 2 : S. Josaphat, évêque et martyr
-- Ligne 3 : Mémoire
-- Couleur liturgique : rouge
+- Fête / saint : de la férie
+- Ligne 1 : vendredi, 32ème semaine du Temps Ordinaire
+- Ligne 2 : de la férie
+- Couleur liturgique : vert
 - Temps liturgique : ordinaire
-- Saint du jour (Nominis) : Saint Josaphat Kuntsevych - évêque basilien et martyr à Vitebak (+ 1623)
+- Saint du jour (Nominis) : Saint Brice - évêque de Tours (+ v. 444)
 
 ## Calendrier traditionnel de 1962 (Divinum Officium, rubriques de 1960)
-- Jour : S. Martini Papæ et Martyris ~ III. classis
-- Scriptura: Feria V infra Hebdomadam V quæ superfuit post Epiphaniam III. Novembris
-- Martyrologe : Saint Martin Ier, Pape et Martyr, dont l’anniversaire est mentionné le 16 des calendes d’octobre (16 septembre).
-- Martyrologe : À Vitebsk, en Pologne, la passion de saint Josaphat, de l’Ordre de saint Basile, Évêque de Polotsk et Martyr, cruellement massacré par les schismatiques en haine de l’unité et de la Vérité catholiques. Il a été inscrit au catal…
-- Martyrologe : À Alcala, en Espagne, l’anniversaire de saint Didace, Confesseur, de l’Ordre des Frères Mineurs, célèbre par son humilité. Il a été inséré au catalogue des saints par le souverain Pontife Sixte Quint. Sa fête se célèbre le jour…
-- Martyrologe : En Asie, la passion des saints Évêques Aurèle et Publius.
-- Martyrologe : À Esschen, en Belgique, saint Liévin, Évêque et Martyr. Après avoir converti beaucoup d’infidèles à la Foi du Christ, il fut mis à mort par les païens. Son corps fut par la suite transféré à Gand.
-- Martyrologe : Près de Casimir, en Pologne, les saints Ermites Martyrs Benoît, Jean, Matthieu, Isaac et Christian. Tandis qu’ils célébraient le service divin, ils furent cruellement tourmentés et mis à mort par des brigands.
-- Martyrologe : Près du bourg de Sergines, au territoire de Sens, saint Paterne, Moine et Martyr. Des voleurs, qu’il rencontra dans la forêt et qu’il exhorta à changer de vie, le mirent à mort.
-- Martyrologe : À Avignon, saint Ruf, premier Évêque de cette ville.
+- Jour : S. Didaci Confessoris ~ III. classis
+- Scriptura: Feria VI infra Hebdomadam V quæ superfuit post Epiphaniam III. Novembris
+- Martyrologe : Saint Didace, de l’Ordre des Frères Mineurs, Confesseur, dont l’anniversaire est mentionné la veille de ce jour.
+- Martyrologe : À Ravenne, l’anniversaire des saints Martyrs Valentin, Soluteur et Victor, qui souffrirent sous l’empereur Dioclétien.
+- Martyrologe : À Aix, en Narbonnaise, le bienheureux Mitre, Martyr très célèbre.
+- Martyrologe : À Césarée de Palestine, la passion des saints Antonin, Zébinas, Germain, et Ennathe, Vierge. Cette dernière fut d’abord meurtrie de coups et brûlée, sous l’empereur Galère Maximien. Les autres, ayant librement repris le préfet…
+- Martyrologe : En Afrique, les saints Martyrs espagnols Arcade, Paschase, Probe et Eutychien. Durant la persécution des Vandales, ils déclarèrent qu’ils ne suivraient jamais la secte perfide des ariens. Pour ce motif, ils furent d’abord prosc…
+- Martyrologe : À Rome, le Pape saint Nicolas Ier, remarquable par son énergie toute apostolique.
+- Martyrologe : À Tours, en Gaule, saint Brice, Évêque, disciple de l’Évêque saint Martin.
+- Martyrologe : À Tolède, en Espagne, saint Eugène, Évêque.
