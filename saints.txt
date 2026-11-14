@@ -1,23 +1,23 @@
-SAINTS — généré le 2026-11-13 04:40 (heure de Paris)
-Date : vendredi 13 novembre 2026 (2026-11-13)
+SAINTS — généré le 2026-11-14 03:36 (heure de Paris)
+Date : samedi 14 novembre 2026 (2026-11-14)
 
 ## Calendrier romain actuel (AELF, France)
 - Jour liturgique : de la férie
 - Fête / saint : de la férie
-- Ligne 1 : vendredi, 32ème semaine du Temps Ordinaire
+- Ligne 1 : samedi, 32ème semaine du Temps Ordinaire
 - Ligne 2 : de la férie
 - Couleur liturgique : vert
 - Temps liturgique : ordinaire
-- Saint du jour (Nominis) : Saint Brice - évêque de Tours (+ v. 444)
+- Saint du jour (Nominis) : Saint Laurent de Dublin - Abbé de Glendalough, et archevêque de Dublin (+ 1180)
 
 ## Calendrier traditionnel de 1962 (Divinum Officium, rubriques de 1960)
-- Jour : S. Didaci Confessoris ~ III. classis
-- Scriptura: Feria VI infra Hebdomadam V quæ superfuit post Epiphaniam III. Novembris
-- Martyrologe : Saint Didace, de l’Ordre des Frères Mineurs, Confesseur, dont l’anniversaire est mentionné la veille de ce jour.
-- Martyrologe : À Ravenne, l’anniversaire des saints Martyrs Valentin, Soluteur et Victor, qui souffrirent sous l’empereur Dioclétien.
-- Martyrologe : À Aix, en Narbonnaise, le bienheureux Mitre, Martyr très célèbre.
-- Martyrologe : À Césarée de Palestine, la passion des saints Antonin, Zébinas, Germain, et Ennathe, Vierge. Cette dernière fut d’abord meurtrie de coups et brûlée, sous l’empereur Galère Maximien. Les autres, ayant librement repris le préfet…
-- Martyrologe : En Afrique, les saints Martyrs espagnols Arcade, Paschase, Probe et Eutychien. Durant la persécution des Vandales, ils déclarèrent qu’ils ne suivraient jamais la secte perfide des ariens. Pour ce motif, ils furent d’abord prosc…
-- Martyrologe : À Rome, le Pape saint Nicolas Ier, remarquable par son énergie toute apostolique.
-- Martyrologe : À Tours, en Gaule, saint Brice, Évêque, disciple de l’Évêque saint Martin.
-- Martyrologe : À Tolède, en Espagne, saint Eugène, Évêque.
+- Jour : S. Josaphat Episcopi et Martyris ~ III. classis
+- Scriptura: Sabbato infra Hebdomadam V quæ superfuit post Epiphaniam III. Novembris
+- Martyrologe : Saint Josaphat, de l’Ordre de saint Basile, Évêque de Polotsk et Martyr, dont l’anniversaire est mentionné la veille des ides de novembre (12 novembre).
+- Martyrologe : À Gangra, en Paphlagonie (aujourd'hui Çankırı en Turquie), saint Hypace, Évêque. À son retour du grand concile de Nicée, il mourut Martyr sous les pierres dont il fut accablé par les hérétiques novatiens.
+- Martyrologe : À Héraclée, en Thrace, l’anniversaire des saints Martyrs Clémentin, Théodote et Philomène.
+- Martyrologe : À Alexandrie, saint Sérapion, Martyr. Sous l’empereur Dèce, les persécuteurs le tourmentèrent avec une telle cruauté qu’ils disloquèrent tous ses membres. Ils le précipitèrent ensuite de l’étage supérieur d’une maison. Il devin…
+- Martyrologe : À Troyes, en Gaule, le Martyr saint Vénérand, sous l’empereur Aurélien.
+- Martyrologe : En Gaule, la Vierge sainte Vénérande, qui sous l’empereur Antonin et le préfet Asclépiade, reçut la couronne du martyre.
+- Martyrologe : À Émèse, en Phénicie (aujourd’hui Homs en Syrie), la passion de plusieurs saintes femmes, qui, sous le très cruel Mady, chef des Arabes, furent affreusement torturées et mises à mort pour la Foi du Christ.
+- Martyrologe : À Bologne, saint Jocond, Évêque et Confesseur.

@@ -1,5 +1,56 @@
-JORF — généré le 2026-11-13 04:39 (heure de Paris)
-Archives lues : 6 ; textes retenus : 300 ; JO trouvés : 2026-11-13, 2026-11-11, 2026-11-10
+JORF — généré le 2026-11-14 03:35 (heure de Paris)
+Archives lues : 6 ; textes retenus : 326 ; JO trouvés : 2026-11-14, 2026-11-13, 2026-11-11
+
+# JO du 2026-11-14 (n° 0266) — 74 textes au total
+## Présidence de la République
+- rien
+
+## Premier ministre
+Textes :
+- Arrêté du 6 novembre 2026 fixant la liste des zones interdites à la captation et au traitement des données recueillies depuis un aéronef
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055087302
+Mesures nominatives :
+- Décision du 9 novembre 2026 modifiant la décision du 3 juillet 2026 portant délégation de signature (direction des services administratifs et financiers du Premier ministre)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055087330
+- Décret du 13 novembre 2026 portant nomination d'adjoints du Défenseur des droits
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055087871
+
+## Intérieur
+Textes :
+- Arrêté du 4 novembre 2026 portant modification de l'arrêté du 27 mars 2023 fixant la liste des secteurs et unités d'encadrement prioritaire en application du décret n° 2004-1439 du 23 décembre 2004 portant statut particulier du corps d'encadrement et d'application de la police nationale
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055087337
+- Arrêté du 9 novembre 2026 autorisant au titre de l'année 2027 l'ouverture d'un concours interne pour le recrutement de délégués au permis de conduire et à la sécurité routière
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055087350
+- Arrêté du 13 novembre 2026 portant interdiction de déplacement des supporters du club de football du Sporting Club de Toulon lors de la rencontre du dimanche 15 novembre 2026 à 14 heures avec l'Union sportive Marseille Endoume Catalans
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055087373
+- Décret du 10 novembre 2026 rapportant un décret de naturalisation (Accès protégé)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055087877
+Mesures nominatives :
+- Décret du 13 novembre 2026 portant nomination de la directrice de cabinet du préfet du Jura - Mme BOULOT (Caroline)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055087880
+- Décret du 13 novembre 2026 portant cessation de fonctions de la sous-préfète de Calais (groupe II) - Mme CURY (Agathe)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055087888
+- Décret du 13 novembre 2026 portant nomination de la sous-préfète de Calais (groupe II) - Mme INFANTE (Nathalie)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055087895
+- Décret du 13 novembre 2026 portant nomination de la sous-préfète chargée de mission auprès du préfet de Seine-et-Marne - Mme BROUET-SAUZADE (Virginie)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055087903
+- Décret du 13 novembre 2026 portant nomination de la sous-préfète chargée de mission auprès du préfet de la région Occitanie, préfet de la Haute-Garonne - Mme TARCZYLO (Astrée)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055087911
+
+## Justice
+Textes :
+- Arrêté du 6 novembre 2026 autorisant l'ouverture du concours interne pour le recrutement dans le corps des cadres éducatifs de la protection judiciaire de la jeunesse au titre de l'année 2027
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055087419
+- Arrêté du 9 novembre 2026 portant création de traitements automatisés de données à caractère personnel dans le cadre du vote électronique par internet pour l'élection des membres visés aux 4° des articles 1er et 2 de la loi organique n° 94-100 du 5 février 1994 sur le Conseil supérieur de la magistrature
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055087435
+Mesures nominatives :
+- Décision du 3 novembre 2026 portant délégation de signature (direction générale de l'administration pénitentiaire)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055087457
+
+## Armées
+Textes :
+- Arrêté du 10 novembre 2026 portant attribution du brevet technique d'études militaires supérieures
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055087921
 
 # JO du 2026-11-13 (n° 0265) — 144 textes au total
 ## Présidence de la République
@@ -150,39 +201,4 @@ Mesures nominatives :
 Mesures nominatives :
 - Décret du 10 novembre 2026 portant nomination au conseil d'administration de l'Institution nationale des invalides
   https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055078749
-
-# JO du 2026-11-10 (n° 0263) — 48 textes au total
-## Présidence de la République
-Mesures nominatives :
-- Décret du 9 novembre 2026 portant nomination dans l'ordre national de la Légion d'honneur
-  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055075185
-
-## Premier ministre
-Textes :
-- Arrêté du 2 juillet 2026 relatif à l'approbation du cahier des charges de l'appel à projets « Laboratoires d'excellence - LabEx 2030 »
-  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055075191
-- Arrêté du 16 septembre 2026 relatif à l'approbation du cahier des charges de l'appel à candidatures « Chaires Séniors en Innovation Vaccinale »
-  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055075198
-
-## Intérieur
-Mesures nominatives :
-- Arrêté du 4 novembre 2026 fixant les taux de promotion pour l'avancement de grade des corps de catégorie A relevant des filières numérique, sécurité routière et technique du ministère de l'intérieur pour l'année 2027
-  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055075205
-
-## Justice
-Textes :
-- Décret n° 2026-1036 du 9 novembre 2026 modifiant le décret n° 2008-689 du 9 juillet 2008 relatif à l'organisation du ministère de la justice
-  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055075265
-- Arrêté du 9 novembre 2026 modifiant l'arrêté du 30 décembre 2019 relatif à l'organisation du secrétariat général et des directions du ministère de la justice
-  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055075282
-Mesures nominatives :
-- Décret du 9 novembre 2026 portant détachement (magistrature) - Mme BENHAMOU (Clara)
-  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055075555
-- Décret du 9 novembre 2026 portant détachement (magistrature) - Mme EDERIQUE (Laura)
-  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055075569
-
-## Armées
-Mesures nominatives :
-- Décret du 9 novembre 2026 portant promotion à titre exceptionnel dans l'armée active
-  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055075549
 
