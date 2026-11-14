@@ -1,10 +1,10 @@
-VEILLE — généré le 2026-11-14 03:35 (heure de Paris)
+VEILLE — généré le 2026-11-14 04:36 (heure de Paris)
 Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 
 ## International
 - [14/11 03:31] Le Monde — Suspension des vols aux Etats-Unis : l’agence de l’aviation civile annonce une reprise du trafic aérien après une vaste « panne des télécommunications »
   https://www.lemonde.fr/international/article/2026/11/14/suspension-des-vols-aux-etats-unis-l-agence-de-l-aviation-civile-annonce-une-reprise-du-trafic-aerien-apres-une-vaste-panne-des-telecommunications_6809389_3211.html
-  Un dysfonctionnement affectant les centres régionaux de contrôle aérien a conduit les autorités à suspendre les vols dans tout le pays, pendant plusieurs heures, provoquant d’importantes perturbations dans les aéroports…
+  Un dysfonctionnement affectant les centres régionaux de contrôle aérien a conduit les autorités à suspendre les vols dans tout le pays, vendredi, pendant plusieurs heures. Le secrétaire aux transports, Sean Duffy, a acc…
 - [14/11 03:18] Le Figaro — Suspension des vols aux États-Unis : l’espace aérien a rouvert
   https://www.lefigaro.fr/international/etats-unis-le-regulateur-de-l-aviation-ordonne-l-arret-de-tous-les-vols-a-cause-d-un-probleme-de-communication-20261113
   Le ministre des Transports, Sean Duffy, a accusé du «vieux matériel» des «années 1980» d’être responsable de l’annulation de milliers de vols.
@@ -53,9 +53,6 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [13/11 23:00] Le Figaro — Un drone suspect détecté au-dessus d’une base de la Royal Air Force en Angleterre
   https://www.lefigaro.fr/international/un-drone-suspect-detecte-au-dessus-d-une-base-de-la-royal-air-force-en-angleterre-20261113
   Le 27 septembre, la police britannique était intervenue près d’une autre base, celle de Fairford, utilisée par les États-Unis dans leur guerre contre l’Iran, après le signalement de «trois véhicules suspects».
-- [13/11 22:52] Le Monde — Suspension des vols aux Etats-Unis : l’agence de l’aviation civile annonce une reprise du trafic aérien après une vaste « panne des télécommunications »
-  https://www.lemonde.fr/international/article/2026/11/13/aux-etats-unis-l-agence-de-l-aviation-civile-ordonne-l-arret-de-tous-les-vols-en-raison-d-un-probleme-de-communication_6809389_3210.html
-  Un dysfonctionnement affectant les centres régionaux de contrôle aérien a conduit les autorités à suspendre les vols dans tout le pays, pendant plusieurs heures, provoquant d’importantes perturbations dans les aéroports…
 - [13/11 22:51] Le Monde — Le Burkina Faso annonce lancer des mandats d’arrêt contre des journalistes et des activistes en exil pour des faits de « terrorisme »
   https://www.lemonde.fr/international/article/2026/11/13/le-burkina-faso-annonce-lancer-des-mandats-d-arret-contre-des-journalistes-et-des-activistes-en-exil-pour-des-faits-de-terrorisme_6809388_3210.html
   Les autorités de la junte d’Afrique de l’Ouest ciblent une vingtaine de personnes, et demandent leur extradition. Un chroniqueur burkinabé de RFI et des anciens ministres de l’ex-président Blaise Compaoré sont notamment…
@@ -131,12 +128,9 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [13/11 10:00] Le Figaro — Un conseiller antiterroriste britannique s’alarme d’une réécriture de l’Histoire par des IA chinoises
   https://www.lefigaro.fr/international/un-conseiller-antiterroriste-britannique-s-alarme-d-une-reecriture-de-l-histoire-par-des-ia-chinoises-20261113
   Jonathan Hall a testé Qwen3, qui assure que rien ne s’est passé place Tiananmen en 1989, la Chine procédant par ce biais technologique à une inquiétante remise en question planétaire des valeurs démocratiques occidental…
-- [12/11 22:00] Le Figaro — Face aux gangs haïtiens, un corps expéditionnaire du président du Salvador Nayib Bukele qui pose question
-  https://www.lefigaro.fr/international/face-aux-gangs-haitiens-un-corps-expeditionnaire-du-president-du-salvador-nayib-bukele-qui-pose-question-20261112
-  DÉCRYPTAGE - Le dirigeant réputé pour ses méthodes brutales a envoyé quelque 2 500 soldats dans l’île en proie à l’extrême violence de bandes criminelles.
 
 ## France
-- [14/11 03:09] Ouest-France — Les décollages d’avions totalement suspendus aux États-Unis en raison de « circonstances exceptionnelles »
+- [14/11 04:35] Ouest-France — Les décollages d’avions totalement suspendus aux États-Unis en raison de « circonstances exceptionnelles »
   https://www.ouest-france.fr/economie/aeronautique/les-decollages-davions-totalement-suspendus-aux-etats-unis-en-raison-de-circonstances-exceptionnelles-bb3af52a-dfa8-11f1-b029-43a761592972?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
   Le secrétaire aux Transports Sean Duffy indique qu’« un problème de communication affecte tous les centres de contrôle du trafic aérien » ce vendredi 13 novembre. « Le trafic aérien a été suspendu pendant plusieurs heur…
 - [14/11 03:02] Ouest-France — « Perdre la tête » : des voyageurs face à la confusion dans les aéroports américains
@@ -187,9 +181,6 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [13/11 18:50] Le Figaro — «Il est anormal d’aller au travail la peur au ventre» : face aux blocages et violences, les proviseurs clament leur colère devant le rectorat de Paris
   https://www.lefigaro.fr/actualite-france/il-est-anormal-d-aller-au-travail-la-peur-au-ventre-face-aux-blocages-et-violences-les-proviseurs-clament-leur-colere-devant-le-rectorat-de-paris-20261113
   REPORTAGE - Une cinquantaine de chefs d’établissement, essentiellement parisiens, se sont réunis ce vendredi. Ils appellent à un sursaut face à une violence débridée.
-- [13/11 18:48] Le Monde — « J’en ai profité pour ranger mon bureau » : la panne de Microsoft alerte entreprises et salariés sur leur dépendance aux outils numériques
-  https://www.lemonde.fr/economie/article/2026/11/13/la-panne-de-microsoft-alerte-entreprises-et-salaries-sur-leur-dependance-aux-outils-numeriques-on-a-tous-un-peu-ete-dans-le-meme-bateau-que-nos-clients_6809369_3234.html
-  L’arrêt des services du groupe américain entre jeudi 12 novembre et vendredi midi restant malgré tout limité, l’impact sur les entreprises est à relativiser.
 - [13/11 18:25] Le Monde — Mobilisation lycéenne : le gouvernement veut systématiser les sanctions disciplinaires en cas de blocage
   https://www.lemonde.fr/lycee/article/2026/11/13/mobilisation-lyceenne-le-gouvernement-veut-systematiser-les-sanctions-disciplinaires-en-cas-de-blocage_6809364_5019416.html
   Dans un télégramme adressé aux recteurs et aux préfets, vendredi, le gouvernement a détaillé le dispositif pour sanctionner les élèves et les membres du personnel de l’éducation nationale qui participeraient à des bloca…
