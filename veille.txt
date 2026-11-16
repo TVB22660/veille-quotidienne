@@ -1,7 +1,22 @@
-VEILLE — généré le 2026-11-16 03:43 (heure de Paris)
+VEILLE — généré le 2026-11-16 04:53 (heure de Paris)
 Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 
 ## International
+- [16/11 04:02] Le Figaro — L'Australie s'inquiète d'une «manipulation» de la Chine sur le marché du minerai de fer
+  https://www.lefigaro.fr/international/l-australie-s-inquiete-d-une-manipulation-de-la-chine-sur-le-marche-du-minerai-de-fer-20261116
+  Premier producteur mondial, l’Australie a exporté 944 millions de tonnes de minerai de fer l’année dernière, dont les trois quarts ont été expédiés vers la Chine pour la fabrication d’acier.
+- [16/11 04:00] Le Monde — Au Maroc, Casablanca, sous pression immobilière, veut préserver ses immeubles Art déco
+  https://www.lemonde.fr/afrique/article/2026/11/16/au-maroc-casablanca-sous-pression-immobiliere-veut-preserver-ses-immeubles-art-deco_6811171_3212.html
+  L’Etat marocain accélère depuis ces dernières années sa politique de protection du patrimoine architectural hérité du protectorat français mais aussi des années qui ont suivi l’indépendance.
+- [16/11 03:53] Ouest-France — Élections au Cap-Vert : le président sortant José María Neves réélu pour un second mandat
+  https://www.ouest-france.fr/monde/afrique/elections-au-cap-vert-le-president-sortant-jose-maria-neves-reelu-pour-un-second-mandat-e0e602a4-e167-11f1-b029-43a761592972?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
+  Le président sortant du Cap-Vert, José María Neves, a été réélu dimanche pour un second mandat dès le premier tour de la présidentielle, selon les résultats provisoires, promettant de continuer à « promouvoir les libert…
+- [16/11 03:45] Ouest-France — Mort de Félix Gallardo, le « parrain » du narcotrafic mexicain, après 37 ans en prison
+  https://www.ouest-france.fr/monde/mexique/mort-de-felix-gallardo-le-parrain-du-narcotrafic-mexicain-apres-37-ans-en-prison-c4f0f5e6-e166-11f1-b029-43a761592972?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
+  L’artisan de l’émergence des grands cartels du Mexique, « le chef des chefs » Miguel Ángel Félix Gallardo, est mort dimanche à l’hôpital après avoir passé 37 ans derrière les barreaux pour narcotrafic et assassinat.
+- [16/11 03:26] Le Figaro — Équateur : Noboa assure que les États-Unis ne disposent pas d'une base militaire dans le pays
+  https://www.lefigaro.fr/international/equateur-noboa-assure-que-les-etats-unis-ne-disposent-pas-d-une-base-militaire-dans-le-pays-20261116
+  Une enquête de l’AFP fait état d’un déploiement inhabituel d’aéronefs américains dans une installation du pays.
 - [16/11 02:23] Le Monde — En Amazonie péruvienne, Léon XIV alerte sur la déforestation et dénonce l’abandon des peuples autochtones
   https://www.lemonde.fr/international/article/2026/11/16/en-amazonie-peruvienne-leon-xiv-alerte-sur-la-deforestation-et-denonce-l-abandon-des-peuples-autochtones_6811105_3210.html
   « Le cri de la terre et le cri des pauvres s’élèvent ensemble », a déclaré, dimanche, le souverain pontife, lors d’une nouvelle étape de sa tournée en Amérique latine. Il a notamment dénoncé « l’exploitation » des resso…
@@ -17,9 +32,9 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [16/11 01:20] Le Monde — EN DIRECT, guerre en Ukraine : Volodymyr Zelensky annonce la préparation d’une réunion de la coalition des volontaires, « qui pourrait s’avérer historique »
   https://www.lemonde.fr/international/live/2026/11/16/en-direct-guerre-en-ukraine-volodymyr-zelensky-annonce-la-preparation-d-une-reunion-de-la-coalition-des-volontaires-qui-pourrait-s-averer-historique_6810982_3210.html
   L’objectif présenté par le président ukrainien est de définir la position européenne dans de futurs pourparlers avec Moscou. Par ailleurs, l’Estonie a annoncé la fermeture de ses frontières avec la Russie à compter du 1…
-- [16/11 01:08] Le Figaro — Honduras : une caravane d'une centaine de personnes part vers les États-Unis
-  https://www.lefigaro.fr/international/honduras-une-caravane-d-une-centaine-de-personnes-part-vers-les-etats-unis-20261116
-  Les États-Unis maintiennent pour l’heure leur politique très ferme en matière d’immigration, malgré la victoire des démocrates dans les deux chambres législatives lors des élections de mi-mandat le 3 novembre.
+- [16/11 01:03] Le Monde — Au Cap-Vert, José Maria Neves réélu président dès le premier tour
+  https://www.lemonde.fr/afrique/article/2026/11/16/au-cap-vert-jose-maria-neves-reelu-president-des-le-premier-tour_6811072_3212.html
+  Le président sortant, favori pour un deuxième mandat de suite, l’a emporté dès le premier tour, dimanche, avec plus de 63 % des voix dans cet archipel lusophone réputé pour sa stabilité démocratique.
 - [16/11 00:24] franceinfo — Guerre en Ukraine : le Donbass contre une adhésion à l'OTAN, la proposition américaine qui fait polémique
   https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-le-donbass-contre-une-adhesion-a-l-otan-la-proposition-americaine-qui-fait-polemique_8283893.html#xtor=RSS-3-%5Bmonde%5D
   Alors que Washington chercherait à négocier un accord de paix entre Kiev et Moscou, une proposition américaine suscite de vives réactions : céder l'ensemble du Donbass à la Russie en échange d'une adhésion de l'Ukraine…
@@ -65,15 +80,6 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [15/11 18:54] franceinfo — Les Tchèques manifestent en masse contre la réforme du financement des médias publics
   https://www.franceinfo.fr/monde/europe/les-tcheques-manifestent-en-masse-contre-la-reforme-du-financement-des-medias-publics_8283761.html#xtor=RSS-3-[lestitres]
   Selon les critiques, cette réforme risque d'accroître la dépendance des médias publics à l'égard du pouvoir politique.
-- [15/11 18:36] Le Monde — Une juge ordonne qu’un parc de Washington dont Donald Trump souhaite faire un golf de luxe reste ouvert
-  https://www.lemonde.fr/international/article/2026/11/15/une-juge-ordonne-qu-un-parc-de-washington-dont-donald-trump-souhaite-faire-un-golf-de-luxe-reste-ouvert_6811041_3210.html
-  Le président américain souhaite réaménager le parc East Potomac pour en faire un site pouvant accueillir des compétitions de golf de très haut niveau. Son administration avait demandé la fermeture, dimanche, de cet espa…
-- [15/11 18:20] Le Monde — Immigration : près de 1 500 migrants sont arrivés aux îles Canaries en une seule journée
-  https://www.lemonde.fr/international/video/2026/11/15/immigration-pres-de-1-500-migrants-sont-arrives-aux-iles-canaries-en-une-seule-journee_6811039_3210.html
-  Samedi, 1 488 personnes, à bord de 14 embarcations, ont été secourues par les gardes-côtes de l’archipel espagnol. Un record d’arrivées en une seule journée depuis 2020, selon l’agence de presse espagnole EFE.
-- [15/11 18:00] Le Monde — Au Cambodge, qui organise le sommet de l’Organisation internationale de la francophonie, le long déclin de la langue française
-  https://www.lemonde.fr/international/article/2026/11/15/au-cambodge-qui-organise-le-sommet-de-l-organisation-internationale-de-la-francophonie-le-long-declin-de-la-langue-francaise_6811037_3210.html
-  Phnom Penh accueille jusqu’au 16 novembre le XXᵉ sommet de l’Organisation internationale de la francophonie. Mais dans l’ancien protectorat, la langue de Sihanouk recule face à l’anglais et au chinois. Elle ne survit pl…
 - [15/11 17:26] franceinfo — Un important site industriel russe touché par des frappes ukrainiennes
   https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/un-important-site-industriel-russe-touche-par-des-frappes-attribuees-a-kiev_8283350.html#xtor=RSS-3-%5Bmonde%5D
   Les autorités de la république du Tatarstan, citées par les médias russes, ont fait état de trois blessés dimanche, tandis que le gouverneur de la région russe de Rostov-sur-le-Don a annoncé un mort.
@@ -106,12 +112,12 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
   Kinshasa, qui accuse Kigali de soutenir le groupe armé rebelle du M23 dans ses provinces de l’Est, s’oppose à la reconduction de la Rwandaise Louise Mushikiwabo à la tête de l’OIF.
 
 ## France
+- [16/11 04:11] Le Monde — Coup dur pour Amazon avec la perte de 40 satellites due à l’échec de la fusée Vulcan
+  https://www.lemonde.fr/sciences/article/2026/11/16/coup-dur-pour-amazon-avec-la-perte-de-40-satellites-due-a-l-echec-de-la-fusee-vulcan_6811204_1650684.html
+  Le lanceur a subi une anomalie ⁠environ dix minutes après le décollage, perdant les satellites qu’il transportait. Il s’agissait du premier de plusieurs dizaines de vols achetés au groupe United Launch Alliance par la s…
 - [16/11 02:12] Ouest-France — Léon XIV appelle à entendre « le cri de la terre et des pauvres » en Amazonie
   https://www.ouest-france.fr/societe/religions/pape-leon-xiv/leon-xiv-appelle-a-entendre-le-cri-de-la-terre-et-des-pauvres-en-amazonie-abe5ae10-e158-11f1-9a29-f4bab172af08?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
   Le pape a dénoncé dimanche les menaces qui pèsent sur l’Amazonie et l’« abandon » des populations autochtones par les autorités, appelant à écouter le « cri de la terre et des pauvres », lors d’un discours à Pucallpa, d…
-- [16/11 01:03] Le Monde — Au Cap-Vert, José Maria Neves réélu président dès le premier tour
-  https://www.lemonde.fr/afrique/article/2026/11/16/au-cap-vert-jose-maria-neves-reelu-president-des-le-premier-tour_6811072_3212.html
-  Le président sortant, favori pour un deuxième mandat de suite, l’a emporté dès le premier tour, dimanche, avec plus de 63 % des voix dans cet archipel lusophone réputé pour sa stabilité démocratique.
 - [16/11 00:22] Le Monde — Plus de 157 000 signataires, dont Elon Musk, demandent le retour de Jensen Huang à la tête de Nvidia
   https://www.lemonde.fr/pixels/article/2026/11/16/plus-de-157-000-signataires-dont-elon-musk-demandent-le-retour-de-jensen-huang-a-la-tete-de-nvidia_6811065_4408996.html
   Une lettre, dont 7 500 signataires se déclarent salariés de l’entreprise, réclame la réintégration de l’ancien patron du géant américain des semi-conducteurs, au moins le temps de se défendre face aux allégations de rel…
@@ -136,9 +142,6 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [15/11 20:53] Le Figaro — Les foules et la liesse : le récit du voyage triomphal de Léon XIV en Amérique latine
   https://www.lefigaro.fr/actualite-france/les-foules-et-la-liesse-le-recit-du-voyage-triomphal-de-leon-xiv-en-amerique-latine-20261115
   RÉCIT - Après onze jours en Uruguay, en Argentine et au Pérou, où près de 10 millions de personnes sont venues l’acclamer, le pape repart ce lundi pour Rome.
-- [15/11 20:49] Le Figaro — L'élection présidentielle 2027 est «la plus importante de ma vie», affirme François Hollande, refusant encore de se déclarer candidat
-  https://www.lefigaro.fr/elections/presidentielles/l-election-presidentielle-2027-est-la-plus-importante-de-ma-vie-affirme-francois-hollande-refusant-encore-de-se-declarer-candidat-20261115
-  L’ancien président de la République a estimé dimanche que le scrutin de 2027 serait décisif pour l’avenir de la France, appelant à un rassemblement des forces démocratiques face à la montée des extrêmes.
 - [15/11 20:47] Le Figaro — « On a touché à ce qu’il y a de plus sacré pour nous » : la Corse très attentive au procès des profanateurs d’une statue de la Vierge
   https://www.lefigaro.fr/actualite-france/on-a-touche-a-ce-qu-il-y-a-de-plus-sacre-pour-nous-la-corse-tres-attentive-au-proces-des-profanateurs-d-une-statue-de-la-vierge-20261115
   DÉCRYPTAGE - Les deux jeunes hommes qui avaient vandalisé et profané une statue de la Vierge Marie à Porto-Vecchio, début octobre, sont jugés ce lundi par le tribunal correctionnel d’Ajaccio.
@@ -169,9 +172,6 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [15/11 19:02] franceinfo — Des militants d'extrême droite ont été agressés dans un bar à Marseille
   https://www.franceinfo.fr/marseille/des-militants-d-extreme-droite-ont-ete-agresses-dans-un-bar-a-marseille_8283776.html#xtor=RSS-3-[lestitres]
   Le maire RN du secteur a dénoncé les agissements d'une "milice d'extrême gauche".
-- [15/11 19:00] Le Monde — La marine nationale intercepte un semi-submersible chargé de plusieurs tonnes de cocaïne dans l’Atlantique ; quatre suspects interpellés
-  https://www.lemonde.fr/societe/article/2026/11/15/la-marine-nationale-intercepte-un-semi-submersible-charge-de-plusieurs-tonnes-de-cocaine-dans-l-atlantique-quatre-suspects-interpelles_6811045_3224.html
-  Lorsque la frégate de la marine s’est approchée de l’embarcation, trois personnes se sont jetées à l’eau, avant d’être repêchées. Un quatrième suspect, qui a eu le temps de saborder l’engin, a été appréhendé à bord du n…
 - [15/11 19:00] Le Monde — « L’organisme, en état d’alerte, se prépare à s’opposer » : ce que la colère produit dans le corps
   https://www.lemonde.fr/intimites/article/2026/11/15/l-organisme-en-etat-d-alerte-se-prepare-a-s-opposer-ce-que-la-colere-produit-dans-le-corps_6811044_6190330.html
   « Nos émotions : la colère ». Réponse de notre système nerveux face à une menace, une injustice, une frustration, la colère est une émotion complexe, car profondément subjective. Variant de la simple irritation à la fur…
@@ -235,9 +235,6 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [15/11 09:00] franceinfo — Présidentielle 2027 : "Je ne suis pas un macroniste", affirme Teddy Riner
   https://www.franceinfo.fr/elections/presidentielle-2027-je-ne-suis-pas-un-macroniste-affirme-teddy-riner_8283248.html#xtor=RSS-3-%5Bpolitique%5D
   En visite au salon Made in France, Teddy Riner a fermement rejeté l’étiquette macroniste, martelant qu’il n’appartient à “aucune famille politique” malgré l’appui d’Emmanuel Macron.
-- [14/11 21:55] Le Figaro — «Je suis un pur produit français» : le candidat Teddy Riner s’offre un premier bain de foule au salon du Made in France à Paris
-  https://www.lefigaro.fr/elections/presidentielles/je-suis-un-pur-produit-francais-le-candidat-teddy-riner-s-offre-un-premier-bain-de-foule-au-salon-du-made-in-france-a-paris-20261114
-  REPORTAGE - Pour son deuxième déplacement de campagne, Teddy Riner a arpenté pendant plus de trois heures les allées du salon du Made in France, à Paris.
 
 ## Gendarmerie-police-justice
 - [15/11 21:01] franceinfo — Alerte aux faux policiers : le nombre d'arnaques en augmentation de 3 % sur un an
@@ -249,6 +246,9 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [15/11 20:17] franceinfo — Un policier municipal placé en garde à vue à Paris "pour menace de mort en raison de la race, l’ethnie, la nation la religion"
   https://www.franceinfo.fr/faits-divers/police/un-policier-municipal-place-en-garde-a-vue-pour-menace-de-mort-en-raison-de-la-race-l-ethnie-la-nation-la-religion-selon-le-parquet-de-paris_8283857.html#xtor=RSS-3-[lestitres]
   Le suspect a été interpellé dans la capitale par la BRI dans un "état alcoolisé" selon le parquet de Parquet, sans précisions supplémentaires concernant les menaces ou les cibles de l'individu.
+- [15/11 19:00] Le Monde — La marine nationale intercepte un semi-submersible chargé de plusieurs tonnes de cocaïne dans l’Atlantique ; quatre suspects interpellés
+  https://www.lemonde.fr/societe/article/2026/11/15/la-marine-nationale-intercepte-un-semi-submersible-charge-de-plusieurs-tonnes-de-cocaine-dans-l-atlantique-quatre-suspects-interpelles_6811045_3224.html
+  Lorsque la frégate de la marine s’est approchée de l’embarcation, trois personnes se sont jetées à l’eau, avant d’être repêchées. Un quatrième suspect, qui a eu le temps de saborder l’engin, a été appréhendé à bord du n…
 - [15/11 17:36] franceinfo — Une centaine de personnes réunies pour une marche blanche en hommage à Pengo Bossio Wangi, tué dans l'attentat raciste de Trappes
   https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/une-centaine-de-personnes-reunies-pour-une-marche-blanche-en-hommage-a-pengo-bossio-wangi-tue-dans-l-attaque-raciste-de-trappes_8283689.html#xtor=RSS-3-%5Bfaits-divers%5D
   Derrière la large banderole noire floquée du portrait de son neveu, un des oncles de la victime a voulu organiser cette marche blanche "pour faire porter la voix" de son proche décédé.
@@ -284,4 +284,4 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
   Face à une utilisation dangereuse de ces engins lors des manifestations, et parfois même dans les lycées, l’interdiction vise les artifices de catégories F2 et F3.
 
 ## Diagnostic
-- Tri : 20 article(s) écartés (sport, culture…), 3 renvoyé(s) vers International
+- Tri : 17 article(s) écartés (sport, culture…), 4 renvoyé(s) vers International
