@@ -1,21 +1,24 @@
-SAINTS — généré le 2026-11-15 04:40 (heure de Paris)
-Date : dimanche 15 novembre 2026 (2026-11-15)
+SAINTS — généré le 2026-11-16 03:44 (heure de Paris)
+Date : lundi 16 novembre 2026 (2026-11-16)
 
 ## Calendrier romain actuel (AELF, France)
-- Jour liturgique : 33ème dimanche du Temps Ordinaire (semaine I du Psautier)
-- Ligne 1 : 33ème dimanche du Temps Ordinaire (semaine I du Psautier)
+- Jour liturgique : de la férie
+- Fête / saint : Ste Marguerite d'Ecosse ; Ste Gertrude, vierge
+- Ligne 1 : lundi, 33ème semaine du Temps Ordinaire
+- Ligne 2 : Ste Marguerite d'Ecosse ; Ste Gertrude, vierge
+- Ligne 3 : Mémoire facultative
 - Couleur liturgique : vert
 - Temps liturgique : ordinaire
-- Saint du jour (Nominis) : Saint Albert le Grand - Frère prêcheur, évêque de Ratisbonne, docteur de l'Église (+ 1280)
-- Saint du jour (Nominis) : Sainte Victoire - Martyre des premiers siècles
+- Saint du jour (Nominis) : Sainte Marguerite d'Ecosse - Reine d'Ecosse (+ 1093)
 
 ## Calendrier traditionnel de 1962 (Divinum Officium, rubriques de 1960)
-- Jour : Dominica VI quæ superfuit Post Epiphaniam IV. Novembris ~ II. classis
-- Martyrologe : À Cologne, saint Albert, Évêque et Confesseur, de l’Ordre des Frères Prêcheurs, surnommé le Grand, célèbre par sa sainteté et sa science. Le Pape Pie XI l’a déclaré Docteur de l’Église Universelle et Pie XII l’a constitué auprè…
-- Martyrologe : Le même jour, l’anniversaire de saint Eugène, Évêque de Tolède et Martyr. Disciple de saint Denis l’Aréopagite, il consomma son martyre dans le territoire de Paris et reçut du Seigneur la couronne de sa bienheureuse passion. So…
-- Martyrologe : À Nole, en Campanie, le bienheureux Félix, Évêque et Martyr. Dès l’âge de quinze ans, il était célèbre par ses miracles. Il termina ses combats sous le préfet Marcien en souffrant avec trente autres le martyre.
-- Martyrologe : À Édesse, en Mésopotamie (aujourd'hui Şanlıurfa en Turquie), la passion de saint Abibe, Diacre, qui fut déchiré avec des ongles de fer et jeté dans le feu sous l’empereur Licinius et le préfet Lysanias.
-- Martyrologe : Au même lieu, les saints Martyrs Gurie et Samonas, sous l’empereur Dioclétien et le préfet Antonin.
-- Martyrologe : En Afrique, les saints Martyrs Second, Fidentien et Varique.
-- Martyrologe : Près d’Archingeay, en Saintonge, l’anniversaire de saint Malo, Évêque d’Aleth (aujourd’hui Saint-Servan), en France. Né en Angleterre, il fut remarquable par ses miracles dès sa plus tendre jeunesse.
-- Martyrologe : À Vérone, saint Lupère, Évêque et Confesseur.
+- Jour : S. Gertrudis Virginis ~ III. classis
+- Scriptura: Feria II infra Hebdomadam VI quæ superfuit post Epiphaniam IV. Novembris
+- Martyrologe : Sainte Gertrude, Vierge, dont l’anniversaire est mentionné le jour suivant.
+- Martyrologe : À Édimbourg, en Écosse, l’anniversaire de sainte Marguerite, Veuve, reine d’Écosse, célèbre par sa charité envers les pauvres et sa pauvreté volontaire. Sa fête est célébrée le 4 des ides de juin (10 juin).
+- Martyrologe : En Afrique, les saints Martyrs Rufin, Marc, Valère et leurs compagnons.
+- Martyrologe : Le même jour, les saints Martyrs Elpide, Marcel, Eustoche et leurs compagnons. Elpide, qui était de l’ordre sénatorial, après avoir généreusement confessé la Foi Chrétienne à la face de Julien l’Apostat, fut attaché avec ses co…
+- Martyrologe : À Lyon, en Gaule, l’anniversaire de saint Eucher, Évêque et Confesseur, homme d’une Foi et d’une science admirables. De haute noblesse sénatoriale, il embrassa la vie religieuse, demeura, de son propre choix, longtemps caché da…
+- Martyrologe : À Padoue, saint Fidence, Évêque.
+- Martyrologe : À Cantorbéry, en Angleterre, saint Edmond, Évêque et Confesseur. Exilé pour avoir défendu les droits de son Église, il mourut très saintement près de Provins, ville des Sénonais. Il a été canonisé par le Pape Innocent IV.
+- Martyrologe : Le même jour, la mise au tombeau de saint Othmar, Abbé.
