@@ -1,24 +1,24 @@
-SAINTS — généré le 2026-11-16 04:54 (heure de Paris)
-Date : lundi 16 novembre 2026 (2026-11-16)
+SAINTS — généré le 2026-11-17 03:42 (heure de Paris)
+Date : mardi 17 novembre 2026 (2026-11-17)
 
 ## Calendrier romain actuel (AELF, France)
 - Jour liturgique : de la férie
-- Fête / saint : Ste Marguerite d'Ecosse ; Ste Gertrude, vierge
-- Ligne 1 : lundi, 33ème semaine du Temps Ordinaire
-- Ligne 2 : Ste Marguerite d'Ecosse ; Ste Gertrude, vierge
-- Ligne 3 : Mémoire facultative
-- Couleur liturgique : vert
+- Fête / saint : Ste Elisabeth de Hongrie
+- Ligne 1 : mardi, 33ème semaine du Temps Ordinaire
+- Ligne 2 : Ste Elisabeth de Hongrie
+- Ligne 3 : Mémoire
+- Couleur liturgique : blanc
 - Temps liturgique : ordinaire
-- Saint du jour (Nominis) : Sainte Marguerite d'Ecosse - Reine d'Ecosse (+ 1093)
+- Saint du jour (Nominis) : Sainte Elisabeth de Thuringe - Elisabeth de Hongrie, duchesse (+ 1231)
 
 ## Calendrier traditionnel de 1962 (Divinum Officium, rubriques de 1960)
-- Jour : S. Gertrudis Virginis ~ III. classis
-- Scriptura: Feria II infra Hebdomadam VI quæ superfuit post Epiphaniam IV. Novembris
-- Martyrologe : Sainte Gertrude, Vierge, dont l’anniversaire est mentionné le jour suivant.
-- Martyrologe : À Édimbourg, en Écosse, l’anniversaire de sainte Marguerite, Veuve, reine d’Écosse, célèbre par sa charité envers les pauvres et sa pauvreté volontaire. Sa fête est célébrée le 4 des ides de juin (10 juin).
-- Martyrologe : En Afrique, les saints Martyrs Rufin, Marc, Valère et leurs compagnons.
-- Martyrologe : Le même jour, les saints Martyrs Elpide, Marcel, Eustoche et leurs compagnons. Elpide, qui était de l’ordre sénatorial, après avoir généreusement confessé la Foi Chrétienne à la face de Julien l’Apostat, fut attaché avec ses co…
-- Martyrologe : À Lyon, en Gaule, l’anniversaire de saint Eucher, Évêque et Confesseur, homme d’une Foi et d’une science admirables. De haute noblesse sénatoriale, il embrassa la vie religieuse, demeura, de son propre choix, longtemps caché da…
-- Martyrologe : À Padoue, saint Fidence, Évêque.
-- Martyrologe : À Cantorbéry, en Angleterre, saint Edmond, Évêque et Confesseur. Exilé pour avoir défendu les droits de son Église, il mourut très saintement près de Provins, ville des Sénonais. Il a été canonisé par le Pape Innocent IV.
-- Martyrologe : Le même jour, la mise au tombeau de saint Othmar, Abbé.
+- Jour : S. Gregorii Thaumaturgi Episcopi et Confessoris ~ III. classis
+- Scriptura: Feria III infra Hebdomadam VI quæ superfuit post Epiphaniam IV. Novembris
+- Martyrologe : À Néocésarée, dans le Pont (aujourd’hui Niksar en Turquie), l’anniversaire de saint Grégoire, Évêque et Confesseur, illustre par sa doctrine et sa sainteté. Il a été appelé le Thaumaturge en raison des nombreux prodiges et mira…
+- Martyrologe : À Helfta, en Saxe, l’anniversaire de sainte Gertrude, Vierge, de l’Ordre de saint Benoît, illustre par le don des révélations dont elle fut favorisée. Sa fête se célèbre la veille de ce jour.
+- Martyrologe : En Palestine, les saints Martyrs Alphée et Zachée. Après des tourments multiples, ils subirent la peine capitale, la première année de la persécution de Dioclétien.
+- Martyrologe : À Cordoue, en Espagne, saint Aciscle et sa sœur Victoire, Martyrs. Pendant la même persécution, ils furent tourmentés très cruellement par ordre du préfet Dion, et reçurent du Seigneur les couronnes méritées par un éclatant mar…
+- Martyrologe : À Alexandrie, saint Denis, Évêque, personnage d’une grande érudition. Très célèbre pour avoir souvent confessé sa Foi, riche en mérites à cause de ses souffrances et de ses tourments variés. Plein de jours, il s’endormit en vra…
+- Martyrologe : À Orléans, en Gaule, saint Aignan, Évêque. Les fréquents miracles opérés après sa mort témoignent qu’elle a été précieuse aux yeux du Seigneur.
+- Martyrologe : En Grande-Bretagne, saint Hugues, Évêque. Étant chartreux, il fut appelé à gouverner l’Église de Lincoln. Devenu célèbre par de nombreux miracles, il fit une sainte mort.
+- Martyrologe : À Tours, en France, saint Grégoire, Évêque.
