@@ -1,13 +1,16 @@
-VEILLE — généré le 2026-11-17 03:41 (heure de Paris)
+VEILLE — généré le 2026-11-17 04:41 (heure de Paris)
 Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 
 ## International
+- [17/11 04:27] Ouest-France — Le Japon accuse la Russie d’avoir violé son espace aérien, la Corée du Sud signale aussi des intrusions
+  https://www.ouest-france.fr/monde/asie-pacifique/le-japon-accuse-la-russie-davoir-viole-son-espace-aerien-la-coree-du-sud-signale-aussi-des-intrusions-be5c1701-e797-4195-9f7d-2e9f53972ea5?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
+  Deux avions présumés russes sont entrés mardi 17 novembre 2026 dans l’espace aérien nippon, près de l’île d’Okino-shima. Peu avant, la Corée du Sud avait elle aussi déployé des avions de combat après l’intrusion d’appar…
+- [17/11 04:18] Le Figaro — Le Japon affirme que deux avions présumés russes ont violé son espace aérien
+  https://www.lefigaro.fr/international/la-coree-du-sud-deploie-des-avions-apres-une-intrusion-russe-dans-sa-zone-de-defense-aerienne-20261117
+  Un peu plus tôt, l’état-major interarmées sud-coréen a annoncé avoir déployé des avions de combat après l’intrusion de plusieurs appareils militaires russes dans sa zone de défense aérienne mardi.
 - [17/11 02:42] Le Figaro — L’ancien champion du monde de boxe Jorge Linares arrêté par l’ICE, la police de l'immigration américaine
   https://www.lefigaro.fr/international/l-ancien-champion-du-monde-de-boxe-jorge-linares-arrete-par-l-ice-la-police-de-l-immigration-americaine-20261117
   Le sportif âgé de 41 ans avait publié dimanche un message sur les réseaux sociaux affirmant avoir été «intercepté au poste-frontière du Texas», sans rien poster depuis.
-- [17/11 02:33] Le Figaro — Le Japon affirme que deux avions présumés russes ont violé son espace aérien
-  https://www.lefigaro.fr/international/la-coree-du-sud-deploie-des-avions-apres-une-intrusion-russe-dans-sa-zone-de-defense-aerienne-20261117
-  Un peu plus tôt, l’état-major interarmées sud-coréen a annoncé avoir déployé des avions de combat après l’intrusion de plusieurs appareils militaires russes dans sa zone de défense aérienne mardi.
 - [17/11 01:13] Le Monde — EN DIRECT, guerre en Ukraine : des frappes russes ont touché deux importants ponts de Kiev, annonce le maire, Vitali Klitschko
   https://www.lemonde.fr/international/live/2026/11/17/en-direct-guerre-en-ukraine-des-frappes-russes-ont-touche-deux-ponts-importants-de-kiev-annonce-le-maire-vitali-klitschko_6810982_3210.html
   « A la suite de l’attaque ennemie, des systèmes d’infrastructures critiques ont été endommagés », a fait savoir, lundi soir, le maire de la capitale ukrainienne, faisant état de frappes russes ayant « touché les ponts N…
@@ -347,4 +350,4 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
   Facteur de rejet, d’inquiétude ou d’identification, le rapport à la violence est devenu un marqueur politique essentiel, analyse Brice Teinturier, directeur général délégué d’Ipsos, à partir de l’enquête « Fractures fra…
 
 ## Diagnostic
-- Tri : 7 article(s) écartés (sport, culture…), 2 renvoyé(s) vers International
+- Tri : 6 article(s) écartés (sport, culture…), 2 renvoyé(s) vers International
