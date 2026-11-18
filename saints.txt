@@ -1,24 +1,25 @@
-SAINTS — généré le 2026-11-17 04:42 (heure de Paris)
-Date : mardi 17 novembre 2026 (2026-11-17)
+SAINTS — généré le 2026-11-18 03:42 (heure de Paris)
+Date : mercredi 18 novembre 2026 (2026-11-18)
 
 ## Calendrier romain actuel (AELF, France)
 - Jour liturgique : de la férie
-- Fête / saint : Ste Elisabeth de Hongrie
-- Ligne 1 : mardi, 33ème semaine du Temps Ordinaire
-- Ligne 2 : Ste Elisabeth de Hongrie
-- Ligne 3 : Mémoire
-- Couleur liturgique : blanc
+- Fête / saint : Dédicace des basiliques de S. Pierre et de S. Paul, apôtres
+- Ligne 1 : mercredi, 33ème semaine du Temps Ordinaire
+- Ligne 2 : Dédicace des basiliques de S. Pierre et de S. Paul, apôtres
+- Ligne 3 : Mémoire facultative
+- Couleur liturgique : vert
 - Temps liturgique : ordinaire
-- Saint du jour (Nominis) : Sainte Elisabeth de Thuringe - Elisabeth de Hongrie, duchesse (+ 1231)
+- Saint du jour (Nominis) : Sainte Aude - Ou Odette, vierge à Paris (V e siècle)
+- Saint du jour (Nominis) : Sainte Rose-Philippine Duchesne - Religieuse - missionnaire aux Etats-Unis (+ 1852)
 
 ## Calendrier traditionnel de 1962 (Divinum Officium, rubriques de 1960)
-- Jour : S. Gregorii Thaumaturgi Episcopi et Confessoris ~ III. classis
-- Scriptura: Feria III infra Hebdomadam VI quæ superfuit post Epiphaniam IV. Novembris
-- Martyrologe : À Néocésarée, dans le Pont (aujourd’hui Niksar en Turquie), l’anniversaire de saint Grégoire, Évêque et Confesseur, illustre par sa doctrine et sa sainteté. Il a été appelé le Thaumaturge en raison des nombreux prodiges et mira…
-- Martyrologe : À Helfta, en Saxe, l’anniversaire de sainte Gertrude, Vierge, de l’Ordre de saint Benoît, illustre par le don des révélations dont elle fut favorisée. Sa fête se célèbre la veille de ce jour.
-- Martyrologe : En Palestine, les saints Martyrs Alphée et Zachée. Après des tourments multiples, ils subirent la peine capitale, la première année de la persécution de Dioclétien.
-- Martyrologe : À Cordoue, en Espagne, saint Aciscle et sa sœur Victoire, Martyrs. Pendant la même persécution, ils furent tourmentés très cruellement par ordre du préfet Dion, et reçurent du Seigneur les couronnes méritées par un éclatant mar…
-- Martyrologe : À Alexandrie, saint Denis, Évêque, personnage d’une grande érudition. Très célèbre pour avoir souvent confessé sa Foi, riche en mérites à cause de ses souffrances et de ses tourments variés. Plein de jours, il s’endormit en vra…
-- Martyrologe : À Orléans, en Gaule, saint Aignan, Évêque. Les fréquents miracles opérés après sa mort témoignent qu’elle a été précieuse aux yeux du Seigneur.
-- Martyrologe : En Grande-Bretagne, saint Hugues, Évêque. Étant chartreux, il fut appelé à gouverner l’Église de Lincoln. Devenu célèbre par de nombreux miracles, il fit une sainte mort.
-- Martyrologe : À Tours, en France, saint Grégoire, Évêque.
+- Jour : In Dedicatione Basilicarum Ss. Apostolorum Petri et Pauli ~ III. classis
+- Scriptura: Feria IV infra Hebdomadam VI quæ superfuit post Epiphaniam IV. Novembris
+- Martyrologe : À Rome, la Dédicace des Basiliques de Saint Pierre et de Saint Paul, Apôtres. La première, ayant été reconstruite et agrandie, fut solennellement consacrée en ce jour par le souverain Pontife Urbain VIII. La seconde, après avoi…
+- Martyrologe : À Antioche, l’anniversaire de saint Romain, Martyr. Au temps de l’empereur Galère, comme il voyait le préfet Asclépiade faire irruption dans une église et s’efforcer de la renverser de fond en comble, il exhorta les autres Chré…
+- Martyrologe : À Antioche encore, saint Hésyque. Martyr. Étant soldat et entendant publier un édit en vertu duquel quiconque ne voulait pas sacrifier aux idoles devait déposer le baudrier, il quitta le sien aussitôt. Pour l’en punir, on le pr…
+- Martyrologe : Le même jour, saint Oricle et ses compagnons, qui souffrirent pour la Foi Catholique durant la persécution des Vandales.
+- Martyrologe : À Mayence, saint Maxime, Évêque, qui, au temps de Constance, souffrit beaucoup de la part des ariens et mourut en vrai Confesseur.
+- Martyrologe : À Tours, en France, le trépas du bienheureux Odon, Abbé de Cluny.
+- Martyrologe : À Antioche, saint Thomas, Moine. En reconnaissance de ce que ses prières avaient fait cesser la peste, on l’honorait chaque année par une solennité.
+- Martyrologe : À Lucques, en Toscane, la translation de saint Frigdien, Évêque et Confesseur.
