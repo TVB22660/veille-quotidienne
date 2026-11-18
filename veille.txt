@@ -1,4 +1,4 @@
-VEILLE — généré le 2026-11-18 03:41 (heure de Paris)
+VEILLE — généré le 2026-11-18 04:42 (heure de Paris)
 Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 
 ## International
@@ -124,6 +124,9 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
   L’ancien président démocrate défend ses quatre ans de mandat et continue d’affirmer qu’il aurait été apte à en briguer un second.
 
 ## France
+- [18/11 04:00] Ouest-France — Guyane : le gouvernement prépare 3 millions d’euros d’aide aux agriculteurs touchés par la sécheresse
+  https://www.ouest-france.fr/region-guyane/guyane-le-gouvernement-prepare-3-millions-deuros-daide-aux-agriculteurs-touches-par-la-secheresse-5e2d84c2-e2f2-11f1-9a72-32f9104dab1b?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
+  Face à l’intensité du phénomène El Niño et de la sécheresse qui frappe la Guyane, le gouvernement travaille à débloquer trois millions d’euros pour les agriculteurs, a annoncé la ministre des Outre-mer, Naïma Moutchou,…
 - [18/11 03:16] Le Monde — Loi « relance du logement » : l’Assemblée nationale valide le lancement du programme ANRU 3 pour la période 2026-2040
   https://www.lemonde.fr/societe/article/2026/11/18/loi-relance-du-logement-l-assemblee-nationale-valide-le-lancement-du-programme-anru-3-pour-la-periode-2026-2040_6813057_3224.html
   Certains députés ont néanmoins jugé insuffisant le financement de 5 milliards d’euros prévu pour démarrer ce nouveau programme de financement de projets de rénovation urbaine, qui vise notamment 150 quartiers prioritair…
@@ -160,9 +163,6 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [17/11 23:30] franceinfo — "Je serais honoré de reprendre mes fonctions de PDG" : l'ex-patron de Nvidia, Jensen Huang, se dit ouvert à un retour à la tête de l'entreprise, cinq jours après sa démission
   https://www.franceinfo.fr/internet/nvidia/je-serais-honore-de-reprendre-mes-fonctions-de-pdg-l-ex-patron-de-nvidia-jensen-huang-se-dit-ouvert-a-un-retour-a-la-tete-de-l-entreprise-cinq-jours-apres-sa-demission_8286938.html#xtor=RSS-3-[lestitres]
   Le patron du géant américain des puces a annoncé jeudi sa démission après l'éclatement d'un scandale d'adultère et de contrebande de puces IA vers la Chine.
-- [17/11 23:30] Ouest-France — « C’est un rêve » : Lola remporte la finale de « Koh-Lanta : All Stars » au terme d’une soirée riche en suspense
-  https://programmetv.ouest-france.fr/divers/telerealite/koh-lanta-m96969668/cest-un-reve-lola-remporte-la-finale-de-koh-lanta-all-stars-au-terme-dune-soiree-riche-en-suspense-bb4f4eea-e290-11f1-a3b1-0c6de532ce7d?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
-  La Une a diffusé l’ultime épisode de sa saison spéciale, rassemblant la crème de la crème des aventuriers des éditions précédentes, ce mardi 17 novembre 2026. Au terme d’une longue soirée, la candidate originaire du Nor…
 - [17/11 22:40] Le Monde — Procès des parents de « la petite inconnue de l’A10 » : la mère condamnée à vingt ans de réclusion, le père à quinze ans
   https://www.lemonde.fr/societe/article/2026/11/17/proces-des-parents-de-la-petite-inconnue-de-l-a10-la-mere-condamnee-a-vingt-ans-de-reclusion-le-pere-a-quinze-ans_6813049_3224.html
   Les deux accusés sont incarcérés immédiatement avec cette décision, qui marque l’aboutissement, trente-neuf ans après les faits, d’un des plus anciens « cold cases » français, objet de plusieurs livres et documentaires.
