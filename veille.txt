@@ -1,10 +1,13 @@
-VEILLE — généré le 2026-11-19 03:40 (heure de Paris)
+VEILLE — généré le 2026-11-19 04:44 (heure de Paris)
 Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 
 ## International
-- [19/11 03:24] Le Figaro — EN DIRECT - À Shenzhen, Donald Trump, Xi Jinping et Vladimir Poutine se retrouvent pour un face-à-face inédit
+- [19/11 04:08] Le Figaro — EN DIRECT - À Shenzhen, Donald Trump, Xi Jinping et Vladimir Poutine se retrouvent pour un face-à-face inédit
   https://www.lefigaro.fr/international/en-direct-a-shenzhen-donald-trump-xi-jinping-et-vladimir-poutine-se-retrouvent-pour-un-face-a-face-inedit-20261119
   La photo s’annonce historique, mais les résultats restent incertains. Xi Jinping, Donald Trump et Vladimir Poutine se réunissent jeudi pour un sommet inédit dans le sud de la Chine, dans un contexte de crises multiples.
+- [19/11 03:57] Le Monde — Assassinat du président haïtien Jovenel Moïse : un pasteur américano-haïtien reconnu coupable aux Etats-Unis d’implication
+  https://www.lemonde.fr/international/article/2026/11/19/assassinat-du-president-haitien-jovenel-moise-un-pasteur-americano-haitien-reconnu-coupable-aux-etats-unis-d-implication_6813218_3210.html
+  Christian Sanon, qui ambitionnait de prendre la tête d’Haïti, a notamment été reconnu coupable, mercredi par un tribunal fédéral de Miami, du projet d’assassinat de Jovenel Moïse.
 - [19/11 03:16] Le Figaro — Arabie saoudite : une forte explosion retentit à Ryad, après une alerte
   https://www.lefigaro.fr/international/arabie-saoudite-une-forte-explosion-retentit-a-ryad-apres-une-alerte-20261119
   Le royaume est régulièrement visé par les Houthis pro-iraniens depuis la reprise des hostilités au Yémen voisin.
@@ -101,9 +104,6 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [18/11 18:31] franceinfo — Un campement évacué à Paris près de la station de métro Stalingrad, 172 personnes "mises à l'abri" selon les autorités
   https://www.franceinfo.fr/monde/europe/migrants/un-campement-evacue-a-paris-pres-de-la-station-de-metro-stalingrad-172-personnes-mises-a-l-abri-selon-les-autorites_8288762.html#xtor=RSS-3-%5Bmonde%5D
   Selon les autorités, ce campement occasionnait "des troubles à l'ordre public" et "des risques sanitaires" notamment en raison de "l'absence d'accès à l'eau potable".
-- [18/11 18:30] Le Monde — Guerre au Soudan : « Beaucoup de familles marient leurs filles de force en pensant qu’un mari les protégera du viol »
-  https://www.lemonde.fr/afrique/article/2026/11/18/guerre-au-soudan-beaucoup-de-familles-marient-leurs-filles-de-force-en-pensant-qu-un-mari-les-protegera-du-viol_6813179_3212.html
-  Depuis le début de la guerre, en 2023, l’avocate soudanaise Tahani Abbas recueille des témoignages de femmes violées. Elle explique, dans un entretien au « Monde », pourquoi si peu d’entre elles témoignent, dans une soc…
 - [18/11 18:21] Le Figaro — Haïti : comment un internaute a guidé des frappes de l’armée salvadorienne contre l’un des principaux gangs de l’île
   https://www.lefigaro.fr/international/haiti-comment-un-internaute-a-guide-des-frappes-de-l-armee-salvadorienne-contre-l-un-des-principaux-gangs-de-l-ile-20261118
   Déployée en Haïti depuis le 23 octobre après la disparition de quatre de ses soldats, l’armée salvadorienne a revendiqué mardi 10 novembre avoir détruit le quartier général des «400 Mawozo», l’un des principaux gangs ha…
@@ -130,6 +130,9 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
   DÉCRYPTAGE - À Moscou, les observateurs ne manquent pas de souligner le décalage entre les agendas de Donald Trump, Xi Jinping et du maître du Kremlin.
 
 ## France
+- [19/11 04:28] Ouest-France — Guyane : l’orpaillage illégal atteint un niveau record dans le Parc amazonien
+  https://www.ouest-france.fr/region-guyane/guyane-lorpaillage-illegal-atteint-un-niveau-record-dans-le-parc-amazonien-2887fcae-e3c8-11f1-a3b1-0c6de532ce7d?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
+  L’exploitation clandestine de l’or continue de progresser en Guyane, portée notamment par la flambée des cours et les flux venus du Suriname.
 - [19/11 03:35] Le Monde — En Guyane, l’orpaillage illégal atteint un niveau jamais vu dans le parc amazonien
   https://www.lemonde.fr/planete/article/2026/11/19/en-guyane-l-orpaillage-illegal-atteint-un-niveau-jamais-vu-dans-le-parc-amazonien_6813217_3244.html
   La hausse des cours de l’or et l’inaction du Suriname voisin dopent l’exploitation dans ce parc national où 239 sites aurifères illégaux ont été dénombrés au mois d’août.
@@ -330,9 +333,6 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [18/11 22:36] franceinfo — Présomption de légitime défense pour les forces de l'ordre : "Ce que j'ai vécu fait que cette loi me fait extrêmement peur", témoigne le producteur Michel Zecler
   https://www.franceinfo.fr/faits-divers/police/violences-policieres/presomption-de-legitime-defense-pour-les-forces-de-l-ordre-ce-que-j-ai-vecu-fait-que-cette-loi-me-fait-extremement-peur-temoigne-le-producteur-michel-zecler-qui-se-dit-horrifie_8288912.html#xtor=RSS-3-[lestitres]
   La loi sur la présomption de légitime défense pour les forces de l'ordre doit être étudiée par le Sénat à partir de ce jeudi, après avoir été adoptée à l'Assemblée nationale en juillet dernier.
-- [18/11 21:53] Ouest-France — Deux blessés graves dans un accident de la route en Sarthe
-  https://www.ouest-france.fr/faits-divers/accidents/deux-blesses-graves-dans-un-accident-de-la-route-en-sarthe-bbb5794a-e38f-11f1-9a72-32f9104dab1b?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
-  Trois personnes ont été blessées, dont deux grièvement, dans un accident de la route entre deux véhicules ce mercredi 18 novembre 2026, à Saint-Gervais-de-Vic (Sarthe).
 - [18/11 21:02] franceinfo — "Des escroqueries de haute intensité, quasiment du grand banditisme" : le profil atypique d'un suspect de l'enquête sur les pillages du 17 octobre
   https://www.franceinfo.fr/societe/justice/des-escroqueries-de-haute-intensite-quasiment-du-grand-banditisme-le-profil-atypique-d-un-suspect-de-l-enquete-sur-les-pillages-du-17-octobre_8288918.html#xtor=RSS-3-%5Bfaits-divers%5D
   Un mois après les pillages du 17 octobre à Paris, que sont devenus les objets volés ? Les enquêteurs ont retrouvé la trace de plusieurs sacs de luxe sur Vinted. La piste les a menés jusqu'à Villejuif, dans le Val-de-Mar…
@@ -392,4 +392,4 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
   Les deux accusés ont été incarcérés immédiatement après le verdict, mardi. Les avocats du père d’Inass, Frank Berton et Yasmina Belmokhtar, ont annoncé qu’ils feraient appel de la décision.
 
 ## Diagnostic
-- Tri : 10 article(s) écartés (sport, culture…), 2 renvoyé(s) vers International
+- Tri : 9 article(s) écartés (sport, culture…), 2 renvoyé(s) vers International
