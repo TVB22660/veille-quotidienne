@@ -4,12 +4,18 @@ on:
   schedule:
     - cron: '0 2 * * *'    # 02:00 UTC = 4h00 (été) / 3h00 (hiver), heure de Paris
     - cron: '0 3 * * *'    # 03:00 UTC = 5h00 (été) / 4h00 (hiver) : 2e passage, avant le récap de 6h10
+    - cron: '20 3 * * *'   # passage de secours (ajouté le 20/11/2026 : les passages de 02:00 et 03:00 UTC ont été sautés par GitHub)
+    - cron: '5 4 * * *'    # 2e passage de secours, 04:05 UTC = 5h05 (hiver) / 6h05 (été)
   workflow_dispatch:        # permet de lancer à la main
   push:
     paths: ['fetch.py', 'fetch_jorf.py', 'fetch_saints.py', 'fetch_marees.py', 'fetch_meteo.py']  # relance automatique quand un script change
 
 permissions:
   contents: write
+
+concurrency:
+  group: veille
+  cancel-in-progress: false
 
 jobs:
   veille:
