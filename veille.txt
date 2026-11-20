@@ -1,43 +1,46 @@
-VEILLE — généré le 2026-11-20 08:12 (heure de Paris)
+VEILLE — généré le 2026-11-20 10:19 (heure de Paris)
 Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 
 ## International
-- [20/11 08:00] Ouest-France — La pétrochimie américaine, grande bénéficiaire des guerres en Ukraine et en Iran
-  https://www.ouest-france.fr/economie/energie/gaz-naturel/la-petrochimie-americaine-grande-beneficiaire-des-guerres-en-ukraine-et-en-iran-f4a3794a-e372-11f1-a3b1-0c6de532ce7d?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
-  La pétrochimie et le gaz des États-Unis étaient des secteurs sinistrés avant les guerres en Ukraine et en Iran. Aujourd’hui, leurs exportations se sont envolées.
+- [20/11 10:05] Ouest-France — Remettre en cause le Brexit ? L’idée sème l’émoi au Royaume-Uni
+  https://www.ouest-france.fr/europe/grande-bretagne/brexit/remettre-en-cause-le-brexit-lidee-seme-lemoi-au-royaume-uni-a12ad1da-e29d-11f1-a3b1-0c6de532ce7d?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
+  Le Premier ministre travailliste Andy Burnham sera à Bruxelles, le vendredi 20 novembre, pour tenter de retisser des liens plus étroits avec l’Union européenne. Ses critiques du Brexit ulcèrent les conservateurs et l’ex…
+- [20/11 10:01] Le Figaro — À Shenzhen, Xi Jinping s’affiche en pilier d’un nouvel ordre mondial
+  https://www.lefigaro.fr/international/a-shenzhen-xi-jinping-s-affiche-en-pilier-d-un-nouvel-ordre-mondial-en-tutoyant-trump-et-en-menageant-poutine-20261119
+  RÉCIT - À l’issue d’une rencontre ce jeudi, les présidents chinois, américain et russe ont assuré s’engager en faveur de la « paix », avec le maintien de la « stabilité stratégique », et contre la « guerre nucléaire »,…
+- [20/11 09:59] Le Figaro — Le sommet de Shenzhen, symbole du grand recul américain sous Donald Trump
+  https://www.lefigaro.fr/international/le-sommet-de-shenzhen-symbole-du-grand-recul-americain-sous-donald-trump-20261119
+  ANALYSE - La rencontre entre Xi Jinping, Donald Trump et Vladimir Poutine illustre les limites de la diplomatie personnelle du président des États-Unis.
+- [20/11 09:33] Le Monde — En Espagne, à dix jours des élections législatives, Pedro Sanchez admet des « erreurs »
+  https://www.lemonde.fr/international/article/2026/11/20/en-espagne-a-dix-jours-des-elections-legislatives-pedro-sanchez-admet-des-erreurs_6813603_3210.html
+  Attaqué sur son bilan par son rival conservateur, Alberto Nuñez Feijoo, lors d’un débat télévisé, jeudi 19 novembre, le premier ministre socialiste a cherché à remobiliser l’électorat de gauche. A ce stade, il ne décoll…
+- [20/11 09:20] Le Monde — EN DIRECT, guerre en Ukraine : des frappes russes sur Kiev font trois morts, une usine chimique ciblée en Russie... Les dernières informations
+  https://www.lemonde.fr/international/live/2026/11/20/en-direct-guerre-en-ukraine-des-frappes-russes-sur-kiev-une-usine-chimique-ciblee-en-russie-les-dernieres-informations_6810982_3210.html
+  Ces attaques surviennent alors que les forces ukrainiennes ont visé, dans la nuit de mercredi à jeudi, le pont de Crimée reliant le territoire russe à la péninsule de Crimée, annexée en 2014 par la Russie. Vladimir Pout…
+- [20/11 09:11] Le Monde — « La Birmanie doit ramener les Rohingya chez eux », exhorte le président de l’Assemblée générale de l’ONU, après la décision historique de la CIJ sur le génocide de 2017
+  https://www.lemonde.fr/international/article/2026/11/20/le-chef-de-l-assemblee-generale-de-l-onu-appelle-la-birmanie-a-ramener-les-rohingya-chez-eux_6813602_3210.html
+  La Cour internationale de justice a statué, jeudi, que les autorités birmanes avaient commis un génocide contre la minorité musulmane. Elle a aussi ordonné que les réfugiés puissent être rapatriés en toute sécurité.
+- [20/11 08:10] franceinfo — Vladimir Poutine, Xi Jinping et Donald Trump signent une "déclaration de paix" lors d'un sommet inédit en Chine
+  https://www.franceinfo.fr/monde/chine/vladimir-poutine-xi-jinping-et-donald-trump-signent-une-declaration-de-paix-lors-d-un-sommet-inedit-en-chine_8291768.html#xtor=RSS-3-%5Bmonde%5D
+  Vladimir Poutine, Xi Jinping et Donald Trump ont adopté une déclaration en faveur de la paix à l'issue d'un sommet tripartite sans précédent, jeudi 19 novembre, en Chine. Un rendez-vous vivement critiqué par la France e…
 - [20/11 07:49] franceinfo — Le président Nayib Bukele candidat pour un troisième mandat au Salvador
   https://www.franceinfo.fr/monde/le-president-nayib-bukele-candidat-pour-un-troisieme-mandat-au-salvador_8291765.html#xtor=RSS-3-[lestitres]
   Un changement dans la Constitution salvadorienne l'an passé lui permet de briguer une nouvelle fois la présidence de son pays.
 - [20/11 07:49] franceinfo — A suivre Alban Mikoczy : Xi/Trump/Poutine, l'Europe sur la touche
   https://www.franceinfo.fr/monde/a-suivre-alban-mikoczy-xi-trump-poutine-l-europe-sur-la-touche_8291774.html#xtor=RSS-3-%5Bmonde%5D
   Dans cette troisième partie, Alban Mikoczy et ses invités reviennent sur le sommet tripartite entre Xi Jinping, Donald Trump et Vladimir Poutine qui s'est tenu jeudi 19 novembre en Chine. Une séquence à retrouver dans l…
-- [20/11 07:36] Le Figaro — Guerre en Ukraine : trois morts et deux ponts endommagés à Kiev par des tirs de missiles balistiques russes
-  https://www.lefigaro.fr/international/guerre-en-ukraine-deux-ponts-endommages-a-kiev-par-des-tirs-de-missiles-balistiques-russes-20261120
-  La circulation sur le Dniepr est perturbée vendredi 20 novembre après des bombardements russes qui ont touché trois ponts de Kiev, dont deux ont subi des dégâts. Les autorités déplorent trois victimes mortelles.
 - [20/11 07:33] franceinfo — A suivre Alban Mikoczy : Anthropic en bourse, la nouvelle bulle financière ?
   https://www.franceinfo.fr/internet/intelligence-artificielle/a-suivre-alban-mikoczy-anthropic-en-bourse-la-nouvelle-bulle-financiere_8291750.html#xtor=RSS-3-%5Bmonde%5D
   Dans le quart d'heure américain, Alban Mikoczy et ses invités évoquent, jeudi 19 novembre, l'entrée en bourse du géant de l'intelligence artificielle Anthropic. Une séquence à retrouver dans l'émission "À suivre avec Lo…
-- [20/11 07:31] Le Figaro — Royaume-Uni : Andy Burnham à Bruxelles pour concrétiser son rapprochement avec l’Union européenne
-  https://www.lefigaro.fr/international/royaume-uni-andy-burnham-a-bruxelles-pour-concretiser-son-rapprochement-avec-l-union-europeenne-20261120
-  Dix ans après le référendum sur le Brexit, le premier ministre britannique rencontre vendredi les dirigeants européens à Bruxelles pour tenter de concrétiser un rapprochement entre Londres et l’UE. Plusieurs accords son…
 - [20/11 07:11] franceinfo — Trois personnes sont mortes à Kiev après des frappes russes sur l'Ukraine
-  https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/trois-personnes-sont-mortes-a-kiev-apres-des-frappes-russes-sur-l-ukraine_8291687.html#xtor=RSS-3-[lestitres]
+  https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/trois-personnes-sont-mortes-a-kiev-apres-des-frappes-russes-sur-l-ukraine_8291687.html#xtor=RSS-3-%5Bmonde%5D
   Des ponts de la capitale ukrainienne ont été à nouveau endommagés lors de ces bombardements.
-- [20/11 06:35] franceinfo — A suivre Alban Mikoczy : Mélenchon, les coulisses de son dîner avec des patrons
-  https://www.franceinfo.fr/politique/a-suivre-alban-mikoczy-melenchon-les-coulisses-de-son-diner-avec-des-patrons_8291672.html#xtor=RSS-3-%5Bpolitique%5D
-  Dans cette première partie, Alban Mikoczy et ses invités reviennent, jeudi 19 novembre sur le dîner entre Jean-Luc Mélenchon et des grands patrons qui s'est tenu quelques jours plus tôt. Une séquence à retrouver dans l'…
-- [20/11 06:21] Le Figaro — Guerre en Ukraine : Jared Kushner affirme que Donald Trump serait «disposé» à envisager la protection de l’Otan pour Kiev
-  https://www.lefigaro.fr/international/guerre-en-ukraine-jared-kushner-affirme-que-donald-trump-serait-dispose-a-envisager-la-protection-de-l-otan-pour-kiev-20261119
-  «Je pense que le président Trump est ouvert à cette idée, mais il va de soi que cela doit servir les intérêts des États-Unis», a ajouté l’émissaire américain.
 - [20/11 06:05] franceinfo — À Gaza, les habitants subissent une crise de liquidité et doivent réparer leurs billets de banque
   https://www.franceinfo.fr/monde/palestine/gaza/a-gaza-les-habitants-subissent-une-crise-de-liquidite-et-doivent-reparer-leurs-billets-de-banque_8290664.html#xtor=RSS-3-%5Bmonde%5D
   Depuis le départ de l'armée israélienne d'une partie de la bande de Gaza, des Palestiniens déplacés ont pu rentrer chez eux. L'enclave reste en proie aux inondations, aux bombardements, mais fait aussi face à un manque…
 - [20/11 06:04] franceinfo — "Combattez pour notre avenir, pas pour leurs guerres" : les jeunes Britanniques se mobilisent à leur tour pour de meilleures conditions d'études
   https://www.franceinfo.fr/monde/royaume-uni/combattez-pour-notre-avenir-pas-pour-leurs-guerres-les-jeunes-britanniques-se-mobilisent-a-leur-tour-pour-de-meilleures-conditions-d-etudes_8290598.html#xtor=RSS-3-%5Bmonde%5D
   Dans un rassemblement prévu vendredi à Londres, les jeunes Britanniques dénoncent à leur tour le manque de moyens pour l'éducation. Cette mobilisation à l'internationale, inspirée des mouvements lycéens français, rassem…
-- [20/11 06:04] Le Monde — EN DIRECT, guerre en Ukraine : des frappes russes sur Kiev font trois morts et endommagent deux ponts
-  https://www.lemonde.fr/international/live/2026/11/20/en-direct-guerre-en-ukraine-des-frappes-russes-sur-kiev-endommagent-deux-ponts_6810982_3210.html
-  Ces attaques surviennent alors que les forces ukrainiennes ont visé, dans la nuit de mercredi à jeudi, le pont de Crimée reliant le territoire russe à la péninsule de Crimée, annexée en 2014 par la Russie. Vladimir Pout…
 - [20/11 06:00] Le Monde — Au Royaume-Uni, Andy Burnham ravive le débat sur le Brexit, plus de cinq ans après sa mise en œuvre effective
   https://www.lemonde.fr/international/article/2026/11/20/au-royaume-uni-andy-burnham-ravive-le-debat-sur-le-brexit-plus-de-cinq-ans-apres-sa-mise-en-uvre-effective_6813589_3210.html
   Alors que les Européens et le Royaume-Uni doivent discuter de leur relation, vendredi 20 novembre, le sujet reste complexe outre-Manche. S’il martèle vouloir resserrer les liens avec l’Union, le premier ministre britann…
@@ -48,65 +51,35 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
   https://www.lemonde.fr/international/article/2026/11/20/salvador-le-president-bukele-profite-de-sa-reforme-constitutionnelle-pour-se-presenter-a-un-troisieme-mandat_6813581_3210.html
   Le chef de l’Etat de 45 ans a officialisé sa candidature, jeudi, après avoir fait modifier la Constitution, en 2025, pour lui permettre de se présenter de nouveau lors du scrutin de février 2027. Ses méthodes de lutte c…
 - [20/11 05:43] franceinfo — "Nous avons perdu plus que nous avons gagné" : dix ans après le Brexit, le Royaume-Uni veut à nouveau se rapprocher de l'Union européenne
-  https://www.franceinfo.fr/monde/royaume-uni/nous-avons-perdu-plus-que-nous-avons-gagne-dix-ans-apres-le-brexit-le-royaume-uni-veut-a-nouveau-se-rapprocher-de-l-union-europeenne_8288675.html#xtor=RSS-3-[lestitres]
+  https://www.franceinfo.fr/monde/royaume-uni/nous-avons-perdu-plus-que-nous-avons-gagne-dix-ans-apres-le-brexit-le-royaume-uni-veut-a-nouveau-se-rapprocher-de-l-union-europeenne_8288675.html#xtor=RSS-3-%5Bmonde%5D
   Londres et les 27 Etats membres comptent annoncer plusieurs accords, vendredi, à l'occasion d'un sommet à Bruxelles. Une nouvelle étape dans l'approfondissement des relations souhaité par le Premier ministre britannique…
 - [20/11 05:42] franceinfo — De l'Espagne à l'Albanie en passant par la France, une jeunesse européenne unie par des causes communes descend dans la rue
-  https://www.franceinfo.fr/monde/europe/de-l-espagne-a-l-albanie-en-passant-par-la-france-une-jeunesse-europeenne-unie-par-des-causes-communes-descend-dans-la-rue_8290049.html#xtor=RSS-3-[lestitres]
+  https://www.franceinfo.fr/monde/europe/de-l-espagne-a-l-albanie-en-passant-par-la-france-une-jeunesse-europeenne-unie-par-des-causes-communes-descend-dans-la-rue_8290049.html#xtor=RSS-3-%5Bmonde%5D
   Des classes surpeuplées en France, un logement hors de prix en Espagne et en Grèce, des demandes de changement politique en Albanie ou en Serbie... Les jeunes Européens ont pris d'assaut les rues du continent ces derniè…
-- [20/11 05:30] Le Monde — Guerre en Ukraine : à Berlin, la réunion des alliés de Kiev, miroir inversé de la rencontre de Shenzhen entre Xi, Trump et Poutine
+- [20/11 05:30] Le Monde — Guerre en Ukraine : à Berlin, les alliés de Kiev répondent aux provocations de Donald Trump et de Vladimir Poutine, réunis à Shenzhen
   https://www.lemonde.fr/international/article/2026/11/20/guerre-en-ukraine-a-berlin-la-reunion-des-allies-de-kiev-miroir-inverse-de-la-rencontre-de-shenzhen-entre-xi-trump-et-poutine_6813557_3210.html
-  Les membres de la coalition des volontaires, réunis jeudi en Allemagne, se sont engagés à honorer l’intégralité de l’aide promise en 2026 et à maintenir ce soutien en 2027, quand le président russe a mis en scène, en Ch…
-- [20/11 05:15] Le Monde — Au Brésil, l’apparition d’une ethnie autochtone non contactée suscite l’inquiétude pour sa survie
-  https://www.lemonde.fr/planete/article/2026/11/20/au-bresil-l-apparition-d-une-ethnie-autochtone-non-contactee-suscite-l-inquietude-pour-sa-survie_6813552_3244.html
-  Des Awa-Guaja sont brièvement sortis de leur isolement, lundi 16 novembre, pour la première fois depuis au moins cinquante ans. Les chercheurs craignent qu’ils soient victimes de la sécheresse ou des exactions de groupe…
+  Le chef du Kremlin a proposé de rencontrer les Européens à Moscou pour négocier le sort de l’Ukraine et de la future architecture de sécurité européenne. L’Europe compte « bientôt » participer à des discussions avec Kie…
 - [20/11 05:00] Le Monde — Présidentielle 2027 : le PS stoppe les discussions avec Les Ecologistes après le rapprochement entre Marine Tondelier et Jean-Luc Mélenchon
   https://www.lemonde.fr/politique/article/2026/11/20/presidentielle-2027-le-parti-socialiste-stoppe-les-discussions-avec-les-ecologistes-apres-le-ralliement-de-tondelier-a-melenchon_6813548_823448.html
   Raphaël Glucksmann, le candidat du Parti socialiste et de Place publique, a accusé, jeudi 19 novembre, la secrétaire nationale des Ecologistes d’avoir « tourné le dos » à la « tradition profondément pro-européenne » de…
 - [20/11 03:15] Le Monde — Des villes côtières de Californie bouleversées par la montée des eaux et la disparition des plages
   https://www.lemonde.fr/international/article/2026/11/20/des-villes-cotieres-de-californie-bouleversees-par-la-montee-des-eaux-et-la-disparition-des-plages_6813514_3210.html
   Maisons abîmées, inondations, glissements de terrain, routes coupées… En cette année marquée par un « El Niño » particulièrement puissant, les dégâts se multiplient dans les stations balnéaires du sud de l’Etat, mettant…
-- [19/11 23:55] Le Monde — Présidentielle : Yannick Jadot et Jérémie Iordanoff quittent Les Ecologistes, en réaction à la main tendue de Marine Tondelier à Jean-Luc Mélenchon
-  https://www.lemonde.fr/election-presidentielle-2027/article/2026/11/19/yannick-jadot-et-jeremie-iordanoff-quittent-les-ecologistes-apres-l-approche-de-marine-tondelier-vers-jean-luc-melenchon-pour-la-presidentielle_6813385_6205049.html
-  L’ex-candidat écologiste à la présidentielle de 2022 qualifie de « trahison » l’annonce de la cheffe du parti qui a ouvert la porte, mercredi soir, à un soutien à la candidature du leader LFI pour le scrutin de 2027.
 - [19/11 23:20] franceinfo — Un quart des enfants du monde vivent dans une zone de conflit, alerte l'ONG Save The Children
   https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/un-quart-des-enfants-du-monde-vivent-dans-une-zone-de-conflit-alerte-l-ong-save-the-children_8290703.html#xtor=RSS-3-%5Bmonde%5D
   Parmi ces zones figurent notamment l'Afrique subsaharienne, quelques régions du Mexique, le Yémen, l'Ukraine, la Birmanie, l'Afghanistan ou encore l'Irak et la Syrie.
-- [19/11 23:16] franceinfo — Yannick Jadot quitte Les Ecologistes après la main tendue de Marine Tondelier à Jean-Luc Mélenchon
-  https://www.franceinfo.fr/politique/yannick-jadot/yannick-jadot-quitte-les-ecologistes-apres-la-main-tendue-de-marine-tondelier-a-jean-luc-melenchon_8290748.html#xtor=RSS-3-%5Bpolitique%5D
-  "Pendant des années, j’ai porté ce mouvement politique, aujourd’hui c’est un fiasco, mais ma famille politique c’est l’écologie politique, incontestablement", a déclaré Yannick Jadot.
 - [19/11 23:12] Le Monde — Le Brésil reconnaît le territoire ancestral du chef indigène Raoni
   https://www.lemonde.fr/international/article/2026/11/19/le-bresil-reconnait-le-territoire-ancestral-du-chef-indigene-raoni_6813384_3210.html
   Le président brésilien a rendu visite au chef indigène Raoni Metuktire, 94 ans, avant d’assister à une cérémonie pour attribuer de façon permanente son territoire, Kapot Nhinore, aux peuples qui y vivent.
 - [19/11 22:57] franceinfo — Les murs de Belfast : des tensions toujours présentes entre catholiques et protestants
   https://www.franceinfo.fr/replay-jt/france-2/20-heures/les-murs-de-belfast-des-tensions-toujours-presentes-entre-catholiques-et-protestants_8290742.html#xtor=RSS-3-%5Bmonde%5D
   Près de 30 ans après l’accord de paix, entre l’Irlande du Nord et la République d’Irlande, la tension reste présente entre les communautés catholiques et protestantes, toujours divisées.
-- [19/11 22:33] franceinfo — "Si on avait su ce qu'allait donner le Brexit, pas grand monde n'aurait voté pour" : ces Anglais prêts à revenir dans l'Europe
-  https://www.franceinfo.fr/replay-jt/france-2/20-heures/si-on-avait-su-ce-qu-allait-donner-le-brexit-pas-grand-monde-n-aurait-vote-pour-ces-anglais-prets-a-revenir-dans-l-europe_8290721.html#xtor=RSS-3-%5Bmonde%5D
-  Vendredi 20 novembre, c’est à Bruxelles que se poursuit le rapprochement entre Londres et l’Union européenne. L’occasion de retrouver ceux qui avaient voté pour le Brexit. Dix ans après le référendum, plus de la moitié…
-- [19/11 22:13] franceinfo — Marine Tondelier divise la gauche après sa déclaration sur Jean-Luc Mélenchon : l'Insoumis peut-il modifier son programme pour une alliance avec les Écologistes ?
-  https://www.franceinfo.fr/politique/marine-tondelier/marine-tondelier-divise-la-gauche-apres-sa-declaration-sur-jean-luc-melenchon-l-insoumis-peut-il-modifier-son-programme-pour-une-alliance-avec-les-ecologistes_8290712.html#xtor=RSS-3-%5Bpolitique%5D
-  Sur le plateau du "20H" de France 2, mercredi soir, Marine Tondelier s’est dite prête à travailler à une coalition autour de Jean-Luc Mélenchon. Une annonce qui divise les Écologistes et fait bondir Raphaël Glucksmann.…
-- [19/11 22:12] Le Monde — « Les éléments démontrant la commission d’actes de violence sexuelle d’une grande brutalité au sein des communautés rohingya confortent la déduction d’une volonté de détruire les fondements du groupe…
-  https://www.lemonde.fr/international/article/2026/11/19/les-elements-demontrant-la-commission-d-actes-de-violence-sexuelle-d-une-grande-brutalite-et-de-violences-specifiquement-exercees-contre-des-enfants-au-sein-des-communautes-rohingya-confortent-egalement-la-deduction-d-une-volonte-de-detruire-_6813381_3210.html
-  « Le Monde » publie des extraits de l’arrêt du 19 novembre 2026 rendu par la Cour internationale de justice, dans l’affaire opposant la Gambie à la Birmanie sur la violation de la convention sur la prévention et la répr…
 - [19/11 21:30] Le Figaro — « On est parti sans savoir si on pourra rentrer un jour » : à Gaza, les chars israéliens font de nouveau fuir les familles
   https://www.lefigaro.fr/international/on-est-parti-sans-savoir-si-on-pourra-rentrer-un-jour-a-gaza-les-chars-israeliens-font-de-nouveau-fuir-les-familles-20261119
   RÉCIT - Treize mois après le cessez-le-feu, une incursion au-delà de la « ligne jaune » a déplacé des milliers de Palestiniens autour de Nusseirat et d’al-Bureij. Tsahal dit avoir visé un tunnel menaçant ses soldats. L’…
-- [19/11 21:06] Le Monde — Rohingya : un arrêt historique de la Cour de justice internationale reconnaît la Birmanie coupable de génocide
-  https://www.lemonde.fr/international/article/2026/11/19/rohingya-un-arret-historique-de-la-cour-de-justice-internationale-reconnait-la-birmanie-coupable-de-genocide_6813377_3210.html
-  L’organe judiciaire de l’ONU a considéré que le pays a violé six fois la convention sur le génocide de 1948. C’est la première fois de l’histoire qu’un Etat est condamné pour le « crime des crimes ». Quelque 10 000 Rohi…
-- [19/11 20:31] Le Figaro — Le sommet de Shenzhen, symbole du grand recul américain sous Donald Trump
-  https://www.lefigaro.fr/international/le-sommet-de-shenzhen-symbole-du-grand-recul-americain-sous-donald-trump-20261119
-  ANALYSE - La rencontre entre Xi Jinping, Donald Trump et Vladimir Poutine illustre les limites de la diplomatie personnelle du président des États-Unis.
-- [19/11 20:01] Le Figaro — L’éditorial de Philippe Gélie : « À Shenzhen, le sommet du nouveau monde »
-  https://www.lefigaro.fr/vox/monde/l-editorial-de-philippe-gelie-a-shenzhen-le-sommet-du-nouveau-monde-20261119
-  Si de multiples différends - commerciaux, technologiques, stratégiques - compliquent leur relation trilatérale, on voit bien ce qui réunit Xi Jinping, Donald Trump et Vladimir Poutine.
 - [19/11 20:01] Le Figaro — Après l’attaque ukrainienne contre le pont de Crimée, Vladimir Poutine promet des représailles «encore plus douloureuses»
   https://www.lefigaro.fr/international/apres-l-attaque-ukrainienne-contre-le-pont-de-crimee-vladimir-poutine-promet-des-represailles-encore-plus-douloureuses-20261119
   Sévèrement endommagé mardi par un missile et des drones ukrainiens, l’ouvrage reliant le territoire russe à la péninsule contrôlée par Moscou a été visé une troisième fois, mercredi soir, à la veille du sommet tripartit…
-- [19/11 20:00] Le Monde — Pour les Afghans expulsés d’Iran, un retour difficile dans leur pays : « Certaines nuits, nous dormons le ventre vide »
-  https://www.lemonde.fr/international/article/2026/11/19/pour-les-afghans-expulses-d-iran-un-retour-difficile-dans-leur-pays-certaines-nuits-nous-dormons-le-ventre-vide_6813373_3210.html
-  Depuis 2023, plus de 6 millions d’Afghans sont rentrés d’Iran et du Pakistan, souvent sous la contrainte. Ces familles peinent à retrouver un emploi, un logement et des conditions de vie dignes.
 - [19/11 19:30] Le Figaro — À Berlin, la « coalition des volontaires » repose la question de l’adhésion de l’Ukraine à l’Otan
   https://www.lefigaro.fr/international/a-berlin-la-coalition-des-volontaires-repose-la-question-de-l-adhesion-de-l-ukraine-a-l-otan-20261119
   RÉCIT - Les membres de la « coalition des volontaires » se sont rencontrés à Berlin ce jeudi, alors que Donald Trump, Xi Jinping et Vladimir Poutine se retrouvaient à Shenzhen.
@@ -116,9 +89,6 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [19/11 19:00] Le Figaro — Présidentielle 2027 : près de cinq ans après l’invasion russe, l’« effet drapeau » disparu de la guerre en Ukraine
   https://www.lefigaro.fr/politique/presidentielle-2027-pres-de-cinq-ans-apres-l-invasion-russe-l-effet-drapeau-disparu-de-la-guerre-en-ukraine-20261119
   DÉCRYPTAGE - Menacés d’être exclus du second tour de la présidentielle, les candidats pro-européens tentent de remettre le dossier ukrainien dans le débat public.
-- [19/11 18:53] Le Figaro — À Shenzhen, Xi Jinping s’affiche en pilier d’un nouvel ordre mondial
-  https://www.lefigaro.fr/international/a-shenzhen-xi-jinping-s-affiche-en-pilier-d-un-nouvel-ordre-mondial-en-tutoyant-trump-et-en-menageant-poutine-20261119
-  RÉCIT - À l’issue d’une rencontre ce jeudi, les présidents chinois, américain et russe ont assuré s’engager en faveur de la « paix », avec le maintien de la « stabilité stratégique », et contre la « guerre nucléaire »,…
 - [19/11 18:30] Le Monde — En Irak, la justice scelle le sort de six djihadistes français, dont Thomas Barnouin
   https://www.lemonde.fr/international/article/2026/11/19/en-irak-la-justice-scelle-le-sort-de-six-djihadistes-francais-dont-thomas-barnouin_6813357_3210.html
   Mercredi 18 novembre, à Bagdad, un tribunal irakien a condamné six Français à la prison à vie – équivalant à vingt ans de détention en Irak –, pour leur appartenance à l’organisation Etat islamique. Parmi eux figure le…
@@ -127,129 +97,165 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
   PORTRAIT - Inconnu il y a encore dix ans, le président du parti nationaliste Vox impose désormais ses thèmes de campagne. À quelques jours du scrutin, le Parti populaire du conservateur Alberto Núñez Feijóo n’exclut plu…
 
 ## France
+- [20/11 10:15] Le Figaro — La Cour de cassation a tranché : il n’est pas légal d’utiliser ce stratagème pour payer les heures supplémentaires
+  https://www.lefigaro.fr/vie-professionnelle/la-cour-de-cassation-a-tranche-il-n-est-pas-legal-d-utiliser-ce-stratageme-pour-payer-les-heures-supplementaires-20261120
+  Un employeur faisait valoir que les heures supplémentaires effectuées par une salariée qu’il avait licenciée, non déclarées sur ses bulletins de paie pendant plusieurs mois, avaient été régularisées ultérieurement.
+- [20/11 10:13] Le Figaro — Budget 2027 : 6 milliards d’euros d’économies supplémentaires ne pourront «être qu’un point de départ», affirme David Amiel
+  https://www.lefigaro.fr/conjoncture/budget-2027-6-milliards-d-euros-d-economies-supplementaires-ne-pourront-etre-qu-un-point-de-depart-affirme-david-amiel-20261120
+  «Il faudra des efforts budgétaires supplémentaires et je remarque d’ailleurs que le Sénat propose 6 milliards d’euros, c’est un point de départ», a déclaré le ministre des Comptes publics ce vendredi.
+- [20/11 10:08] Ouest-France — « C’était intense » : « Astrid et Raphaëlle » lance sa saison 7 au Japon, voici comment a été organisé le tournage
+  https://programmetv.ouest-france.fr/chaines/programme-tv-france-2-4/astrid-et-raphaelle-comment-a-ete-organise-le-tournage-du-debut-de-la-saison-7-a-tokyo-dca0c220-d76b-11f1-b736-5b9907ef0b5a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
+  Un double épisode lance la septième saison d’« Astrid et Raphaëlle ». Pour l’occasion, une partie du casting est partie au Japon. Sara Mortensen et Kengo Saïto, les interprètes de Raphaëlle et Tetsuo, nous ont dévoilé l…
+- [20/11 10:05] Ouest-France — Un homme tente de mettre le feu à une station-service à Soissons en ouvrant sept bouteilles de gaz
+  https://www.ouest-france.fr/societe/faits-divers/un-homme-tente-de-mettre-le-feu-a-une-station-service-a-soissons-sept-bouteilles-de-gaz-allumees-a1cdb6ba-e4bf-11f1-afa7-9a0bb82a33d1?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
+  Un homme a tenté de mettre le feu à une station-service de Soissons (Aisne), dans la nuit du jeudi 19 au vendredi 20 novembre. Il aurait ouvert sept bouteilles de gaz. Une enquête est ouverte.
+- [20/11 10:05] Le Monde — Commerces endommagés lors des manifestations : les modalités de l’aide pouvant aller jusqu’à 10 000 euros publiées au « Journal officiel »
+  https://www.lemonde.fr/economie/article/2026/11/20/commerces-endommages-lors-des-manifestations-les-modalites-de-l-aide-pouvant-aller-jusqu-a-10-000-euros-publiees-au-journal-officiel_6813612_3234.html
+  Pour en bénéficier, les entreprises doivent faire leur demande sur la plateforme Démarche numérique. Une commission sera créée dans chaque région pour examiner les demandes et fixer le montant accordé à chaque entrepris…
+- [20/11 10:02] franceinfo — Au moins 6 milliards d'euros d'économies supplémentaires sont nécessaires pour boucler le budget 2027, reconnaît le ministre des Comptes publics
+  https://www.franceinfo.fr/economie/budget/au-moins-6-milliards-d-euros-d-economies-supplementaires-sont-necessaires-pour-boucler-le-budget-2027-reconnait-le-ministre-des-comptes-publics_8291879.html#xtor=RSS-3-[lestitres]
+  Le projet de loi de finances commence à être débattu au Sénat après son rejet à l'Assemblée nationale.
+- [20/11 10:01] Le Figaro — Violences dans les lycées : Laurent Nuñez déplore toujours «beaucoup de jets de mortiers»
+  https://www.lefigaro.fr/actualite-france/violences-dans-les-lycees-laurent-nunez-deplore-toujours-beaucoup-de-jets-de-mortiers-20261120
+  Malgré l’interdiction temporaire de la vente de certains artifices, le ministre de l’Intérieur pointe la difficulté d’endiguer les achats sur internet.
+- [20/11 10:00] Le Monde — Les COP climat, rendez-vous incontournable des militantes de la société civile : « Il faut être là où les décisions se prennent, être vues et entendues »
+  https://www.lemonde.fr/planete/article/2026/11/20/les-cop-climat-rendez-vous-incontournable-des-militantes-de-la-societe-civile-il-faut-etre-la-ou-les-decisions-se-prennent-etre-vues-et-entendues_6813607_3244.html
+  Des militantes engagées pour l’émancipation des femmes et la cause climatique sont récompensées chaque année lors des COP. Pour elles, ces sommets sont l’occasion de faire entendre leurs voix et d’engranger des soutiens…
+- [20/11 09:58] franceinfo — VIDEO. Gabriel Attal interrogé par Neïla Latrous dans "L'Heure de vérité" : comment convaincre les jeunes ?
+  https://www.franceinfo.fr/replay-magazine/france-2/l-heure-de-verite/video-gabriel-attal-interroge-par-neila-latrous-dans-l-heure-de-verite-comment-convaincre-les-jeunes_8290673.html#xtor=RSS-3-%5Bpolitique%5D
+  Celui qui fut le plus jeune Premier ministre de la Ve République peut-il s'imposer comme le candidat des jeunes ? Dans "L'Heure de vérité", Gabriel Attal était interrogé le 19 novembre 2026 par Neïla Latrous, rédactrice…
+- [20/11 09:54] Le Monde — L’Arcom alerte sur le niveau « préoccupant » des agressions et intimidations visant des journalistes : « C’est inédit à ce degré de tension »
+  https://www.lemonde.fr/actualite-medias/article/2026/11/20/l-arcom-alerte-sur-le-niveau-preoccupant-des-agressions-et-intimidations-visant-des-journalistes-c-est-inedit-a-ce-degre-de-tension_6813605_3236.html
+  Des dizaines de cas de journalistes blessés par les forces de l’ordre ou des manifestants ont été rapportés depuis le début des manifestations rassemblant des lycéens et étudiants et des revendications contre la vie chè…
+- [20/11 09:54] franceinfo — VIDEO. Gabriel Attal interrogé par Benjamin Duhamel dans "L'Heure de vérité". Une campagne en panne ?
+  https://www.franceinfo.fr/replay-magazine/france-2/l-heure-de-verite/video-gabriel-attal-interroge-par-benjamin-duhamel-dans-l-heure-de-verite-une-campagne-en-panne_8290634.html#xtor=RSS-3-%5Bpolitique%5D
+  Le 19 novembre 2026, "L'Heure de vérité" recevait Gabriel Attal. Distancé dans les sondages, le chef du parti Renaissance va-t-il maintenir sa candidature à l'élection présidentielle ? Il répond aux questions de Benjami…
+- [20/11 09:53] Le Figaro — Le palmarès des 70 meilleures séries TV du 21e siècle, selon les experts du petit écran
+  https://tvmag.lefigaro.fr/programme-tv/series/le-palmares-des-70-meilleures-series-tv-du-21e-siecle-selon-les-experts-du-petit-ecran-20261120
+  EXCLUSIF - Nous avons demandé à des scénaristes, réalisateurs, producteurs, comédiens, chefs monteurs ou encore preneurs de son de nous dire quelles sont les séries majoritairement diffusées après l’an 2000 qu’ils estim…
+- [20/11 09:51] Ouest-France — Présidentielle 2027. « Et si on s’aimait encore ? » : Dominique de Villepin sur le point d’annoncer sa candidature
+  https://www.ouest-france.fr/elections/presidentielle/presidentielle-2027-dominique-de-villepin-sur-le-point-dannoncer-sa-candidature-04599dc4-e4b3-11f1-afa7-9a0bb82a33d1?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
+  Dominique de Villepin va s’exprimer publiquement ce vendredi 20 novembre. L’ancien premier ministre pourrait alors annoncer sa candidature à la présidentielle. Il souhaite se positionner comme une alternative aux « extr…
+- [20/11 09:51] franceinfo — VIDEO. Gabriel Attal interrogé par Eugénie Bastié dans "L'Heure de vérité". Le candidat des métropoles ?
+  https://www.franceinfo.fr/replay-magazine/france-2/l-heure-de-verite/video-gabriel-attal-interroge-par-par-eugenie-bastie-dans-l-heure-de-verite-le-candidat-des-metropoles_8290655.html#xtor=RSS-3-%5Bpolitique%5D
+  Gabriel Attal était l'invité de l'émission "L'Heure de vérité" le 19 novembre 2026. Pour parler de son rapport à la France, le candidat Renaissance était interviewé par Eugénie Bastié, rédactrice en chef adjointe au "Fi…
+- [20/11 09:49] Le Figaro — Soupçons de fuites au profit du RN : «Si les faits» concernant le préfet Moutouh «sont avérés, ils sont très graves», réagit Laurent Nuñez
+  https://www.lefigaro.fr/actualite-france/soupcons-de-fuites-au-profit-du-rn-si-les-faits-concernant-le-prefet-moutouh-sont-averes-ils-sont-tres-graves-reagit-laurent-nunez-20261120
+  Le ministre de l’Intérieur Laurent Nuñez a commenté l’enquête du «Monde» rapportant des soupçons de fuites sur des enquêtes mettant en cause le RN de la part du préfet Hugues Moutouh.
+- [20/11 09:47] Ouest-France — « C’est le paradis sur terre » : ce camping naturiste de Corse est élu meilleur de France par des professionnels
+  https://www.ouest-france.fr/tourisme/cest-le-paradis-sur-terre-ce-camping-naturiste-de-corse-est-elu-meilleur-de-france-par-des-professionnels-09f8daaa-e298-11f1-9549-83e3460b2e87?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
+  Le Camping Riva Bella de Linguizzetta, en Haute-Corse, a obtenu la meilleure note globale décernée par les professionnels aux Trophées Camping Qualité 2026. Du côté des consommateurs, c’est un établissement de Mayenne q…
+- [20/11 09:47] Ouest-France — Les assureurs sont «défavorables à la philosophie» de la «taxe casseurs», selon Adrien Couret, patron d’Aéma groupe
+  https://www.ouest-france.fr/economie/assurance/les-assureurs-sont-defavorables-a-la-philosophie-de-la-taxe-casseurs-selon-adrien-couret-patron-daema-groupe-6a7c8b98-e4bd-11f1-afa7-9a0bb82a33d1?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
+  Les assureurs sont « défavorables à la philosophie » de la « taxe casseurs », ou garantie émeutes, que l’État compte mettre en place, a déclaré Adrien Couret patron de l’assureur Aéma Groupe (Aésio, Macif, Abeilles assu…
+- [20/11 09:46] Le Monde — Fuites en provenance du ministère de l’intérieur vers le RN : des faits « extrêmement graves » s’ils sont avérés, juge Laurent Nuñez
+  https://www.lemonde.fr/societe/article/2026/11/20/fuites-en-provenance-du-ministere-de-l-interieur-vers-le-rn-des-faits-extremement-graves-s-ils-sont-averes-juge-laurent-nunez_6813604_3224.html
+  La justice soupçonne des fuites d’éléments liés à des enquêtes en cours concernant le Rassemblement national. Des perquisitions ont été menées au siège du parti et au ministère de l’intérieur. Le préfet Hugues Moutouh e…
+- [20/11 09:45] franceinfo — VIDEO. Gabriel Attal interrogé par Thomas Porcher dans "L'Heure de vérité" : un programme économique macroniste ?
+  https://www.franceinfo.fr/replay-magazine/france-2/l-heure-de-verite/video-gabriel-attal-interroge-par-thomas-porcher-dans-l-heure-de-verite-un-programme-economique-macroniste_8290661.html#xtor=RSS-3-%5Bpolitique%5D
+  Gabriel Attal, candidat Renaissance à l'élection présidentielle, était l'invité de "L'Heure de vérité" le 19 novembre 2026. Sur son programme économique, cet héritier du macronisme était interrogé par Thomas Porcher, éc…
+- [20/11 09:41] Ouest-France — « La jeunesse contre la guerre » : après l’appel européen à la mobilisation, à quoi s’attendre ce 20 novembre à Rennes ?
+  https://www.ouest-france.fr/societe/manifestation/la-jeunesse-contre-la-guerre-apres-lappel-europeen-a-la-mobilisation-a-quoi-sattendre-ce-20-novembre-a-rennes-d8acd20c-e419-11f1-9a72-32f9104dab1b?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
+  Dans le cadre du mouvement européen « Youth Strike », des organisations et syndicats lycéens et étudiants appellent à une mobilisation internationale pour défendre l’avenir de la jeunesse. À Rennes (Ille-et-Vilaine), un…
+- [20/11 09:38] franceinfo — VIDEO. Gabriel Attal interrogé par Maryse Burgot dans "L'Heure de vérité" : un candidat va-t-en-guerre ?
+  https://www.franceinfo.fr/replay-magazine/france-2/l-heure-de-verite/video-gabriel-attal-dans-l-heure-de-verite-un-candidat-va-t-en-guerre_8290667.html#xtor=RSS-3-%5Bpolitique%5D
+  Le 19 novembre 2026, Gabriel Attal est venu défendre dans "L'Heure de vérité" sa vision et son projet pour la France. Sur les questions de politique internationale, il était interrogé par Maryse Burgot, grand reporter à…
+- [20/11 09:33] franceinfo — Une militante accréditée par la France se voit retirer son badge pour la COP31 sur le climat après un échange filmé avec la ministre Monique Barbut
+  https://www.franceinfo.fr/environnement/crise-climatique/cop-climat/une-militante-accreditee-par-la-france-se-voit-retirer-son-badge-pour-la-cop31-sur-le-climat-apres-un-echange-filme-avec-la-ministre-monique-barbut_8291873.html#xtor=RSS-3-[lestitres]
+  La femme a interpellé la ministre sur des aides financières bloquées par la France et a filmé la scène. Elle affirme ne pas avoir été "dans l'affrontement". De son côté, le cabinet de la ministre dénonce une attitude ag…
+- [20/11 09:28] Le Figaro — Les agressions et intimidations contre les journalistes à un niveau «préoccupant», alerte l'Arcom
+  https://www.lefigaro.fr/medias/les-agressions-et-intimidations-contre-les-journalistes-a-un-niveau-preoccupant-alerte-l-arcom-20261120
+  Des dizaines de cas de journalistes blessés ont été rapportés depuis le début des manifestations rassemblant des lycéens et étudiants et des revendications contre la vie chère. Des journalistes travaillant pour des chaî…
+- [20/11 09:24] franceinfo — Préfet soupçonné d'avoir renseigné le RN : "Si les faits sont avérés, ils sont évidemment très graves", déclare Laurent Nuñez, qui a convoqué Hugues Moutouh
+  https://www.franceinfo.fr/societe/justice/direct-si-les-faits-sont-averes-ils-sont-evidemment-tres-graves-laurent-nunez-convoque-le-prefet-hugues-moutouh-soupconne-d-avoir-transmis-des-informations-sensibles-au-rassemblement-national_8291756.html#xtor=RSS-3-[lestitres]
+  La justice a perquisitionné le siège du Rassemblement national début novembre à la suite d'une information judiciaire ouverte au mois de juillet.
+- [20/11 09:21] franceinfo — "On a encore une journée compliquée devant nous", prévient le préfet du Pas-de-Calais sur les inondations toujours en cours
+  https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/inondations-et-crues/on-a-encore-une-journee-compliquee-devant-nous-previent-le-prefet-du-pas-de-calais-sur-les-inondations-toujours-en-cours_8291771.html#xtor=RSS-3-[lestitres]
+  François-Xavier Lauch évoque 450 personnes évacuées au total et un peu plus d'une trentaine de communes sont désormais touchées par ces crues. Il appelle à ne prendre aucun risque pour "éviter le pire".
+- [20/11 09:20] franceinfo — Encadrement des loyers : "Le statu quo, c'est la prolongation de l'expérimentation" et non pas l'ouverture à d'autres villes, indique Vincent Jeanbrun, ministre du Logement
+  https://www.franceinfo.fr/politique/encadrement-des-loyers-le-statu-quo-c-est-la-prolongation-de-l-experimentation-et-non-pas-l-ouverture-a-d-autres-villes-indique-vincent-jeanbrun-ministre-du-logement_8291831.html#xtor=RSS-3-[lestitres]
+  Vincent Jeanbrun, ministre de la Ville et du Logement, était l'invité des "4 Vérités", vendredi 20 novembre. La prolongation pour deux ans de l'encadrement des loyers a été votée la veille. Ce dispositif s'applique à 70…
+- [20/11 09:17] Le Figaro — EN DIRECT - Présidentielle 2027 : tensions chez les Écologistes, Villepin se prépare à entrer en scène
+  https://www.lefigaro.fr/elections/presidentielles/en-direct-presidentielle-2027-tensions-chez-les-ecologistes-villepin-se-prepare-a-entrer-en-scene-20261120
+  Yannick Jadot et Jérémie Iordanoff quittent les Écologistes après l’approche de Marine Tondelier vers Jean-Luc Mélenchon. Dominique de Villepin doit s’exprimer ce vendredi sur sa candidature.
+- [20/11 09:08] Le Figaro — Le RN au cœur d’une nouvelle enquête autour de fuites impliquant un préfet
+  https://www.lefigaro.fr/actualite-france/soupcons-de-violation-du-secret-professionnel-des-juges-d-instruction-ont-perquisitionne-le-siege-du-rn-20261119
+  Cette instruction est une procédure incidente : elle a été ouverte à la suite d’une autre perquisition, réalisée dans le cadre d’une enquête conduite par le parquet européen.
+- [20/11 09:04] franceinfo — "Des rumeurs et des accusations sans fondement", réagit Jean-Philippe Tanguy dans l'affaire du préfet soupçonné d'avoir renseigné le RN sur des affaires en cours
+  https://www.franceinfo.fr/politique/front-national/des-rumeurs-et-des-accusations-sans-fondement-reagit-jean-philippe-tanguy-dans-l-affaire-du-prefet-soupconne-d-avoir-renseigne-le-rn-sur-des-affaires-en-cours_8291828.html#xtor=RSS-3-[lestitres]
+  Le député RN de la Somme s'exprime sur France Inter après les accusations visant Huges Moutouh d'avoir transmis des informations sensibles au Rassemblement national.
+- [20/11 09:04] Le Figaro — Présidentielle 2027 : Dominique de Villepin, les coulisses d’une entrée en campagne imminente
+  https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-dominique-de-villepin-les-coulisses-d-une-entree-en-campagne-imminente-20261118
+  Sur le point d’officialiser sa candidature, l’ancien premier ministre a opéré un rafraîchissement politique, cherchant à séduire à la fois les électeurs de gauche et de droite.
+- [20/11 08:52] franceinfo — Julien Odoul appelle à "préserver" le secret de l'instruction dans l'affaire du préfet soupçonné d'avoir renseigné le RN sur des affaires en cours
+  https://www.franceinfo.fr/politique/front-national/julien-odoul-appelle-a-preserver-le-secret-de-l-instruction-dans-l-affaire-du-prefet-soupconne-d-avoir-renseigne-le-rn-sur-des-affaires-et-denonce-l-instrumentalisation-par-jean-luc-melenchon_8291837.html#xtor=RSS-3-%5Bpolitique%5D
+  Invité du 8h30 de franceinfo, le porte-parole du Rassemblement national répond aux accusations visant le préfet du Loiret, soupçonné d'avoir transmis au Rassemblement national des informations sensibles sur des affaires…
+- [20/11 08:30] franceinfo — "Ça me scandalise" : les réactions des créateurs de contenus aux annonces de l'Arcom qui impose le pluralisme politique
+  https://www.franceinfo.fr/elections/ca-me-scandalise-les-reactions-des-createurs-de-contenus-aux-annonces-de-l-arcom-qui-impose-le-pluralisme-politique_8291759.html#xtor=RSS-3-[lestitres]
+  Les gros créateurs de contenus sur YouTube et les réseaux sociaux devront respecter pour la première fois le pluralisme dans leur traitement de la présidentielle, comme les télévisions et les radios, a annoncé le régula…
+- [20/11 08:27] franceinfo — Des vols annulés en Corse et aucune traversée maritime au départ de Bastia et de L'Île-Rousse en raison des rafales de vent
+  https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/des-vols-annules-en-corse-et-aucune-traversee-maritime-au-depart-de-bastia-et-de-l-ile-rousse-en-raison-des-rafales-de-vent_8291816.html#xtor=RSS-3-[lestitres]
+  Localement, ces rafales peuvent atteindre jusqu'à 170 km/h en Haute-Corse. En conséquence, il y a des perturbations sur les transports maritimes et aériens.
+- [20/11 08:26] Le Figaro — Landes : un cargo s’échoue sur le littoral, une partie de l’équipage évacuée
+  https://www.lefigaro.fr/actualite-france/landes-un-cargo-s-echoue-sur-le-littoral-une-operation-d-evacuation-en-cours-20261120
+  Un cargo battant pavillon maltais s’est échoué tôt ce vendredi sur la côte landaise, à hauteur de la commune de Lit-et-Mixe.
+- [20/11 08:25] Le Monde — Les découverts bancaires de moins de 200 euros désormais considérés comme des crédits à la consommation
+  https://www.lemonde.fr/argent/article/2026/11/20/les-decouverts-bancaires-de-moins-de-200-euros-desormais-consideres-comme-des-credits-a-la-consommation_6813600_1657007.html
+  A partir du 20 novembre, les banques doivent procéder à un examen de la solvabilité de leur client avant de lui accorder une autorisation de découvert.
+- [20/11 08:19] Le Monde — Présidentielle 2027 : François Hollande laisse à Raphaël Glucksmann jusqu’à février pour montrer qu’il est capable de convaincre
+  https://www.lemonde.fr/politique/article/2026/11/20/presidentielle-2027-francois-hollande-laisse-a-raphael-glucksmann-jusqu-a-fevrier-pour-convaincre_6813599_823448.html
+  L’ancien président (Parti socialiste), qui avait renoncé à se représenter en 2017 compte tenu de sa forte impopularité, continue d’entretenir le doute sur une éventuelle candidature.
 - [20/11 08:04] Le Figaro — Présidentielle 2027 : «Ça devrait pouvoir se faire», Mélenchon salue l’offre faite par Tondelier de discuter d’une «coalition»
   https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-ca-devrait-pouvoir-se-faire-melenchon-salue-l-offre-faite-par-tondelier-de-discuter-d-une-coalition-20261120
   Le candidat insoumis a accueilli positivement les déclarations de la candidate écologiste Marine Tondelier qui appelle à former «une coalition». Tout en précisant «marcher sur des œufs».
-- [20/11 08:04] Le Figaro — EN DIRECT - Présidentielle 2027 : tensions chez les Écologistes, Villepin se prépare à entrer en scène
-  https://www.lefigaro.fr/elections/presidentielles/en-direct-presidentielle-2027-tensions-chez-les-ecologistes-villepin-se-prepare-a-entrer-en-scene-20261120
-  Yannick Jadot et Jérémie Iordanoff quittent les Écologistes après l’approche de Marine Tondelier vers Jean-Luc Mélenchon. Dominique de Villepin doit s’exprimer ce vendredi sur sa candidature.
-- [20/11 08:00] Ouest-France — « Si je te punis, c’est pour ton bien » : qu’est-ce que l’adultisme, et pourquoi mérite-t-il d’être remis en question ?
-  https://www.ouest-france.fr/leditiondusoir/2026-11-19/si-je-te-punis-c-est-pour-ton-bien-qu-est-ce-que-l-adultisme-et-pourquoi-merite-t-il-d-etre-remis-en-question-1e022f0b-2a7b-4611-a602-1acfeaf82d47?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
-  Les réflexions sur l’adultisme montrent que de bonnes intentions éducatives peuvent masquer des rapports de force. Nous avons été formés à voir dans l’âge une supériorité. Mais l’argument de l’expérience n’est-il pas la…
-- [20/11 08:00] Le Monde — « GTA VI » signe-t-il la mort du disque ?
-  https://www.lemonde.fr/flux-video-immersif/video/2026/11/20/gta-vi-signe-t-il-la-mort-du-disque_6813597_6717263.html
-  « L’Heure du Monde ». Le dernier « Grand Theft Auto » sort treize ans après son prédécesseur. Entre-temps, le marché du jeu vidéo a évolué et l’importance du disque s’est effondrée.
-- [20/11 07:55] Le Figaro — Landes : un cargo s’échoue sur le littoral, une opération d'évacuation en cours
-  https://www.lefigaro.fr/actualite-france/landes-un-cargo-s-echoue-sur-le-littoral-une-operation-d-evacuation-en-cours-20261120
-  Un cargo battant pavillon maltais s’est échoué tôt ce vendredi sur la côte landaise, à hauteur de la commune de Lit-et-Mixe.
-- [20/11 07:48] Ouest-France — ENTRETIEN. « L’Ouest contribue largement au succès de Choose France », salue Roland Lescure, le ministre de l’Économie
-  https://www.ouest-france.fr/economie/industries/entretien-louest-contribue-largement-au-succes-de-choose-france-salue-roland-lescure-le-ministre-de-leconomie-8520dd4a-e3fb-11f1-9a72-32f9104dab1b?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
-  Le sommet « Choose France - Édition France », dédié aux investissements d’entreprises françaises dans l’Hexagone, aura lieu lundi 23 novembre. Roland Lescure, le ministre de l’Économie et des Finances, dévoile en exclus…
-- [20/11 07:46] franceinfo — "On a encore une journée compliquée devant nous", prévient le préfet du Pas-de-Calais sur les inondations toujours en cours
-  https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/inondations-et-crues/on-a-encore-une-journee-compliquee-devant-nous-previent-le-prefet-du-pas-de-calais-sur-les-inondations-toujours-en-cours_8291771.html#xtor=RSS-3-[lestitres]
-  François-Xavier Lauch évoque 450 personnes évacuées au total et un peu plus d'une trentaine de communes sont désormais touchées par ces crues. Il appelle à ne prendre aucun risque pour "éviter le pire".
-- [20/11 07:36] Le Figaro — Emmanuel Macron rencontre ce vendredi Kamala Harris à Paris
-  https://www.lefigaro.fr/politique/emmanuel-macron-rencontre-ce-vendredi-kamala-harris-a-paris-20261120
-  L’ex-vice-présidente américaine est attendue ce vendredi auprès du chef de l’État pour un échange informel, selon l’Élysée. Envisagée parmi les prétendants démocrates à la présidentielle de 2028, elle effectue cette vis…
-- [20/11 07:31] Ouest-France — Lille, Besançon, Orléans, Limoges, Lyon… Découvrez le Top 50 des grandes villes les plus médiatisées en 2026
-  https://www.ouest-france.fr/medias/lille-besancon-orleans-limoges-lyon-decouvrez-le-top-50-des-grandes-villes-les-plus-mediatisees-en-2026-8a621b46-e100-11f1-9a29-f4bab172af08?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
-  Elles ont beaucoup fait parler d’elles cette année - parfois de manière positive, parfois moins. Ouest-France publie, avec la plateforme Tagaday, la 4e édition de son baromètre de la présence dans les médias des 50 plus…
-- [20/11 07:30] Ouest-France — ENTRETIEN. Éric Dupond-Moretti : « Tout ce que fait le RN relève de la dissimulation et non de la dédiabolisation »
-  https://www.ouest-france.fr/elections/presidentielle/entretien-eric-dupond-moretti-tout-ce-que-fait-le-rn-releve-de-la-dissimulation-et-non-de-la-dediabolisation-797901a2-e423-11f1-a3b1-0c6de532ce7d?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
-  L’ancien garde des Sceaux est l’invité ce samedi 21 novembre 2026 du Breizh Lab de l’ancien ministre des Affaires étrangères, Jean-Yves le Drian, consacré à la résistance républicaine. Éric Dupond-Moretti, revient sur l…
-- [20/11 07:30] Ouest-France — Rennes, Nantes, Vannes, Laval, Caen… Voici les villes (et maires) de l’Ouest qui font le plus parler d’elles
-  https://www.ouest-france.fr/medias/rennes-nantes-vannes-laval-caen-voici-les-villes-et-maires-de-louest-qui-font-le-plus-parler-delles-2fb58940-e25d-11f1-a3b1-0c6de532ce7d?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
-  Ça bouge dans la 4e édition du baromètre Ouest-France/Tagaday des villes et maires de Bretagne, Normandie et Pays de la Loire les plus cités dans les médias français. Au niveau global, Rennes repasse devant Nantes cette…
-- [20/11 07:16] franceinfo — REPLAY. "J'assume de demander des efforts" : revivez le passage de Gabriel Attal dans "L'Heure de vérité"
-  https://www.franceinfo.fr/replay-magazine/france-2/l-heure-de-verite/direct-presidentielle-2027-gabriel-attal-est-l-invite-de-l-heure-de-verite-a-partir-de-20h40_8288690.html#xtor=RSS-3-%5Bpolitique%5D
-  Le candidat de Renaissance à la présidentielle était l'invité de l'émission politique de France 2 jeudi soir.
+- [20/11 07:56] franceinfo — "Plus de restrictions" avec la réforme du crédit à la consommation, "c'est la bonne direction", estime une association de lutte contre le surendettement
+  https://www.franceinfo.fr/economie/plus-de-restrictions-avec-la-reforme-du-credit-a-la-consommation-c-est-la-bonne-direction-estime-une-association-de-lutte-contre-le-surendettement_8291786.html#xtor=RSS-3-[lestitres]
+  Dès le vendredi 20 novembre, avant d'octroyer un découvert bancaire, la banque devra évaluer la solvabilité du client et s'assurer qu'il sera en mesure de rembourser ultérieurement.
 - [20/11 07:15] Le Figaro — Agressions de reporters, offensive à l’Assemblée, pression des syndicats : quand la gauche menace la liberté d’informer
   https://www.lefigaro.fr/actualite-france/agressions-de-reporters-offensive-a-l-assemblee-pression-des-syndicats-quand-la-gauche-menace-la-liberte-d-informer-20261120
   ENQUÊTE - La France insoumise et ses affidés entendent dicter leur loi aux rédactions. Avec l’aide, parfois, de syndicats qui appuient en coulisses la candidature de Jean-Luc Mélenchon.
-- [20/11 07:14] franceinfo — Présidentielle 2027 : Dominique de Villepin en route vers une candidature à l'Elysée
-  https://www.franceinfo.fr/elections/direct-presidentielle-dominique-de-villepin-en-route-vers-une-candidature-a-la-presidentielle-suivez-la-prise-de-parole-de-l-ancien-premier-ministre_8291558.html#xtor=RSS-3-[lestitres]
-  Le président du mouvement La France humaniste, qui peut s'adresser aussi bien à un électorat de gauche qu'au peuple de droite va tenter de se frayer un chemin parmi les nombreuses candidatures à l'Elysée.
 - [20/11 07:11] Le Monde — Pesticides : des parents d’élèves somment l’Etat d’élargir le périmètre de non-traitement autour des écoles
   https://www.lemonde.fr/les-decodeurs/article/2026/11/20/pesticides-des-parents-d-eleves-somment-l-etat-d-elargir-le-perimetre-de-non-traitement-autour-des-ecoles_6813595_4355770.html
   Alors qu’au moins 1,7 million d’écoliers français sont concernés par une pression pesticide forte autour de leur établissement, deux fédérations de parents d’élèves ont envoyé, jeudi 19 novembre, une demande préalable à…
-- [20/11 07:04] franceinfo — "Une première mondiale" : le président du groupe Urgo annonce la création en laboratoire d'une peau artificielle vivante
-  https://www.franceinfo.fr/sante/une-premiere-mondiale-le-president-du-groupe-urgo-annonce-la-creation-en-laboratoire-d-une-peau-artificielle-vivante_8291699.html#xtor=RSS-3-[lestitres]
-  Le laboratoire Urgo, notamment spécialisé dans les soins de cicatrisation se félicite sur France Inter vendredi de cette avancée majeure qui va permettre de "remplacer l'autogreffe qui, aujourd'hui, nécessite plusieurs…
-- [20/11 06:51] Le Figaro — «Un truc de dingue» : Urgo crée une peau artificielle, prête à être greffée
-  https://www.lefigaro.fr/societes/un-truc-de-dingue-urgo-cree-une-peau-artificielle-prete-a-etre-greffee-20261120
-  Pour la première fois au monde, une peau artificielle a été produite en laboratoire. Cette annonce devrait être une des plus marquantes, si ce n’est la principale, du prochain sommet Choose France qui se tiendra le 23 n…
-- [20/11 06:26] franceinfo — Le gouvernement précise les conditions d'accès aux aides pour les commerçants touchés par les événements du 17 octobre
-  https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/le-gouvernement-precise-les-conditions-d-acces-aux-aides-pour-les-commercants-touches-par-les-evenements-du-17-octobre_8291621.html#xtor=RSS-3-[lestitres]
-  Pour se voir attribuer cette aide exceptionnelle qui peut atteindre 10 000 euros pour les petites entreprises, les commerçants doivent justifier notamment d'une baisse de chiffre d'affaires d'au moins 25%.
 - [20/11 06:25] Le Monde — Un cargo s’échoue sur le littoral des Landes, une partie de l’équipage évacuée par hélicoptère
   https://www.lemonde.fr/societe/article/2026/11/20/un-cargo-s-echoue-sur-le-littoral-des-landes-l-evacuation-de-son-equipage-ordonnee_6813591_3224.html
   Dix-neuf marins ont été hélitreuillés et transportés dans un centre d’hébergement d’urgence, tandis que trois membres de l’équipage sont restés à bord afin de sécuriser le navire, a annoncé la préfecture des Landes.
 - [20/11 06:15] Le Figaro — Colère des lycéens et étudiants : en classes prépas, l’équité aux concours remise en question par les blocages
   https://www.lefigaro.fr/actualite-france/colere-des-lyceens-et-etudiants-en-classes-prepas-l-equite-aux-concours-remise-en-question-par-les-blocages-20261120
   DÉCRYPTAGE - Dans 20 % des lycées ayant une prépa scientifique, les cours ne se sont pas déroulés « normalement », pendant au moins deux semaines. Les concours, eux, arrivent mi-avril.
-- [20/11 06:09] franceinfo — Alimentation, tabagisme, sédentarité ou stress... La Haute Autorité de Santé souligne l'importance du mode de vie face aux risques cardiovasculaires
-  https://www.franceinfo.fr/sante/alimentation-tabagisme-sedentarite-ou-stress-la-haute-autorite-de-sante-souligne-l-importance-du-mode-de-vie-face-aux-risques-cardiovasculaires_8290709.html#xtor=RSS-3-[lestitres]
-  Les maladies cardiovasculaires sont la deuxième cause de mortalité en France, après le cancer. Pour mieux prévenir les accidents cardiaques, la Haute Autorité de Santé recommande aux médecins de tenir davantage compte d…
 - [20/11 06:03] Le Monde — Les nouvelles règles d’Airbnb suscitent la colère des petits propriétaires : « Le fait de payer n’offre pas tous les droits »
   https://www.lemonde.fr/economie/article/2026/11/20/vaisselle-poubelles-draps-les-nouvelles-regles-d-airbnb-suscitent-la-colere-des-petits-proprietaires_6813590_3234.html
   Des dizaines de milliers d’hôtes dénoncent l’encadrement des consignes sur les tâches ménagères et la modification des commissions. Certains quittent la plateforme, accusée de se rapprocher du modèle hôtelier.
-- [20/11 06:00] Le Figaro — Le palmarès des 70 meilleures séries TV du 21e siècle, selon les experts du petit écran
-  https://tvmag.lefigaro.fr/programme-tv/series/le-palmares-des-70-meilleures-series-tv-du-21e-siecle-selon-les-experts-du-petit-ecran-20261120
-  EXCLUSIF - Nous avons demandé à des scénaristes, réalisateurs, producteurs, comédiens, chefs monteurs ou encore preneurs de son de nous dire quelles sont les séries majoritairement diffusées après l’an 2000 qu’ils estim…
-- [20/11 05:41] franceinfo — "Vu à quel niveau sont les autres, on n'est pas si loin" : Dominique de Villepin se lance dans la course présidentielle malgré les embûches
-  https://www.franceinfo.fr/elections/vu-a-quel-niveau-sont-les-autres-on-n-est-pas-si-loin-dominique-de-villepin-se-lance-dans-la-course-presidentielle-malgre-les-embuches_8288267.html#xtor=RSS-3-[lestitres]
-  L'ancien Premier ministre de Jacques Chirac prépare son retour en politique depuis de longs mois, se posant en recours face aux extrêmes, malgré un espace déjà saturé de candidats et des intentions de vote très modestes…
 - [20/11 05:26] Le Monde — Mouvement lycéen : l’impossible débat sur le « maintien de l’ordre à la française »
   https://www.lemonde.fr/societe/article/2026/11/20/mouvement-lyceen-l-impossible-debat-sur-le-maintien-de-l-ordre-a-la-francaise_6813554_3224.html
-  Les pratiques policières violentes filmées lors des mobilisations des lycéens posent la question de la pertinence de la doctrine de « contact », en vigueur depuis le milieu des années 2010.
+  Les pratiques policières violentes filmées lors des manifestations et actions lycéennes posent la question de la pertinence de la doctrine de « contact », en vigueur depuis le milieu des années 2010.
 - [20/11 05:15] Le Monde — Jean-Luc Mélenchon suscite l’engouement chez les 18-24 ans, inquiets des crises sociale et climatique : « Il n’y a pas d’autre candidat pour lequel cela vaille la peine de voter »
   https://www.lemonde.fr/politique/article/2026/11/20/jean-luc-melenchon-suscite-l-engouement-chez-les-18-24-ans-inquiets-des-crises-sociale-et-climatique-il-n-y-a-pas-d-autre-candidat-pour-lequel-cela-vaille-la-peine-de-voter_6813553_823448.html
   Entre aspiration à la radicalité et désir de changement, les jeunes de 18 à 24 ans sont nombreux à afficher leur soutien au programme de La France insoumise et à déclarer vouloir voter pour son candidat lors de l’électi…
-- [20/11 05:00] Le Monde — « A l’évidence, ce projet est un échec » : dix ans après sa réhabilitation, l’agonie du quartier Rosa-Parks miné par le crack
+- [20/11 05:15] Le Monde — Au Brésil, l’apparition d’une ethnie autochtone non contactée suscite l’inquiétude pour sa survie
+  https://www.lemonde.fr/planete/article/2026/11/20/au-bresil-l-apparition-d-une-ethnie-autochtone-non-contactee-suscite-l-inquietude-pour-sa-survie_6813552_3244.html
+  Des Awa-Guaja sont brièvement sortis de leur isolement, lundi 16 novembre, pour la première fois depuis au moins cinquante ans. Les chercheurs craignent qu’ils soient victimes de la sécheresse ou des exactions de groupe…
+- [20/11 05:00] Le Monde — « A l’évidence, ce projet est un échec » : à Paris, l’agonie du quartier Rosa-Parks miné par le crack, dix ans après sa réhabilitation
   https://www.lemonde.fr/politique/article/2026/11/20/a-l-evidence-ce-projet-est-un-echec-dix-ans-apres-sa-rehabilitation-l-agonie-du-quartier-rosa-parks-mine-par-le-crack_6813549_823448.html
-  Rénovée en 2016, la zone entourant la gare de RER et le canal Saint-Denis dans le 19ᵉ arrondissement connaît une lente dévitalisation, gangrenée par la drogue dérivée de la cocaïne. Subissant vols et dégradations, les r…
+  Rénovée en 2016, la zone entourant la gare de RER et le canal Saint-Denis dans le 19ᵉ arrondissement à Paris connaît une lente dévitalisation, gangrenée par la drogue dérivée de la cocaïne. Subissant vols et dégradation…
 - [20/11 02:00] Le Monde — Au Sénat, le vote sur la présomption de légitime défense des forces de l’ordre reporté à vendredi
   https://www.lemonde.fr/politique/article/2026/11/20/le-vote-sur-la-presomption-de-legitime-defense-des-forces-de-l-ordre-repousse-a-vendredi-au-senat_6813482_823448.html
-  Cette loi controversée, soutenue par le gouvernement et le RN mais contestée par la gauche, permettrait aux policiers et gendarmes de ne plus systématiquement être mis en cause ou placés en garde à vue en cas d’usage d’…
+  Cette loi soutenue par le gouvernement et le RN mais contestée par la gauche permettrait aux policiers et gendarmes de ne plus systématiquement être mis en cause ou placés en garde à vue en cas d’usage d’une arme.
 - [20/11 01:08] Le Monde — Vie chère en outre-mer : l’Assemblée nationale vote une « petite avancée »
   https://www.lemonde.fr/politique/article/2026/11/20/les-deputes-votent-une-petite-avancee-contre-la-vie-chere-en-outre-mer_6813481_823448.html
   La proposition de loi portée par le sénateur Victorin Lurel et le député Christian Baptiste a été adoptée à l’unanimité à l’Assemblée nationale jeudi, en attendant le grand texte promis par le gouvernement.
 - [20/11 01:03] Le Monde — Emmanuel Macron va rencontrer, à Paris, Kamala Harris, possible candidate démocrate à l’élection américaine de 2028
   https://www.lemonde.fr/politique/article/2026/11/20/a-paris-emmanuel-macron-va-rencontrer-kamala-harris-possible-candidate-democrate-a-l-election-americaine-de-2028_6813448_823448.html
   Le président français va, selon son entourage, recevoir l’ancienne vice-présidente des Etats-Unis « pour un bref entretien de courtoisie en présence de son époux », Doug Emhoff, « comme il lui arrive de le faire à la de…
-- [20/11 00:30] Le Monde — IA : l’action Anthropic finit sa première journée en hausse de 17 % et valorise l’entreprise à 1 280 milliards de dollars
-  https://www.lemonde.fr/economie/article/2026/11/20/intelligence-artificielle-l-action-anthropic-finit-sa-premiere-journee-en-hausse-de-17-et-valorise-l-entreprise-a-1-280-milliards-de-dollars_6813415_3234.html
-  L’introduction en Bourse spectaculaire du leader de l’Intelligence artificielle n’a pas empêché Wall Street de finir en forte baisse jeudi, sur fond de mouvement anti-IA et d’interrogations sur le modèle économique de c…
 - [20/11 00:10] Le Monde — Le procès de l’explosion de la rue de Trévise met au jour un fonctionnement informel et peu rigoureux des services de la Mairie de Paris
   https://www.lemonde.fr/societe/article/2026/11/20/le-proces-de-l-explosion-de-la-rue-de-trevise-met-au-jour-un-fonctionnement-informel-et-peu-rigoureux-des-services-de-la-mairie-de-paris_6813387_3224.html
   Les auditions des responsables des services de la voirie et de la propreté et de l’eau ont révélé des lacunes de traçabilité dans l’administration et une absence de culture de l’écrit pour rendre compte des intervention…
-- [19/11 23:46] franceinfo — Primaire, racisme, référendums, IA… Ce qu'il faut retenir de l'interview de Gabriel Attal dans l'émission "L'Heure de vérité" sur France 2
-  https://www.franceinfo.fr/politique/gabriel-attal/primaire-racisme-referendums-ia-ce-qu-il-faut-retenir-de-l-interview-de-gabriel-attal-dans-l-emission-l-heure-de-verite-sur-france-2_8290544.html#xtor=RSS-3-%5Bpolitique%5D
-  Le candidat Renaissance à la présidentielle était l'invité jeudi de l'émission politique de France 2. Voici les passages marquants à retenir de cette interview de plus de deux heures.
-- [19/11 23:43] franceinfo — Présidentielle 2027 : Gabriel Attal admet qu'il n'a "pas convaincu" les Français à "ce stade" de la campagne
-  https://www.franceinfo.fr/politique/gabriel-attal/presidentielle-2027-gabriel-attal-admet-qu-il-n-a-pas-convaincu-les-francais-a-ce-stade-de-la-campagne_8290766.html#xtor=RSS-3-%5Bpolitique%5D
-  Le candidat Renaissance à la présidentielle était l'invité de "L'Heure de Vérité", jeudi, sur France 2.
-- [19/11 22:32] Le Monde — La Guadeloupe placée en « état d’alerte sécheresse » en fin de saison des pluies
-  https://www.lemonde.fr/planete/article/2026/11/19/la-guadeloupe-placee-en-etat-d-alerte-secheresse-en-fin-de-saison-des-pluies_6813383_3244.html
-  Le département français a connu un trimestre de juillet, août et septembre parmi les plus secs et chauds depuis 1991, selon Météo-France. La préfecture appelle l’ensemble des citoyens au « civisme » en réduisant leur co…
-- [19/11 22:17] Le Monde — Présidentielle 2027 : le président du Sénat, Gérard Larcher, a demandé à Sébastien Lecornu d’avancer la date de l’élection
-  https://www.lemonde.fr/politique/article/2026/11/19/presidentielle-2027-le-president-du-senat-gerard-larcher-a-demande-a-sebastien-lecornu-d-avancer-la-date-de-l-election_6813382_823448.html
-  Les dates entérinées le 1ᵉʳ juillet par l’exécutif prévoient un premier tour le 18 avril et un second tour le 2 mai, au lendemain des défilés du 1ᵉʳ-Mai. Cela fait craindre à M. Larcher, comme à plusieurs candidats, un…
 - [19/11 21:01] Le Figaro — De 4 à 6 ans de prison ferme requis contre les policiers au procès Zecler
   https://www.lefigaro.fr/actualite-france/de-4-a-6-ans-de-prison-ferme-requis-contre-les-policiers-au-proces-zecler-20261119
   COMPTE RENDU D’AUDIENCE - L’avocate générale a demandé l’exécution provisoire de la sentence au terme d’une démonstration implacable. La défense a plaidé la clémence.
 - [19/11 20:30] Le Figaro — Menaces de mort, dégradations volontaires, intimidations… Plongée inédite dans la violence contre les élus
   https://www.lefigaro.fr/actualite-france/menaces-de-mort-degradations-volontaires-intimidations-plongee-inedite-dans-la-violence-contre-les-elus-20261119
   Selon une étude, les 200 000 maires, parlementaires et conseillers territoriaux rémunérés en France ont été victimes de 14 000 infractions en 2023, soit 7 infractions pour 100 élus.
-- [19/11 20:15] franceinfo — Présomption de légitime défense pour les forces de l'ordre : "Ce texte, au mieux, est inutile, au pire, il est dangereux", estime Harold Huwart, maire DVG d'Eure-et-Loir
-  https://www.franceinfo.fr/politique/presomption-de-legitime-defense-pour-les-forces-de-l-ordre-ce-texte-au-mieux-est-inutile-au-pire-il-est-dangereux-estime-harold-huwart-maire-dvg-d-eure-et-loir_8290574.html#xtor=RSS-3-%5Bpolitique%5D
-  L'ancien député et maire de Nogent-le-Rotrou (Divers gauche) explique dans le "Duel" du 19 novembre pourquoi il n'a pas voté le texte sur la présomption d'innocence des policiers et gendarmes en cas d'usage de leur arme…
-- [19/11 20:00] franceinfo — C’est Benjamin... à Amiens, au match de hockey
-  https://www.franceinfo.fr/elections/c-est-benjamin-a-amiens-au-match-de-hockey_8290166.html#xtor=RSS-3-%5Bpolitique%5D
-  C’est Benjamin de franceinfo, à la rencontre des Français jusqu’au deuxième tour de la présidentielle 2027. A Amiens (Picardie), il s’invite à un match de hockey sur glace.
-- [19/11 19:48] franceinfo — La députée RN Laure Lavalette accusée d'avoir cautionné des écrits antisémites dans les années 1990
-  https://www.franceinfo.fr/politique/la-deputee-rn-laure-lavalette-accusee-d-avoir-cautionne-des-ecrits-antisemites-dans-les-annees-1990_8290487.html#xtor=RSS-3-%5Bpolitique%5D
-  Le média en ligne Les Jours a dévoilé, mercredi 18 novembre, des articles et une caricature antisémites parus dans une revue du syndicat Renouveau étudiant, dont Laure Lavalette présidait la section bordelaise entre 199…
 - [19/11 19:32] Le Figaro — «Le bac, il l’aura. Mais sera-t-il accepté dans la formation de son choix» : avec les blocages, la peur d’une année blanche pour les lycéens et étudiants
   https://www.lefigaro.fr/actualite-france/le-bac-il-l-aura-mais-sera-t-il-accepte-dans-la-formation-de-son-choix-avec-les-blocages-la-peur-d-une-annee-blanche-pour-les-lyceens-et-etudiants-20261119
   ENQUÊTE - Si le mouvement s’essouffle, il se radicalise pourtant dans une minorité d’établissements. Pour certains, les cours n’ont pas eu lieu depuis plus d’un mois, sans solution de remplacement.
@@ -262,15 +268,9 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [19/11 18:21] Le Figaro — «Pas d’urgence», «pas de suspicion»… Au procès de l’explosion de la rue de Trévise, la Ville de Paris et le syndic se défendent de négligences
   https://www.lefigaro.fr/actualite-france/pas-d-urgence-pas-de-suspicion-au-proces-de-l-explosion-de-la-rue-de-trevise-la-ville-de-paris-et-le-syndic-se-defendent-de-negligences-20261119
   COMPTE RENDU D’AUDIENCE - Selon l’ordonnance de renvoi, la Ville n’a pas diligenté «les investigations nécessaires pour rechercher les causes de l’affaissement du trottoir» devant l’immeuble qui a explosé. CIPA, lui, a…
-- [19/11 18:07] franceinfo — Le siège du RN a été perquisitionné dans le cadre d'une information judiciaire, notamment pour "violation du secret de l'enquête"
-  https://www.franceinfo.fr/politique/front-national/le-siege-du-rn-perquisitionne-dans-le-cadre-d-une-information-judiciaire-notamment-pour-violation-du-secret-de-l-enquete_8290280.html#xtor=RSS-3-%5Bpolitique%5D
-  Cette information judiciaire a été ouverte fin juillet, sur des soupçons de "violation du secret professionnel", "violation du secret de l'enquête" et "recel de ces délits".
 - [19/11 17:42] Le Figaro — Au procès de Michel Zecler, la question du racisme remise au cœur des débats
   https://www.lefigaro.fr/actualite-france/au-proces-de-michel-zecler-la-question-du-racisme-remise-au-coeur-des-debats-20261118
   COMPTE RENDU D’AUDIENCE - La cour criminelle a décidé d’étudier cette circonstance aggravante dans son délibéré, alors que les juges d’instruction ne l’avaient pas retenue.
-- [19/11 17:15] franceinfo — David Habib, député des Pyrénées-Atlantiques, est mort à 65 ans, la présidente de l'Assemblée nationale salue un "grand élu de la République
-  https://www.franceinfo.fr/politique/parlement-francais/assemblee-nationale/mort-de-david-habib-depute-des-pyrenees-atlantiques-a-65-ans-un-grand-elu-de-la-republique-salue-la-presidente-de-l-assemblee-nationale_8290259.html#xtor=RSS-3-%5Bpolitique%5D
-  David Habib, ancien maire socialiste de Mourenx entre 1995 et 2014, avait été élu député en 2002. Entre 2019 et 2022, il avait été vice-président de l'Assemblée nationale.
 - [19/11 17:04] Le Figaro — Colère des lycéens et étudiants : près de la moitié des Français pointe du doigt le laxisme du gouvernement
   https://www.lefigaro.fr/actualite-france/colere-des-lyceens-et-etudiants-pres-de-la-moitie-des-francais-pointe-du-doigt-le-laxisme-du-gouvernement-20261119
   SONDAGE EXCLUSIF - Selon une étude Odoxa-Backbone Consulting pour Le Figaro, 85 % des Français pensent que les blocages vont pénaliser les élèves dans la suite de leur parcours scolaire et professionnel.
@@ -285,10 +285,19 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
   DÉCRYPTAGE - Rappelée à l’ordre par le préfet de l’Oise sur le port non conventionnel d’une écharpe tricolore en manifestation, Marianne Seck persiste avec le soutien de Jean-Luc Mélenchon. L’élue LFI a pourtant tous le…
 
 ## Gendarmerie-police-justice
+- [20/11 10:14] Ouest-France — « On continue » : le vigneron meurt dans un accident, sa famille reprend le domaine et un élan de solidarité s’organise
+  https://www.ouest-france.fr/faits-divers/accidents/on-ne-sattendait-pas-a-voir-autant-de-monde-un-formidable-elan-de-solidarite-apres-la-mort-dun-vigneron-en-anjou-8f741946-e285-11f1-a3b1-0c6de532ce7d?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
+  Six semaines après la mort accidentelle de David Fourrier, vigneron à Martigné-Briand au sud d’Angers (Maine-et-Loire), ses proches saluent sa mémoire et racontent la vie d’après. « On ne s’est même pas posé la question…
+- [20/11 09:59] franceinfo — Un bébé de 14 mois retrouvé en pleurs dans une crèche fermée de l'Oise
+  https://www.franceinfo.fr/faits-divers/un-bebe-de-14-mois-retrouve-en-pleurs-dans-une-creche-fermee-de-l-oise_8291906.html#xtor=RSS-3-[lestitres]
+  Le bébé a été découvert dans un lit du dortoir par les policiers, après une alerte de ses parents. Les personnels de la crèche ont été entendus librement par les enquêteurs.
+- [20/11 09:42] franceinfo — Le maire de Fontenay-sous-Bois exprime son émotion "très vive", après l'incendie qui a fait un mort dans le Val-de-Marne
+  https://www.franceinfo.fr/faits-divers/incendie/le-maire-de-fontenay-sous-bois-exprime-son-emotion-tres-vive-apres-l-incendie-qui-a-fait-un-mort-dans-le-val-de-marne_8291894.html#xtor=RSS-3-[lestitres]
+  Jean-Philippe Gautrais salue également le "travail remarquable" des secours présents sur place. Le maire rappelle l'implication des services municipaux "pour accompagner les habitants et trouver des solutions de relogem…
 - [20/11 06:19] franceinfo — Un cargo avec 22 personnes à bord s'échoue sur le littoral landais en raison des intempéries
-  https://www.franceinfo.fr/faits-divers/un-cargo-avec-22-personnes-a-bord-s-echoue-sur-le-littoral-landais-en-raison-des-intemperies_8291624.html#xtor=RSS-3-[lestitres]
+  https://www.franceinfo.fr/faits-divers/un-cargo-avec-22-personnes-a-bord-s-echoue-sur-le-littoral-landais-en-raison-des-intemperies_8291624.html#xtor=RSS-3-%5Bfaits-divers%5D
   Dix-neuf marins ont été évacués par hélicoptère et d'autres sont restés à bord, précise la préfecture des Landes. Pour le moment, aucun blessé n'est à déplorer et aucun risque de pollution n'est signalé.
-- [20/11 05:00] franceinfo — INFO CELLULE INVESTIGATION DE RADIO FRANCE. Médicaments, alcool et drogue retrouvés dans le corps de Christophe M., manifestant mort à Paris le 17 octobre
+- [20/11 05:00] franceinfo — INFO RADIO FRANCE. Des médicaments, de l'alcool et de la drogue retrouvés dans le corps de Christophe M., manifestant mort à Paris le 17 octobre
   https://www.franceinfo.fr/enquetes-franceinfo/info-cellule-investigation-de-radio-france-medicaments-alcool-et-drogue-retrouves-dans-le-corps-de-christophe-m-manifestant-mort-a-paris-le-17-octobre_8288645.html#xtor=RSS-3-%5Bfaits-divers%5D
   Christophe M., 59 ans, est mort à Paris, le 17 octobre, en marge de la manifestation de la place de la République. Sa famille mettait en cause les gaz lacrymogènes mais des analyses révèlent la présence d’alcool et de c…
 - [20/11 00:06] Le Monde — « Si l’on accepte que trois policiers mentent, le lien social est rompu » : prison ferme requise au procès de l’interpellation violente de Michel Zecler
@@ -307,7 +316,7 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
   https://www.franceinfo.fr/faits-divers/l-ex-anesthesiste-frederic-pechier-depose-une-troisieme-demande-de-remise-en-liberte-examinee-le-3-decembre-prochain_8290733.html#xtor=RSS-3-%5Bfaits-divers%5D
   Frédéric Péchier condamné fin 2025 à la réclusion criminelle à perpétuité pour 30 empoisonnements, dont 12 mortels a fait appel du verdict.
 - [19/11 22:09] franceinfo — Un préfet soupçonné d'avoir renseigné le Rassemblement national sur des affaires en cours
-  https://www.franceinfo.fr/faits-divers/un-prefet-soupconne-d-avoir-renseigne-le-rassemblement-national-sur-des-affaires-en-cours_8290550.html#xtor=RSS-3-%5Bpolitique%5D
+  https://www.franceinfo.fr/faits-divers/un-prefet-soupconne-d-avoir-renseigne-le-rassemblement-national-sur-des-affaires-en-cours_8290550.html#xtor=RSS-3-%5Bfaits-divers%5D
   Le parquet de Paris a ouvert une information judiciaire pour violation du secret professionnel et violation du secret de l'enquête. Les soupçons s'orientent vers Hugues Moutouh, préfet du Loiret et secrétaire général du…
 - [19/11 22:01] Le Monde — Enquête sur des fuites vers le RN : le préfet Hugues Moutouh convoqué par Laurent Nuñez vendredi
   https://www.lemonde.fr/societe/article/2026/11/19/enquete-sur-des-fuites-vers-le-rn-le-prefet-hugues-moutouh-convoque-par-laurent-nunez-vendredi_6813380_3224.html
@@ -321,12 +330,6 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [19/11 21:07] franceinfo — "C'est bien que la justice se montre à la hauteur" : Michel Zecler salue le réquisitoire de l'avocate générale face aux policiers soupçonnés de l'avoir passé à tabac
   https://www.franceinfo.fr/faits-divers/producteur-passe-a-tabac-par-des-policiers/c-est-bien-que-la-justice-se-montre-a-la-hauteur-michel-zecler-salue-le-requisitoire-de-l-avocate-generale-face-aux-policiers-soupconnes-de-l-avoir-passe-a-tabac_8290628.html#xtor=RSS-3-%5Bfaits-divers%5D
   À la veille du verdict, Michel Zecler a raconté comment il avait vécu ces six jours d'audience. C'est la première fois depuis le début du procès qu'il s'exprime aussi longuement devant la presse. L'avocate générale a re…
-- [19/11 20:38] franceinfo — Au procès des masculinistes de Telegram, un créateur "plaqué" par sa fiancée, des contributeurs en manque de "lien social" et des réquisitions exemplaires
-  https://www.franceinfo.fr/faits-divers/justice-proces/au-proces-des-masculinistes-de-telegram-un-createur-plaque-par-sa-fiancee-des-contributeurs-en-manque-de-lien-social-et-des-requisitions-exemplaires_8289575.html#xtor=RSS-3-%5Bfaits-divers%5D
-  Sept prévenus ont comparu mercredi et jeudi devant le tribunal correctionnel de Paris, jugés pour des messages haineux visant les femmes, les personnes noires, juives et LGBT+. Le parquet a requis contre eux entre 18 mo…
-- [19/11 20:30] franceinfo — "Je vais t'égorger à la Samuel Paty" : un adolescent en garde à vue après des menaces de mort proférées contre un professeur lors d'un cours virtuel
-  https://www.franceinfo.fr/faits-divers/police/je-vais-t-egorger-a-la-samuel-paty-un-adolescent-en-garde-a-vue-apres-des-menaces-de-mort-proferees-contre-un-professeur-lors-d-un-cours-virtuel_8290568.html#xtor=RSS-3-%5Bfaits-divers%5D
-  Un professeur d'histoire-géographie du lycée Edgar-Quinet à Paris a été menacé vendredi lors d'un cours en ligne par un "individu ayant eu accès a priori au lien de visio-conférence", a expliqué la procureure.
 - [19/11 19:59] Le Monde — Un homme soupçonné d’être à l’origine de 20 incendies cet été en Côte-d’Or est écroué
   https://www.lemonde.fr/societe/article/2026/11/19/un-homme-soupconne-de-20-incendies-cet-ete-en-cote-d-or-ecroue_6813370_3224.html
   Il sera jugé en janvier et restera en détention provisoire jusque-là.
@@ -345,12 +348,9 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [19/11 17:16] Zone Militaire — La France et la Suède ont mené leur premier exercice aérien de dissuasion nucléaire avancée
   https://www.opex360.com/2026/11/19/la-france-et-la-suede-ont-mene-leur-premier-exercice-aerien-de-dissuasion-nucleaire-avancee/
   Avec le Royaume-Uni, l’Allemagne, la Pologne, la Belgique, la Grèce, les Pays-Bas et le Danemark, la Suède a été l’un des premiers pays européens à adhérer au concept de «dissuasion avancée» que le président Macron a dé…
-- [19/11 16:54] Le Monde — Images pédopornographiques : le directeur de la prison d’Aix-Luynes mis en examen et écroué
-  https://www.lemonde.fr/societe/article/2026/11/19/images-pedopornographiques-le-directeur-du-centre-penitentiaire-d-aix-luynes-mis-en-examen-et-ecroue_6813338_3224.html
-  Le haut fonctionnaire, Jean-Pierre Charpentier-Tity, avait été placé en garde à vue, mardi 17 novembre, pour détention et téléchargement d’images à caractère pédopornographique.
 - [19/11 13:04] Zone Militaire — Le ministère des Armées a commandé 72 000 fusils d’assaut HK416F supplémentaires auprès d’Heckler & Koch
   https://www.opex360.com/2026/11/19/le-ministere-des-armees-a-commande-72-000-fusils-dassaut-hk416f-supplementaires-aupres-dheckler-koch/
   U En septembre 2016, après des polémiques sur les modalités de l’appel d’offres d’une valeur estimée à 350 millions d’euros qu’elle avait émis quelques mois plus tôt, la Direction générale de l’armement [DGA] annonça qu…
 
 ## Diagnostic
-- Tri : 8 article(s) écartés (sport, culture…), 8 renvoyé(s) vers International
+- Tri : 9 article(s) écartés (sport, culture…), 3 renvoyé(s) vers International
