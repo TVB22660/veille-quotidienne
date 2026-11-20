@@ -1,23 +1,22 @@
-SAINTS — généré le 2026-11-19 04:45 (heure de Paris)
-Date : jeudi 19 novembre 2026 (2026-11-19)
+SAINTS — généré le 2026-11-20 08:13 (heure de Paris)
+Date : vendredi 20 novembre 2026 (2026-11-20)
 
 ## Calendrier romain actuel (AELF, France)
 - Jour liturgique : de la férie
 - Fête / saint : de la férie
-- Ligne 1 : jeudi, 33ème semaine du Temps Ordinaire
+- Ligne 1 : vendredi, 33ème semaine du Temps Ordinaire
 - Ligne 2 : de la férie
 - Couleur liturgique : vert
 - Temps liturgique : ordinaire
-- Saint du jour (Nominis) : Saint Tanguy - Abbé en Bretagne (date ?)
+- Saint du jour (Nominis) : Saint Edmond le Martyr - Roi d'Est-Anglia, martyr (+ 870)
 
 ## Calendrier traditionnel de 1962 (Divinum Officium, rubriques de 1960)
-- Jour : S. Elisabeth Viduæ III. classis
-- Commemoratio ad Laudes tantum: S. Pontiani Papæ et Martyris
-- Martyrologe : Dans la ville de Marbourg, en Germanie, la mise au tombeau de sainte Élisabeth, veuve, fille du roi André de Hongrie et membre du Tiers-Ordre de saint François. Après une vie entièrement consacrée aux œuvres de piété, devenue c…
-- Martyrologe : Saint Pontien, Pape et Martyr, dont l’anniversaire est mentionné le 3 des calendes de novembre (30 octobre).
-- Martyrologe : À Samarie, en Palestine, saint Abdias, Prophète.
-- Martyrologe : À Rome, sur la voie Appienne, l’anniversaire de saint Maxime, Prêtre et Martyr. Il souffrit durant la persécution de Valérien et fut inhumé à Saint-Xyste.
-- Martyrologe : Dans la cité d’Ecija, en Espagne, le bienheureux Crispin, Évêque, qui fut décapité et parvint ainsi à la gloire du martyre.
-- Martyrologe : Le même jour, saint Fauste, Diacre d’Alexandrie. Il fut tout d’abord exilé avec saint Denis durant la persécution de Valérien. Parvenu ensuite à un âge très avancé, il périt par le glaive durant la persécution de Dioclétien, et…
-- Martyrologe : À Césarée de Cappadoce, saint Barlaam, Martyr. Quoiqu’ignorant et inculte, il triompha du tyran par la Sagesse dont le Christ le remplit. Il surmonta même la violence du feu par la constance invincible de sa Foi. En son jour an…
-- Martyrologe : À Vienne, en Gaule, les saints Martyrs Séverin, Exupère et Félicien. Leurs corps furent retrouvés grâce à la révélation qu’ils en firent eux-mêmes, de nombreuses années après leur mort. L’Évêque, le clergé et la population de l…
+- Jour : S. Felicis de Valois Confessoris III. classis
+- Martyrologe : Saint Félix de Valois, Prêtre et Confesseur, fondateur de l’Ordre de la Très Sainte Trinité pour le rachat des captifs. Il s’endormit dans le Seigneur la veille des nones de novembre (4 novembre).
+- Martyrologe : En Perse, la passion de saint Nersès, Évêque et de ses compagnons.
+- Martyrologe : À Messine, en Sicile, les saints Martyrs Ampèle et Caïus.
+- Martyrologe : À Turin, les saints Martyrs Octave, Soluteur et Adventeur, soldats de la légion thébaine. Par un courageux combat, sous l’empereur Maximien, ils méritèrent la couronne du martyre.
+- Martyrologe : À Césarée de Palestine, saint Agape, Martyr. Il fut condamné aux bêtes sous l’empereur Galère Maximien, mais celles-ci ne lui ayant fait aucun mal, on le jeta à la mer des pierres aux pieds.
+- Martyrologe : À Dorostore, en Mésie inférieure (aujourd’hui Silistra en Bulgarie), saint Dase, Martyr. Ne voulant pas consentir aux impudicités qui accompagnaient la fête de Saturne, il fut mis à mort sous le préfet Bassus.
+- Martyrologe : À Nicée, en Bithynie, les saints Martyrs Eustache, Thespèse et Anatole, durant la persécution de Maximien.
+- Martyrologe : À Héraclée, en Thrace, les saints Bassus, Denis, Agapit et quarante autres Martyrs.
