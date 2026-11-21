@@ -1,5 +1,60 @@
-JORF — généré le 2026-11-20 11:44 (heure de Paris)
-Archives lues : 7 ; textes retenus : 462 ; JO trouvés : 2026-11-20, 2026-11-19, 2026-11-18, 2026-11-17
+JORF — généré le 2026-11-21 08:18 (heure de Paris)
+Archives lues : 7 ; textes retenus : 476 ; JO trouvés : 2026-11-21, 2026-11-20, 2026-11-19, 2026-11-18
+
+# JO du 2026-11-21 (n° 0272) — 86 textes au total
+## Présidence de la République
+- rien
+
+## Premier ministre
+Textes :
+- Décret n° 2026-1068 du 20 novembre 2026 relatif à l'entrée en vigueur immédiate d'un arrêté
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055118006
+- Avis de vacance d'un emploi de sous-directeur des professions sociales, de l'emploi et des territoires
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055118991
+
+## Intérieur
+Textes :
+- Arrêté du 13 novembre 2026 portant reconnaissance de l'état de catastrophe naturelle
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055118012
+- Arrêté du 17 novembre 2026 modifiant l'arrêté du 16 novembre 2018 pris en application des articles R. 5, R. 6 et R. 60 du code électoral
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055118065
+- Arrêté du 20 novembre 2026 portant interdiction de déplacement des supporters du club de football de l'Olympique Lyonnais lors de la rencontre du samedi 21 novembre 2026 à 20 h 45 avec le LOSC Lille
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055118139
+Mesures nominatives :
+- Arrêté du 19 novembre 2026 autorisant au titre de l'année 2027 l'ouverture d'un concours externe et d'un concours interne à affectation locale pour le recrutement de techniciens de classe normale des systèmes d'information et de communication du ministère de l'intérieur
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055118087
+- Arrêté du 19 novembre 2026 autorisant au titre de l'année 2027 l'ouverture d'un concours externe et d'un concours interne à affectation nationale pour le recrutement de techniciens de classe normale des systèmes d'information et de communication du ministère de l'intérieur
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055118113
+- Arrêté du 19 novembre 2026 portant nomination (directions départementales interministérielles)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055118635
+- Arrêté du 19 novembre 2026 portant cessation de fonctions (directions départementales interministérielles)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055118643
+
+## Justice
+Textes :
+- Arrêté du 16 novembre 2026 modifiant l'arrêté du 3 juin 2022 fixant la liste et la localisation des emplois de directeur fonctionnel des services pénitentiaires d'insertion et de probation en application de l'article 3 du décret n° 2010-1638 du 23 décembre 2010 modifié relatif aux emplois de directeur fonctionnel des services pénitentiaires d'insertion et de probation
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055118328
+- Avis de vacance d'un emploi de chef de service (administration centrale)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055119032
+Mesures nominatives :
+- Décret du 20 novembre 2026 portant détachement (magistrature) - Mme BEN AHMED (Naïma)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055118656
+- Arrêté du 17 novembre 2026 modifiant l'arrêté du 5 novembre 2025 portant admission à la retraite et maintien en fonction (magistrature)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055118672
+- Arrêté du 19 novembre 2026 portant nomination (administration centrale)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055118674
+
+## Armées
+Textes :
+- Arrêté du 17 novembre 2026 autorisant au titre de l'année 2027 l'ouverture d'un concours externe sur titres pour l'accès au corps des attachés de la direction générale de la sécurité extérieure
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055118151
+- Arrêté du 18 novembre 2026 accordant aux militaires participant à l'opération « THAZARD » le bénéfice des dispositions de l'article L. 4123-4 du code de la défense
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055118172
+Mesures nominatives :
+- Arrêté du 18 novembre 2026 portant nomination au conseil d'administration du Service hydrographique et océanographique de la marine (SHOM)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055118650
+- Avis relatif aux concours externes d'admission en première année à l'Ecole navale
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055119011
 
 # JO du 2026-11-20 (n° 0271) — 133 textes au total
 ## Présidence de la République
@@ -241,63 +296,4 @@ Mesures nominatives :
   https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055098810
 - Arrêté du 16 novembre 2026 portant nomination dans le grade d'attaché principal d'administration de l'Etat au titre de l'année 2026
   https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055098816
-
-# JO du 2026-11-17 (n° 0268) — 72 textes au total
-## Présidence de la République
-Mesures nominatives :
-- Décret du 16 novembre 2026 portant nomination dans l'ordre national de la Légion d'honneur
-  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055094729
-
-## Premier ministre
-Textes :
-- Arrêté du 13 novembre 2026 relatif à l'approbation du cahier des charges de l'appel à projets « i-Démo 2026 »
-  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055094734
-Mesures nominatives :
-- Arrêté du 10 novembre 2026 portant admission à la retraite (administrateurs de l'Etat)
-  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055095184
-- Arrêté du 10 novembre 2026 portant admission à la retraite (administrateurs de l'Etat)
-  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055095190
-- Arrêté du 10 novembre 2026 portant admission à la retraite (administrateurs de l'Etat)
-  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055095196
-- Arrêté du 12 novembre 2026 portant admission à la retraite (administrateurs de l'Etat)
-  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055095202
-- Arrêté du 16 novembre 2026 portant nomination d'un commissaire du Gouvernement auprès de la Commission d'accès aux documents administratifs
-  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055095208
-
-## Intérieur
-Textes :
-- Arrêté du 6 novembre 2026 relatif à la formation initiale et continue des agents privés de sécurité et portant modification de dispositions relatives à la sécurité privée
-  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055094742
-- Arrêté du 6 novembre 2026 portant modification de l'agrément national de sécurité civile pour l'association « Les Œuvres hospitalières françaises de l'Ordre de Malte » dite « L'Ordre de Malte France »
-  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055094812
-- Arrêté du 6 novembre 2026 portant agrément d'un certificat de qualification professionnelle en application de l'article R. 622-22 du code de la sécurité intérieure
-  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055094828
-- Décret du 16 novembre 2026 portant francisation de noms et prénoms d'étrangers ayant acquis ou recouvré la nationalité française (Accès protégé)
-  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055095217
-- Avis de vacance d'un emploi de chargé de mission à temps plein auprès du préfet de région, chargé de mission mer-littoral, Plan Littoral 21 et canal du Rhône à Sète (secrétariat général pour les affaires régionales - SGAR)
-  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055095342
-Mesures nominatives :
-- Décret du 16 novembre 2026 portant naturalisation, réintégration, mention d'enfants mineurs bénéficiant de l'effet collectif attaché à l'acquisition de la nationalité française par leurs parents, francisation de noms et de prénoms et libération de l'allégeance française (Accès protégé)
-  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055095214
-- Arrêté du 16 novembre 2026 portant nomination (secrétariats généraux pour les affaires régionales)
-  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055095220
-
-## Justice
-Textes :
-- Arrêté du 16 novembre 2026 fixant la liste des établissements InSERRE
-  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055094837
-- Arrêté du 16 novembre 2026 portant création de la régie des comptes nominatifs de l'établissement pénitentiaire expérimental InSERRE d'Arras-Saint-Laurent-Blangy et modifiant l'arrêté du 31 janvier 2020 portant institution de régies de recettes et de régies d'avances des comptes nominatifs des personnes détenues
-  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055094843
-- Avis de vacance d'emploi de chargé de mission auprès du sous-directeur des ressources humaines et des relations sociales de la protection judiciaire de la jeunesse (PJJ)
-  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055095356
-Mesures nominatives :
-- Décision du 13 novembre 2026 portant délégation de signature (direction des victimes et des usagers)
-  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055094859
-- Décret du 16 novembre 2026 portant détachement (magistrature) - Mme JABRI (Anissa)
-  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055095238
-
-## Armées
-Mesures nominatives :
-- Arrêté du 12 novembre 2026 portant admission à la retraite (ingénieurs civils de la défense)
-  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055095227
 

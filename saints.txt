@@ -1,22 +1,23 @@
-SAINTS — généré le 2026-11-20 11:45 (heure de Paris)
-Date : vendredi 20 novembre 2026 (2026-11-20)
+SAINTS — généré le 2026-11-21 08:19 (heure de Paris)
+Date : samedi 21 novembre 2026 (2026-11-21)
 
 ## Calendrier romain actuel (AELF, France)
 - Jour liturgique : de la férie
-- Fête / saint : de la férie
-- Ligne 1 : vendredi, 33ème semaine du Temps Ordinaire
-- Ligne 2 : de la férie
-- Couleur liturgique : vert
+- Fête / saint : Présentation de la Vierge Marie
+- Ligne 1 : samedi, 33ème semaine du Temps Ordinaire
+- Ligne 2 : Présentation de la Vierge Marie
+- Ligne 3 : Mémoire
+- Couleur liturgique : blanc
 - Temps liturgique : ordinaire
-- Saint du jour (Nominis) : Saint Edmond le Martyr - Roi d'Est-Anglia, martyr (+ 870)
+- Saint du jour (Nominis) : Présentation de la Vierge Marie -
 
 ## Calendrier traditionnel de 1962 (Divinum Officium, rubriques de 1960)
-- Jour : S. Felicis de Valois Confessoris III. classis
-- Martyrologe : Saint Félix de Valois, Prêtre et Confesseur, fondateur de l’Ordre de la Très Sainte Trinité pour le rachat des captifs. Il s’endormit dans le Seigneur la veille des nones de novembre (4 novembre).
-- Martyrologe : En Perse, la passion de saint Nersès, Évêque et de ses compagnons.
-- Martyrologe : À Messine, en Sicile, les saints Martyrs Ampèle et Caïus.
-- Martyrologe : À Turin, les saints Martyrs Octave, Soluteur et Adventeur, soldats de la légion thébaine. Par un courageux combat, sous l’empereur Maximien, ils méritèrent la couronne du martyre.
-- Martyrologe : À Césarée de Palestine, saint Agape, Martyr. Il fut condamné aux bêtes sous l’empereur Galère Maximien, mais celles-ci ne lui ayant fait aucun mal, on le jeta à la mer des pierres aux pieds.
-- Martyrologe : À Dorostore, en Mésie inférieure (aujourd’hui Silistra en Bulgarie), saint Dase, Martyr. Ne voulant pas consentir aux impudicités qui accompagnaient la fête de Saturne, il fut mis à mort sous le préfet Bassus.
-- Martyrologe : À Nicée, en Bithynie, les saints Martyrs Eustache, Thespèse et Anatole, durant la persécution de Maximien.
-- Martyrologe : À Héraclée, en Thrace, les saints Bassus, Denis, Agapit et quarante autres Martyrs.
+- Jour : In Presentatione Beatæ Mariæ Virginis III. classis
+- Martyrologe : À Jérusalem, la Présentation au temple de la bienheureuse Vierge Marie, Mère de Dieu.
+- Martyrologe : Le même jour, l’anniversaire du bienheureux Ruf, dont parle l’Apôtre saint Paul, dans l’Épitre aux Romains.
+- Martyrologe : À Rome, la passion des saints Celse et Clément.
+- Martyrologe : À Reims, en France, saint Albert, Évêque de Liège et Martyr, mis à mort pour la défense de la liberté de l’Église.
+- Martyrologe : À Ostie, l’anniversaire des saints Martyrs Démétrius et Honorius.
+- Martyrologe : En Espagne, les saints Martyrs Honorius, Eutyche et Étienne.
+- Martyrologe : En Pamphylie, saint Héliodore, Martyr, durant la persécution d’Aurélien, sous le préfet Aétius. Ses bourreaux s’étant convertis eux-mêmes à la Foi, furent après lui jetés à la mer.
+- Martyrologe : À Rome, le Pape saint Gélase Ier, remarquable par sa science et sa sainteté.
