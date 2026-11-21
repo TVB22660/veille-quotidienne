@@ -1,28 +1,34 @@
-VEILLE — généré le 2026-11-21 12:13 (heure de Paris)
+VEILLE — généré le 2026-11-21 13:31 (heure de Paris)
 Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 
 ## International
-- [21/11 12:09] franceinfo — Sommet à Shenzhen : Donald Trump assure que ses relations "fantastiques" avec Xi Jinping et Vladimir Poutine contribuent à la sécurité des Etats-Unis
+- [21/11 13:30] Le Figaro — L’armée finlandaise a détecté une «attaque de drone» contre un cargo russe dans le golfe de Finlande
+  https://www.lefigaro.fr/international/finlande-l-armee-a-detecte-une-attaque-de-drone-contre-un-cargo-russe-dans-le-golfe-de-finlande-20261121
+  «Samedi matin, les forces de défense finlandaises ont détecté une attaque de drone contre un cargo russe à l’ouest de Suursaari, dans l’est du golfe de Finlande, en eaux internationales», a annoncé le ministère de la Dé…
+- [21/11 13:28] franceinfo — Sommet à Shenzhen : Donald Trump assure que ses relations "fantastiques" avec Xi Jinping et Vladimir Poutine contribuent à la sécurité des Etats-Unis
   https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/direct-suivez-la-conference-de-presse-du-president-americain-donald-trump-apres-un-sommet-inedit-avec-xi-jinping-et-vladimir-poutine_8292656.html#xtor=RSS-3-%5Bmonde%5D
   Les dirigeants américain, russe et chinois ont échangé pendant environ 1h20 jeudi en Chine. Ils se sont mis d'accord sur une "déclaration de paix" à l'issue de cette rencontre.
-- [21/11 12:05] franceinfo — Le président du Conseil européen propose un budget de l'UE en baisse de 204 milliards d'euros, aussitôt rejeté par la France
-  https://www.franceinfo.fr/monde/europe/sommet-de-l-ue/le-president-du-conseil-europeen-propose-un-budget-de-l-ue-en-baisse-de-204-milliards-d-euros-aussitot-rejete-par-la-france_8293637.html#xtor=RSS-3-%5Bmonde%5D
-  Cette version revue à la baisse intègre également une proposition de nouvelle taxe sur les grandes entreprises du secteur numérique, a confirmé Antonio Costa, qui veut aussi mettre à l'étude la taxation des cryptoactifs.
+- [21/11 13:26] franceinfo — Guerre en Ukraine : des frappes russes font deux morts et 58 blessés à Kryvyï Rih, ville natale de Volodymyr Zelensky
+  https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-des-frappes-russes-font-deux-morts-et-58-blesses-a-kryvyi-rih-ville-natale-de-volodymyr-zelensky_8293700.html#xtor=RSS-3-%5Bmonde%5D
+  Six enfants figurent parmi les blessés, a précisé le président Ukrainien sur Telegram.
+- [21/11 13:22] franceinfo — REPORTAGE. "Ce sont les patients qui en pâtissent" : au Portugal, les syndicats dénoncent la dégradation des services publics
+  https://www.franceinfo.fr/societe/manifestations/reportage-ce-sont-les-patients-qui-en-patissent-au-portugal-les-syndicats-denoncent-la-degradation-des-services-publics_8293640.html#xtor=RSS-3-%5Bmonde%5D
+  Nouvelle journée de mobilisation ce samedi contre la vie chère en France, mais également au Portugal. Les syndicats dénoncent la dégradation des services publics, à trois jours du vote du budget 2027 présenté par le gou…
+- [21/11 13:08] Ouest-France — L’UE présente un budget réduit de plus de 200 milliards d’euros dès 2028, Paris juge la proposition « très décevante »
+  https://www.ouest-france.fr/europe/ue/lue-presente-un-budget-reduit-de-plus-de-200-milliards-deuros-des-2028-paris-juge-la-proposition-tres-decevante-55aa4488-e59b-11f1-bd4e-6f30b8f49e21?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
+  Le président du Conseil de l’Europe, António Costa, a présenté les grandes lignes de sa proposition lors d’une conférence de presse à Bruxelles ce samedi 21 novembre. Une version revue à la baisse et qui intègre une pro…
+- [21/11 12:30] Le Monde — Dans la défense, le rapprochement entre le Canada et l’Union européenne prend corps
+  https://www.lemonde.fr/international/article/2026/11/21/dans-la-defense-le-rapprochement-entre-le-canada-et-l-union-europeenne-prend-corps_6814009_3210.html
+  Sur fond de tensions géopolitiques mondiales et d’incertitudes quant à l’engagement américain, Ottawa et Bruxelles coopèrent sur le soutien à l’Ukraine et le réarmement du Vieux Continent.
+- [21/11 12:27] franceinfo — Le président du Conseil européen propose un budget de l'UE en baisse de 204 milliards d'euros, aussitôt rejeté par la France
+  https://www.franceinfo.fr/monde/europe/sommet-de-l-ue/le-president-du-conseil-europeen-propose-un-budget-de-l-ue-en-baisse-de-204-milliards-d-euros-aussitot-rejete-par-la-france_8293637.html#xtor=RSS-3-[lestitres]
+  Cette version revue à la baisse intègre également une proposition de nouvelle taxe sur les grandes entreprises du secteur numérique, a confirmé Antonio Costa, qui veut mettre à l'étude la taxation des cryptoactifs.
+- [21/11 12:21] franceinfo — Le suspect d'un des incendies de Los Angeles, qui avait fait 12 morts en 2025, reconnu coupable à l'issue d'un deuxième procès
+  https://www.franceinfo.fr/monde/usa/incendies-en-californie/le-suspect-d-un-des-incendies-de-los-angeles-qui-avait-fait-12-morts-en-2025-reconnu-coupable-a-l-issue-d-un-deuxieme-proces_8293442.html#xtor=RSS-3-%5Bmonde%5D
+  Ce chauffeur Uber de 30 ans, dont la peine sera prononcée le 17 mars prochain, risque jusqu'à 40 ans de prison.
 - [21/11 12:01] Le Monde — Budget de l’UE : Antonio Costa, le président du Conseil européen, propose 204 milliards d’euros d’économies et une taxe numérique
   https://www.lemonde.fr/economie/article/2026/11/21/budget-de-l-ue-antonio-costa-le-president-du-conseil-europeen-propose-204-milliards-d-euros-d-economies-et-une-taxe-numerique_6813983_3234.html
   La France a rejeté la nouvelle proposition du dirigeant européen. M. Costa soumettra sa proposition de compromis aux dirigeants de l’Union européenne lors d’un sommet organisé jeudi et vendredi à Bruxelles.
-- [21/11 11:56] Le Figaro — Budget de l’UE : Paris rejette le nouveau projet qui prévoit 204 milliards d'euros et une taxe numérique
-  https://www.lefigaro.fr/conjoncture/budget-le-conseil-europeen-prevoit-des-coupes-de-204-milliards-d-euros-et-une-taxe-numerique-20261121
-  L’Élysée qualifie de «très décevant» le nouveau projet de budget présenté ce samedi par le président du Conseil européen pour la période 2028-2034.
-- [21/11 11:49] franceinfo — Le suspect d'un des incendies de Los Angeles, qui avait fait 12 morts en 2025, reconnu coupable à l'issue d'un deuxième procès
-  https://www.franceinfo.fr/monde/usa/incendies-en-californie/le-suspect-d-un-des-incendies-de-los-angeles-qui-avait-fait-12-morts-en-2025-reconnu-coupable-a-l-issue-d-un-deuxieme-proces_8293442.html#xtor=RSS-3-%5Bmonde%5D
-  Ce chauffeur Uber de 30 ans, dont la peine sera prononcée le 17 mars prochain, risque jusqu'à 40 ans d'emprisonnement.
-- [21/11 11:04] franceinfo — Mobilisation du 21 novembre : syndicats et gilets jaunes appellent à manifester pour la jeunesse et contre la vie chère, pour le sixième samedi d'affilée
-  https://www.franceinfo.fr/societe/manifestations/direct-mobilisation-du-21-novembre-syndicats-et-gilets-jaunes-appellent-a-manifester-pour-la-jeunesse-et-contre-la-vie-chere-pour-le-sixieme-samedi-d-affilee_8293460.html#xtor=RSS-3-[lestitres]
-  Ces rassemblements s'inscrivent dans le cadre d'un appel européen de syndicats et associations de défense du droit au logement à des actions coordonnées sur trois jours, de vendredi à dimanche.
-- [21/11 11:00] Le Monde — Thomas Piketty : « Le projet de convention fiscale de l’ONU a le potentiel de changer la face du monde »
-  https://www.lemonde.fr/la-chronique-de-thomas-piketty/article/2026/11/21/thomas-piketty-le-projet-de-convention-fiscale-de-l-onu-a-le-potentiel-de-changer-la-face-du-monde_6813978_6649149.html
-  Les négociations aux Nations unies autour d’une convention-cadre sur la coopération fiscale reprennent à Nairobi le 30 novembre. Les Occidentaux seraient bien inspirés de s’y intéresser, faute de quoi ils risquent de pa…
 - [21/11 10:30] Le Figaro — «Pour ne pas mourir, il fallait que je coure» : comment une journaliste s’est improvisée marathonienne pour entrer en Corée du Nord
   https://www.lefigaro.fr/international/pour-ne-pas-mourir-il-fallait-que-je-coure-comment-une-journaliste-s-est-improvisee-marathonienne-pour-entrer-en-coree-du-nord-20261121
   RÉCIT - En avril 2025, Anne-Isabelle Tollet s’est inscrite au marathon de Pyongyang pour pénétrer dans l’un des pays les plus fermés au monde. Huit jours sous haute surveillance, au cœur d’un régime nord-coréen obsédé p…
@@ -38,15 +44,18 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [21/11 07:17] franceinfo — Des syndicats de sept pays européens appellent à des "manifestations coordonnées" contre la vie chère vendredi, samedi et dimanche
   https://www.franceinfo.fr/societe/manifestations/des-syndicats-de-sept-pays-europeens-appellent-a-des-manifestations-coordonnees-contre-la-vie-chere-vendredi-samedi-et-dimanche_8292320.html#xtor=RSS-3-%5Bmonde%5D
   Les principales revendications des cortèges qui s'élanceront durant le week-end concernent la "garantie du droit au logement" et "le contrôle des prix du logement, de l'alimentation et de l'énergie".
-- [21/11 06:38] Le Monde — EN DIRECT, guerre en Ukraine : Ursula von der Leyen condamne la tentative d’assassinat au Danemark attribuée à Moscou
+- [21/11 06:38] Le Monde — EN DIRECT, guerre en Ukraine : l’armée finlandaise a détecté une « attaque de drone » contre un cargo russe dans le golfe de Finlande
   https://www.lemonde.fr/international/live/2026/11/21/en-direct-guerre-en-ukraine-deux-morts-et-47-blesses-dans-des-frappes-russes-sur-kryvy-rih-ville-natale-de-volodymyr-zelensky_6810982_3210.html
-  La présidente de la ‌Commission européenne a exprimé samedi sa « solidarité totale » avec le Danemark à la suite d’une ​tentative d’assassinat d’un rappeur américano-ukrainien ‌officiellement attribuée par Copenhague à…
+  Plus tôt, Alexandre Drozdenko, le gouverneur de l’oblast de Leningrad, écrivait sur son compte Telegram, qu’un « cargo en route vers la ville de Kaliningrad a été attaqué à l’aide de deux drones », et ce « à trois mille…
 - [21/11 06:05] Le Monde — En Italie, de nouvelles manifestations massives, signe d’une grogne sociale qui ne faiblit pas
   https://www.lemonde.fr/international/article/2026/11/21/en-italie-de-nouvelles-manifestations-massives-signe-d-une-grogne-sociale-qui-ne-faiblit-pas_6813926_3210.html
   A l’appel de la CGIL, premier syndicat du pays, des cortèges ont défilé, vendredi 20 novembre, dans une centaine de villes pour dénoncer le coût de la vie, la précarité étudiante, les dépenses militaires et l’aide à l’U…
 - [21/11 06:00] Le Monde — Israël : qui sont les haredim, ces juifs ultraorthodoxes qui suscitent tant de débats dans le pays ? Comprendre en trois minutes
   https://www.lemonde.fr/comprendre-en-3-minutes/video/2026/11/21/israel-qui-sont-les-haredim-ces-juifs-ultraorthodoxes-qui-suscitent-tant-de-debats-dans-le-pays-comprendre-en-trois-minutes_6813925_6176282.html
   Le refus de ces communautés juives ultraorthodoxes de s’engager dans l’armée israélienne a créé de vives tensions dans le pays ces dernières années.
+- [21/11 05:30] Le Monde — Anaïs Barbeau-Lavalette, écrivaine et réalisatrice québécoise : « Le fait que je sois mortelle m’habite. C’est très vivifiant et ça fait de moi une femme qui prend des risques »
+  https://www.lemonde.fr/m-le-mag/article/2026/11/21/l-ecrivaine-et-realisatrice-quebecoise-anais-barbeau-lavalette-le-fait-que-je-sois-mortelle-m-habite-c-est-tres-vivifiant-et-ca-fait-de-moi-une-femme-qui-prend-des-risques_6813917_4500055.html
+  Connue en France pour son roman « La femme qui fuit », la documentariste et militante écologiste et féministe remporte actuellement au Québec un franc succès en avec son film « Pauline Julien, femme pays », portrait d’u…
 - [21/11 05:30] Le Monde — De retour d’Asie, Donald Trump défend sa proximité avec Vladimir Poutine et Xi Jinping
   https://www.lemonde.fr/international/article/2026/11/21/etats-unis-de-retour-d-asie-donald-trump-defend-sa-proximite-avec-vladimir-poutine-et-xi-jinping_6813916_3210.html
   Le président américain s’est félicité vendredi, à Washington, des discussions menées avec ses homologues russe et chinois, en particulier au sujet de l’Ukraine. Un compte rendu qui montre que le milliardaire continue de…
@@ -56,18 +65,9 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [21/11 02:35] Le Monde — Incendies de Los Angeles : un suspect reconnu coupable, après un deuxième procès
   https://www.lemonde.fr/planete/article/2026/11/21/incendies-de-los-angeles-un-suspect-reconnu-coupable-apres-un-deuxieme-proces_6813844_3244.html
   Jonathan Rinderknecht était accusé d’être à l’origine d’un feu que les pompiers pensaient avoir éteint mais qui a finalement repris, le 7 janvier 2025, et a ravagé le quartier huppé de Pacific Palisades.
-- [20/11 23:33] franceinfo — Un condamné à mort a été exécuté au Texas, après plus d'une heure de tentatives infructueuses
-  https://www.franceinfo.fr/monde/usa/un-condamne-a-mort-a-ete-execute-au-texas-apres-plus-d-une-heure-de-tentatives-infructueuses_8293013.html#xtor=RSS-3-%5Bmonde%5D
-  Reinaldo Dennes, 70 ans, a été exécuté jeudi soir par injection de pentobarbital, la même substance que celle administrée à deux reprises le 30 septembre dans le Tennessee, à une condamnée, Christa Pike, qui a survécu.
 - [20/11 23:31] Le Figaro — Starlink, DOGE, MAGA : après la défaite des républicains aux midterms, les paris risqués d’Elon Musk pourraient se retourner contre lui
   https://www.lefigaro.fr/international/starlink-doge-maga-apres-la-defaite-des-republicains-aux-midterms-les-paris-risques-d-elon-musk-pourraient-se-retourner-contre-lui-20261120
   RÉCIT - La victoire démocrate aux élections ouvre la perspective d’enquêtes sur l’agence DOGE ou le rôle de Starlink en Ukraine, alors qu’Elon Musk prend ses distances avec un mouvement MAGA, dont il avait été l’un des…
-- [20/11 23:04] franceinfo — Comment des milliers d'employés du géant de l'IA Anthropic sont devenus millionnaires en 24 heures
-  https://www.franceinfo.fr/internet/intelligence-artificielle/comment-des-milliers-d-employes-du-geant-de-l-ia-anthropic-sont-devenus-millionnaires-en-24-heures_8293007.html#xtor=RSS-3-%5Bmonde%5D
-  Comment plusieurs centaines de salariés sont-ils devenus millionnaires jeudi ? Ils sont les grands gagnants de l’entrée en bourse d'Anthropic. La start-up spécialisée en intelligence artificielle, fondée il y a cinq ans…
-- [20/11 22:00] franceinfo — Cette sacoche renferme un secret depuis 81 ans
-  https://www.franceinfo.fr/societe/seconde-guerre-mondiale/cette-sacoche-renferme-un-secret-depuis-81-ans_8292317.html#xtor=RSS-3-%5Bmonde%5D
-  81 ans de mystère autour d’un sacoche retrouvée pendant la 2ème guerre mondiale par un soldat français près d’une ferme en Tunisie, en 1943. Son petit-fils s’est lancé à la recherche du mystérieux propriétaire. Seule in…
 - [20/11 21:45] Le Figaro — Extraction minière, déforestation, trafic d’animaux… Le crime organisé ravage l’Amazonie, alertent les peuples indigènes
   https://www.lefigaro.fr/international/extraction-miniere-deforestation-trafic-d-animaux-le-crime-organise-ravage-l-amazonie-alertent-les-peuples-indigenes-20261120
   RÉCIT - Les récentes négociations de l’ONU à Vienne sur les crimes environnementaux ont permis aux peuples indigènes de dénoncer les organisations criminelles.
@@ -103,66 +103,75 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
   Depuis le 9 novembre, la Pologne accueille l’exercice KOALICJA 26.2, organisé par la force militaire de la Coalition des volontaires [MNF-U / Force multinationale-Ukraine], sous commandement franco-britannique. Mobilisa…
 
 ## France
+- [21/11 13:15] Le Figaro — Incendies, tourisme de masse, tsunami : comment la Côte d’Azur mise sur l’IA pour relever ses défis
+  https://www.lefigaro.fr/nice/incendies-tourisme-de-masse-tsunami-comment-la-cote-d-azur-mise-sur-l-ia-pour-relever-ses-defis-20261121
+  ENQUÊTE - Plusieurs start-ups spécialisées dans le développement de l’IA illustrent déjà la capacité d’innovation des Alpes-Maritimes, au carrefour de nombreux enjeux.
+- [21/11 13:13] Le Monde — Présidentielle 2027 : qui sont les candidats déclarés ou probables ?
+  https://www.lemonde.fr/les-decodeurs/article/2026/11/21/presidentielle-2027-qui-sont-les-candidats-declares-ou-probables_6680905_4355771.html
+  Une trentaine de candidats déclarés ou potentiels sont identifiables à ce stade. Mais leur chemin reste très long jusqu’au scrutin d’avril 2027.
+- [21/11 13:09] Ouest-France — INFOGRAPHIES. Guerre, crise sanitaire… La France pourrait-elle nourrir sa population en cas de risque majeur ?
+  https://www.ouest-france.fr/societe/alimentation/infographies-guerre-crise-sanitaire-la-france-pourrait-elle-nourrir-sa-population-en-cas-de-risque-majeur-479a1554-e3f1-11f1-9a72-32f9104dab1b?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
+  La sécurité alimentaire n’est pas menacée à court terme en France, mais elle fait face à une pression croissante, a alerté la Cour des comptes. La juridiction invite, pour « vérifier la satisfaction des besoins vitaux e…
+- [21/11 13:00] Ouest-France — « Un effort de 170 millions pour 2027 » : Delphine Ernotte fait le point sur les économies de France Télévisions
+  https://programmetv.ouest-france.fr/france-televisions-b1000/un-effort-de-170-millions-pour-2027-delphine-ernotte-fait-le-point-sur-les-economies-de-france-televisions-abfac0ae-e354-11f1-a3b1-0c6de532ce7d?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
+  Alors que l’année touche à sa fin, la présidente de France Télévisions a livré les premières estimations d’économies qui devront être réalisées par le groupe public en 2027.
+- [21/11 13:00] Le Figaro — « Il a bien fallu s’adapter » : du totem des 60 ans jusqu’à la capitalisation obligatoire, la longue mue de Marine Le Pen sur les retraites
+  https://www.lefigaro.fr/elections/presidentielles/il-a-bien-fallu-s-adapter-du-totem-des-60-ans-jusqu-a-la-capitalisation-obligatoire-la-longue-mue-de-marine-le-pen-sur-les-retraites-20261121
+  RÉCIT - De sa rupture avec les accents libéraux portés par Jean-Marie Le Pen au début des années 2010, jusqu’à sa récente conversion au réalisme budgétaire pour 2027, la candidate nationaliste a considérablement fait év…
+- [21/11 12:59] franceinfo — Un mathématicien annonce la résolution de l'hypothèse de Riemann, l'un des plus célèbres problèmes du monde, avec l'aide d'une IA d'Anthropic
+  https://www.franceinfo.fr/internet/intelligence-artificielle/un-mathematicien-annonce-la-resolution-d-un-des-plus-celebres-problemes-du-monde-avec-l-aide-d-une-ia-d-anthropic_8293547.html#xtor=RSS-3-[lestitres]
+  Levent Alpöge n'a publié qu'un récit de ces travaux sur son site personnel et non la démonstration intégrale, qui fait plus de 250 000 pages selon lui et n'a pu être vérifiée par aucun autre mathématicien.
+- [21/11 12:49] franceinfo — Une conférence de l'ONU ouvre à la voie à un possible encadrement international des "robots tueurs"
+  https://www.franceinfo.fr/societe/armee-securite-defense/une-conference-de-l-onu-ouvre-a-la-voie-a-un-possible-encadrement-international-des-robots-tueurs_8293439.html#xtor=RSS-3-[lestitres]
+  Les armes autonomes soulèvent de nombreuses préoccupations, notamment concernant le risque de frappes sans discernement, l'absence de responsabilité humaine et le respect des règles de la guerre.
+- [21/11 12:44] franceinfo — La Bourse de Wall Street enregistre des centaines de milliards de dollars de pertes, pénalisée par le secteur de l'IA
+  https://www.franceinfo.fr/internet/intelligence-artificielle/la-bourse-de-wall-street-enregistre-des-centaines-de-milliards-de-dollars-de-pertes-penalisee-par-le-secteur-de-l-ia_8293667.html#xtor=RSS-3-[lestitres]
+  L'indice Nasdaq, qui rassemble l'essentiel des titres technologiques, a dévissé de 5,28% et effacé par la même occasion tous ses gains de l'année.
+- [21/11 12:30] Le Figaro — Jean-Baptiste Lecaillon, chef de caves de Louis Roederer : «L’innovation consiste aussi à revenir à des pratiques traditionnelles oubliées»
+  https://avis-vin.lefigaro.fr/domaines-et-vignerons/jean-baptiste-lecaillon-chef-de-caves-de-louis-roederer-l-innovation-consiste-aussi-a-revenir-a-des-pratiques-traditionnelles-oubliees-20261121
+  C’est l’avis de Jean-Baptiste Lecaillon, le chef de caves de la maison Louis Roederer qui célèbre ses 250 ans. Il a élaboré une technique d’élevage dynamique sur la pointe pour libérer davantage d’acides aminés. Et ence…
+- [21/11 12:28] Ouest-France — L’ex-mari de Chahinez Daoud, brûlée vive en 2021 en Gironde, jugé en appel
+  https://www.ouest-france.fr/societe/justice/lex-mari-de-chahinez-daoud-brulee-vive-en-2021-en-gironde-juge-en-appel-bf7d82d8-e593-11f1-bd4e-6f30b8f49e21?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
+  En 2025, Mounir Boutaa a été condamné à la perpétuité pour avoir brûlé vive sa femme à Mérignac (Gironde), en 2021. Ayant fait appel, cet homme va être rejugé pour assassinat, à partir de lundi, à Périgueux (Dordogne).…
+- [21/11 12:25] franceinfo — Quatre mois après le mégafeu au Porge, "il y a énormément de douleur" parmi les habitants, souligne le maire Martial Zaninetti
+  https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-en-gironde/quatre-mois-apres-le-megafeu-au-porge-il-y-a-enormement-de-douleur-parmi-les-habitants-souligne-le-maire-martial-zaninetti_8293673.html#xtor=RSS-3-[lestitres]
+  Entre attentes interminables, incertitudes sur les indemnisations et difficultés à se projeter dans l'avenir, les sinistrés du Porge, en Gironde, peinent à tourner la page. Le maire de la commune, Martial Zaninetti, tém…
 - [21/11 12:12] Ouest-France — Dans l’œil du dessinateur Frap. My name is Macron… Emmanuel Macron
   https://www.ouest-france.fr/actualite-en-continu/dans-lil-du-dessinateur-frap-my-name-is-macron-emmanuel-macron-8ba6f778-e4e4-11f1-bd4e-6f30b8f49e21?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
   Le dessinateur et caricaturiste Frap croque l’actualité de Loire-Atlantique, de France ou d’ailleurs pour Presse Océan. Il porte ici son regard sur l’annonce du prochain acteur qui incarnera l’agent OO7 sur grand écran.
-- [21/11 12:01] franceinfo — Les négociations se prolongent samedi à la COP31, faute d'accord sur les textes les plus discutés
-  https://www.franceinfo.fr/environnement/crise-climatique/cop-climat/les-negociations-se-prolongent-samedi-a-la-cop31-faute-d-accord-sur-les-textes-les-plus-disputes_8293427.html#xtor=RSS-3-[lestitres]
-  "Nous sommes proches de la ligne d'arrivée mais nous n'y sommes pas encore tout à fait", a reconnu le président de la COP, le Turc Murat Kurum.
 - [21/11 12:00] Le Figaro — « Quand on a acheté à manger, on n’a plus rien » : étranglées par les crédits, ces familles prises dans la spirale de la vie chère
   https://www.lefigaro.fr/actualite-france/quand-on-a-achete-a-manger-on-n-a-plus-rien-etranglees-par-les-credits-ces-familles-prises-dans-la-spirale-de-la-vie-chere-20261121
   REPORTAGE - Budget qui explose, découverts qui se creusent, surendettement… Ces Français qui viennent chercher de l’aide au Point Conseil Budget de l’Essonne racontent leurs dilemmes et leurs restrictions.
 - [21/11 11:59] Le Figaro — EN DIRECT - Colère sociale : Laurent Nuñez appelle les préfets à la vigilance à l’approche d’une sixième journée de mobilisation
   https://www.lefigaro.fr/actualite-france/en-direct-colere-sociale-laurent-nunez-appelle-les-prefets-a-la-vigilance-20261121
   Cet «Acte VI» s’inscrit aussi dans le cadre d’un appel européen de syndicats et associations de défense du droit au logement à des actions coordonnées sur trois jours, de vendredi à dimanche.
-- [21/11 11:55] Ouest-France — « Avec lui, j’aime mon diabète » : Inès, 9 ans, a adopté un chien d’assistance qui anticipe ses crises et la rassure
-  https://sante.ouest-france.fr/maladies/avec-lui-jaime-mon-diabete-ines-9-ans-a-adopte-un-chien-dassistance-qui-anticipe-ses-crises-et-la-rassure-9c88c2a6-e4e4-11f1-bd4e-6f30b8f49e21?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
-  Inès, 9 ans, est atteinte de diabète de type 1. La découverte du diagnostic, en mars 2026, a été douloureuse pour la petite fille, sa mère Marie-Amélie, et sa grande sœur, Cléa. Après presque huit mois d’adaptation et p…
 - [21/11 11:48] Le Monde — Les rassemblements d’ultradroite et antifasciste prévus dimanche à Angers interdits par la préfecture
   https://www.lemonde.fr/politique/article/2026/11/21/les-rassemblements-d-ultradroite-et-antifasciste-prevus-dimanche-a-angers-interdits-par-la-prefecture_6813982_823448.html
   Le premier rassemblement, prévu dimanche à 15 heures, est à l’initiative du militant d’ultradroite Jean-Eudes Gannat, tandis que le second est prévu à la même heure par des organisations antiracistes.
-- [21/11 11:40] Ouest-France — Une péniche explose sur un canal à Montargis, plusieurs personnes blessées dont une en urgence absolue
-  https://www.ouest-france.fr/societe/faits-divers/une-peniche-explose-sur-un-canal-a-montargis-plusieurs-personnes-blessees-dont-une-en-urgence-absolue-3677a730-e592-11f1-bd4e-6f30b8f49e21?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
-  Amarré dans le canal de Briare, non loin du centre-ville de Montargis (Loiret), le petit bateau a explosé dans la nuit du vendredi 20 au samedi 21 novembre. Les trois personnes qui se trouvaient dedans ont été blessées,…
 - [21/11 11:31] franceinfo — Quand un gourou condamné coule des jours tranquilles au bord de sa piscine : "Affaires sensibles" revient sur le fiasco judiciaire de la secte OKC
   https://www.franceinfo.fr/replay-magazine/france-2/affaires-sensibles/video-quand-un-gourou-condamne-coule-des-jours-tranquilles-au-bord-de-sa-piscine-affaires-sensibles-revient-sur-le-fiasco-judiciaire-de-la-secte-okc_8290778.html#xtor=RSS-3-[lestitres]
   Comment un gourou condamné en Belgique et poursuivi en France pour séquestration et viols sur mineurs, entre autres chefs d'accusation, peut-il couler une vieillesse paisible en Espagne, au bord de sa piscine de Marbell…
 - [21/11 11:24] franceinfo — L'association Droit au logement appelle à "renforcer l'encadrement des loyers" et à "produire du logement social"
   https://www.franceinfo.fr/societe/manifestations/l-association-droit-au-logement-appelle-a-renforcer-l-encadrement-des-loyers-et-a-produire-du-logement-social_8293607.html#xtor=RSS-3-[lestitres]
   Encadrement des loyers, construction de logements sociaux et lutte contre les passoires thermiques : l'association Droit au logement entend faire du logement une revendication centrale de l'"Acte VI" de la mobilisation…
-- [21/11 11:22] franceinfo — Une conférence de l'ONU ouvre à la voie à un possible encadrement international des "robots tueurs"
-  https://www.franceinfo.fr/societe/armee-securite-defense/une-conference-de-l-onu-ouvre-a-la-voie-a-un-possible-encadrement-international-des-robots-tueurs_8293439.html#xtor=RSS-3-[lestitres]
-  Les armes autonomes soulèvent de nombreuses préoccupations, notamment quant au risque de frappes sans discernement, à l'absence de responsabilité humaine et au respect des règles de la guerre.
 - [21/11 11:19] franceinfo — Présidentielle 2027 : Eric Zemmour lance sa campagne avec un meeting à Toulon
   https://www.franceinfo.fr/elections/presidentielle/direct-eric-zemmour-lance-sa-campagne-pour-l-election-presidentielle-avec-un-meeting-a-toulon_8293517.html#xtor=RSS-3-[lestitres]
   Le rassemblement doit débuter à 15h30 au Zénith, en présence notamment de Sarah Knafo, autre figure du parti Reconquête.
-- [21/11 11:12] Le Figaro — Professeur menacé d’être égorgé comme «Samuel Paty» : un adolescent déscolarisé mis en examen
-  https://www.lefigaro.fr/actualite-france/professeur-menace-d-etre-egorge-comme-samuel-paty-un-adolescent-descolarise-mis-en-examen-20261121
-  Après avoir menacé de mort à plusieurs reprises un enseignant d’histoire-géographie en ligne, ce mineur de 16 ans s’était dénoncé dans un commissariat de l’Ain.
-- [21/11 11:11] Le Figaro — «C’est la spoliation que vous admirez ?» : passe d’armes inattendue entre Knafo et Bompard sur Tetris
-  https://www.lefigaro.fr/secteur/high-tech/c-est-la-spoliation-que-vous-admirez-passe-d-armes-inattendue-entre-knafo-et-bompard-sur-tetris-20261121
-  Les deux députés se sont écharpés sur les réseaux sociaux à propos de la sortie du nouvel épisode du jeu vidéo GTA qui a été salué par Jean-Luc Mélenchon.
 - [21/11 11:08] franceinfo — "Bulldozer", "super shérif" et "serviteur de l'Etat" : qui est Hugues Moutouh, le préfet soupçonné d'avoir fait fuiter des informations au RN ?
-  https://www.franceinfo.fr/politique/front-national/bulldozer-super-sherif-et-serviteur-de-l-etat-qui-est-hugues-moutouh-le-prefet-soupconne-d-avoir-fait-fuiter-des-informations-au-rn_8292374.html#xtor=RSS-3-[lestitres]
+  https://www.franceinfo.fr/politique/front-national/bulldozer-super-sherif-et-serviteur-de-l-etat-qui-est-hugues-moutouh-le-prefet-soupconne-d-avoir-fait-fuiter-des-informations-au-rn_8292374.html#xtor=RSS-3-%5Bpolitique%5D
   Le haut fonctionnaire, qui a été le numéro deux du ministère de l'Intérieur entre avril 2025 et mai 2026, a été convoqué vendredi par Laurent Nuñez après l'ouverture d'une enquête pour "violation du secret professionnel…
-- [21/11 11:00] Ouest-France — REPORTAGE. « Les commerçants veulent avancer » : les ouvertures dominicales au bon vouloir des maires et des préfets
-  https://www.ouest-france.fr/economie/commerce/reportage-les-commercants-veulent-avancer-les-ouvertures-dominicales-au-bon-vouloir-des-maires-et-des-prefets-f95e8d84-e364-11f1-a3b1-0c6de532ce7d?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
-  Pour compenser les pertes suscitées par les débordements en marge des récentes manifestations, le gouvernement a souhaité favoriser l’ouverture des commerces le dimanche jusqu’à Noël. Mais la décision incombe aux préfet…
-- [21/11 11:00] Le Figaro — «Historiquement, le bureau du président était au dernier étage : j’ai rompu cette tradition en m’installant au 10e, au milieu de l’immeuble»
-  https://www.lefigaro.fr/decideurs/management/historiquement-le-bureau-du-president-etait-au-dernier-etage-j-ai-rompu-cette-tradition-en-m-installant-au-10e-au-milieu-de-l-immeuble-20261121
-  UNE HEURE DANS LE BUREAU - Chaque week-end, un dirigeant ouvre sa porte au Figaro. C’est au tour de Matthias Savignac, ancien enseignant et président de la MGEN.
+- [21/11 11:00] Le Monde — Thomas Piketty : « Le projet de convention fiscale de l’ONU a le potentiel de changer la face du monde »
+  https://www.lemonde.fr/la-chronique-de-thomas-piketty/article/2026/11/21/thomas-piketty-le-projet-de-convention-fiscale-de-l-onu-a-le-potentiel-de-changer-la-face-du-monde_6813978_6649149.html
+  Les négociations aux Nations unies autour d’une convention-cadre sur la coopération fiscale reprennent à Nairobi le 30 novembre. Les Occidentaux seraient bien inspirés de s’y intéresser, faute de quoi ils risquent de pa…
 - [21/11 10:51] franceinfo — Préfet soupçonné de fuites vers le RN : "Il doit être mis à pied", estime la députée écologiste Sandrine Rousseau
-  https://www.franceinfo.fr/france/centre-val-de-loire/loiret/prefet-soupconne-de-fuites-vers-le-rn-il-doit-etre-mis-a-pied-estime-la-depute-ecologiste-sandrine-rousseau_8293574.html#xtor=RSS-3-[lestitres]
+  https://www.franceinfo.fr/france/centre-val-de-loire/loiret/prefet-soupconne-de-fuites-vers-le-rn-il-doit-etre-mis-a-pied-estime-la-depute-ecologiste-sandrine-rousseau_8293574.html#xtor=RSS-3-%5Bpolitique%5D
   Sandrine Rousseau appelle le ministre de l'Intérieur Laurent Nuñez à mettre à pied “immédiatement” le préfet du Loiret Hugues Moutouh, accusé d’avoir organisé des fuites depuis le ministère de l’Intérieur vers le Rassem…
-- [21/11 10:51] franceinfo — "Je vais aller brûler un cierge" : à Lyon, les commerçants de la place Bellecour s'inquiètent du retour des cortèges en centre-ville
-  https://www.franceinfo.fr/societe/manifestations/reportage-je-vais-aller-bruler-un-cierge-a-lyon-les-commercants-de-la-place-bellecour-s-inquietent-du-retour-des-corteges-en-centre-ville_8292824.html#xtor=RSS-3-[lestitres]
-  La préfecture du Rhône a interdit les manifestations dans le centre-ville de Lyon, alors que les gilets jaunes ont annoncé une sixième journée de mobilisation, samedi 21 novembre. Trois rassemblements sont prévus, en év…
 - [21/11 10:30] Le Monde — La probable résolution de l’hypothèse de Riemann par une intelligence artificielle marque une bascule pour les mathématiques
   https://www.lemonde.fr/sciences/article/2026/11/21/la-probable-resolution-de-l-hypothese-de-riemann-par-une-intelligence-artificielle-marque-une-bascule-pour-les-mathematiques_6813962_1650684.html
   Un mathématicien d’Anthropic, Levent Alpöge, assisté de l’outil Claude de son employeur, assure avoir résolu l’une des plus célèbres hypothèses de la discipline. Posée en 1859 par Bernhard Riemann, elle permet de caract…
-- [21/11 10:00] Le Monde — L’horloge magique, l’énigme maths du « Monde » nᵒ 120
-  https://www.lemonde.fr/sciences/article/2026/11/21/l-horloge-magique-l-enigme-maths-du-monde-n-120_6813959_1650684.html
-  Perdre collectivement la notion du temps, mais tous se retrouver à la même heure, c’est le défi que propose Mickaël Delaunay dans ce casse-tête.
+- [21/11 10:00] Le Monde — « Pas question de mettre mon père en contact d’urgence, le temps qu’il décroche, je serai déjà morte… »
+  https://www.lemonde.fr/m-le-mag/article/2026/11/21/pas-question-de-mettre-mon-pere-en-contact-d-urgence-le-temps-qu-il-decroche-je-serai-deja-morte_6813958_4500055.html
+  Dans sa chronique, Guillemette Faure met en lumière les transformations invisibles de notre époque. Cette semaine, le choix cornélien de celui ou celle à avertir en cas de pépin.
 - [21/11 10:00] Le Monde — Présidentielle 2027 : comment l’argument du « barrage » anime la campagne de premier tour, au risque de l’affaiblir au second
   https://www.lemonde.fr/politique/article/2026/11/21/presidentielle-2027-comment-l-argument-du-barrage-anime-la-campagne-de-premier-tour-au-risque-de-l-affaiblir-au-second_6813960_823448.html
   A cinq mois de l’élection présidentielle, de gauche à droite, on relativise le barrage républicain, tout en espérant in fine en bénéficier dans un éventuel second tour contre le Rassemblement national.
@@ -175,12 +184,9 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [21/11 09:30] Le Figaro — Les Basques se mobilisent pour le droit d’utiliser les langues régionales dans l’espace public
   https://www.lefigaro.fr/actualite-france/les-basques-se-mobilisent-pour-le-droit-d-utiliser-les-langues-regionales-dans-l-espace-public-20261121
   REPORTAGE - Alors que l’usage du basque diminue, les élus locaux et défenseurs de la langue espèrent pouvoir convaincre l’État de changer la Constitution. Une manifestation a lieu ce samedi à Bayonne.
-- [21/11 09:06] Le Figaro — «Sans lui, notre copropriété aurait payé 425.000 euros de plus» : ce professionnel méconnu peut faire baisser la facture des travaux dans votre immeuble
-  https://immobilier.lefigaro.fr/article/sans-lui-notre-copropriete-aurait-paye-425-000-euros-de-plus-ce-professionnel-meconnu-peut-faire-baisser-la-facture-des-travaux-dans-votre-immeuble-20261121
-  Spécialiste de l’analyse des devis et des métrages, il est appelé à jouer un rôle croissant dans la rénovation des copropriétés. Mais nombre de syndics et de maîtres d’œuvre renâclent à faire appel à lui, redoutant de p…
-- [21/11 08:01] Le Monde — Inondations dans le Pas-de-Calais : la Canche reste en vigilance orange ; près de 800 évacuations depuis jeudi, selon la préfecture
+- [21/11 08:01] Le Monde — Inondations dans le Pas-de-Calais : deux cours d’eau en vigilance orange ; près de 800 évacuations depuis jeudi, selon la préfecture
   https://www.lemonde.fr/planete/article/2026/11/21/inondations-dans-le-pas-de-calais-la-canche-reste-en-vigilance-orange-pres-de-800-evacuations-depuis-jeudi-selon-la-prefecture_6813953_3244.html
-  Du côté de la Normandie, Vigicrues a prévenu samedi que la Vire, qui traverse le Calvados et la Manche, atteindrait « les seuils de premiers débordements » dans la matinée, et l’a placée en vigilance jaune.
+  En Normandie, Vigicrues a prévenu que le niveau maximum de la Vire, placée en vigilance jaune, « est en passe d’être atteint ce [samedi] matin » dans le secteur de Saint-Lô et qu’il est « susceptible de générer des débo…
 - [21/11 08:00] Le Figaro — Dominique Demarville, chef de caves des champagnes Lallier : «L’exigence de nos clients est beaucoup plus grande»
   https://avis-vin.lefigaro.fr/domaines-et-vignerons/dominique-demarville-chef-de-caves-des-champagnes-lallier-l-exigence-de-nos-clients-est-beaucoup-plus-grande-20261121
   Comment bien vendre le vin des rois en 2026 ? Le directeur général et chef de caves de la marque Lallier nous livre les secrets du succès d’une maison centenaire.
@@ -196,9 +202,6 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [21/11 07:00] Le Monde — Téléphonie mobile par satellite : le chemin tortueux des opérateurs européens vers une constellation souveraine
   https://www.lemonde.fr/economie/article/2026/11/21/telephonie-mobile-par-satellite-le-chemin-tortueux-des-operateurs-europeens-vers-une-constellation-souveraine_6813948_3234.html
   Face à Starlink, Orange, Deutsche Telekom, Telefonica et Vodafone veulent créer un service mobile par satellite européen et souverain. Mais les délais, le coût et le manque de solutions disponibles compliquent leur proj…
-- [21/11 07:00] Le Figaro — Franz-Olivier Giesbert : « Dans nombre de médias, la meute LFIste impose sa loi »
-  https://www.lefigaro.fr/vox/societe/franz-olivier-giesbert-dans-nombre-de-medias-la-meute-lfiste-impose-sa-loi-20261121
-  ENTRETIEN - L’ancien directeur du Nouvel Observateur, du Figaro et du Point voit dans le climat actuel le retour d’un terrorisme intellectuel, porté par une extrême gauche qui ne conteste plus les idées mais veut faire…
 - [21/11 07:00] Le Figaro — «Ça reste une réforme forcée» : en Mayenne, les débuts contrariés d’une «docteur junior» envoyée dans un désert médical
   https://www.lefigaro.fr/actualite-france/ca-reste-une-reforme-forcee-en-mayenne-les-debuts-contraries-d-une-docteur-junior-envoyee-dans-un-desert-medical-20261121
   REPORTAGE - Le 2 novembre, 2700 futurs généralistes ont entamé une quatrième année d’internat en pratique encadrée, instaurée par une réforme adoptée en 2022. À Renazé, ce renfort fait le bonheur des patients. Mais Élys…
@@ -208,24 +211,15 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [21/11 06:15] Le Monde — « On est devenus “street medics” parce qu’on se sentait impuissants face aux violences » : à la rencontre des bénévoles qui secourent les manifestants blessés
   https://www.lemonde.fr/campus/article/2026/11/21/on-est-devenus-street-medics-parce-qu-on-se-sentait-impuissants-face-aux-violences-a-la-rencontre-des-benevoles-qui-secourent-les-manifestants-blesses_6813927_4401467.html
   Depuis le début du mouvement social, les « secouristes de rue » sont au cœur des cortèges. Contamination au gaz lacrymogène, plaies, crises d’angoisse… ils prodiguent les premiers gestes aux manifestants, sur fond de re…
-- [21/11 06:00] Le Monde — « L’argentique était mort. Je me suis dit “il y a un truc à faire !” » : avec ces passionnés qui ressuscitent la photographie d’avant
-  https://www.lemonde.fr/m-perso/article/2026/11/21/l-argentique-etait-mort-je-me-suis-dit-il-y-a-un-truc-a-faire-avec-ces-passionnes-qui-ressuscitent-la-photographie-d-avant_6813923_4497916.html
-  Ils réparent et vendent de vieux appareils analogiques, animent des ateliers et des espaces d’échange, organisent expositions, concours et festivals… Gros plan sur ces passionnés de la photographie sans pixels qui fédèr…
-- [21/11 06:00] Le Monde — Mobilisation lycéenne : les introuvables « complicités » de violences parmi les enseignants dénoncées par Matignon
+- [21/11 06:00] Le Monde — Mobilisation lycéenne : les preuves des accusations de « complicités » de violences portées par Matignon à l’encontre d’enseignants restent introuvables
   https://www.lemonde.fr/societe/article/2026/11/21/mobilisation-lyceenne-les-introuvables-complicites-de-violences-parmi-les-enseignants-denoncees-par-matignon_6813920_3224.html
   Le premier ministre et son cabinet ont alimenté auprès de la presse l’idée de complicités au sein du personnel de l’éducation nationale dans les heurts qui ont eu lieu dans et aux abords des lycées. « Le Monde » a conta…
-- [21/11 05:30] Le Monde — Anaïs Barbeau-Lavalette, écrivaine et réalisatrice québécoise : « Le fait que je sois mortelle m’habite. C’est très vivifiant et ça fait de moi une femme qui prend des risques »
-  https://www.lemonde.fr/m-le-mag/article/2026/11/21/l-ecrivaine-et-realisatrice-quebecoise-anais-barbeau-lavalette-le-fait-que-je-sois-mortelle-m-habite-c-est-tres-vivifiant-et-ca-fait-de-moi-une-femme-qui-prend-des-risques_6813917_4500055.html
-  Connue en France pour son roman « La femme qui fuit », la documentariste et militante écologiste et féministe remporte actuellement au Québec un franc succès en avec son film « Pauline Julien, femme pays », portrait d’u…
 - [21/11 05:30] Le Monde — Présidentielle 2027 : à cinq mois de l’élection, l’inquiétude grandit au sein du camp présidentiel, toujours incapable de s’unir
   https://www.lemonde.fr/politique/article/2026/11/21/presidentielle-2027-a-cinq-mois-de-l-election-l-inquietude-grandit-au-sein-du-camp-presidentiel-toujours-incapable-de-s-unir_6813915_823448.html
   Le débat autour d’une primaire à droite et au centre met en lumière la difficulté d’une stratégie claire au sein de l’ancienne majorité, prise entre des considérations individuelles et des fractures idéologiques.
 - [21/11 01:33] Le Monde — Aux Etats-Unis, Wall Street en déroute après la dégringolade des sociétés liées à l’IA
   https://www.lemonde.fr/economie/article/2026/11/21/aux-etats-unis-wall-street-en-deroute-apres-la-degringolade-des-societes-liees-a-l-intelligence-artificielle_6813811_3234.html
   Les inquiétudes sur le modèle économique des entreprises d’intelligence artificielle, les incertitudes sur l’avenir des data centers et les déboires du champion Nvidia ont effacé des milliards de dollars de capitalisati…
-- [21/11 01:18] Le Monde — Seine-Saint-Denis : le policier qui a tué un automobiliste en 2022 condamné à dix-huit mois de prison ferme sans mandat de dépôt
-  https://www.lemonde.fr/societe/article/2026/11/21/seine-saint-denis-le-policier-qui-a-tue-un-automobiliste-en-2022-condamne-a-dix-huit-mois-de-prison-ferme-sans-mandat-de-depot_6813778_3224.html
-  L’avocate générale avait demandé cinq ans de réclusion criminelle, assortis d’un mandat de dépôt différé, à l’encontre de cet ancien brigadier-chef de la BAC.
 - [20/11 23:46] franceinfo — Présidentielle 2027 : ces maires réticents à l'idée de donner leur parrainage
   https://www.franceinfo.fr/elections/presidentielle-2027-ces-maires-reticents-a-l-idee-de-donner-leur-parrainage_8292998.html#xtor=RSS-3-%5Bpolitique%5D
   Le calendrier des édiles dans les prochaines semaines devrait être occupé par le traitement des demandes de parrainages : 48,3% d’entre eux excluent d’apporter leur soutien à un candidat. Comment expliquer cette réticen…
@@ -256,9 +250,6 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [20/11 20:00] franceinfo — Dominique de Villepin : des coups par sa droite
   https://www.franceinfo.fr/elections/dominique-de-villepin-des-coups-par-sa-droite_8292857.html#xtor=RSS-3-%5Bpolitique%5D
   Dominique de Villepin a officialisé vendredi 20 novembre sa candidature à l'élection présidentielle. Une candidature critiquée par certains de son historique famille politique. On en parle dans l'épisode 10 du podcast "…
-- [20/11 20:00] Le Figaro — Le gouvernement s’en remet au RN pour éviter la crise financière... Les indiscrets du Figaro
-  https://www.lefigaro.fr/politique/le-gouvernement-s-en-remet-au-rn-pour-eviter-la-crise-financiere-les-indiscrets-du-figaro-20261120
-  CONFIDENTIELS - Chaque semaine, la rédaction emmène ses lecteurs dans les coulisses de la vie politique.
 - [20/11 19:49] Le Figaro — Soupçons de fuites au profit du RN : le préfet Hugues Moutouh dans la tempête
   https://www.lefigaro.fr/actualite-france/soupcons-de-fuites-au-profit-du-rn-le-prefet-hugues-moutouh-dans-la-tempete-20261120
   RÉCIT - Convoqué par le ministre de l’Intérieur, Laurent Nuñez, ce vendredi, il est soupçonné d’avoir renseigné le Rassemblement national sur des affaires en cours.
@@ -282,6 +273,15 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
   Sur le point d’officialiser sa candidature, l’ancien premier ministre a opéré un rafraîchissement politique, cherchant à séduire à la fois les électeurs de gauche et de droite.
 
 ## Gendarmerie-police-justice
+- [21/11 13:17] franceinfo — L'auteur du tir de mortier d'artifice contre la députée LFI Farida Amrani a été condamné à 10 mois de bracelet électronique
+  https://www.franceinfo.fr/faits-divers/l-auteur-du-tir-de-mortier-d-artifice-contre-la-deputee-lfi-farida-amrani-a-ete-condamne-a-10mois-de-bracelet-electronique_8293004.html#xtor=RSS-3-%5Bpolitique%5D
+  Un individu masqué était entré le 7 novembre dans un salon de coiffure d'Evry-Courcouronnes (Essonne) où se trouvait l'élue. Elle avait été légèrement blessée.
+- [21/11 12:44] Zone Militaire — Le sous-marin nucléaire d’attaque De Grasse a été officiellement admis au service actif
+  https://www.opex360.com/2026/11/21/le-sous-marin-nucleaire-dattaque-de-grasse-a-ete-officiellement-admis-au-service-actif/
+  Les trois premiers sous-marins nucléaires d’attaque [SNA] de la classe Suffren [ou Barracuda] furent admis au service actif environ sept mois après leur livraison à la Marine nationale, ce délai correspondant à la durée…
+- [21/11 12:28] Ouest-France — Des poneys en divagation causent un accident de la route : un animal euthanasié
+  https://www.ouest-france.fr/faits-divers/accidents/des-poneys-en-divagation-causent-un-accident-de-la-route-un-animal-euthanasie-b5e34132-e59c-11f1-bd4e-6f30b8f49e21?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
+  Vers 7 heures ce samedi 21 novembre 2026, les pompiers sont intervenus à Écommoy (Sarthe) sur un accident de la circulation impliquant des poneys et une voiture. Un animal a été euthanasié.
 - [21/11 11:44] franceinfo — Présomption d'usage légal des armes par les forces de l'ordre : la loi définitivement adoptée
   https://www.franceinfo.fr/faits-divers/police/violences-policieres/presomption-d-usage-legal-des-armes-par-les-forces-de-l-ordre-la-loi-definitivement-adoptee_8293631.html#xtor=RSS-3-%5Bpolitique%5D
   Le Parlement a définitivement adopté vendredi 20 novembre la loi de présomption d’usage légal des armes par les forces de l’ordre, après le vote du Sénat. Face à une mesure qu’elle juge “dangereuse”, la gauche sénatoria…
@@ -291,9 +291,6 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [21/11 11:32] franceinfo — "Affaires sensibles". OKC : les enfants martyrs face à leur gourou
   https://www.franceinfo.fr/replay-magazine/france-2/affaires-sensibles/affaires-sensibles-okc-les-enfants-martyrs-face-a-leur-gourou_8287442.html#xtor=RSS-3-%5Bfaits-divers%5D
   Privations, humiliations, châtiments violents, viols présumés... Ces enfants aujourd'hui adultes racontent de longues années passées dans la communauté bouddhiste Ogyen Kunzang Chöling, en Provence, sous le joug du gour…
-- [21/11 11:18] Ouest-France — « Il traumatise les gens » : détenu en Colombie, le principal accusé absent d’un grand procès du narcobanditisme à Lyon
-  https://www.ouest-france.fr/faits-divers/trafic/narcotrafic/il-traumatise-les-gens-detenu-en-colombie-le-principal-accuse-absent-dun-grand-proces-du-narcobanditisme-a-lyon-5a6ca34e-e587-11f1-afa7-9a0bb82a33d1?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
-  En attendant son extradition de Colombie, où il est actuellement détenu, le principal accusé d’une affaire de narcobanditisme est absent du procès qui se tiendra à partir du lundi 23 novembre à Lyon. Une dizaine de pers…
 - [21/11 08:56] franceinfo — Serge Money, avocat de Michel Zecler, salue une "décision historique" mais les peines "laissent un petit goût amer"
   https://www.franceinfo.fr/faits-divers/producteur-passe-a-tabac-par-des-policiers/serge-money-avocat-de-michel-zecler-salue-une-decision-historique-mais-les-peines-laissent-un-petit-gout-amer_8293472.html#xtor=RSS-3-%5Bfaits-divers%5D
   C'est une "décision historique", a réagi sur franceinfo Serge Money, l'avocat de Michel Zecler, après la condamnation des trois policiers vendredi.
@@ -306,15 +303,15 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [21/11 01:26] franceinfo — Jusqu'à deux ans de prison ferme et le caractère raciste des violences retenu pour les trois policiers accusés d'avoir roué de coups Michel Zecler
   https://www.franceinfo.fr/faits-divers/producteur-passe-a-tabac-par-des-policiers/des-condamnations-allant-d-un-an-a-deux-ans-de-prison-ferme-pour-les-trois-policiers-accuses-d-avoir-roue-de-coups-michel-zecler_8292287.html#xtor=RSS-3-%5Bfaits-divers%5D
   La cour criminelle de Paris a rendu son verdict très attendu, vendredi soir, face à un public venu en nombre, et a finalement retenu la circonstance aggravante de racisme. Les peines vont de un an sous bracelet électron…
+- [21/11 01:18] Le Monde — Seine-Saint-Denis : le policier qui a tué un automobiliste en 2022 condamné à dix-huit mois de prison ferme sans mandat de dépôt
+  https://www.lemonde.fr/societe/article/2026/11/21/seine-saint-denis-le-policier-qui-a-tue-un-automobiliste-en-2022-condamne-a-dix-huit-mois-de-prison-ferme-sans-mandat-de-depot_6813778_3224.html
+  L’avocate générale avait demandé cinq ans de réclusion criminelle, assortis d’un mandat de dépôt différé, à l’encontre de cet ancien brigadier-chef de la BAC.
 - [21/11 00:46] Le Monde — Au procès des auteurs de l’interpellation de Michel Zecler, le caractère raciste des violences retenu, trois policiers condamnés à des peines de prison ferme et l’espoir d’une « jurisprudence »
   https://www.lemonde.fr/societe/article/2026/11/21/au-proces-de-l-interpellation-de-michel-zecler-le-caractere-raciste-des-violences-retenu-trois-policiers-condamnes-a-des-peines-de-prison-ferme-et-l-espoir-d-une-jurisprudence_6813718_3224.html
   Contrôlé en 2020 devant son studio de musique, le producteur avait été tabassé par les agents qui avaient ensuite prétendu dans leur procès-verbal qu’il les avait agressés. Vendredi, la cour criminelle de Paris a rendu…
 - [20/11 23:09] franceinfo — Procès Michel Zecler : les trois policiers condamnés à un à deux ans de prison ferme
   https://www.franceinfo.fr/faits-divers/producteur-passe-a-tabac-par-des-policiers/proces-michel-zecler-les-trois-policiers-condamnes-a-un-a-deux-ans-de-prison-ferme_8293016.html#xtor=RSS-3-%5Bfaits-divers%5D
   Procès Michel Zecler : les trois policiers jugés pour avoir roué de coups le producteur de musique en novembre 2020 ont été condamnés, vendredi 20 novembre, à des peines allant d'un à deux ans de prison ferme. La cour c…
-- [20/11 22:55] franceinfo — L'auteur du tir de mortier d'artifice contre la députée LFI Farida Amrani a été condamné à 10 mois de bracelet électronique
-  https://www.franceinfo.fr/faits-divers/l-auteur-du-tir-de-mortier-d-artifice-contre-la-deputee-lfi-farida-amrani-a-ete-condamne-a-10mois-de-bracelet-electronique_8293004.html#xtor=RSS-3-%5Bpolitique%5D
-  Le 7 novembre, un individu masqué était entré dans un salon de coiffure d'Evry-Courcouronnes (Essonne) où se trouvait l'élue. Elle avait été légèrement blessée.
 - [20/11 22:29] franceinfo — Dix personnes mises en examen pour avoir escroqué des propriétaires de cryptomonnaies et d’or
   https://www.franceinfo.fr/faits-divers/dix-personnes-mises-en-examen-pour-avoir-escroque-des-cryptomonnaies-et-des-metaux-precieux-apres-des-piratages-informatiques-de-societes-specialisees_8292965.html#xtor=RSS-3-%5Bfaits-divers%5D
   Les malfaiteurs étaient très organisés. Un commanditaire ciblait les bases de données à voler, tandis que des "callers" contactaient les victimes pour les inciter à transférer leurs fonds avant que d'autres individus se…
@@ -350,4 +347,4 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
   L’élu municipal d’opposition encourt jusqu’à trois ans de prison pour « complicité d’entrave concertée à la liberté artistique ». Le 18 juillet, à Grenoble, un concert de l’artiste Barbara Butch avait été interrompu au…
 
 ## Diagnostic
-- Tri : 14 article(s) écartés (sport, culture…), 6 renvoyé(s) vers International
+- Tri : 16 article(s) écartés (sport, culture…), 5 renvoyé(s) vers International
