@@ -1,16 +1,25 @@
-VEILLE — généré le 2026-11-22 13:29 (heure de Paris)
+VEILLE — généré le 2026-11-22 14:35 (heure de Paris)
 Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 
 ## International
-- [22/11 13:22] franceinfo — Crise climatique : l'Union européenne "s'oppose" à l'adoption de la déclaration finale de la COP31, après près de deux jours de prolongations
+- [22/11 14:20] franceinfo — En Cisjordanie occupée, une enquête ouverte après des incendies imputés à des colons israéliens
+  https://www.franceinfo.fr/monde/israel/une-enquete-ouverte-apres-des-incendies-imputes-a-des-colons-israeliens-en-cisjordanie-occupee_8294669.html#xtor=RSS-3-[lestitres]
+  Gadi Eisenkot, rival du Premier ministre sortant Benyamin Nétanyahou et chargé par le chef de l'Etat de former un gouvernement, a dénoncé ces actes, qu'il a qualifiés de "terrorisme juif" ébranlant "la stabilité régiona…
+- [22/11 14:16] franceinfo — Crise climatique : l'Union européenne "s'oppose" à l'adoption de la déclaration finale de la COP31, après quasiment deux jours de prolongations
   https://www.franceinfo.fr/environnement/crise-climatique/cop-climat/direct-l-union-europeenne-s-oppose-a-l-adoption-de-la-declaration-finale-de-la-cop31-apres-pres-de-deux-jours-de-prolongations_8294819.html#xtor=RSS-3-[lestitres]
   La dernière version du projet d'accord soumise dimanche aux participants à Antalya, en Turquie, ne contient toujours pas d'appel explicite à sortir des énergies fossiles.
+- [22/11 14:10] Le Monde — L’Italie secouée par le suicide de l’ancien chef de la police
+  https://www.lemonde.fr/international/article/2026/11/22/l-italie-secouee-par-le-suicide-de-l-ancien-chef-de-la-police_6814214_3210.html
+  La mort de Gianni De Gennaro survient alors qu’il était mis en examen pour avoir entravé l’enquête sur l’assassinat, en 1992, du juge antimafia Paolo Borsellino. Aux côtés du magistrat Giovanni Falcone, tué la même anné…
+- [22/11 13:46] franceinfo — Guerre en Ukraine : les écoles d'Odessa passent à l'enseignement à distance après des frappes russes sur le réseau électrique
+  https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-les-ecoles-d-odessa-passent-a-l-enseignement-en-distanciel-apres-des-frappes-russes-sur-le-reseau-electrique_8294744.html#xtor=RSS-3-[lestitres]
+  Le fournisseur d'énergie Ukrenergo a prévenu dimanche que "l'ampleur des destructions" rend "physiquement impossible de fournir la quantité d'électricité requise aux consommateurs" dans la région.
+- [22/11 13:22] franceinfo — Une usine de confiseries ravagée par un incendie meurtrier en Indonésie
+  https://www.franceinfo.fr/faits-divers/incendie/une-usine-de-confiseries-ravagee-par-un-incendie-meurtrier-en-indonesie_8294852.html#xtor=RSS-3-%5Bmonde%5D
+  Un incendie s’est propagé dans une usine de confiseries près de Jakarta en Indonésie samedi 21 novembre. Les premiers bilans font état d’au moins trois morts, tandis que cinquante ouvriers sont toujours recherchés par l…
 - [22/11 13:00] Le Figaro — Après l’attaque contre un porte-conteneurs russe, la Finlande craint une extension de la guerre en mer Baltique
   https://www.lefigaro.fr/international/apres-l-attaque-contre-un-porte-conteneurs-russe-la-finlande-craint-une-extension-de-la-guerre-en-mer-baltique-20261122
   DÉCRYPTAGE - Pour la deuxième fois en dix jours, des frappes de drones attribuées à l’Ukraine ont endommagé samedi matin un navire à proximité des eaux territoriales finlandaises.
-- [22/11 12:55] franceinfo — Guerre en Ukraine : les écoles d'Odessa passent à l'enseignement en distanciel après des frappes russes sur le réseau électrique
-  https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-les-ecoles-d-odessa-passent-a-l-enseignement-en-distanciel-apres-des-frappes-russes-sur-le-reseau-electrique_8294744.html#xtor=RSS-3-[lestitres]
-  Le fournisseur d'énergie Ukrenergo a prévenu dimanche que "l'ampleur des destructions" rend "physiquement impossible de fournir la quantité d'électricité requise aux consommateurs" dans la région d'Odessa.
 - [22/11 12:38] franceinfo — L'ex-président brésilien Jair Bolsonaro en soins intensifs pour une occlusion intestinale
   https://www.franceinfo.fr/monde/bresil/l-ex-president-bresilien-jair-bolsonaro-en-soins-intensifs-pour-une-occlusion-intestinale_8294123.html#xtor=RSS-3-%5Bmonde%5D
   L'ancien dirigeant souffre de séquelles d'un coup de couteau au ventre reçu pendant la campagne électorale de 2018 et a été opéré à plusieurs reprises.
@@ -18,7 +27,7 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
   https://www.lefigaro.fr/international/la-france-doit-entendre-la-demande-d-alger-l-offensive-algerienne-pour-son-agent-consulaire-detenu-a-paris-20261122
   DÉCRYPTAGE - Détenu depuis avril 2025 pour son rôle présumé dans l’enlèvement d’un opposant, l’agent consulaire Smaïl R. est devenu le préalable du pouvoir à toute normalisation.
 - [22/11 12:12] franceinfo — Elections législatives en Israël : Gadi Eisenkot invite le parti de Benyamin Nétanyahou à des négociations de coalition
-  https://www.franceinfo.fr/monde/israel/elections-legislatives-en-israel/elections-legislatives-en-israel-le-centriste-gadi-eisenkot-invite-le-parti-de-benyamin-netanyahou-a-des-negociations-de-coalition_8294531.html#xtor=RSS-3-[lestitres]
+  https://www.franceinfo.fr/monde/israel/elections-legislatives-en-israel/elections-legislatives-en-israel-le-centriste-gadi-eisenkot-invite-le-parti-de-benyamin-netanyahou-a-des-negociations-de-coalition_8294531.html#xtor=RSS-3-%5Bmonde%5D
   Le bloc centriste reste divisé sur la marche à suivre pour s'assurer une majorité gouvernementale, entre alliance avec les ultra-orthodoxes, pacte avec les partis arabes ou gouvernement d'union nationale avec le Premier…
 - [22/11 12:09] franceinfo — L'Union européenne "sabote la paix" en Ukraine, selon Nicolas Dupont-Aignan
   https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/l-union-europeenne-sabote-la-paix-en-ukraine-selon-nicolas-dupont-aignan_8294792.html#xtor=RSS-3-%5Bmonde%5D
@@ -32,27 +41,21 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [22/11 11:43] Le Figaro — Comment réparer l’Amazonie colombienne, une fois les armes déposées
   https://www.lefigaro.fr/international/comment-reparer-l-amazonie-colombienne-une-fois-les-armes-deposees-20261122
   REPORTAGE - Alors que la COP31 s’achève, d’anciens guérilleros démobilisés il y a dix ans mènent dans le sud de la Colombie une vaste initiative de reforestation.
+- [22/11 11:19] Le Monde — Cisjordanie : enquête ouverte par les autorités israéliennes après des attaques de colons ; Gadi Eisenkot dénonce un « terrorisme juif »
+  https://www.lemonde.fr/guerre-au-proche-orient/article/2026/11/22/cisjordanie-enquete-ouverte-par-les-autorites-israeliennes-apres-des-attaques-de-colons-gadi-eisenkot-denonce-un-terrorisme-juif_6814204_6325529.html
+  Dans la nuit de samedi à dimanche, des véhicules et biens palestiniens ont été incendiés et vandalisés dans quatre villages de Cisjordanie, territoire palestinien occupé par Israël depuis 1967.
 - [22/11 10:57] franceinfo — La multiplication des incidents militaires fait craindre une escalade entre la Russie et l'Otan
   https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/la-multiplication-des-incidents-militaires-fait-craindre-une-escalade-entre-la-russie-et-l-otan_8294615.html#xtor=RSS-3-%5Bmonde%5D
   Alors que la Finlande soupçonne un hélicoptère russe d'avoir violé son espace aérien, les incidents se multiplient sur tout l'arc est-européen, de la mer Baltique à la mer Noire.
-- [22/11 10:48] franceinfo — Le Mexique annonce l'arrestation de Chapo Isidro, un baron de la drogue recherché par les Etats-Unis
-  https://www.franceinfo.fr/societe/drogue/le-mexique-annonce-l-arrestation-de-chapo-isidro-un-baron-de-la-drogue-recherche-par-les-etats-unis_8294513.html#xtor=RSS-3-%5Bmonde%5D
-  Chapo Isidro, âgé de 44 ans, fait l'objet de poursuites à la fois au Mexique et aux Etats-Unis, où le FBI offrait une récompense de cinq millions de dollars pour son arrestation.
 - [22/11 10:30] Le Monde — Au Japon, la pauvreté des jeunes occultée par la société : « Parfois, je n’avais qu’une tranche de pain de mie par jour »
   https://www.lemonde.fr/international/article/2026/11/22/au-japon-la-pauvrete-des-jeunes-occultee-par-la-societe-parfois-je-n-avais-qu-une-tranche-de-pain-de-mie-par-jour_6814203_3210.html
   Malgré un taux d’emploi élevé, la pauvreté reste forte au Japon, avec des conséquences graves pour les jeunes. Trop limitées, les aides sociales ne leur permettent pas de s’en sortir. Souvent leur dernier recours, les O…
 - [22/11 09:00] Le Monde — L’historien et archéologue François-Xavier Fauvelle redonne à l’Afrique médiévale sa place dans le monde
   https://www.lemonde.fr/livres/article/2026/11/22/l-historien-et-archeologue-francois-xavier-fauvelle-redonne-a-l-afrique-medievale-sa-place-dans-le-monde_6814196_3260.html
-  L’historien et professeur au Collège de France a rassemblé plus de vingt ans de recherche dans cette synthèse exaustive des connaissances actuelles sur le sujet dont il est l’un des grands spécialistes.
+  Le professeur au Collège de France a rassemblé plus de vingt ans de recherche dans cette synthèse exaustive des connaissances actuelles sur le sujet dont il est l’un des grands spécialistes.
 - [22/11 08:05] franceinfo — Hideo Suzuki, ambassadeur du Japon en France et coqueluche des réseaux sociaux
   https://www.franceinfo.fr/monde/japon/hideo-suzuki-ambassadeur-du-japon-en-france-et-coqueluche-des-reseaux-sociaux_8286836.html#xtor=RSS-3-%5Bmonde%5D
   Hideo Suzuki, le nouvel ambassadeur du Japon en France, est devenu l’une des coqueluches des réseaux sociaux. À travers ses publications, le diplomate partage son émerveillement pour la France avec sensibilité, sincérit…
-- [22/11 08:00] franceinfo — Les confidences de Kate Middleton sur son cancer
-  https://www.franceinfo.fr/monde/royaume-uni/kate-middleton/les-confidences-de-kate-middleton-sur-son-cancer_8294153.html#xtor=RSS-3-%5Bmonde%5D
-  La princesse Kate prend la parole sur son combat contre le cancer. Dans un documentaire intime intitulé « Guérir », bientôt diffusé, elle reviendra sur son expérience et son parcours face à la maladie. Une prise de paro…
-- [22/11 07:49] franceinfo — Donald Trump reçoit les plus gros détenteurs de sa cryptomonnaie, qui l'a considérablement enrichi
-  https://www.franceinfo.fr/economie/bitcoin/donald-trump-recoit-les-plus-gros-detenteurs-de-sa-cryptomonnaie-qui-l-a-considerablement-enrichi_8294492.html#xtor=RSS-3-%5Bmonde%5D
-  Donald Trump reçoit ce dimanche 22 novembre les 185 plus gros détenteurs de sa cryptomonnaie, le Trump Coin, lors d'un gala organisé près de Washington. Une nouvelle illustration des liens étroits entre le président amé…
 - [22/11 07:00] Le Monde — « Le poids des défaites passées dissuade les alliés de l’Arabie saoudite de s’engager au Yémen »
   https://www.lemonde.fr/un-si-proche-orient/article/2026/11/22/le-poids-des-defaites-passees-dissuade-les-allies-de-l-arabie-saoudite-de-s-engager-au-yemen_6814191_6116995.html
   Le royaume saoudien peine à mobiliser la Turquie et l’Egypte, voire la Syrie, contre les houthistes. « Revenir sur l’histoire multiséculaire permet de sortir de la myopie stratégique qui ferait des houthistes de simples…
@@ -74,12 +77,6 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [22/11 06:00] Le Monde — Le Groupe Castel, empire discret de la bière et du vin, secoué par une guerre de pouvoir
   https://www.lemonde.fr/economie/article/2026/11/22/le-groupe-castel-empire-discret-de-la-biere-et-du-vin-secoue-par-une-guerre-de-pouvoir_6814179_3234.html
   Un âpre conflit de gouvernance tourmente le géant des boissons, où l’on se dispute l’héritage, spirituel comme financier, de son charismatique fondateur, Pierre Castel. La 11ᵉ fortune française vient d’avoir 100 ans.
-- [22/11 06:00] Le Monde — « J’avais des pensées suicidaires, j’ai été délaissée par les médecins » : aux Etats-Unis, la mauvaise prise en charge du post-partum fait de nombreuses victimes chez les mères
-  https://www.lemonde.fr/sante/article/2026/11/22/j-avais-des-pensees-suicidaires-j-ai-ete-delaissee-par-les-medecins-aux-etats-unis-la-mauvaise-prise-en-charge-du-post-partum-fait-de-nombreuses-victimes-chez-les-meres_6814178_1651302.html
-  Darons d’ailleurs. Deux fois par mois, un de nos journalistes à l’étranger explore la parentalité hors de nos frontières. Outre-Atlantique, le taux de mortalité maternelle est l’un des plus élevés des pays riches, avec…
-- [21/11 23:08] franceinfo — "Le cancer vous change" : Kate Middleton racontera son combat contre la maladie dans un documentaire pour la BBC
-  https://www.franceinfo.fr/monde/royaume-uni/kate-middleton/le-cancer-vous-change-kate-middleton-racontera-son-combat-contre-la-maladie-dans-un-documentaire-pour-la-bbc_8294162.html#xtor=RSS-3-%5Bmonde%5D
-  Le palais de Kensington a annoncé, ce samedi 21 novembre, la prochaine diffusion d’un documentaire intitulé "Guérir". La princesse Kate Middleton y partagera son expérience et son combat contre le cancer.
 - [21/11 20:43] Le Monde — Jair Bolsonaro, ancien président du Brésil, à nouveau hospitalisé en soins intensifs pour une occlusion intestinale
   https://www.lemonde.fr/international/article/2026/11/21/jair-bolsonaro-ancien-president-du-bresil-a-nouveau-hospitalise-en-soins-intensifs-pour-une-occlusion-intestinale_6814064_3210.html
   Placé en résidence surveillée après avoir été condamné pour tentative de coup d’Etat, l’ancien chef d’Etat d’extrême droite souffre de séquelles d’un coup de couteau au ventre reçu pendant la campagne électorale de 2018…
@@ -88,21 +85,78 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
   RÉCIT - En avril 2025, Anne-Isabelle Tollet s’est inscrite au marathon de Pyongyang pour pénétrer dans l’un des pays les plus fermés au monde. Huit jours sous haute surveillance, au cœur d’un régime nord-coréen obsédé p…
 
 ## France
-- [22/11 13:20] franceinfo — Campagne présidentielle : suivez l'interview de Marine Le Pen, candidate du RN invitée de "Franc-Jeu" sur France 2
-  https://www.franceinfo.fr/elections/presidentielle/direct-campagne-presidentielle-la-secretaire-generale-de-la-cfdt-marylise-leon-appelle-a-changer-la-date-pour-eviter-un-second-tour-le-2-mai_8294528.html#xtor=RSS-3-[lestitres]
-  La CFDT et le président du Sénat, Gérard Larcher, ont appelé plus tôt dans la semaine à déplacer la date du scrutin.
-- [22/11 13:20] Le Figaro — Un projet qui omet la sortie des énergies fossiles : la COP31 s’achève sur un constat d’échec
+- [22/11 14:34] Le Figaro — EN DIRECT - Présidentielle 2027 : David Lisnard voit une primaire comme «un moyen d’exclure les macronistes»
+  https://www.lefigaro.fr/politique/en-direct-presidentielle-2027-david-lisnard-voit-une-primaire-comme-un-moyen-d-exclure-les-macronistes-20261122
+  Le candidat de droite libérale voit dans une primaire de la droite et du centre «un moyen d’éliminer les macronistes» avant le premier tour de la présidentielle, une déclaration qui ne devrait pas faciliter la tenue de…
+- [22/11 14:33] Ouest-France — Marine Le Pen dit n’avoir « jamais reçu d’information confidentielle » du préfet Moutouh, accusé de fuites vers le RN
+  https://www.ouest-france.fr/politique/rassemblement-national/marine-le-pen-dit-navoir-jamais-recu-dinformation-confidentielle-du-prefet-hugues-moutouh-ede7a47c-e675-11f1-bd4e-6f30b8f49e21?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
+  Au micro de France Inter et France 2 ce dimanche 22 novembre, Marine Le Pen revient sur l’enquête sur des fuites provenant de Beauvau à propos d’enquêtes judiciaires concernant le RN. Elle affirme n’avoir « jamais reçu…
+- [22/11 14:32] Le Figaro — Soupçons de fuites vers le RN : Marine Le Pen dit n’avoir «jamais reçu d’information confidentielle» de la part du préfet Hugues Moutouh
+  https://www.lefigaro.fr/politique/soupcons-de-fuites-vers-le-rn-marine-le-pen-dit-n-avoir-jamais-recu-d-information-confidentielle-de-la-part-du-prefet-hugues-moutouh-20261122
+  Le préfet de la région Centre-Val de Loire est soupçonné d’être impliqué dans des fuites sur des enquêtes mettant en cause le Rassemblement national. Une enquête est en cours.
+- [22/11 14:32] franceinfo — La mission spatiale BepiColombo est entrée dans l'orbite de Mercure après huit ans de voyage
+  https://www.franceinfo.fr/sciences/espace/la-mission-spatiale-bepicolombo-est-entree-dans-l-orbite-de-mercure-apres-huit-ans-de-voyage_8294507.html#xtor=RSS-3-[lestitres]
+  Lancé en octobre 2018, l'engin de quatre tonnes a effectué un parcours de plus de 10 milliards de kilomètres pour ajuster sa vitesse et sa trajectoire en direction de la planète la plus proche du Soleil.
+- [22/11 14:26] franceinfo — Le Mexique annonce l'arrestation de Chapo Isidro, un baron de la drogue recherché par les Etats-Unis
+  https://www.franceinfo.fr/societe/drogue/le-mexique-annonce-l-arrestation-de-chapo-isidro-un-baron-de-la-drogue-recherche-par-les-etats-unis_8294513.html#xtor=RSS-3-[lestitres]
+  Ce narcotrafiquant de 44 ans fait l'objet de poursuites dans les deux pays. Le FBI offrait une récompense de cinq millions de dollars pour son arrestation.
+- [22/11 14:23] franceinfo — "Franc-Jeu". Avec Marine Le Pen
+  https://www.franceinfo.fr/replay-magazine/france-2/franc-jeu/franc-jeu-avec-marine-le-pen_8292911.html#xtor=RSS-3-%5Bpolitique%5D
+  Dans la perspective de l'élection présidentielle de 2027, à travers des interviews et des débats, Benjamin Duhamel interroge celles et ceux qui participent aux choix proposés aux Français pour l’avenir du pays. Le 22 no…
+- [22/11 14:15] Ouest-France — « Oubliée par la colonie de vacances à 8 ans, je me suis retrouvée seule au milieu des champs, à 400 km de chez moi »
+  https://www.ouest-france.fr/actualites-enfants/oubliee-par-la-colonie-de-vacances-a-8-ans-je-me-suis-retrouvee-seule-au-milieu-des-champs-a-400-km-de-chez-moi-a26bfe1c-e364-11f1-a3b1-0c6de532ce7d?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
+  Courrier des lectrices et des lecteurs. « Cet été-là, après plusieurs heures de route, nous sommes tous partis, entourés des moniteurs, pour une promenade à pied. Au milieu de nulle part, nous avons fait une halte dans…
+- [22/11 14:12] Ouest-France — Qu’est-ce que la « règle d’or », cet outil budgétaire qu’Emmanuel Macron souhaiterait inscrire dans la Constitution ?
+  https://www.ouest-france.fr/economie/budget-collectivites-etat/quest-ce-que-la-regle-dor-cet-outil-budgetaire-quemmanuel-macron-souhaiterait-inscrire-dans-la-constitution-1c9619b8-e660-11f1-afa7-9a0bb82a33d1?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
+  L’information n’a pas été confirmée par l’Élysée mais elle a fait réagir de nombreuses personnalités politiques. Le président de la République souhaiterait, d’après « La Tribune Dimanche » graver une règle d’or budgétai…
+- [22/11 14:08] Le Figaro — Josephine, le film qui aborde les violences sexuelles à hauteur d’enfant
+  https://www.lefigaro.fr/cinema/josephine-le-film-qui-aborde-les-violences-sexuelles-a-hauteur-d-enfant-20261122
+  Inspiré de son expérience personnelle, le film indépendant de la réalisatrice Beth de Araújo, couronné par le Grand prix du jury dans la catégorie drame à Sundance, met en scène une fillette de huit ans traumatisée aprè…
+- [22/11 14:01] Le Figaro — Un projet qui omet la sortie des énergies fossiles : la COP31 s’achève sur un constat d’échec
   https://www.lefigaro.fr/sciences/cop31-l-union-europeenne-s-oppose-frontalement-au-dernier-projet-de-declaration-finale-20261122
-  L’Union européenne et les pays vulnérables refusent de signer l’accord proposé à la conférence sur le climat d’Antalya, jugé «pas à la hauteur» des enjeux.
+  Le président turc de la COP31 a reconnu dimanche l’absence d’accord des pays sur le projet de décision finale de la conférence sur le climat. L’Union européenne et certains pays vulnérables ont refusé de signer un texte…
+- [22/11 14:00] franceinfo — "Je serai le candidat de la liberté de penser, de dire ce que vous voyez", clame Eric Zemmour lors de son premier meeting de campagne présidentielle
+  https://www.franceinfo.fr/elections/je-serai-le-candidat-de-la-liberte-de-pensee-de-parler-de-dire-ce-que-vous-voyez-clame-eric-zemmour-lors-de-son-premier-meeting-de-campagne-presidentielle_8294024.html#xtor=RSS-3-[lestitres]
+  Le président du parti d'extrême droite s'est exprimé samedi devant ses partisans au Zenith de Toulon.
+- [22/11 14:00] Le Monde — Présidentielle 2027 : découvrez ce que disent les sondages avec notre agrégateur
+  https://www.lemonde.fr/les-decodeurs/article/2026/11/22/presidentielle-2027-decouvrez-ce-que-disent-les-sondages-avec-notre-agregateur_6814213_4355770.html
+  Avec notre agrégateur, explorez les tendances fortes qui se dégagent des nombreuses enquêtes d’opinion menées en vue du premier et du second tour de l’élection présidentielle.
+- [22/11 14:00] Le Monde — Présidentielle 2027 : Marine Le Pen refuse le risque des déplacements à l’étranger
+  https://www.lemonde.fr/politique/article/2026/11/22/presidentielle-2027-marine-le-pen-refuse-le-risque-des-deplacements-a-l-etranger_6814211_823448.html
+  Contrairement à 2022, la candidate du Rassemblement national n’effectuera aucun déplacement international d’ici au scrutin des 18 avril et 2 mai, en dehors de Bruxelles. Ses équipes estiment qu’elle n’en a pas besoin po…
+- [22/11 14:00] Ouest-France — RENCONTRE. Iryna Terekh, la trentenaire ukrainienne qui frappe la Russie en profondeur
+  https://www.ouest-france.fr/europe/ukraine/rencontre-iryna-terekh-la-trentenaire-ukrainienne-qui-frappe-la-russie-en-profondeur-f2ba2006-e42c-11f1-a3b1-0c6de532ce7d?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
+  À 34 ans, cette ancienne architecte urbaine, reconvertie en fabricante de missiles, est devenue en quatre ans le cauchemar de Vladimir Poutine, avec ses drones à longue portée FP-1 et ses missiles de croisière FP-5 Flam…
+- [22/11 14:00] Ouest-France — « Ce n’est pas pour moi » : pourquoi Jean-Luc Lemoine a-t-il refusé de passer les essais de « Slam » sur France 3 ?
+  https://programmetv.ouest-france.fr/personnalites/jean-luc-lemoine/ce-nest-pas-pour-moi-pourquoi-jean-luc-lemoine-a-t-il-refuse-de-passer-les-essais-de-slam-sur-france-3-1ef35622-e4ed-11f1-bd4e-6f30b8f49e21?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
+  Alors qu’il a lancé son nouveau divertissement « Devine si tu peux ! » sur W9, Jean-Luc Lemoine a révélé avoir été approché pour l’animation de « Slam » après le départ de Cyril Féraud.
+- [22/11 14:00] Le Figaro — «Un peu de poésie dans tout ce bazar… ça fait du bien !» : dans les Cévennes, le pari du street art pour colorer une ancienne cité minière
+  https://www.lefigaro.fr/actualite-france/un-peu-de-poesie-dans-tout-ce-bazar-ca-fait-du-bien-dans-les-cevennes-le-pari-du-street-art-pour-colorer-une-ancienne-cite-miniere-20261122
+  REPORTAGE - Avec le concours d’entreprises, de particuliers et de bailleurs sociaux, une quarantaine de façades de la ville de Bessèges ont été investies par des street-artistes. Elles composent un musée à ciel ouvert d…
+- [22/11 13:59] Ouest-France — En Géorgie, une « Trump Tower » fait scandale
+  https://www.ouest-france.fr/europe/georgie/en-georgie-une-trump-tower-fait-scandale-e177b00a-e4ff-11f1-afa7-9a0bb82a33d1?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
+  Une tour du nom du président américain doit être érigée à Tbilissi, la capitale de ce petit pays du Caucase. Sur place, le projet est perçu comme une preuve de la dérive du parti pro-russe au pouvoir.
+- [22/11 13:58] franceinfo — Présidentielle 2027 : David Lisnard voit une primaire comme "un moyen d'exclure les macronistes"
+  https://www.franceinfo.fr/elections/presidentielle/campagne-presidentielle-david-lisnard-voit-une-primaire-comme-un-moyen-d-exclure-les-macronistes_8294525.html#xtor=RSS-3-[lestitres]
+  Le candidat Nouvelle Energie affirme qu'il ne soutiendra d'ailleurs pas obligatoirement le vainqueur d'un possible vote pour départager les prétendants de la droite et du centre, car "il ne veut pas se compromettre avec…
+- [22/11 13:53] franceinfo — Présidentielle 2027 : la CFDT appelle à changer la date du scrutin pour éviter un second tour le 2 mai
+  https://www.franceinfo.fr/elections/presidentielle/campagne-presidentielle-la-secretaire-generale-de-la-cfdt-marylise-leon-appelle-a-changer-la-date-pour-eviter-un-second-tour-le-2-mai_8294624.html#xtor=RSS-3-[lestitres]
+  "Le 2 mai est le pire scénario possible, en raison du risque de vives tensions au lendemain de la Fête des travailleurs", affirme Marylise Léon, secrétaire générale de l'organisation syndicale.
+- [22/11 13:49] Le Figaro — Réchauffement climatique : une fois dépassé l’objectif de +1,5 °C, pourra-t-on faire redescendre les températures ?
+  https://www.lefigaro.fr/sciences/rechauffement-climatique-une-fois-depasse-l-objectif-de-1-5-0c-pourra-t-on-faire-redescendre-les-temperatures-20261122
+  DÉCRYPTAGE - Le franchissement prochain du seuil fixé par l’accord de Paris devrait durer au moins un siècle, mais des solutions technologiques tentent de limiter l’ampleur des catastrophes climatiques.
+- [22/11 13:49] franceinfo — "Je n'ai jamais reçu d'informations confidentielles", affirme Marine Le Pen, au sujet du préfet Hugues Moutouh, soupçonné d'avoir renseigné le RN
+  https://www.franceinfo.fr/elections/presidentielle/direct-campagne-presidentielle-la-secretaire-generale-de-la-cfdt-marylise-leon-appelle-a-changer-la-date-pour-eviter-un-second-tour-le-2-mai_8294528.html#xtor=RSS-3-[lestitres]
+  "Je ne le connais pas personnellement", a ajouté la candidate du Rassemblement national à la présidentielle, invitée dimanche de l'émission "Franc-Jeu" sur France 2.
+- [22/11 13:37] Ouest-France — Enquête RN : un mail d’une collaboratrice du préfet Moutouh découvert chez un proche de Le Pen
+  https://www.ouest-france.fr/politique/rassemblement-national/enquete-rn-un-mail-dune-collaboratrice-du-prefet-moutouh-decouvert-chez-un-proche-de-le-pen-5d37d6a4-e66b-11f1-bd4e-6f30b8f49e21?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
+  Lors d’une perquisition chez un proche de Marine Le Pen en juillet, les enquêteurs avaient découvert un mail provenant du secrétariat général du ministère de l’Intérieur, au sujet d’une enquête judiciaire visant le RN.…
+- [22/11 13:37] Le Figaro — «C’est contraire à nos valeurs» : la ministre Alice Rufo recadre Benjamin Haddad au sujet du projet de centres pour migrants au Rwanda
+  https://www.lefigaro.fr/politique/c-est-contraire-a-nos-valeurs-la-ministre-alice-rufo-recadre-benjamin-haddad-au-sujet-du-projet-de-centres-pour-migrants-au-rwanda-20261122
+  «Pour lutter contre l’immigration irrégulière, il ne faut pas avoir de tabous», avait déclaré le ministre en charge de l’Europe, précisant qu’il exprimait là un «avis personnel» alors qu’il était interviewé au titre de…
 - [22/11 13:00] Le Monde — Avec « Cuisiner, c’est raconter », Pierre-Noël Denieuil livre une anthropologie mondiale du « fait culinaire » sans quitter la cuisine
   https://www.lemonde.fr/livres/article/2026/11/22/avec-cuisiner-c-est-raconter-pierre-noel-denieuil-livre-une-anthropologie-mondiale-du-fait-culinaire-sans-quitter-la-cuisine_6814208_3260.html
   Depuis toujours, semble-t-il, les aliments voyagent, tout comme les manières de table et les pratiques culinaires. L’auteur retrace ces parcours dans le temps et l’espace.
-- [22/11 13:00] Le Figaro — Josephine, le film qui aborde les violences sexuelles à hauteur d’enfant
-  https://www.lefigaro.fr/cinema/josephine-le-film-qui-aborde-les-violences-sexuelles-a-hauteur-d-enfant-20261122
-  Inspiré de son expérience personnelle, le film indépendant de la réalisatrice Beth de Araújo, couronné par le Grand prix du jury dans la catégorie drame à Sundance, met en scène une fillette de huit ans traumatisée aprè…
-- [22/11 12:53] Le Figaro — «C’est contraire à nos valeurs» : la ministre Alice Rufo recadre Benjamin Haddad au sujet du projet de centres pour migrants au Rwanda
-  https://www.lefigaro.fr/politique/c-est-contraire-a-nos-valeurs-la-ministre-alice-rufo-recadre-benjamin-haddad-au-sujet-du-projet-de-centres-pour-migrants-au-rwanda-20261122
-  «Pour lutter contre l’immigration irrégulière, il ne faut pas avoir de tabous», avait déclaré le ministre en charge de l’Europe, précisant qu’il exprimait là un «avis personnel» alors qu’il était interviewé au titre de…
 - [22/11 12:47] Le Figaro — Soupçons de fuites au profit du RN : un mail du service du préfet Hugues Moutouh découvert en perquisition chez un proche de Marine Le Pen
   https://www.lefigaro.fr/politique/soupcons-de-fuites-au-profit-du-rn-un-mail-du-service-du-prefet-hugues-moutouh-decouvert-en-perquisition-chez-un-proche-de-marine-le-pen-20261122
   Le préfet de la région Centre-Val de Loire est soupçonné d’être impliqué dans des fuites sur des enquêtes mettant en cause le Rassemblement national.
@@ -114,57 +168,19 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
   Les bassins de la Canche et de la Lys plaine restent placés en vigilance orange crues ce dimanche. La décrue s'annonce "très lente", mais "il n'y a plus d’enjeux d’évacuation, de débordements", indique le préfet du Pas-…
 - [22/11 12:32] Le Monde — COP31 : la présidence turque ​annonce le rejet de sa proposition de décision finale, qui ne mentionnait pas la sortie des énergies fossiles
   https://www.lemonde.fr/climat/article/2026/11/22/climat-l-ue-et-ses-membres-s-opposent-a-l-adoption-de-la-decision-finale-proposee-a-la-cop31_6814199_1652613.html
-  « Nous n’approuverons pas une décision (...) ne mentionnant même pas les combustibles fossiles, qui sont le principal moteur du changement climatique », a notamment déclaré le ministre du climat irlandais, Darragh O’Bri…
-- [22/11 12:32] Ouest-France — De l’Ancien Régime à aujourd’hui : les manifestations sont-elles devenues plus violentes que par le passé en France ?
-  https://www.ouest-france.fr/societe/police/de-lancien-regime-a-aujourdhui-en-france-les-manifestations-sont-elles-devenues-plus-violentes-que-par-le-passe-b730662e-d9ca-11f1-81f5-8e32b0872d76?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
-  Laurent Bonelli, professeur en science politique à l’université de Paris-Nanterre, spécialiste des politiques de sécurité et du maintien de l’ordre, analyse la doctrine du maintien de l’ordre actuelle. Selon ce chercheu…
-- [22/11 12:30] Ouest-France — Mort de Nahel : la justice se prononce mardi sur le renvoi du policier pour meurtre
-  https://www.ouest-france.fr/societe/justice/mort-de-nahel-la-justice-se-prononce-mardi-sur-le-renvoi-du-policier-pour-meurtre-f2a9ed40-e65b-11f1-bd4e-6f30b8f49e21?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
-  La Cour d’appel de Versailles dira, mardi, si elle renvoie ou non le policier ayant tiré sur Nahel Merzouk en juin 2023 à Nanterre, aux assises pour meurtre. Depuis trois ans, la qualification juridique des faits donne…
-- [22/11 12:27] Le Figaro — EN DIRECT - Présidentielle 2027 : David Lisnard voit une primaire comme «un moyen d’exclure les macronistes»
-  https://www.lefigaro.fr/politique/en-direct-presidentielle-2027-david-lisnard-voit-une-primaire-comme-un-moyen-d-exclure-les-macronistes-20261122
-  Le candidat de droite libérale voit dans une primaire de la droite et du centre «un moyen d’éliminer les macronistes» avant le premier tour de la présidentielle, une déclaration qui ne devrait pas faciliter la tenue de…
-- [22/11 12:24] Le Figaro — «Un bouclier qui protège les Français»: la droite et le RN sont prêts à soutenir un projet de règle d'or budgétaire
-  https://www.lefigaro.fr/politique/un-bouclier-qui-protege-les-francais-la-droite-et-le-rn-sont-prets-a-soutenir-un-projet-de-regle-d-or-budgetaire-20261122
-  Jordan Bardella et Bruno Retailleau saluent ce projet relancé par Emmanuel Macron mais l’accusent aussi d’être responsable de l’explosion de la dette de la France.
+  « Nous n’approuverons pas une décision (…) ne mentionnant même pas les combustibles fossiles, qui sont le principal moteur du changement climatique », a notamment déclaré le ministre du climat irlandais, Darragh O’Brien…
 - [22/11 12:17] franceinfo — "À la fin, cela doit être un moment magique, et je vais tout faire pour ça", promet le nouveau patron des Alpes 2030, Geoffroy Roux de Bézieux
   https://www.franceinfo.fr/les-jeux-olympiques/alpes-francaises-2030/a-la-fin-cela-doit-etre-un-moment-magique-je-vais-tout-faire-pour-ca-promet-le-nouveau-patron-des-alpes-2030-geoffroy-roux-de-bezieux_8294651.html#xtor=RSS-3-[lestitres]
   Le nouveau président du Cojop d'Alpes 2030 a accordé son premier entretien à la presse samedi, près d'un mois après sa nomination.
-- [22/11 12:01] Ouest-France — Macaulay Culkin prépare une suite de « Maman, j’ai raté l’avion » avec Disney
-  https://www.ouest-france.fr/cinema/macaulay-culkin-prepare-une-suite-de-maman-jai-rate-lavion-avec-disney-627dbc1e-e652-11f1-bd4e-6f30b8f49e21?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
-  Selon plusieurs médias américains, l’acteur star est en train de préparer un nouvel opus de la comédie de Noel culte. Il y reprendrait son personnage devenu adulte, pour un film produit par Seth Rogen et Evan Goldberg.
-- [22/11 11:49] franceinfo — La présidence de la COP31 fait une nouvelle proposition de compromis, la France dénonce un texte qui "nous ramène en arrière"
-  https://www.franceinfo.fr/environnement/crise-climatique/cop-climat/la-presidence-de-la-cop31-fait-une-nouvelle-proposition-de-compromis-la-france-denonce-un-texte-qui-nous-ramene-en-arriere_8294591.html#xtor=RSS-3-[lestitres]
-  Le projet d'accord ne contient toujours pas d'appel explicite à sortir du charbon, du pétrole ou du gaz, dont l'utilisation est la principale cause du changement climatique.
 - [22/11 11:47] Le Figaro — «Changez de vie, pas de pays» : avec sa campagne dans le métro parisien, la province Sud de Nouvelle-Calédonie fait polémique
   https://www.lefigaro.fr/actualite-france/changez-de-vie-pas-de-pays-avec-sa-campagne-dans-le-metro-parisien-la-province-sud-de-nouvelle-caledonie-fait-polemique-20261122
   DÉCRYPTAGE - Deux ans et demi après les émeutes, la loyaliste Sonia Backès a lancé une opération séduction pour inviter les métropolitains à venir s’installer sur le Caillou. Mais l’initiative a fâché les indépendantist…
-- [22/11 11:43] franceinfo — Après le Jura, le département de l'Ain à son tour placé en vigilance orange pluie-inondation, le Pas-de-Calais maintenu en alerte orange aux crues
-  https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/inondations-et-crues/apres-le-jura-le-departement-de-l-ain-a-son-tour-place-en-vigilance-orange-pluie-inondations-le-pas-de-calais-maintenu-en-alerte-orange-aux-crues_8294486.html#xtor=RSS-3-[lestitres]
-  "Une nouvelle perturbation traverse le pays avec un blocage des pluies sur les massifs de l'Est", précise Météo-France dimanche.
-- [22/11 11:30] franceinfo — On vous résume les points de discorde à la COP31 alors que les discussions sur un accord s'enlisent en Turquie
-  https://www.franceinfo.fr/environnement/crise-climatique/cop-climat/on-vous-resume-les-points-de-discorde-a-la-cop31-alors-que-les-discussions-sur-un-accord-s-enlisent_8294597.html#xtor=RSS-3-[lestitres]
-  Une nouvelle proposition de compromis diffusée durant la nuit de samedi à dimanche à Antalya est jugée insuffisante par de nombreux gouvernement et ONG de défense de l'environnement.
-- [22/11 11:19] Le Monde — Cisjordanie : enquête ouverte par les autorités israéliennes après des attaques de colons ; Gadi Eisenkot dénonce un « terrorisme juif »
-  https://www.lemonde.fr/guerre-au-proche-orient/article/2026/11/22/cisjordanie-enquete-ouverte-par-les-autorites-israeliennes-apres-des-attaques-de-colons-gadi-eisenkot-denonce-un-terrorisme-juif_6814204_6325529.html
-  Dans la nuit de samedi à dimanche, des véhicules et biens palestiniens ont été incendiés et vandalisés dans quatre villages de Cisjordanie, territoire palestinien occupé par Israël depuis 1967.
 - [22/11 10:47] franceinfo — Soupçonné de fuites vers le RN, le préfet du Loiret Hugues Moutouh demande à être démis de ses fonctions
   https://www.franceinfo.fr/politique/front-national/soupconne-de-fuites-vers-le-rn-le-prefet-du-loiret-hugues-moutouh-demande-a-etre-demis-de-ses-fonctions_8294663.html#xtor=RSS-3-%5Bpolitique%5D
   Le préfet a demandé à être relevé de ses fonctions, samedi 21 novembre, tout en dénonçant une “campagne de déstabilisation” à son égard dans un communiqué.
-- [22/11 10:42] Le Figaro — Budget : pourquoi la règle d’or n’est pas la solution miracle aux déficits chroniques de la France
-  https://www.lefigaro.fr/conjoncture/budget-pourquoi-la-regle-d-or-n-est-pas-la-solution-miracle-aux-deficits-chroniques-de-la-france-20260804
-  DÉCRYPTAGE - Envisagée par Emmanuel Macron qui voudrait convoquer le Congrès, cette contrainte budgétaire peut être efficace, mais seulement à certaines conditions.
-- [22/11 10:28] Le Figaro — Pensez-vous que la primaire de la droite et du centre aura lieu ?
-  https://www.lefigaro.fr/politique/pensez-vous-que-la-primaire-de-la-droite-et-du-centre-aura-lieu-20261122
-- [22/11 10:00] Le Monde — Est-ce bien raisonnable de remonter sa montre chaque matin ?
-  https://www.lemonde.fr/m-styles/article/2026/11/22/est-ce-bien-raisonnable-de-remonter-sa-montre-chaque-matin_6814201_4497319.html
-  Dans la mode comme dans la vie, il convient de connaître les limites à ne pas franchir. Ou alors, en connaissance de cause.
-- [22/11 09:00] Le Monde — « Le dilemme » : doit-on accepter sans ciller la Légion d’honneur ?
-  https://www.lemonde.fr/intimites/article/2026/11/22/le-dilemme-doit-on-accepter-sans-ciller-la-legion-d-honneur_6814197_6190330.html
-  Chaque mois, nos dilemmes moraux intimes sont passés au crible. A priori, se voir épingler la Légion d’honneur fait plutôt plaisir et ne nuit à personne. Mais pour de nombreux professionnels, journalistes, magistrats ou…
-- [22/11 07:33] Le Monde — L’Ain et le Jura placés en vigilance orange pluies-inondations dimanche soir ; la Canche à des niveaux toujours élevés dans le Pas-de-Calais
+- [22/11 07:33] Le Monde — L’Ain et le Jura placés en vigilance orange pluie-inondations dimanche soir ; la Canche à des niveaux toujours élevés dans le Pas-de-Calais
   https://www.lemonde.fr/climat/article/2026/11/22/l-ain-et-le-jura-places-en-en-vigilance-orange-pluies-inondations-dimanche-soir-la-canche-a-des-niveaux-toujours-eleves-dans-le-pas-de-calais_6814193_1652612.html
-  Des cumuls de pluie exceptionnels sont attendus sur le Haut-Jura et les plateaux, tandis que la vigilance orange est maintenue pour la Canche dans le Pas-de-Calais.
+  Des cumuls de pluie exceptionnels sont attendus sur le Haut-Jura et les plateaux, tandis que la vigilance orange est maintenue pour la Canche, dans le Pas-de-Calais.
 - [22/11 07:30] Le Monde — « Ça envoie quand même sévère » : la France où l’on catche, vue par le photographe Aurélien Hatt
   https://www.lemonde.fr/m-le-mag/article/2026/11/22/ca-envoie-quand-meme-severe-la-france-ou-l-on-catche-vue-par-le-photographe-aurelien-hatt_6814192_4500055.html
   Ils se font appeler La Sainte-Barbe, Jack Sans-Nom ou encore Les Enfants terribles et ils incarnent la nouvelle vague du catch français. Des Côtes-d’Armor à l’Hérault, le photographe Aurélien Hatt s’est posté aux abords…
@@ -186,15 +202,12 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [21/11 23:46] Le Monde — Présidentielle 2027 : David Lisnard voit dans une primaire de la droite et du centre « un moyen d’exclure les macronistes »
   https://www.lemonde.fr/politique/article/2026/11/21/presidentielle-2027-david-lisnard-voit-dans-une-primaire-de-la-droite-et-du-centre-un-moyen-d-exclure-les-macronistes_6814071_823448.html
   Le candidat de Nouvelle Energie affirme que le scrutin n’aurait de sens qu’avec la participation d’Edouard Philippe et d’Eric Zemmour, deux conditions quasi irréalisables qui font planer un peu plus le doute sur sa tenu…
-- [21/11 22:00] Le Monde — Fuites de Beauvau vers le RN : d’un email trouvé au domicile de Frédéric Chatillon aux suspicions visant le préfet Hugues Moutouh, itinéraire d’une enquête sensible
+- [21/11 22:00] Le Monde — Fuites de Beauvau vers le RN : d’un e-mail trouvé au domicile de Frédéric Chatillon aux suspicions visant le préfet Hugues Moutouh, itinéraire d’une enquête sensible
   https://www.lemonde.fr/societe/article/2026/11/21/fuites-de-beauvau-vers-le-rn-d-un-email-trouve-au-domicile-d-un-ami-de-marine-le-pen-aux-suspicions-visant-le-prefet-moutouh-itineraire-d-une-enquete-sensible_6814067_3224.html
   Selon les informations du « Monde », les investigations sur les fuites d’informations confidentielles vers le RN ont été déclenchées après la découverte d’un courriel d’une fonctionnaire du ministère de l’intérieur au d…
 - [21/11 20:04] Le Monde — Dans le Var, Eric Zemmour en campagne pour une « primaire de la droite »
   https://www.lemonde.fr/politique/article/2026/11/21/dans-le-var-eric-zemmour-en-campagne-pour-une-primaire-de-la-droite_6814062_823448.html
   Pour son premier meeting à Toulon, le candidat d’extrême droite a décliné son programme sécuritaire et économique et largement mis en avant sa compagne, Sarah Knafo.
-- [21/11 19:59] franceinfo — "Je serai le candidat de la liberté de pensée, de parler, de dire ce que vous voyez", clame Eric Zemmour lors de son premier meeting de campagne présidentielle
-  https://www.franceinfo.fr/elections/je-serai-le-candidat-de-la-liberte-de-pensee-de-parler-de-dire-ce-que-vous-voyez-clame-eric-zemmour-lors-de-son-premier-meeting-de-campagne-presidentielle_8294024.html#xtor=RSS-3-%5Bpolitique%5D
-  Le président du parti d'extrême droite s'est exprimé devant ses partisans au Zenith de Toulon.
 - [21/11 19:40] franceinfo — Le préfet Hugues Moutouh, soupçonné d'avoir transmis des informations confidentielles au RN, demande à être relevé de ses fonctions
   https://www.franceinfo.fr/politique/front-national/le-prefet-hugues-moutouh-soupconne-d-avoir-transmis-au-rn-des-informations-confidentielles-sur-des-enquetes-visant-le-parti-demande-a-etre-releve-de-ses-fonctions_8294069.html#xtor=RSS-3-%5Bpolitique%5D
   "Je refuse que l’Etat, le ministère de l'Intérieur et le corps préfectoral deviennent les cibles ou les instruments de ces entreprises de déstabilisation", a déclaré samedi le haut fonctionnaire dans un communiqué.
@@ -216,9 +229,6 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [21/11 17:04] Le Monde — Manifestations du 21 novembre : entre 80 000 et 150 000 personnes se sont mobilisées en France
   https://www.lemonde.fr/societe/article/2026/11/21/manifestations-du-21-novembre-le-nombre-de-personnes-mobilisees-en-baisse-dans-l-apres-midi-le-cortege-parisien-est-arrive-place-de-la-nation_6813913_3225.html
   Cette nouvelle journée de protestation, moins suivie, s’est déroulée dans le calme à Paris, mais avec des tensions dans l’après-midi à Marseille et à Lyon. Cet « acte VI » de la mobilisation contre la vie chère s’inscri…
-- [21/11 17:00] Le Monde — La présidentielle de 2027 et ses enjeux : pourquoi les Françaises n’ont jamais fait aussi peu d’enfants
-  https://www.lemonde.fr/societe/article/2026/11/21/la-presidentielle-de-2027-et-ses-enjeux-pourquoi-les-francaises-n-ont-jamais-fait-aussi-peu-d-enfants_6814044_3224.html
-  La France connaît une évolution démographique sans précédent. Les femmes font moins d’enfants, entre évolution des schémas familiaux, inquiétudes climatiques ou géopolitiques, freins économiques et contraintes intimes.…
 - [21/11 14:00] Le Figaro — «Désolant mais normal» : de l’affaire Dutroux à la mort de Lyhanna, trente ans qui ont rendu les parents méfiants envers leurs très proches
   https://www.lefigaro.fr/actualite-france/desolant-mais-normal-de-l-affaire-dutroux-a-la-mort-de-lyhanna-trente-ans-qui-ont-rendu-les-parents-mefiants-envers-leurs-tres-proches-20261121
   RÉCIT - Longtemps associée à l’extérieur, au prédateur à la camionnette blanche, la pédophilie est désormais reliée à l’entourage de l’enfant. Pour les spécialistes du problème, nous commençons enfin à le comprendre dan…
@@ -237,32 +247,26 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [21/11 11:08] franceinfo — "Bulldozer", "super shérif" et "serviteur de l'Etat" : qui est Hugues Moutouh, le préfet soupçonné d'avoir fait fuiter des informations au RN ?
   https://www.franceinfo.fr/politique/front-national/bulldozer-super-sherif-et-serviteur-de-l-etat-qui-est-hugues-moutouh-le-prefet-soupconne-d-avoir-fait-fuiter-des-informations-au-rn_8292374.html#xtor=RSS-3-%5Bpolitique%5D
   Le haut fonctionnaire, qui a été le numéro deux du ministère de l'Intérieur entre avril 2025 et mai 2026, a été convoqué vendredi par Laurent Nuñez après l'ouverture d'une enquête pour "violation du secret professionnel…
-- [21/11 10:51] franceinfo — Préfet soupçonné de fuites vers le RN : "Il doit être mis à pied", estime la députée écologiste Sandrine Rousseau
-  https://www.franceinfo.fr/france/centre-val-de-loire/loiret/prefet-soupconne-de-fuites-vers-le-rn-il-doit-etre-mis-a-pied-estime-la-depute-ecologiste-sandrine-rousseau_8293574.html#xtor=RSS-3-%5Bpolitique%5D
-  Sandrine Rousseau appelle le ministre de l'Intérieur Laurent Nuñez à mettre à pied “immédiatement” le préfet du Loiret Hugues Moutouh, accusé d’avoir organisé des fuites depuis le ministère de l’Intérieur vers le Rassem…
 - [21/11 10:00] Le Figaro — Retraites : le nouveau coup du gouvernement contre les familles nombreuses
   https://www.lefigaro.fr/conjoncture/retraites-le-nouveau-coup-du-gouvernement-contre-les-familles-nombreuses-20261121
   DÉCRYPTAGE - Le gouvernement aurait volontiers remplacé par une allocation forfaitaire la majoration accordée jusqu’ici aux retraités ayant élevé trois enfants et plus. Face à la colère des familles, il a revu sa copie…
 - [21/11 09:30] Le Figaro — Les Basques se mobilisent pour le droit d’utiliser les langues régionales dans l’espace public
   https://www.lefigaro.fr/actualite-france/les-basques-se-mobilisent-pour-le-droit-d-utiliser-les-langues-regionales-dans-l-espace-public-20261121
   REPORTAGE - Alors que l’usage du basque diminue, les élus locaux et défenseurs de la langue espèrent pouvoir convaincre l’État de changer la Constitution. Une manifestation a lieu ce samedi à Bayonne.
-- [21/11 08:00] Le Figaro — «Si j’avais su, je serais resté aux courriers postaux» : dans le Berry, l’arrivée d’un data center Google vire au débat sur la marche forcée de l’IA
-  https://www.lefigaro.fr/actualite-france/si-j-avais-su-je-serais-reste-aux-courriers-postaux-dans-le-berry-l-arrivee-d-un-data-center-google-vire-au-debat-sur-la-marche-forcee-de-l-ia-20261121
-  REPORTAGE - Ce projet colossal, présenté par l’entreprise américaine comme «nécessaire» pour «répondre aux besoins» de ses utilisateurs, suscite la colère d’une partie des habitants, qui affirment être pris de court fac…
 
 ## Gendarmerie-police-justice
-- [22/11 13:22] franceinfo — Une usine de confiseries ravagée par un incendie meurtrier en Indonésie
-  https://www.franceinfo.fr/faits-divers/incendie/une-usine-de-confiseries-ravagee-par-un-incendie-meurtrier-en-indonesie_8294852.html#xtor=RSS-3-%5Bfaits-divers%5D
-  Un incendie s’est propagé dans une usine de confiseries près de Jakarta en Indonésie samedi 21 novembre. Les premiers bilans font état d’au moins trois morts, tandis que cinquante ouvriers sont toujours recherchés par l…
+- [22/11 14:08] franceinfo — Déraillement d'un TER en Normandie : la SNCF défend ses agents après un premier point des enquêteurs
+  https://www.franceinfo.fr/faits-divers/accident/deraillement-d-un-ter-en-normandie-la-sncf-defend-ses-agents-apres-un-premier-point-des-enqueteurs_8294534.html#xtor=RSS-3-%5Bfaits-divers%5D
+  Le Bureau d'enquêtes sur les accidents de transport terrestre a noté vendredi que le service de gestion des circulations de SNCF Réseau n'avait pas été prévenu par les agents du train, comme le demande la procédure.
+- [22/11 13:32] Zone Militaire — La Pologne confirme son intérêt pour l’hélicoptère de transport lourd américain CH-47 Chinook
+  https://www.opex360.com/2026/11/22/la-pologne-confirme-son-interet-pour-lhelicoptere-de-transport-lourd-americain-ch-47-chinook/
+  Comme l’a récemment souligné une note du Commandement du combat futur de l’armée de Terre [CFAT], la vulnérabilité d’un hélicoptère de reconnaissance et d’attaque «concerne un ensemble et pas seulement l’appareil dans l…
 - [22/11 12:43] Zone Militaire — L’armée de l’Air & de l’Espace teste à la capacité du Rafale à être mis en œuvre depuis une autoroute
   https://www.opex360.com/2026/11/22/larmee-de-lair-de-lespace-teste-a-la-capacite-du-rafale-a-etre-mis-en-oeuvre-depuis-une-autoroute/
   En 2023, alors à la tête du Commandement de la défense aérienne et des opérations aériennes [CDAOA] de l’armée de l’Air & de l’Espace [AAE], le général Philippe Moralès avait souligné la nécessité de retrouver les «anci…
 - [22/11 11:50] franceinfo — Un randonneur de 22 ans retrouvé mort dans le vallon de Bérard, en Haute-Savoie, le préfet appelle à la prudence en montagne
   https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/avalanches/un-randonneur-de-22-ans-retrouve-mort-dans-le-vallon-de-berard-en-haute-savoie-le-prefet-appelle-a-la-prudence-en-montagne_8294741.html#xtor=RSS-3-%5Bfaits-divers%5D
   Parti seul, un randonneur de 22 ans est mort ce samedi 21 novembre à Vallorcine, en Haute-Savoie. Le PGHM de Chamonix a mis 24 heures pour retrouver son corps.
-- [22/11 08:33] franceinfo — Déraillement d'un TER en Normandie : la SNCF défend ses agents après un premier point des enquêteurs
-  https://www.franceinfo.fr/faits-divers/accident/deraillement-d-un-ter-en-normandie-la-sncf-defend-ses-agents-apres-un-premier-point-des-enqueteurs_8294534.html#xtor=RSS-3-%5Bfaits-divers%5D
-  Le Bureau d'enquêtes sur les accidents de transport terrestre a noté vendredi que le service de gestion des circulations de SNCF Réseau n'avait pas été prévenu par les agents du train, comme le demande la procédure.
 - [22/11 08:04] franceinfo — Loire-Atlantique : une semaine après l'incendie d'une entreprise de peintures près de Nantes, les taux de particules fines de retour à la normale
   https://www.franceinfo.fr/faits-divers/incendie/loire-atlantique-une-semaine-apres-l-incendie-d-une-entreprise-de-peintures-pres-de-nantes-les-taux-de-particules-fines-de-retour-a-la-normale_8294540.html#xtor=RSS-3-%5Bfaits-divers%5D
   Les taux de particules fines sont de nouveau normaux à Vertou, près de Nantes (Loire-Atlantique), une semaine après l'incendie d'une entreprise de peintures et de solvants.
@@ -313,4 +317,4 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
   Le Parlement a définitivement adopté vendredi 20 novembre la loi de présomption d’usage légal des armes par les forces de l’ordre, après le vote du Sénat. Face à une mesure qu’elle juge “dangereuse”, la gauche sénatoria…
 
 ## Diagnostic
-- Tri : 20 article(s) écartés (sport, culture…), 1 renvoyé(s) vers International
+- Tri : 17 article(s) écartés (sport, culture…), 2 renvoyé(s) vers International
