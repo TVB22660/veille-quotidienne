@@ -1,0 +1,71 @@
+name: Veille quotidienne
+
+on:
+  schedule:
+    - cron: '0 2 * * *'    # 02:00 UTC = 4h00 (été) / 3h00 (hiver), heure de Paris
+    - cron: '0 3 * * *'    # 03:00 UTC = 5h00 (été) / 4h00 (hiver) : 2e passage, avant le récap de 6h10
+    - cron: '20 3 * * *'   # passage de secours (ajouté le 20/11/2026 : les passages de 02:00 et 03:00 UTC ont été sautés par GitHub)
+    - cron: '5 4 * * *'    # 2e passage de secours, 04:05 UTC = 5h05 (hiver) / 6h05 (été)
+    - cron: '37 5 * * *'   # passages de la matinée (21/11/2026) : le JO du jour paraît entre 6h et 8h30 ;
+    - cron: '37 6 * * *'   # le récap attend le JO du jour (relances toutes les 15 min jusqu'à 9h30)
+    - cron: '37 7 * * *'   # et GitHub retarde ou saute souvent ses passages programmés
+  workflow_dispatch:        # permet de lancer à la main
+  push:
+    paths: ['fetch.py', 'fetch_jorf.py', 'fetch_saints.py', 'fetch_marees.py', 'fetch_meteo.py']  # relance automatique quand un script change
+
+permissions:
+  contents: write
+
+concurrency:
+  group: veille
+  cancel-in-progress: false
+
+jobs:
+  veille:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+      - name: Lire les flux RSS
+        run: python fetch.py
+      - name: Lire le Journal officiel (DILA)
+        run: python fetch_jorf.py
+        continue-on-error: true
+      - name: Installer le moteur Divinum Officium (calendrier de 1962)
+        run: |
+          git clone --depth 1 -q https://github.com/DivinumOfficium/divinum-officium /tmp/dof
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq libcgi-pm-perl libwww-perl libdatetime-perl
+        continue-on-error: true
+      - name: Saint du jour (AELF et calendrier de 1962)
+        run: python fetch_saints.py
+        continue-on-error: true
+      - name: Marées de Perros-Guirec
+        run: python fetch_marees.py
+        continue-on-error: true
+      - name: Météo (Issy-les-Moulineaux, Trélévern)
+        run: python fetch_meteo.py
+        continue-on-error: true
+      - name: Publier les fichiers
+        run: |
+          git config user.name "veille-bot"
+          git config user.email "veille-bot@users.noreply.github.com"
+          git add veille.txt jorf.txt
+          if [ -f saints.txt ]; then git add saints.txt; fi
+          if [ -f marees.txt ]; then git add marees.txt; fi
+          if [ -f meteo.txt ]; then git add meteo.txt; fi
+          if ! git diff --cached --quiet; then
+            git commit -m "Veille du $(date -u +%F-%H%M)"
+            git push
+          fi
+      - name: Nettoyage hebdomadaire de l'historique (dimanche, 2e passage)
+        if: github.event.schedule == '0 3 * * *'
+        run: |
+          if [ "$(date -u +%u)" = "7" ]; then
+            git checkout --orphan propre
+            git add -A
+            git commit -m "Historique réinitialisé $(date -u +%F)"
+            git push --force origin propre:main
+          fi
