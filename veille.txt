@@ -1,9 +1,15 @@
-VEILLE — généré le 2026-11-22 15:53 (heure de Paris)
+VEILLE — généré le 2026-11-22 16:37 (heure de Paris)
 Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 
 ## International
+- [22/11 16:13] franceinfo — Après trois jours de nage dans le détroit d'Ormuz, le Britannique Lewis Pugh dénonce les conséquences environnementales de la guerre en Iran
+  https://www.franceinfo.fr/replay-jt/france-2/13-heures/trois-jours-de-nage-dans-le-detroit-d-ormuz-le-britannique-lewis-pugh-denonce-les-consequences-environnementales-de-la-guerre-en-iran_8294930.html#xtor=RSS-3-%5Bmonde%5D
+  Un Britannique s'est lancé le défi de nager dans le détroit d’Ormuz. Il a ainsi passé trois jours au milieu des pétroliers et des bombardements, pour alerter sur les conséquences de la guerre sur la nature.
+- [22/11 16:00] Le Monde — « Le zouglou est une des meilleures publicités possibles pour les hommes politiques en Côte d’Ivoire »
+  https://www.lemonde.fr/international/article/2026/11/22/le-zouglou-est-une-des-meilleures-publicites-possibles-pour-les-hommes-politiques-en-cote-d-ivoire_6814221_3210.html
+  L’anthropologue Léo Montaz retrace le parcours politique de ce mouvement musical emblématique du pays. Ce genre contestataire au début des années 1990 s’est mué en musique promotionnelle, notamment pour les meetings de…
 - [22/11 15:46] franceinfo — "On a découvert une facette plus personnelle des candidats" : en Espagne, un youtubeur catalan s’invite dans la campagne électorale
-  https://www.franceinfo.fr/monde/espagne/on-a-decouvert-une-facette-plus-personnelle-des-candidats-en-espagne-un-youtubeur-catalan-s-invite-dans-la-campagne-electorale_8294702.html#xtor=RSS-3-%5Bmonde%5D
+  https://www.franceinfo.fr/monde/espagne/on-a-decouvert-une-facette-plus-personnelle-des-candidats-en-espagne-un-youtubeur-catalan-s-invite-dans-la-campagne-electorale_8294702.html#xtor=RSS-3-[lestitres]
   Le youtubeur Jordi Wild a reçu les principaux candidats dans son podcast, suivi par des millions de jeunes. Seul le leader de Vox, Santiago Abascal, a annulé son entretien au dernier moment.
 - [22/11 15:41] Le Figaro — Libye : explosion sur un navire russe dans le port de Benghazi après une «probable» attaque de drones
   https://www.lefigaro.fr/international/libye-explosion-sur-un-navire-russe-dans-le-port-de-benghazi-apres-une-probable-attaque-de-drones-20261122
@@ -27,7 +33,7 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
   https://www.lemonde.fr/international/article/2026/11/22/l-italie-secouee-par-le-suicide-de-l-ancien-chef-de-la-police_6814214_3210.html
   La mort de Gianni De Gennaro survient alors qu’il était mis en examen pour avoir entravé l’enquête sur l’assassinat, en 1992, du juge antimafia Paolo Borsellino. Aux côtés du magistrat Giovanni Falcone, tué la même anné…
 - [22/11 13:46] franceinfo — Guerre en Ukraine : les écoles d'Odessa passent à l'enseignement à distance après des frappes russes sur le réseau électrique
-  https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-les-ecoles-d-odessa-passent-a-l-enseignement-en-distanciel-apres-des-frappes-russes-sur-le-reseau-electrique_8294744.html#xtor=RSS-3-[lestitres]
+  https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-les-ecoles-d-odessa-passent-a-l-enseignement-en-distanciel-apres-des-frappes-russes-sur-le-reseau-electrique_8294744.html#xtor=RSS-3-%5Bmonde%5D
   Le fournisseur d'énergie Ukrenergo a prévenu dimanche que "l'ampleur des destructions" rend "physiquement impossible de fournir la quantité d'électricité requise aux consommateurs" dans la région.
 - [22/11 13:22] franceinfo — Une usine de confiseries ravagée par un incendie meurtrier en Indonésie
   https://www.franceinfo.fr/faits-divers/incendie/une-usine-de-confiseries-ravagee-par-un-incendie-meurtrier-en-indonesie_8294852.html#xtor=RSS-3-%5Bmonde%5D
@@ -74,29 +80,38 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [22/11 06:30] Le Monde — En Colombie, dix ans après la signature de l’accord historique, le bilan amer de la paix avec les FARC
   https://www.lemonde.fr/international/article/2026/11/22/en-colombie-dix-ans-apres-la-signature-de-l-accord-historique-le-bilan-amer-de-la-paix-avec-les-farc_6814189_3210.html
   Signé en 2016, le texte dessinait un projet ambitieux de transformation du pays, mêlant mesures de réparation aux victimes, redistribution des terres et retour des guérilleros à la vie civile. Aujourd’hui, en plus de ré…
-- [22/11 06:30] Le Monde — Aux Etats-Unis, les témoignages de détenus américains de l’ICE
-  https://www.lemonde.fr/international/article/2026/11/22/aux-etats-unis-les-temoignages-des-detenus-americains-de-l-ice_6814185_3210.html
-  Depuis 2025, ProPublica, l’organisme américain spécialisé en journalisme d’enquête d’intérêt public, a identifié plus de 500 citoyens américains retenus contre leur gré par des agents de l’immigration. Voici quelques-un…
 - [22/11 06:30] Le Monde — La défiance contre les data centers devient mondiale, de l’Inde au Chili en passant par l’Irlande ou le Japon
   https://www.lemonde.fr/international/article/2026/11/22/data-centers-la-defiance-monte-partout-dans-le-monde-de-l-inde-au-chili-en-passant-par-l-irlande-ou-le-japon_6814186_3210.html
   Ces gigantesques installations ne suscitent pas la colère qu’aux Etats-Unis. Elles apparaissent sur tous les continents où elles provoquent les mêmes inquiétudes : exploitation excessive des ressources naturelles, conso…
-- [22/11 06:00] Le Monde — Le Groupe Castel, empire discret de la bière et du vin, secoué par une guerre de pouvoir
-  https://www.lemonde.fr/economie/article/2026/11/22/le-groupe-castel-empire-discret-de-la-biere-et-du-vin-secoue-par-une-guerre-de-pouvoir_6814179_3234.html
-  Un âpre conflit de gouvernance tourmente le géant des boissons, où l’on se dispute l’héritage, spirituel comme financier, de son charismatique fondateur, Pierre Castel. La 11ᵉ fortune française vient d’avoir 100 ans.
+- [22/11 06:30] Le Monde — Aux Etats-Unis, les témoignages de détenus américains de l’ICE
+  https://www.lemonde.fr/international/article/2026/11/22/aux-etats-unis-les-temoignages-des-detenus-americains-de-l-ice_6814185_3210.html
+  Depuis 2025, ProPublica, l’organisme américain spécialisé en journalisme d’enquête d’intérêt public, a identifié plus de 500 citoyens américains retenus contre leur gré par des agents de l’immigration. Voici quelques-un…
 - [21/11 20:43] Le Monde — Jair Bolsonaro, ancien président du Brésil, à nouveau hospitalisé en soins intensifs pour une occlusion intestinale
   https://www.lemonde.fr/international/article/2026/11/21/jair-bolsonaro-ancien-president-du-bresil-a-nouveau-hospitalise-en-soins-intensifs-pour-une-occlusion-intestinale_6814064_3210.html
   Placé en résidence surveillée après avoir été condamné pour tentative de coup d’Etat, l’ancien chef d’Etat d’extrême droite souffre de séquelles d’un coup de couteau au ventre reçu pendant la campagne électorale de 2018…
-- [21/11 10:30] Le Figaro — «Pour ne pas mourir, il fallait que je coure» : comment une journaliste s’est improvisée marathonienne pour entrer en Corée du Nord
-  https://www.lefigaro.fr/international/pour-ne-pas-mourir-il-fallait-que-je-coure-comment-une-journaliste-s-est-improvisee-marathonienne-pour-entrer-en-coree-du-nord-20261121
-  RÉCIT - En avril 2025, Anne-Isabelle Tollet s’est inscrite au marathon de Pyongyang pour pénétrer dans l’un des pays les plus fermés au monde. Huit jours sous haute surveillance, au cœur d’un régime nord-coréen obsédé p…
 
 ## France
+- [22/11 16:30] franceinfo — La Corse placée en vigilance orange aux vents violents à partir de minuit, le Jura et l'Ain restent en alerte pour "pluie-inondation" et le Pas-de-Calais pour un risque de crues
+  https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/inondations-et-crues/apres-le-jura-le-departement-de-l-ain-a-son-tour-place-en-vigilance-orange-pluie-inondations-le-pas-de-calais-maintenu-en-alerte-orange-aux-crues_8294486.html#xtor=RSS-3-[lestitres]
+  "Cet épisode de vent fort intervient dans un contexte où les sols sont très humides, ce qui peut notamment favoriser les chutes d'arbres", met en garde l'organisme.
+- [22/11 16:28] Le Figaro — Les 40 vins à tester une fois dans sa vie selon les grands sommeliers, à partir de 25 euros
+  https://avis-vin.lefigaro.fr/tops-selections-vins-spiritueux/les-40-vins-a-tester-une-fois-dans-sa-vie-selon-les-grands-sommeliers-a-partir-de-25-euros-20261121
+  SÉLECTION - Le Figaro a rassemblé des grands sommeliers pour leur poser une question : quels sont les vins à tester une fois dans sa vie ? Leurs réponses mettent en valeur des cuvées plutôt inattendues, parfois loin des…
+- [22/11 16:27] Le Figaro — EN DIRECT - Présidentielle 2027 : David Lisnard assure qu’il ne gouvernera pas avec le RN et qu’il n’a pas «voulu devenir ministre macroniste»
+  https://www.lefigaro.fr/politique/en-direct-presidentielle-2027-david-lisnard-voit-une-primaire-comme-un-moyen-d-exclure-les-macronistes-20261122
+  Le maire de Cannes dit combattre «depuis toujours le social-étatisme», dont Marine Le Pen serait, selon lui, «une version».
+- [22/11 16:24] Ouest-France — Stellantis précipite sa sortie du sport automobile, quel avenir pour les salariés ?
+  https://www.ouest-france.fr/economie/automobile/stellantis-precipite-sa-sortie-du-sport-automobile-quel-avenir-pour-les-salaries-1261e232-e684-11f1-afa7-9a0bb82a33d1?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
+  Le géant de l’automobile arrêterait ses engagements dans le sport automobile, notamment aux 24 heures du Mans, comme le révélait Ouest-France. Il devrait officialiser sa décision ce lundi, après deux réunions extraordin…
+- [22/11 16:18] Ouest-France — Météo : Inondations, crues, vent… Cinq départements en vigilance orange ce lundi
+  https://www.ouest-france.fr/meteo/tempete/meteo-inondations-crues-vent-cinq-departements-en-vigilance-orange-ce-lundi-91196100-e683-11f1-bd4e-6f30b8f49e21?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
+  Cinq départements sont en vigilance orange pour la journée de lundi 23 novembre, indique Météo France ce dimanche. Deux le sont pour pluie-inondation, deux autres pour vent et un pour crues.
+- [22/11 16:10] franceinfo — "Nous n'avons pas pu parvenir à un accord" : le coprésident de la COP31 entérine l'échec final des négociations pour le climat à Antalya
+  https://www.franceinfo.fr/environnement/crise-climatique/cop-climat/direct-l-union-europeenne-s-oppose-a-l-adoption-de-la-declaration-finale-de-la-cop31-apres-pres-de-deux-jours-de-prolongations_8294819.html#xtor=RSS-3-[lestitres]
+  Après quasiment deux jours de prolongations, la conférence de l'ONU s'est achevée dimanche en Turquie, sans accord global des pays participants, après le rejet de l'Union européenne de signer un texte dépourvu de mentio…
 - [22/11 15:45] franceinfo — Un mail du service de Hugues Moutouh, soupçonné d'avoir renseigné le RN, découvert lors d'une perquisition chez un proche de Marine Le Pen
   https://www.franceinfo.fr/politique/front-national/un-mail-du-service-du-prefet-hugues-moutouh-soupconne-d-avoir-renseigne-le-rn-decouvert-lors-d-une-perquisition-chez-un-proche-de-marine-le-pen_8294915.html#xtor=RSS-3-[lestitres]
   Un mail issu du secrétariat général du ministère de l'Intérieur, auparavant dirigé par Hugues Moutouh, a été découvert. Il concerne des enquêtes judiciaires visant le Rassemblement national.
-- [22/11 15:36] Le Figaro — EN DIRECT - Présidentielle 2027 : David Lisnard voit une primaire comme «un moyen d’exclure les macronistes»
-  https://www.lefigaro.fr/politique/en-direct-presidentielle-2027-david-lisnard-voit-une-primaire-comme-un-moyen-d-exclure-les-macronistes-20261122
-  Le candidat de droite libérale voit dans une primaire de la droite et du centre «un moyen d’éliminer les macronistes» avant le premier tour de la présidentielle, une déclaration qui ne devrait pas faciliter la tenue de…
 - [22/11 15:35] Le Figaro — Réchauffement climatique : une fois dépassé l’objectif de + 1,5 °C, pourra-t-on faire redescendre les températures ?
   https://www.lefigaro.fr/sciences/rechauffement-climatique-une-fois-depasse-l-objectif-de-1-5-0c-pourra-t-on-faire-redescendre-les-temperatures-20261122
   DÉCRYPTAGE - Le franchissement prochain du seuil fixé par l’accord de Paris devrait durer au moins un siècle, mais des solutions technologiques tentent de limiter l’ampleur des catastrophes climatiques.
@@ -109,9 +124,6 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [22/11 15:18] Le Figaro — Après le verdict Zecler, Marine Le Pen répète que la France est «l’un des pays les moins racistes au monde»
   https://www.lefigaro.fr/politique/apres-le-verdict-zecler-marine-le-pen-repete-que-la-france-est-l-un-des-pays-les-moins-racistes-au-monde-20261122
   Vendredi, la cour criminelle a reconnu le caractère raciste des violences commises contre Michel Zecler en 2020. Deux jours plus tard, la présidente du RN juge les condamnations justifiées, mais défend son constat sur l…
-- [22/11 15:17] franceinfo — Crise climatique : le co-président de la COP31 "très déçu" après l'échec des participants à adopter une décision finale
-  https://www.franceinfo.fr/environnement/crise-climatique/cop-climat/direct-l-union-europeenne-s-oppose-a-l-adoption-de-la-declaration-finale-de-la-cop31-apres-pres-de-deux-jours-de-prolongations_8294819.html#xtor=RSS-3-[lestitres]
-  "Les phénomènes climatiques extrêmes s’intensifient. Les émissions demeurent beaucoup trop élevées", a déclaré l'Australien Chris Bowen, actant l'échec des négociations.
 - [22/11 15:13] franceinfo — Couper les subventions aux associations "politisées" ce "n'est pas du chantage", assure Marine Le Pen
   https://www.franceinfo.fr/elections/presidentielle/direct-campagne-presidentielle-la-secretaire-generale-de-la-cfdt-marylise-leon-appelle-a-changer-la-date-pour-eviter-un-second-tour-le-2-mai_8294528.html#xtor=RSS-3-[lestitres]
   La candidate à la présidentielle avait annoncé lundi qu'elle cessera de financer certaines associations qu'elle juge trop politiques si elle remporte l'élection de 2027.
@@ -130,9 +142,6 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [22/11 14:44] franceinfo — "Le même produit va être un remède ou un poison, selon les époques" : le Musée de l'Homme consacre une exposition aux drogues
   https://www.franceinfo.fr/sante/drogue-addictions/reportage-le-meme-produit-va-etre-un-remede-ou-un-poison-selon-les-epoques-le-musee-de-l-homme-consacre-une-exposition-aux-drogues_8294579.html#xtor=RSS-3-[lestitres]
   Les drogues sont souvent au cœur de nos débats sociétaux et véhiculent de nombreux préjugés. Le Musée de l'Homme à Paris leur consacre une vaste exposition et propose un parcours scientifique qui interroge nos rapports…
-- [22/11 14:33] Ouest-France — Marine Le Pen dit n’avoir « jamais reçu d’information confidentielle » du préfet Moutouh, accusé de fuites vers le RN
-  https://www.ouest-france.fr/politique/rassemblement-national/marine-le-pen-dit-navoir-jamais-recu-dinformation-confidentielle-du-prefet-hugues-moutouh-ede7a47c-e675-11f1-bd4e-6f30b8f49e21?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
-  Au micro de France Inter et France 2 ce dimanche 22 novembre, Marine Le Pen revient sur l’enquête sur des fuites provenant de Beauvau à propos d’enquêtes judiciaires concernant le RN. Elle affirme n’avoir « jamais reçu…
 - [22/11 14:32] Le Figaro — Soupçons de fuites vers le RN : Marine Le Pen dit n’avoir «jamais reçu d’information confidentielle» de la part du préfet Hugues Moutouh
   https://www.lefigaro.fr/politique/soupcons-de-fuites-vers-le-rn-marine-le-pen-dit-n-avoir-jamais-recu-d-information-confidentielle-de-la-part-du-prefet-hugues-moutouh-20261122
   Le préfet de la région Centre-Val de Loire est soupçonné d’être impliqué dans des fuites sur des enquêtes mettant en cause le Rassemblement national. Une enquête est en cours.
@@ -149,8 +158,11 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
   https://www.lefigaro.fr/sciences/cop31-l-union-europeenne-s-oppose-frontalement-au-dernier-projet-de-declaration-finale-20261122
   Le président turc de la COP31 a reconnu dimanche l’absence d’accord des pays sur le projet de décision finale de la conférence sur le climat. L’Union européenne et certains pays vulnérables ont refusé de signer un texte…
 - [22/11 14:00] franceinfo — "Je serai le candidat de la liberté de penser, de dire ce que vous voyez", clame Eric Zemmour lors de son premier meeting de campagne présidentielle
-  https://www.franceinfo.fr/elections/je-serai-le-candidat-de-la-liberte-de-pensee-de-parler-de-dire-ce-que-vous-voyez-clame-eric-zemmour-lors-de-son-premier-meeting-de-campagne-presidentielle_8294024.html#xtor=RSS-3-[lestitres]
+  https://www.franceinfo.fr/elections/je-serai-le-candidat-de-la-liberte-de-pensee-de-parler-de-dire-ce-que-vous-voyez-clame-eric-zemmour-lors-de-son-premier-meeting-de-campagne-presidentielle_8294024.html#xtor=RSS-3-%5Bpolitique%5D
   Le président du parti d'extrême droite s'est exprimé samedi devant ses partisans au Zenith de Toulon.
+- [22/11 14:00] Le Monde — Pierre Adrian, écrivain : « Après coup, je revois ces années-là comme une belle période alors que j’étais déchiré par les angoisses »
+  https://www.lemonde.fr/campus/article/2026/11/22/pierre-adrian-ecrivain-apres-coup-je-revois-ces-annees-la-comme-une-belle-periode-alors-que-j-etais-dechire-par-les-angoisses_6814212_4401467.html
+  « J’avais 20 ans ». « Le Monde » interroge une personnalité sur ses années d’études et son passage à l’âge adulte. Ce mois-ci, l’écrivain de 35 ans, qui vient de publier « Le Pays des étés », raconte cette transition qu…
 - [22/11 14:00] Le Monde — Présidentielle 2027 : découvrez ce que disent les sondages avec notre agrégateur
   https://www.lemonde.fr/les-decodeurs/article/2026/11/22/presidentielle-2027-decouvrez-ce-que-disent-les-sondages-avec-notre-agregateur_6814213_4355770.html
   Avec notre agrégateur, explorez les tendances fortes qui se dégagent des nombreuses enquêtes d’opinion menées en vue du premier et du second tour de l’élection présidentielle.
@@ -160,15 +172,6 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [22/11 14:00] Le Figaro — «Un peu de poésie dans tout ce bazar… ça fait du bien !» : dans les Cévennes, le pari du street art pour colorer une ancienne cité minière
   https://www.lefigaro.fr/actualite-france/un-peu-de-poesie-dans-tout-ce-bazar-ca-fait-du-bien-dans-les-cevennes-le-pari-du-street-art-pour-colorer-une-ancienne-cite-miniere-20261122
   REPORTAGE - Avec le concours d’entreprises, de particuliers et de bailleurs sociaux, une quarantaine de façades de la ville de Bessèges ont été investies par des street-artistes. Elles composent un musée à ciel ouvert d…
-- [22/11 13:58] franceinfo — Présidentielle 2027 : David Lisnard voit une primaire comme "un moyen d'exclure les macronistes"
-  https://www.franceinfo.fr/elections/presidentielle/campagne-presidentielle-david-lisnard-voit-une-primaire-comme-un-moyen-d-exclure-les-macronistes_8294525.html#xtor=RSS-3-[lestitres]
-  Le candidat Nouvelle Energie affirme qu'il ne soutiendra d'ailleurs pas obligatoirement le vainqueur d'un possible vote pour départager les prétendants de la droite et du centre, car "il ne veut pas se compromettre avec…
-- [22/11 13:53] franceinfo — Présidentielle 2027 : la CFDT appelle à changer la date du scrutin pour éviter un second tour le 2 mai
-  https://www.franceinfo.fr/elections/presidentielle/campagne-presidentielle-la-secretaire-generale-de-la-cfdt-marylise-leon-appelle-a-changer-la-date-pour-eviter-un-second-tour-le-2-mai_8294624.html#xtor=RSS-3-[lestitres]
-  "Le 2 mai est le pire scénario possible, en raison du risque de vives tensions au lendemain de la Fête des travailleurs", affirme Marylise Léon, secrétaire générale de l'organisation syndicale.
-- [22/11 12:47] Le Figaro — Soupçons de fuites au profit du RN : un mail du service du préfet Hugues Moutouh découvert en perquisition chez un proche de Marine Le Pen
-  https://www.lefigaro.fr/politique/soupcons-de-fuites-au-profit-du-rn-un-mail-du-service-du-prefet-hugues-moutouh-decouvert-en-perquisition-chez-un-proche-de-marine-le-pen-20261122
-  Le préfet de la région Centre-Val de Loire est soupçonné d’être impliqué dans des fuites sur des enquêtes mettant en cause le Rassemblement national.
 - [22/11 12:36] Le Figaro — Budget : Emmanuel Macron réfléchirait à convoquer le Congrès pour instaurer une règle d'or
   https://www.lefigaro.fr/politique/budget-emmanuel-macron-reflechirait-a-convoquer-le-congres-pour-instaurer-une-regle-d-or-20261122
   Selon la Tribune Dimanche, le président de la République envisagerait de s’appuyer sur un projet de loi constitutionnelle voté dans les mêmes termes en 2011 par les deux chambres, à l’initiative du gouvernement de Franç…
@@ -181,15 +184,15 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [22/11 10:47] franceinfo — Soupçonné de fuites vers le RN, le préfet du Loiret Hugues Moutouh demande à être démis de ses fonctions
   https://www.franceinfo.fr/politique/front-national/soupconne-de-fuites-vers-le-rn-le-prefet-du-loiret-hugues-moutouh-demande-a-etre-demis-de-ses-fonctions_8294663.html#xtor=RSS-3-%5Bpolitique%5D
   Le préfet a demandé à être relevé de ses fonctions, samedi 21 novembre, tout en dénonçant une “campagne de déstabilisation” à son égard dans un communiqué.
-- [22/11 10:42] Le Figaro — Budget : pourquoi la règle d’or n’est pas la solution miracle aux déficits chroniques de la France
-  https://www.lefigaro.fr/conjoncture/budget-pourquoi-la-regle-d-or-n-est-pas-la-solution-miracle-aux-deficits-chroniques-de-la-france-20260804
-  DÉCRYPTAGE - Envisagée par Emmanuel Macron qui voudrait convoquer le Congrès, cette contrainte budgétaire peut être efficace, mais seulement à certaines conditions.
 - [22/11 07:33] Le Monde — L’Ain et le Jura placés en vigilance orange pluie-inondations dimanche soir ; la Canche à des niveaux toujours élevés dans le Pas-de-Calais
   https://www.lemonde.fr/climat/article/2026/11/22/l-ain-et-le-jura-places-en-en-vigilance-orange-pluies-inondations-dimanche-soir-la-canche-a-des-niveaux-toujours-eleves-dans-le-pas-de-calais_6814193_1652612.html
   Des cumuls de pluie exceptionnels sont attendus sur le Haut-Jura et les plateaux, tandis que la vigilance orange est maintenue pour la Canche, dans le Pas-de-Calais.
 - [22/11 06:30] Le Monde — Le « racisme anti-Blancs », matrice à fantasmes utilisée par l’extrême droite
   https://www.lemonde.fr/societe/article/2026/11/22/le-racisme-anti-blancs-matrice-a-fantasmes-utilisee-par-l-extreme-droite_6814187_3224.html
   Dans une tentative d’inverser les rapports de domination, une partie de l’extrême droite française veut populariser ce concept né chez les identitaires dans les années 1970.
+- [22/11 06:00] Le Monde — Le Groupe Castel, empire discret de la bière et du vin, secoué par une guerre de pouvoir
+  https://www.lemonde.fr/economie/article/2026/11/22/le-groupe-castel-empire-discret-de-la-biere-et-du-vin-secoue-par-une-guerre-de-pouvoir_6814179_3234.html
+  Un âpre conflit de gouvernance tourmente le géant des boissons, où l’on se dispute l’héritage, spirituel comme financier, de son charismatique fondateur, Pierre Castel. La 11ᵉ fortune française vient d’avoir 100 ans.
 - [22/11 06:00] franceinfo — INFO FRANCEINFO. Sommet Choose France-Édition France : l'entreprise Blanc Aéro Industries doit investir 39 millions d'euros dans le pays
   https://www.franceinfo.fr/economie/info-france-info-sommet-choose-france-edition-france-l-entreprise-blanc-aero-industries-doit-investir-39-millions-d-euros-dans-le-pays_8294021.html#xtor=RSS-3-%5Bpolitique%5D
   Cette annonce intervient à l'occasion d'un sommet Choose France, qui s'ouvre lundi à la Cité internationale universitaire de Paris. Cette "édition France" réunira plus de 250 entreprises qui ont investi dans l'Hexagone.
@@ -225,7 +228,7 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
   Le député de la Somme n’apporte son soutien à aucun candidat et souhaite « bon courage et bonne campagne » aux « candidats de gauche encore en lice », sans les citer, « pour porter un projet à vocation majoritaire » fac…
 - [21/11 18:00] Le Monde — Désobéir au pouvoir politique : le débat resurgit dans la fonction publique
   https://www.lemonde.fr/politique/article/2026/11/21/desobeir-au-pouvoir-politique-le-debat-resurgit-dans-la-fonction-publique_6814050_823448.html
-  Le collectif Nos services publics a lancé, jeudi 19 novembre, une formation consacrée aux droits et responsabilités des agents publics. Dans la fonction publique, le principe d’obéissance hiérarchique reste la règle et…
+  Le collectif Nos services publics a lancé, jeudi 19 novembre, une formation consacrée aux droits et responsabilités des agents. Dans la sphère de l’Etat, le principe d’obéissance hiérarchique reste la règle et la désobé…
 - [21/11 14:00] Le Figaro — «Désolant mais normal» : de l’affaire Dutroux à la mort de Lyhanna, trente ans qui ont rendu les parents méfiants envers leurs très proches
   https://www.lefigaro.fr/actualite-france/desolant-mais-normal-de-l-affaire-dutroux-a-la-mort-de-lyhanna-trente-ans-qui-ont-rendu-les-parents-mefiants-envers-leurs-tres-proches-20261121
   RÉCIT - Longtemps associée à l’extérieur, au prédateur à la camionnette blanche, la pédophilie est désormais reliée à l’entourage de l’enfant. Pour les spécialistes du problème, nous commençons enfin à le comprendre dan…
@@ -238,9 +241,6 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [21/11 12:00] Le Figaro — « Quand on a acheté à manger, on n’a plus rien » : étranglées par les crédits, ces familles prises dans la spirale de la vie chère
   https://www.lefigaro.fr/actualite-france/quand-on-a-achete-a-manger-on-n-a-plus-rien-etranglees-par-les-credits-ces-familles-prises-dans-la-spirale-de-la-vie-chere-20261121
   REPORTAGE - Budget qui explose, découverts qui se creusent, surendettement… Ces Français qui viennent chercher de l’aide au Point Conseil Budget de l’Essonne racontent leurs dilemmes et leurs restrictions.
-- [21/11 10:00] Le Figaro — Retraites : le nouveau coup du gouvernement contre les familles nombreuses
-  https://www.lefigaro.fr/conjoncture/retraites-le-nouveau-coup-du-gouvernement-contre-les-familles-nombreuses-20261121
-  DÉCRYPTAGE - Le gouvernement aurait volontiers remplacé par une allocation forfaitaire la majoration accordée jusqu’ici aux retraités ayant élevé trois enfants et plus. Face à la colère des familles, il a revu sa copie…
 
 ## Gendarmerie-police-justice
 - [22/11 14:08] franceinfo — Déraillement d'un TER en Normandie : la SNCF défend ses agents après un premier point des enquêteurs
@@ -299,4 +299,4 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
   Les trois premiers sous-marins nucléaires d’attaque [SNA] de la classe Suffren [ou Barracuda] furent admis au service actif environ sept mois après leur livraison à la Marine nationale, ce délai correspondant à la durée…
 
 ## Diagnostic
-- Tri : 15 article(s) écartés (sport, culture…), 2 renvoyé(s) vers International
+- Tri : 16 article(s) écartés (sport, culture…), 2 renvoyé(s) vers International
