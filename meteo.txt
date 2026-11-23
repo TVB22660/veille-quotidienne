@@ -1,6 +1,6 @@
-MÉTÉO — généré le 2026-11-23 15:30 (heure de Paris)
+MÉTÉO — généré le 2026-11-23 17:29 (heure de Paris)
 Source : open-meteo
 issy 2026-11-23 code=80 min=3.4 max=8.6 pluie=93 vent=16 rafales=31 src=open-meteo
-issy 2026-11-24 code=3 min=2.7 max=6.7 pluie=8 vent=14.4 rafales=30.4 src=open-meteo
-trelevern 2026-11-23 code=3 min=10 max=13.9 pluie=35 vent=37.6 rafales=52.2 src=open-meteo
-trelevern 2026-11-24 code=3 min=7.9 max=11.2 pluie=80 vent=28.3 rafales=48.6 src=open-meteo
+issy 2026-11-24 code=3 min=3.4 max=8 pluie=8 vent=13.6 rafales=27.8 src=open-meteo
+trelevern 2026-11-23 code=3 min=9.9 max=14 pluie=35 vent=37.6 rafales=52.2 src=open-meteo
+trelevern 2026-11-24 code=3 min=7.9 max=11.1 pluie=80 vent=28.1 rafales=46.8 src=open-meteo

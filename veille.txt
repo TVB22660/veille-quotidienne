@@ -1,40 +1,76 @@
-VEILLE — généré le 2026-11-23 15:27 (heure de Paris)
+VEILLE — généré le 2026-11-23 17:27 (heure de Paris)
 Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 
 ## International
-- [23/11 15:24] franceinfo — DIRECT. Guerre en Ukraine : Volodymyr Zelensky plaide pour des négociations de paix incluant l'Europe "le plus tôt possible"
-  https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/direct-guerre-en-ukraine-volodymyr-zelensky-revendique-les-attaques-contre-deux-navires-russes-menees-au-large-de-la-libye_8295668.html#xtor=RSS-3-%5Bmonde%5D
-  Le président ukrainien s'est exprimé devant la réunion annuelle de l'assemblée parlementaire de l'Otan à Berlin.
+- [23/11 17:26] Le Figaro — Retour surprise de Huang chez Nvidia : Trump affirme avoir parlé «directement» avec le conseil d'administration «pour conclure l’accord»
+  https://www.lefigaro.fr/secteur/high-tech/retour-surprise-de-huang-chez-nvidia-trump-affirme-avoir-parle-directement-avec-le-conseil-d-administration-20261123
+  Selon Donald Trump, Huang n’était «pas au courant» de la contrebande de puces Nvidia vers la Chine.
+- [23/11 17:17] Le Monde — Au Royaume-Uni, Andy Burnham défend son accord avec l’UE et ouvre le débat sur un rapprochement avec les Vingt-Sept
+  https://www.lemonde.fr/international/article/2026/11/23/au-royaume-uni-andy-burnham-defend-son-accord-avec-l-ue-et-ouvre-le-debat-sur-un-rapprochement-avec-les-vingt-sept_6814415_3210.html
+  Alors que le débat sur un retour dans l’UE divise la classe politique britannique, le premier ministre veut « faire avancer le Royaume-Uni vers un avenir plus porteur d’espoir, relancer la croissance économique ».
+- [23/11 17:16] Le Figaro — EN DIRECT - Retour surprise de Huang à la tête de Nvidia : «L’erreur a été corrigée», estime Elon Musk tandis qu’une sénatrice démocrate y voit «une décision irréfléchie»
+  https://www.lefigaro.fr/secteur/high-tech/en-direct-nvidia-jensen-huang-presse-de-reprendre-le-travail-apres-sa-reintegration-surprise-a-la-tete-de-l-entreprise-20261123
+  Le conseil d’administration de Nvidia a annoncé lundi la réintégration de Jensen Huang comme directeur général et président du géant américain des puces, dix jours après sa démission liée à un scandale mêlant adultère,…
+- [23/11 17:13] Le Figaro — Retour de Jensen Huang à la tête de Nvidia : l’action du géant américain s’envole de près de 30% à Wall Street
+  https://www.lefigaro.fr/secteur/high-tech/retour-de-jensen-huang-a-la-tete-de-nvidia-l-action-du-geant-americain-s-envole-de-pres-de-30-a-wall-street-20261123
+  Ce bond est stimulé par l’annonce du retour de son emblématique patron, Jensen Huang, réintégré à son poste deux semaines après avoir démissionné. De quoi tirer vers le haut l’ensemble de la Bourse new-yorkaise.
+- [23/11 16:57] Le Monde — EN DIRECT, Jensen Huang réintégré chez Nvidia : Donald Trump affirme avoir parlé « directement » avec le conseil d’administration
+  https://www.lemonde.fr/international/live/2026/11/23/en-direct-jensen-huang-reintegre-chez-nvidia-donald-trump-affirme-avoir-parle-directement-avec-le-conseil-d-administration_6814407_3210.html
+  Le conseil d’administration de Nvidia a annoncé lundi la réintégration immédiate de Jensen Huang comme directeur général et président du géant américain des puces, dix jours après sa démission liée à un scandale mêlant…
+- [23/11 16:48] Ouest-France — « Elle a dit oui » : un député australien demande sa compagne en mariage, à l’issue de son discours d’adieu
+  https://www.ouest-france.fr/monde/australie/elle-a-dit-oui-un-depute-australien-demande-sa-compagne-en-mariage-a-lissue-de-son-discours-dadieu-45e5f9e8-e753-11f1-b9ed-164c427aef07?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
+  Alors qu’il prononçait un discours d’adieu au parlement de l’État de Nouvelle-Galles du Sud à Sydney (Australie), Jordan Lane, un député âgé de 32 ans, a conclu sa prise de parole par une demande en mariage. Sa future f…
+- [23/11 16:39] franceinfo — Guerre en Ukraine : l'UE présente un 22e paquet de sanctions contre Moscou, ciblant notamment les banques, la flotte fantôme et les athlètes russes
+  https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/direct-guerre-en-ukraine-volodymyr-zelensky-revendique-les-attaques-contre-deux-navires-russes-menees-au-large-de-la-libye_8295668.html#xtor=RSS-3-[lestitres]
+  "L'objectif est de maintenir la pression sur la Russie afin qu'elle mette fin à sa guerre d'agression en Ukraine", met en avant Ursula von der Leyen, présidente de la Commission européenne.
+- [23/11 16:37] Le Figaro — «Le fossé n’a jamais été aussi grand» : après l’échec de la COP31, la presse internationale s’interroge sur l’avenir des sommets climatiques
+  https://www.lefigaro.fr/international/le-fosse-n-a-jamais-ete-aussi-grand-apres-l-echec-de-la-cop31-la-presse-internationale-s-interroge-sur-l-avenir-des-sommets-climatiques-20261123
+  REVUE DE PRESSE - Au lendemain de l’échec des négociations d’Antalya, les médias étrangers s’interrogent moins sur les responsabilités des uns et des autres que sur la capacité de la diplomatie climatique à produire enc…
+- [23/11 16:31] Le Monde — Espagne : l’indépendantiste catalan Carles Puigdemont définitivement blanchi par la justice
+  https://www.lemonde.fr/international/article/2026/11/23/espagne-l-independantiste-catalan-carles-puigdemont-definitivement-blanchi-par-la-justice_6814403_3210.html
+  Le Tribunal suprême espagnol ouvre la voie au retour en Espagne du leader indépendantiste catalan. Celui-ci avait toutefois affirmé qu’il ne rentrerait pas avant les élections législatives du 29 novembre.
+- [23/11 16:24] Le Figaro — Jensen Huang fait son retour à la tête de Nvidia deux semaines après avoir démissionné pour ses frasques extraconjugales
+  https://www.lefigaro.fr/secteur/high-tech/remercie-apres-ses-frasques-extraconjugales-jensen-huang-fait-son-retour-a-la-tete-de-nvidia-20261123
+  Le conseil d’administration du géant américain des puces IA a annoncé le retour aux manettes de son dirigeant, deux semaines après sa démission forcée.
+- [23/11 16:21] franceinfo — Deux navires russes attaqués par l'Ukraine au large de la Libye : Volodymyr Zelensky se félicite de l'opération, filmée par des drones
+  https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/deux-navires-russes-attaques-par-l-ukraine-au-large-de-la-libye-l-operation-dont-s-est-felicitee-volodymyr-zelensky-filmee-par-des-drones_8296136.html#xtor=RSS-3-%5Bmonde%5D
+  Le président ukrainien, Volodymyr Zelensky, a revendiqué dans la matinée du lundi 23 novembre l'opération menée contre deux navires russes, au large de la Libye. Elle a été filmée par des caméras installées sur les bate…
+- [23/11 16:18] franceinfo — Nvidia annonce la réintégration de Jensen Huang comme PDG, onze jours après son départ lié à une affaire d'adultère et d'espionnage
+  https://www.franceinfo.fr/internet/nvidia/nvidia-annonce-la-reintegration-de-jensen-huang-comme-pdg-onze-jours-apres-son-depart-lie-a-une-affaire-d-adultere-et-d-espionnage_8296160.html#xtor=RSS-3-[lestitres]
+  "Le conseil d'administration estime que Jensen est la personne idéale pour diriger Nvidia et que sa réintégration est dans le meilleur intérêt de nos actionnaires, de nos employés, de nos partenaires et de nos clients",…
+- [23/11 16:09] Le Monde — La Turquie affirme que le PKK a évacué 14 autres bases du nord de l’Irak, une nouvelle étape majeure vers la paix
+  https://www.lemonde.fr/international/article/2026/11/23/la-turquie-affirme-que-le-pkk-a-evacue-14-autres-bases-du-nord-de-l-irak-une-nouvelle-etape-majeure-vers-la-paix_6814400_3210.html
+  Ankara et le groupe armé ont entamé un processus de paix en 2024, dont l’objectif est de mettre fin à plus de quatre décennies d’une guérilla qui a fait quelque 50 000 morts.
+- [23/11 16:07] Le Figaro — «Son dernier acte de courage au service des institutions» : le suicide de Gianni De Gennaro, ancien chef de la police, secoue l’Italie
+  https://www.lefigaro.fr/international/son-dernier-acte-de-courage-au-service-des-institutions-le-suicide-de-gianni-de-gennaro-ancien-chef-de-la-police-secoue-l-italie-20261123
+  RÉCIT - Samedi en Toscane, un pistolet a été retrouvé près du corps sans vie de l’ex-fonctionnaire de 78 ans, qui était dans le viseur de la justice depuis plusieurs mois.
+- [23/11 16:00] Le Monde — Deux navires russes attaqués dans les eaux libyennes, une extension inédite de la guerre russo-ukrainienne
+  https://www.lemonde.fr/afrique/article/2026/11/23/deux-navires-russes-attaques-dans-les-eaux-libyennes-une-extension-inedite-de-la-guerre-russo-ukrainienne_6814397_3212.html
+  Le président ukrainien, Volodymyr Zelensky, a revendiqué, lundi 23 novembre, le double assaut mené la veille par « sept drones navals » dans la zone maritime de Benghazi. Une telle attaque contre des bateaux russes tran…
+- [23/11 15:21] Le Monde — Nvidia annonce la réintégration de Jensen Huang à la tête du géant des puces, deux semaines après qu’il a démissionné à la suite de suspicions d’espionnage chinois
+  https://www.lemonde.fr/economie/article/2026/11/23/jensen-huang-reintegre-comme-directeur-general-et-president-de-nvidia-par-le-conseil-d-administration-deux-semaines-apres-avoir-demissionne-suite-a-des-suspicions-d-espionnage-chinois_6814392_3234.html
+  Ce coup de théâtre intervient après des appels répétés du président américain, Donald Trump, proche de Jensen Huang, à réintégrer cette figure emblématique de la tech au sein de l’entreprise qu’il a cofondée.
 - [23/11 15:18] Le Monde — Le Tadjikistan annonce son retrait de la Cour pénale internationale
   https://www.lemonde.fr/international/article/2026/11/23/le-tadjikistan-annonce-son-retrait-de-la-cour-penale-internationale_6814391_3210.html
   Ce pays d’Asie centrale, proche de la Russie, avait notifié son retrait au chef de l’ONU, vendredi, jour de la visite du président russe, Vladimir Poutine, dans la capitale, Douchanbé.
-- [23/11 15:17] Le Figaro — Donald Trump menace de reprendre les frappes contre l’Iran après le Nouvel An et qualifie ses négociateurs de «spécialistes de la pirouette»
-  https://www.lefigaro.fr/international/donald-trump-menace-de-reprendre-les-frappes-contre-l-iran-apres-le-nouvel-an-et-qualifie-ses-negociateurs-de-specialistes-de-la-pirouette-20261123
-  Le président américain a de nouveau agité dimanche la menace d’une intervention militaire contre l’Iran, tout en renvoyant sa décision à l’an prochain. Sur Fox News, il a affirmé qu’il pourrait ordonner de nouvelles fra…
 - [23/11 15:08] franceinfo — En Allemagne, "le frein à la dette" est inscrit dans la Constitution depuis 2009 mais a été assoupli
   https://www.franceinfo.fr/monde/europe/allemagne/en-allemagne-le-frein-a-la-dette-est-inscrit-dans-la-constitution-depuis-2009-mais-a-ete-assoupli_8296088.html#xtor=RSS-3-%5Bmonde%5D
   Emmanuel Macron envisage d'inscrire dans la Constitution une "règle d'or budgétaire". Chez nos voisins allemands, ce concept est appliqué depuis 2009.
 - [23/11 15:04] franceinfo — "On m'a d'abord regardée comme une personne bizarre" : au Japon, de plus en plus d'habitants se tournent vers des "dumbphones" sans internet
-  https://www.franceinfo.fr/monde/japon/on-m-a-d-abord-regardee-comme-une-personne-bizarre-au-japon-de-plus-en-plus-d-habitants-se-tournent-vers-des-dumbphones-sans-internet_8296001.html#xtor=RSS-3-[lestitres]
+  https://www.franceinfo.fr/monde/japon/on-m-a-d-abord-regardee-comme-une-personne-bizarre-au-japon-de-plus-en-plus-d-habitants-se-tournent-vers-des-dumbphones-sans-internet_8296001.html#xtor=RSS-3-%5Bmonde%5D
   Face à la demande grandissante, l'opérateur japonais KDDI ressortira en décembre un appareil juste... pour téléphoner et échanger des SMS.
-- [23/11 14:57] franceinfo — Deux navires russes attaqués par l'Ukraine au large de la Libye : l'opération, dont s'est félicitée Volodymyr Zelensky, filmée par des drones
-  https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/deux-navires-russes-attaques-par-l-ukraine-au-large-de-la-libye-l-operation-dont-s-est-felicitee-volodymyr-zelensky-filmee-par-des-drones_8296136.html#xtor=RSS-3-%5Bmonde%5D
-  Le président ukrainien Volodymyr Zelensky a ce matin revendiqué l'opération qui a été menée contre deux navires russes, au large de la Libye. Tout a été filmé par des caméras installées sur les bateaux kamikazes. La Rus…
 - [23/11 14:04] franceinfo — L'Ukraine attaque deux navires russes en Libye
   https://www.franceinfo.fr/monde/l-ukraine-attaque-deux-navires-russes-en-libye_8296079.html#xtor=RSS-3-%5Bmonde%5D
   L'Ukraine a revendiqué des attaques contre deux navires russes au large de la Libye, dans ce qui apparaît comme une nouvelle extension de la guerre entre Kiev et Moscou.
-- [23/11 14:00] Le Monde — EN DIRECT, guerre en Ukraine : un cargo russe pris pour cible dans le golfe de Finlande, le Kremlin dénonce « l’expansion de l’activité terroriste » en mer Baltique
+- [23/11 14:00] Le Monde — EN DIRECT, guerre en Ukraine : un cargo russe pris pour cible dans le golfe de Finlande, le Kremlin dénonce l’« expansion de l’activité terroriste » en mer Baltique
   https://www.lemonde.fr/international/live/2026/11/23/en-direct-guerre-en-ukraine-un-cargo-russe-pris-pour-cible-dans-le-golfe-de-finlande-le-kremlin-denonce-l-expansion-de-l-activite-terroriste-en-mer-baltique_6814183_3210.html
   Des bombardements russes ont par ailleurs fait trois morts à Zaporijia et deux autres à Kramatorsk, ont informé lundi les autorités locales.
 - [23/11 13:59] franceinfo — Une marche de Marseille à Trappes "pour le vivre-ensemble" et "pour rendre hommage aux victimes" du racisme
-  https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/une-marche-de-marseille-a-trappes-pour-le-vivre-ensemble-et-pour-rendre-hommage-aux-victimes-du-racisme_8296073.html#xtor=RSS-3-[lestitres]
+  https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/une-marche-de-marseille-a-trappes-pour-le-vivre-ensemble-et-pour-rendre-hommage-aux-victimes-du-racisme_8296073.html#xtor=RSS-3-%5Bfaits-divers%5D
   Il y a un mois, le 23 octobre, l'attentat raciste de Trappes a fait un mort, Pengo Bossio Wangi et plusieurs blessés.
 - [23/11 13:51] Le Figaro — Midterms 2026 : les derniers dépouillements confirment la victoire historique du Parti démocrate
   https://www.lefigaro.fr/international/midterms-2026-les-derniers-depouillements-confirment-la-victoire-historique-du-parti-democrate-20261122
   DÉCRYPTAGE - Le prochain Congrès comptera 56 sénateurs démocrates contre 44 républicains, leur plus large majorité depuis près de vingt ans. À la Chambre, les démocrates ont remporté 258 sièges contre 173, un niveau iné…
-- [23/11 13:46] franceinfo — Thierry Breton plaide pour un budget inscrit dans la Constitution
-  https://www.franceinfo.fr/economie/budget/thierry-breton-plaide-pour-un-budget-inscrit-dans-la-constitution_8296070.html#xtor=RSS-3-%5Bpolitique%5D
-  Pour inscrire la règle d'or budgétaire dans la Constituions, Thierry Breton, ex-commissaire européen a rencontré tous les chefs de parti. Sauf un !
 - [23/11 13:25] Le Monde — Le principal producteur européen de Coca-Cola visé par une enquête approfondie de l’UE pour des soupçons de pratiques anticoncurrentielles
   https://www.lemonde.fr/international/article/2026/11/23/le-principal-producteur-europeen-de-coca-cola-vise-par-une-enquete-approfondie-de-l-ue-pour-des-soupcons-de-pratiques-anticoncurrentielles_6814382_3210.html
   Bruxelles reproche à Coca-Cola Europacific Partners des tactiques qui visent à maintenir des prix plus élevés, en dissuadant ses clients de se fournir dans des pays où ses tarifs sont plus faibles.
@@ -42,14 +78,8 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
   https://www.opex360.com/2026/11/23/les-forces-ukrainiennes-ont-coule-une-corvette-russe-dans-le-port-de-benghazi-en-libye/
   Le 21 novembre, comme la corvette Naro-Fominsk une semaine plus tôt, le cargo Sparta II, exploité par la société Oboronlogistika, liée au ministère russe de la Défense, a été touché par des drones d’attaque alors qu’il…
 - [23/11 12:51] franceinfo — L'Iran dit qu'il usera de "tous les moyens" disponibles face au blocus de ses ports imposé par les Etats-Unis
-  https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/l-iran-dit-qu-il-usera-de-tous-les-moyens-disponibles-face-au-blocus-de-ses-ports-impose-par-les-etats-unis_8295947.html#xtor=RSS-3-[lestitres]
+  https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/l-iran-dit-qu-il-usera-de-tous-les-moyens-disponibles-face-au-blocus-de-ses-ports-impose-par-les-etats-unis_8295947.html#xtor=RSS-3-%5Bmonde%5D
   Téhéran estime que le blocus de ses ports depuis avril "constitue sans aucun doute un acte d'agression militaire".
-- [23/11 12:47] Le Monde — En Allemagne et au Danemark, des alertes à la bombe dans des établissements scolaires, sans menace concrète ou jugées infondées par les autorités
-  https://www.lemonde.fr/international/article/2026/11/23/en-allemagne-et-au-danemark-des-alertes-a-la-bombe-dans-des-etablissements-scolaires-sans-menace-concrete-ou-jugees-infondees-par-les-autorites_6814378_3210.html
-  En Allemagne, plus de 450 écoles ont été concernées. Au Danemark, des alertes ont été adressées à des établissements scolaires « partout dans le pays ».
-- [23/11 12:41] Le Monde — Inondations au Népal : l’Inde offre à son voisin et allié un « plan de coopération » et une aide à la reconstruction de 1,6 milliard de dollars
-  https://www.lemonde.fr/international/article/2026/11/23/inondations-au-nepal-l-inde-offre-a-son-voisin-et-allie-un-plan-de-cooperation-et-une-aide-a-la-reconstruction-de-1-6-milliard-de-dollars_6814377_3210.html
-  Selon le dernier bilan côté népalais, ce « tsunami des montagnes », dont l’ampleur a été attribuée au réchauffement climatique, a fait au moins 1 400 morts, plus de 5 000 disparus et d’importants dégâts.
 - [23/11 12:13] franceinfo — Le Premier ministre espagnol, Pedro Sanchez, propose de taxer les patrimoines supérieurs à 100 millions d'euros
   https://www.franceinfo.fr/monde/espagne/le-premier-ministre-espagnol-pedro-sanchez-propose-de-taxer-les-patrimoines-superieurs-a-100-millions-d-euros_8295806.html#xtor=RSS-3-%5Bmonde%5D
   Cette proposition intervient alors que les socialistes cherchent à se démarquer du Parti populaire, conservateur, en vue des élections législatives.
@@ -59,33 +89,12 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [23/11 11:30] franceinfo — "Une opération exemplaire" : ce que l'on sait de l'attaque de deux navires au large de la Libye revendiquée par l'Ukraine
   https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/une-operation-exemplaire-ce-que-l-on-sait-de-l-attaque-de-deux-navires-au-large-de-la-libye-revendiquee-par-l-ukraine_8295566.html#xtor=RSS-3-%5Bmonde%5D
   Volodymyr Zelensky s'est félicité d'avoir ciblé deux navires battant pavillon russe lors de deux attaques de drones menées dans le port et au large de la ville de Benghazi.
-- [23/11 11:00] Le Monde — Eliav Lieblich, juriste israélien : après l’arrêt de la CIJ reconnaissant la responsabilité birmane dans le génocide des Rohingya, « il est fort probable qu’Israël soit condamné » pour Gaza
-  https://www.lemonde.fr/international/article/2026/11/23/eliav-lieblich-apres-l-arret-de-la-cij-reconnaissant-la-responsabilite-birmane-dans-le-genocide-des-rohingya-il-est-fort-probable-qu-israel-soit-condamne-pour-gaza_6814372_3210.html
-  Pour le professeur de droit à l’université de Tel-Aviv, Eliav Lieblich, la décision de la Cour de justice internationale du 19 novembre « complique la position d’Israël ». Il précise, dans un entretien au « Monde », la…
-- [23/11 10:44] franceinfo — Echec des négociations, engagements sur l'électrification, financements… Ce qu'il faut retenir de la COP31 d'Antalya sur le climat
-  https://www.franceinfo.fr/environnement/crise-climatique/cop-climat/echec-des-negociations-engagements-sur-l-electrification-financements-ce-qu-il-faut-retenir-de-la-cop31-d-antalya-sur-le-climat_8290226.html#xtor=RSS-3-%5Bmonde%5D
-  Après quinze jours de négociations, les pays du monde entier ont échoué à s'accorder sur un texte final.
-- [23/11 10:11] franceinfo — Une salle de concert de Manchester, en Angleterre, évacuée après la diffusion d'une "substance inconnue"
-  https://www.franceinfo.fr/monde/royaume-uni/une-salle-de-concert-de-manchester-en-angleterre-evacuee-apres-la-diffusion-d-une-substance-inconnue_8295647.html#xtor=RSS-3-%5Bmonde%5D
-  Les autorités ne sont pas encore parvenues à identifier la substance qui a causé des "symptômes oculaires et respiratoires" chez certains spectateurs.
-- [23/11 10:00] Le Monde — Législatives en Espagne : le socialiste Pedro Sanchez, l’éternel combattant qui croit encore à la « remontada »
-  https://www.lemonde.fr/international/article/2026/11/23/legislatives-en-espagne-le-socialiste-pedro-sanchez-l-eternel-combattant-qui-croit-encore-a-la-remontada_6814366_3210.html
-  Malgré les scandales qui ont fragilisé son gouvernement et des sondages qui donnent une majorité à la droite et à l’extrême droite, le premier ministre refuse d’envisager la défaite aux élections législatives du 29 nove…
-- [23/11 09:50] Le Monde — Aux Etats-Unis, les démocrates obtiennent la plus large majorité depuis 1992 à la Chambre des représentants
-  https://www.lemonde.fr/international/article/2026/11/23/avec-258-sieges-remportes-les-democrates-decrochent-la-plus-large-majorite-depuis-1992-a-la-chambre-des-representants_6814364_3210.html
-  Aucun des deux partis dominant la vie politique américaine n’avait obtenu une majorité aussi importante depuis la victoire démocrate, il y a trente-quatre ans.
 - [23/11 07:10] Le Figaro — Après l’attaque contre un porte-conteneurs russe, la Finlande craint une extension de la guerre en mer Baltique
   https://www.lefigaro.fr/international/apres-l-attaque-contre-un-porte-conteneurs-russe-la-finlande-craint-une-extension-de-la-guerre-en-mer-baltique-20261122
   DÉCRYPTAGE - Pour la deuxième fois en dix jours, des frappes de drones attribuées à l’Ukraine ont endommagé samedi matin un navire à proximité des eaux territoriales finlandaises.
 - [23/11 06:42] Le Figaro — Starlink, Doge, Maga : après la défaite des républicains aux « midterms », les paris risqués d’Elon Musk pourraient se retourner contre lui
   https://www.lefigaro.fr/international/starlink-doge-maga-apres-la-defaite-des-republicains-aux-midterms-les-paris-risques-d-elon-musk-pourraient-se-retourner-contre-lui-20261120
   RÉCIT - La victoire démocrate aux élections ouvre la perspective d’enquêtes sur l’agence Doge ou le rôle de Starlink en Ukraine, alors qu’Elon Musk prend ses distances avec un mouvement Maga dont il avait été l’un des p…
-- [23/11 06:30] Le Monde — En Inde, portrait d’une jeunesse oubliée : « Si vous êtes né pauvre en Inde, mieux vaut ne pas être né du tout »
-  https://www.lemonde.fr/international/article/2026/11/23/puja-kumar-23-ans-si-vous-etes-ne-pauvre-en-inde-mieux-vaut-ne-pas-etre-ne-du-tout_6814353_3210.html
-  « Inde, la jeunesse oubliée » (1/4). Puja Kumar, 23 ans, se prépare à passer les examens de la haute fonction publique dans l’espoir de garantir son avenir professionnel alors que près de 40 % des jeunes Indiens sont sa…
-- [23/11 06:30] Le Monde — Le Digital Fairness Act, un projet de règlement européen qui affole l’industrie du jeu vidéo
-  https://www.lemonde.fr/pixels/article/2026/11/23/le-digital-fairness-act-un-projet-de-reglement-europeen-qui-affole-l-industrie-du-jeu-video_6814350_4408996.html
-  Avec ce texte à visée générale, la Commission européenne veut légiférer sur des pratiques jugées piégeuses pour les joueurs. Dans son viseur : les monnaies virtuelles, les « loot boxes » et les mécanismes de « pay-to-wi…
 - [22/11 19:30] Le Figaro — « Pourquoi les Russes nous tourmentent-ils ainsi ? » : la Pologne compte sur le soutien de l’Otan après une nouvelle incursion de missiles sur son territoire
   https://www.lefigaro.fr/international/pourquoi-les-russes-nous-tourmentent-ils-ainsi-la-pologne-compte-sur-le-soutien-de-l-otan-apres-une-nouvelle-incursion-de-missiles-sur-son-territoire-20261122
   RÉCIT - Lors de frappes menées contre l’Ukraine vendredi, la Russie a de nouveau violé l’espace aérien polonais, accentuant sa pression sur le pays. Le premier ministre Donald Tusk demande des mesures de l’organisation…
@@ -100,63 +109,90 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
   REPORTAGE - Alors que la COP31 s’achève, d’anciens guérilleros démobilisés il y a dix ans mènent dans le sud de la Colombie une vaste initiative de reforestation.
 
 ## France
-- [23/11 15:26] Ouest-France — GTA VI. L’engouement autour du jeu vidéo déjà culte profite aux villes qui en ont inspiré le décor
-  https://www.ouest-france.fr/gaming/jeux-video/gta-vi-quand-lengouement-autour-du-jeu-video-deja-culte-profite-aux-villes-qui-en-ont-inspire-le-decor-0060266a-e748-11f1-b9ed-164c427aef07?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
-  Disponible depuis jeudi 19 novembre, GTA VI suscite un tel enthousiasme que, depuis la sortie de la dernière bande-annonce, les recherches en ligne portant sur des logements à Miami (États-Unis) ont bondi. La ville de F…
-- [23/11 15:24] Ouest-France — Jensen Huang réintégré comme patron de Nvidia, malgré sa relation avec une Chinoise soupçonnée d’être une espionne
-  https://www.ouest-france.fr/high-tech/jensen-huang-reintegre-comme-patron-de-nvidia-malgre-le-scandale-despionnage-chinois-be6e98d2-e746-11f1-afa7-9a0bb82a33d1?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
-  Poussé à la démission le 12 novembre suite à la révélation d’une liaison extraconjugale avec une espionne chinoise, Jensen Huang, patron du géant Nvidia a été réintégré à la tête de l’entreprise ce 23 novembre.
-- [23/11 15:23] Le Figaro — «C’est massif» : comment Airbnb a sans le vouloir offert un gros coup de pouce à cette plateforme française
-  https://www.lefigaro.fr/voyages/c-est-massif-comment-airbnb-a-sans-le-vouloir-offert-un-gros-coup-de-pouce-a-cette-plateforme-francaise-20261123
-  Depuis que le géant américain interdit à ses hôtes d’imposer la vaisselle aux voyageurs, les demandes d’inscription ont décuplé sur la plateforme écoresponsable. Son cofondateur y voit le signe d’une confiance «écornée»…
-- [23/11 15:21] Le Monde — Nvidia annonce la réintégration de Jensen Huang à la tête du géant des puces, deux semaines après qu’il a démissionné à la suite de suspicions d’espionnage chinois
-  https://www.lemonde.fr/economie/article/2026/11/23/jensen-huang-reintegre-comme-directeur-general-et-president-de-nvidia-par-le-conseil-d-administration-deux-semaines-apres-avoir-demissionne-suite-a-des-suspicions-d-espionnage-chinois_6814392_3234.html
-  Ce coup de théâtre intervient après des appels répétés du président américain, Donald Trump, proche de Jensen Huang, à réintégrer cette figure emblématique de la tech au sein de l’entreprise qu’il a cofondée.
-- [23/11 15:20] Le Figaro — Lyon : la mairie écologiste refuse une heure de stationnement gratuit pour soutenir les commerçants
-  https://www.lefigaro.fr/lyon/lyon-la-mairie-ecologiste-refuse-une-heure-de-stationnement-gratuit-pour-soutenir-les-commercants-20261123
-  Pour soutenir les commerçants fragilisés par les violences du 17 octobre, un élu proposait d’offrir une heure de stationnement gratuit à Lyon. Une mesure rejetée par la majorité écologiste, sur fond de tensions persista…
-- [23/11 15:19] Ouest-France — « J’aime bien cette classe en rond » : dans ce petit village de Maine-et-Loire, les 39 élèves font classe... en yourtes
-  https://www.ouest-france.fr/education/jaime-bien-cette-classe-en-rond-dans-ce-petit-village-de-maine-et-loire-les-39-eleves-font-classe-en-yourtes-0e40474a-e4f2-11f1-afa7-9a0bb82a33d1?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
-  Depuis la rentrée 2026, à Grézillé, commune déléguée de Gennes-Val-de-Loire (Maine-et-Loire), 39 élèves scolarisés de la très petite section au CM2 font classe dans des yourtes. Les anciens locaux qui accueillaient l’éc…
-- [23/11 15:12] Le Figaro — Jensen Huang fait son retour à la tête de Nvidia deux semaines après avoir démissionné pour ses frasques extraconjugales
-  https://www.lefigaro.fr/secteur/high-tech/remercie-apres-ses-frasques-extraconjugales-jensen-huang-fait-son-retour-a-la-tete-de-nvidia-20261123
-  Le conseil d’administration du géant américain des puces IA annonce le retour aux manettes de son dirigeant, deux semaines après sa démission.
-- [23/11 15:11] Ouest-France — Le trafic aérien à l’aéroport Roissy-Charles-de-Gaulle perturbé à cause d’un drone durant une vingtaine de minutes
-  https://www.ouest-france.fr/economie/transports/avion/le-trafic-aerien-a-laeroport-roissy-charles-de-gaulle-perturbe-a-cause-dun-drone-durant-une-vingtaine-de-minutes-44583520-e747-11f1-b9ed-164c427aef07?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
-  La présence d’un drone a été repérée dans le secteur de l’aéroport de Roissy-Charles-de-Gaulle, jeudi 19 novembre. Par mesure de précaution, aucun avion n’a été autorisé à atterrir durant une vingtaine de minutes.
+- [23/11 17:27] Ouest-France — Aux États-Unis, des voyageurs récupèrent leurs bagages couverts de beurre de cacahuète après leur vol
+  https://www.ouest-france.fr/societe/faits-divers/aux-etats-unis-des-voyageurs-recuperent-leurs-bagages-couverts-de-beurre-de-cacahuete-apres-leur-vol-359ffa26-e757-11f1-b9ed-164c427aef07?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
+  L’arrivée des passagers du vol 2609 d’American Airlines à l’aéroport international Hartsfield-Jackson d’Atlanta (États-Unis) s’est mal passée le lundi 16 novembre. Après avoir attendu deux heures leurs valises, les voya…
+- [23/11 17:25] Ouest-France — Black bloc, pancarte insultante : trois manifestants jugés après des heurts le 21 novembre à Angers
+  https://www.ouest-france.fr/societe/manifestation/black-bloc-pancarte-insultante-trois-manifestants-juges-apres-des-heurts-le-21-novembre-a-angers-c359cc16-e757-11f1-bd4e-6f30b8f49e21?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
+  Trois jeunes manifestants interpellés lors du rassemblement du 21 novembre à Angers ont comparu devant le tribunal correctionnel, ce lundi 23 novembre, pour des faits allant de la participation à une manifestation inter…
+- [23/11 17:24] Le Figaro — Le baril américain de pétrole tombe sous les 80 dollars pour la première fois depuis août
+  https://www.lefigaro.fr/conjoncture/le-baril-americain-de-petrole-tombe-sous-les-80-dollars-pour-la-premiere-fois-depuis-aout-20261123
+  Malgré les tensions géopolitiques qui perdurent au Moyen-Orient, le marché anticipe une situation où l’offre de pétrole serait supérieure à la demande.
+- [23/11 17:15] Ouest-France — Statue de la Vierge dégradée en Corse : les deux jeunes hommes ont été condamnés à 3 et 6 mois de prison ferme aménagés
+  https://www.ouest-france.fr/societe/justice/statue-de-la-vierge-degradee-en-corse-les-deux-jeunes-hommes-ont-ete-condamnes-a-3-et-6-mois-de-prison-ferme-amenages-e0b0cd0c-e755-11f1-bd4e-6f30b8f49e21?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
+  Les deux jeunes hommes, qui avaient profané une statue de Vierge à Porto-Vecchio en Corse, ont été condamnés à 3 et 6 mois de prison ferme lundi 23 novembre. Des peines qui seront aménagées.
+- [23/11 17:14] franceinfo — De la chute du PDG de Nvidia à son retour aux commandes, comment une affaire d'adultère et d'espionnage a fait vaciller le secteur de l'IA
+  https://www.franceinfo.fr/internet/nvidia/recit-des-premieres-revelations-a-la-chute-du-pdg-de-nvidia-comment-une-affaire-d-adultere-provoque-un-seisme-dans-le-secteur-de-l-ia_8280752.html#xtor=RSS-3-[lestitres]
+  Jensen Huang, l'emblématique patron du géant des puces électroniques, a quitté son poste le 12 novembre. Mais le conseil d'administration de l'entreprise a finalement décidé de le réintégrer, dix jours après le scandale…
+- [23/11 17:13] Le Figaro — EN DIRECT - Présidentielle 2027 : Génération.s, le parti fondé par Benoît Hamon, rallie La France insoumise
+  https://www.lefigaro.fr/elections/presidentielles/en-direct-presidentielle-2027-david-lisnard-francois-ruffin-edouard-philippe-candidature-marine-le-pen-20261123
+  Le ralliement, qui n’est guère une surprise, s’inscrit dans un moment de clarification à gauche, après l’annonce ce week-end du retrait de la candidature de François Ruffin et la main tendue de la patronne des écologist…
+- [23/11 17:11] Le Monde — Catherine Clément, philosophe passionnée de l’Inde, est morte à 87 ans
+  https://www.lemonde.fr/disparitions/article/2026/11/23/catherine-clement-philosophe-passionnee-de-l-inde-est-morte-a-87-ans_6814414_3382.html
+  La romancière et philosophe a connu le succès dans les années 1990 avec des ouvrages liés à son amour de l’Inde, où elle a vécu plusieurs années avec son mari ambassadeur.
+- [23/11 17:01] franceinfo — Yaël Braun-Pivet demande l'ouverture d'une enquête interne après une vidéo dénonçant les violences policières tournée dans l'hémicycle
+  https://www.franceinfo.fr/politique/parlement-francais/assemblee-nationale/yael-braun-pivet-demande-l-ouverture-d-une-enquete-interne-apres-une-video-denoncant-les-violences-policieres-tournee-dans-l-hemicycle_8296124.html#xtor=RSS-3-[lestitres]
+  La France insoumise estime de son côté que "l'Assemblée nationale est la maison du peuple et non le palais de madame Braun-Pivet et de ses amis d'extrême droite".
+- [23/11 17:00] Le Monde — A Saint-Fons, Hadi Mebarki met en œuvre le « communalisme » de LFI
+  https://www.lemonde.fr/politique/article/2026/11/23/a-saint-fons-hadi-mebarki-met-en-uvre-le-communalisme-de-lfi_6814413_823448.html
+  Déçu du Parti socialiste, le nouveau maire « insoumis » de cette ville de l’agglomération lyonnaise déroule son programme en mettant en avant les marqueurs forts de sa campagne, en résonance avec celle de Jean-Luc Mélen…
+- [23/11 17:00] Le Monde — « On nous a empoisonnés » : dans l’industrie de la chimie, des travailleurs surexposés aux PFAS
+  https://www.lemonde.fr/planete/article/2026/11/23/on-nous-a-empoisonnes-dans-l-industrie-de-la-chimie-des-travailleurs-surexposes-aux-pfas_6814409_3244.html
+  Les premiers résultats d’une étude inédite en France visant à mesurer l’imprégnation de salariés ou retraités des sites d’Arkema et de Daikin Chemical France, dans le Rhône, et de Solvay dans le Gard, ont été publiés lu…
+- [23/11 16:59] Ouest-France — Boulogne-sur-Mer. Speedy, l’un des plus vieux lions de mer en captivité au monde, est mort à 31 ans
+  https://www.ouest-france.fr/societe/animaux/boulogne-sur-mer-speedy-lun-des-plus-vieux-lions-de-mer-en-captivite-au-monde-est-mort-a-31-ans-a7749e1e-e756-11f1-b9ed-164c427aef07?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
+  Figure emblématique de Nausicaá, à Boulogne-sur-Mer (Pas-de-Calais), Speedy s’est éteint à l’âge de 31 ans. Le centre a annoncé la disparition de ce lion de mer, l’un des plus âgés en captivité, jeudi 19 novembre. Prése…
+- [23/11 16:53] franceinfo — La mise en service de la ligne 18 du Grand Paris Express en décembre est "très compromise", selon Valérie Pécresse
+  https://www.franceinfo.fr/economie/transports/la-mise-en-service-de-la-ligne-18-du-grand-paris-express-en-decembre-est-tres-compromise-selon-valerie-pecresse_8296103.html#xtor=RSS-3-[lestitres]
+  La présidente d'Ile-de-France Mobilités explique ce retard par des problèmes "d'exploitation et de sécurité".
+- [23/11 16:51] Ouest-France — Prime carburant : la prolongation du dispositif jusqu’en 2027 adoptée au Sénat
+  https://www.ouest-france.fr/economie/transports/carburants-essence-diesel/prime-carburant-la-prolongation-du-dispositif-jusquen-2027-adoptee-au-senat-3209c76e-e74f-11f1-bd4e-6f30b8f49e21?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
+  L’amendement du gouvernement prolongeant jusqu’en 2027 la « prime carburant », une aide défiscalisée que les employeurs peuvent accorder à leurs salariés, a été approuvé ce lundi 23 novembre au Sénat.
+- [23/11 16:46] franceinfo — Thierry Breton plaide pour une "règle d'or" inscrite dans la Constitution
+  https://www.franceinfo.fr/economie/budget/thierry-breton-plaide-pour-un-budget-inscrit-dans-la-constitution_8296070.html#xtor=RSS-3-%5Bpolitique%5D
+  Pour inscrire la règle d'or budgétaire dans la Constitution, Thierry Breton, ex-commissaire européen a rencontré tous les chefs de parti. Sauf un !
+- [23/11 16:38] franceinfo — Origines, objectifs, calendrier… Cinq questions sur la "règle d'or" qu'Emmanuel Macron veut mettre en place
+  https://www.franceinfo.fr/economie/budget/origines-objectifs-calendrier-quatre-questions-sur-la-regle-d-or-qu-emmanuel-macron-veut-mettre-en-place_8296010.html#xtor=RSS-3-[lestitres]
+  Le président réfléchit à instaurer une "règle d'or" budgétaire afin de contraindre les futurs gouvernements à adopter des budgets à l'équilibre.
+- [23/11 16:37] Le Figaro — Le gouvernement peut-il encore changer la date de l’élection présidentielle ?
+  https://www.lefigaro.fr/politique/le-gouvernement-peut-il-encore-changer-la-date-de-l-election-presidentielle-20261123
+  Les appels à modifier la date du scrutin, dont le second tour tombe le lendemain du 1er mai, se multiplient. Si elle est restreinte, le gouvernement bénéficie bien d’une marge de manœuvre.
+- [23/11 16:35] franceinfo — Le président de la commission des finances de l'Assemblée, Eric Coquerel, se dit "fondamentalement opposé" à l'instauration d'une "règle d'or" budgétaire
+  https://www.franceinfo.fr/economie/le-depute-insoumis-eric-coquerel-se-dit-fondamentalement-oppose-au-projet-d-instauration-d-une-regle-d-or-budgetaire_8296287.html#xtor=RSS-3-[lestitres]
+  Cela revient selon lui à "constitutionnaliser" une "politique économique". Le député insoumis réagit au système pour repousser le risque d'une crise financière, imaginé par Emmanuel Macron.
+- [23/11 16:31] Le Monde — Albin Michel : après le départ d’Amélie Nothomb, 165 salariés apportent leur soutien à la direction
+  https://www.lemonde.fr/economie/article/2026/11/23/albin-michel-apres-le-depart-d-amelie-nothomb-165-salaries-apportent-leur-soutien-a-la-direction_6814404_3234.html
+  Les signataires se disent « fiers » d’appartenir à une maison d’édition qui choisit de « protéger ses collaborateurs », quitte à perdre son autrice vedette qui suit son attachée de presse, Florence Godfernaux, licenciée…
+- [23/11 16:30] Le Monde — Ménopause : les inconnues et les risques de la supplémentation en testostérone pour raviver la libido
+  https://www.lemonde.fr/sciences/article/2026/11/23/menopause-les-inconnues-et-les-risques-de-la-supplementation-en-testosterone-pour-raviver-la-libido_6814402_1650684.html
+  Censée redonner aux femmes vitalité et désir sexuel, vantée par nombre d’influenceuses aux Etats-Unis, cette hormone peut induire des effets indésirables immédiats, tandis que les données sur d’éventuels risques à plus…
+- [23/11 16:29] franceinfo — Sommet Choose France : le laboratoire pharmaceutique Virbac dévoile un plan d'investissement de plus de 320 millions d'euros jusqu'en 2030
+  https://www.franceinfo.fr/economie/industrie/direct-sommet-choose-france-emmanuel-macron-en-visite-sur-le-site-d-airbus-a-toulouse_8295704.html#xtor=RSS-3-[lestitres]
+  Depuis Toulouse, Emmanuel Macron a affirmé lundi qu'il voulait faire de la France le pays "le plus rapide d'Europe quand il s'agit de créer des sites industriels".
+- [23/11 16:16] Le Figaro — Assemblée nationale : des jeunes dénoncent une proposition de loi dans une vidéo tournée dans l’hémicycle, une enquête ouverte
+  https://www.lefigaro.fr/elections/presidentielles/aucun-visiteur-n-a-le-droit-de-s-approprier-l-hemicycle-apres-une-video-denoncant-la-loi-sur-la-presomption-d-usage-legal-des-armes-par-les-forces-de-l-ordre-braun-pivet-annonce-l-ouverture-d-une-enquete-interne-20261123
+  Dans une vidéo tournée depuis l’hémicycle de l’Assemblée, des jeunes dénoncent la proposition de loi instaurant une présomption d’usage légal des armes par les forces de l’ordre. Elle a été définitivement adoptée par le…
+- [23/11 16:02] franceinfo — "Les opinions convergent" : une étude s'attaque à la "fracture supposée entre urbains et ruraux" sur la voiture
+  https://www.franceinfo.fr/economie/automobile/entretien-les-opinions-convergent-une-etude-s-attaque-a-la-fracture-supposee-entre-urbains-et-ruraux-sur-la-voiture_8296082.html#xtor=RSS-3-[lestitres]
+  Selon une étude de l'Institut Terram publiée lundi, les usages et les perceptions de l'automobile convergent largement d'un territoire à l'autre, comme l'explique Victor Delage, fondateur et directeur de l'institut.
+- [23/11 15:35] Le Monde — Grand Paris Express : Valérie Pécresse juge « très compromise » la mise en service de la ligne 18 avant la fin de l’année
+  https://www.lemonde.fr/economie/article/2026/11/23/grand-paris-express-valerie-pecresse-juge-tres-compromise-la-mise-en-service-de-la-ligne-18-avant-la-fin-de-l-annee_6814396_3234.html
+  Le lancement du premier tronçon du vaste réseau de transport francilien a été reporté à de multiples reprises. La présidente de la région Ile-de-France met en cause Alstom et son logiciel d’automatisation, alors que « l…
+- [23/11 15:31] Le Figaro — «Je suis devenue très suspicieuse» : de l’affaire Dutroux à la mort de Lyhanna, trente ans qui ont rendu les parents méfiants envers leurs proches
+  https://www.lefigaro.fr/actualite-france/desolant-mais-normal-de-l-affaire-dutroux-a-la-mort-de-lyhanna-trente-ans-qui-ont-rendu-les-parents-mefiants-envers-leurs-tres-proches-20261121
+  RÉCIT - Longtemps associée à l’extérieur, au prédateur à la camionnette blanche, la pédophilie est désormais reliée à l’entourage de l’enfant. Pour les spécialistes du problème, nous commençons enfin à le comprendre dan…
+- [23/11 15:23] Le Figaro — Congrès, référendum… Quelles solutions pour inscrire une «règle d’or» budgétaire dans la Constitution ?
+  https://www.lefigaro.fr/politique/congres-referendum-quelles-solutions-pour-inscrire-une-regle-d-or-budgetaire-dans-la-constitution-20261123
+  DÉCRYPTAGE - L’exécutif envisage de s’appuyer sur un texte de 2011, déjà voté dans les deux chambres du Parlement. Il reste toutefois une étape importante avant de pouvoir fixer les objectifs d’équilibre des finances pu…
 - [23/11 15:07] franceinfo — Le gouvernement fait adopter au Sénat une prolongation de la prime carburant en 2027
   https://www.franceinfo.fr/economie/automobile/essence/le-gouvernement-fait-adopter-au-senat-une-prolongation-de-la-prime-carburant-en-2027_8296031.html#xtor=RSS-3-%5Bpolitique%5D
   La mise en œuvre de ce dispositif devra être confirmée dans la copie finale du budget.
-- [23/11 15:06] franceinfo — Origines, objectifs, calendrier… Quatre questions sur la "règle d'or" qu'Emmanuel Macron veut mettre en place
-  https://www.franceinfo.fr/economie/budget/origines-objectifs-calendrier-quatre-questions-sur-la-regle-d-or-qu-emmanuel-macron-veut-mettre-en-place_8296010.html#xtor=RSS-3-%5Bpolitique%5D
-  Le président réfléchit à instaurer une "règle d'or" budgétaire afin de contraindre les futurs gouvernements à adopter des budgets à l'équilibre.
-- [23/11 15:06] franceinfo — Yaël Braun-Pivet demande l'ouverture d'une enquête interne après une vidéo dénonçant les violences policières tournée dans l'hémicycle
-  https://www.franceinfo.fr/politique/parlement-francais/assemblee-nationale/yael-braun-pivet-demande-l-ouverture-d-une-enquete-interne-apres-une-video-denoncant-les-violences-policieres-tournee-dans-l-hemicycle_8296124.html#xtor=RSS-3-%5Bpolitique%5D
-  La France insoumise estime de son côté que "l'Assemblée nationale est la maison du peuple et non le palais de madame Braun-Pivet et de ses amis d'extrême droite".
-- [23/11 14:57] Ouest-France — Des jeunes dénoncent un « permis de tuer » dans une vidéo tournée à l’Assemblée : une enquête interne va être ouverte
-  https://www.ouest-france.fr/politique/institutions/assemblee-nationale/des-jeunes-denoncent-un-permis-de-tuer-dans-une-video-tournee-a-lassemblee-une-enquete-interne-va-etre-ouverte-498b902a-e740-11f1-bd4e-6f30b8f49e21?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
-  Une vidéo filmée au sein de l’hémicycle et diffusée sur les réseaux sociaux montre cinq jeunes dénoncer l’adoption définitive de la loi instaurant une « présomption d’usage légitime des armes par les forces de l’ordre »…
-- [23/11 14:57] Le Figaro — EN DIRECT - Présidentielle 2027 : Génération.s, le parti fondé par Benoît Hamon, rallie La France insoumise
-  https://www.lefigaro.fr/elections/presidentielles/en-direct-presidentielle-2027-david-lisnard-francois-ruffin-edouard-philippe-candidature-marine-le-pen-20261123
-  Le ralliement, qui n’est guère une surprise, s’inscrit dans un moment de clarification à gauche, après l’annonce ce week-end du retrait de la candidature de François Ruffin et la main tendue de la patronne des écologist…
-- [23/11 14:53] Le Figaro — La dynamique David Lisnard, ou l’autre nom du « nœud démocratique » entre les Français et le RN
-  https://www.lefigaro.fr/elections/presidentielles/la-dynamique-david-lisnard-ou-l-autre-nom-du-noeud-democratique-entre-les-francais-et-le-rn-20261123
-  ANALYSE - Dans un pays où le Rassemblement national est en passe de remporter la bataille idéologique mais reste frappé pour beaucoup d’une impossibilité majoritaire, les Français observent avec intérêt les offres alter…
-- [23/11 14:53] Ouest-France — ENTRETIEN. « La jeunesse est la même, c’est la société qui a changé » : ce proviseur raconte 45 années auprès des élèves
-  https://www.ouest-france.fr/education/entretien-la-jeunesse-est-la-meme-cest-la-societe-qui-a-change-ce-proviseur-raconte-45-annees-aupres-des-eleves-d4502c5a-e1cf-11f1-b029-43a761592972?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
-  Pas de langue de bois. Philippe Minzière, proviseur du lycée Ambroise-Paré, à Laval (Mayenne) n’est pas du style à se retrancher derrière un devoir de réserve. Le quotidien de son métier, ses convictions, il les partage…
 - [23/11 14:36] Le Monde — Présidentielle 2027 : à Tarascon, le maire RN veut faire de la ville « une vitrine » pour Marine Le Pen
   https://www.lemonde.fr/politique/article/2026/11/23/presidentielle-2027-a-tarascon-le-maire-rn-veut-faire-de-la-ville-une-vitrine-pour-marine-le-pen_6814388_823448.html
   Elu en mars à la tête de la commune de 15 000 habitants, Alexandre Ducouret souhaite aider le parti lepéniste en campagne pour la présidentielle en mettant en avant sa gestion de la ville. Mais, huit mois après le début…
-- [23/11 14:35] franceinfo — Vous êtes maire et vous recevez de nombreuses sollicitations de candidats à la présidentielle pour obtenir votre parrainage ? Racontez-nous !
-  https://www.franceinfo.fr/elections/appel-a-temoignages-vous-etes-maire-et-vous-recevez-de-nombreuses-sollicitations-de-candidats-a-la-presidentielle-pour-obtenir-votre-parrainage-racontez-nous_8296022.html#xtor=RSS-3-[lestitres]
-  A cinq mois de l'élection, près de 40 candidats ont déclaré leur intention de se présenter au scrutin. Pour valider leur participation, ils doivent récolter 500 signatures de la part d'élus.
 - [23/11 14:24] Le Figaro — «Je ne suis pas autorisé à faire campagne, autrement je peux vous dire que j’irais» : les confidences d’Emmanuel Macron à des grands patrons européens
   https://www.lefigaro.fr/politique/je-ne-suis-pas-autorise-a-faire-campagne-autrement-je-peux-vous-dire-que-j-irais-les-confidences-d-emmanuel-macron-a-des-grands-patrons-europeens-20261123
   EXCLUSIF - Le président a participé à un dîner avec des dirigeants industriels, dimanche à Toulouse. L’occasion pour lui de renouveler son plaidoyer pour une Europe «puissance», de préconiser moins de «naïveté» face à l…
-- [23/11 14:14] Le Figaro — Retraite : pourquoi le PER est un incontournable
-  https://www.lefigaro.fr/retraite/retraite-pourquoi-le-per-est-un-incontournable-20261123
-  DÉCRYPTAGE - Chaque année, le PER séduit toujours davantage. Les récents ajustements viennent à peine écorner ses multiples atouts.
 - [23/11 14:00] Le Monde — Présidentielle 2027 : les élus locaux au cœur de la campagne
   https://www.lemonde.fr/politique/article/2026/11/23/presidentielle-2027-les-elus-locaux-au-c-ur-de-la-campagne_6814386_823448.html
   Qu’ils servent de vitrine à des partis en quête de notabilité ou qu’ils soient eux-mêmes candidats, les maires élus en mars font l’objet de toutes les attentions dans une campagne pour laquelle chaque parrainage compter…
@@ -166,36 +202,12 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [23/11 13:40] Le Monde — Présidentielle 2027 : le mouvement Génération.s s’engage dans la campagne de Jean-Luc Mélenchon
   https://www.lemonde.fr/election-presidentielle-2027/article/2026/11/23/presidentielle-2027-le-mouvement-generation-s-s-engage-dans-la-campagne-de-jean-luc-melenchon_6814385_6205049.html
   Le mouvement qui a été fondé en 2017 par l’ancien socialiste Benoît Hamon avait été le premier à signer avec LFI pour la Nupes aux élections législatives de 2022.
-- [23/11 13:34] Le Figaro — Présidentielle 2027 : la deuxième réunion en vue d’une primaire entre David Lisnard, Bruno Retailleau et Gabriel Attal reportée
-  https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-la-deuxieme-reunion-en-vue-d-une-primaire-entre-david-lisnard-bruno-retailleau-et-gabriel-attal-reportee-20261123
-  INFO LE FIGARO - Initialement prévue jeudi, la deuxième rencontre entre les équipes des différents candidats est reportée. Désormais, tout est suspendu à l’initiative lancée par Gérard Larcher, qui souhaite réunir physi…
-- [23/11 13:32] Le Figaro — L’éditorial de Vincent Trémolet de Villers : « La dynamique David Lisnard, bulle ou réalité ? »
-  https://www.lefigaro.fr/vox/politique/l-editorial-de-vincent-tremolet-de-villers-la-dynamique-david-lisnard-bulle-ou-realite-20261122
-  Tout est possible dans cette campagne chamboule-tout, mais, aujourd’hui, le « moment Lisnard » est tout sauf un artifice médiatique ou numérique.
-- [23/11 13:31] franceinfo — Sommet Choose France : Emmanuel Macron annonce la création de "zones industrielles à fort potentiel" où les procédures d'installation seront simplifiées
-  https://www.franceinfo.fr/economie/industrie/direct-sommet-choose-france-emmanuel-macron-en-visite-sur-le-site-d-airbus-a-toulouse_8295704.html#xtor=RSS-3-[lestitres]
-  Pour le chef de l'Etat, l'objectif est de faire de la France le pays "le plus rapide d'Europe quand il s'agit de créer des sites industriels".
 - [23/11 13:30] Le Monde — Les enquêtes sur les déplacements d’Anne Hidalgo en Nouvelle-Calédonie et en Polynésie classées sans suite par le PNF
   https://www.lemonde.fr/societe/article/2026/11/23/les-enquetes-sur-les-deplacements-d-anne-hidalgo-en-nouvelle-caledonie-et-en-polynesie-classees-sans-suite-par-le-pnf_6814384_3224.html
   Le Parquet national financier avait ouvert deux enquêtes portant sur les déplacements de l’ancienne maire (PS) de Paris en Nouvelle-Calédonie, en Polynésie française et dans d’autres pays, à la suite de signalements et…
 - [23/11 13:26] franceinfo — Les enquêtes sur les déplacements de l'ex-maire PS de Paris Anne Hidalgo, dont un en Polynésie, classées sans suite
-  https://www.franceinfo.fr/politique/anne-hidalgo/les-enquetes-sur-les-deplacements-de-l-ex-maire-ps-de-paris-anne-hidalgo-dont-un-en-polynesie-classees-sans-suite_8296004.html#xtor=RSS-3-[lestitres]
+  https://www.franceinfo.fr/politique/anne-hidalgo/les-enquetes-sur-les-deplacements-de-l-ex-maire-ps-de-paris-anne-hidalgo-dont-un-en-polynesie-classees-sans-suite_8296004.html#xtor=RSS-3-%5Bpolitique%5D
   D'après le Parquet national financier, "les déplacements en cause avaient été réalisés conformément aux intérêts et compétences" de la Ville de Paris.
-- [23/11 13:21] Le Figaro — Affaire Nvidia : la maîtresse chinoise de Jensen Huang était en contact avec Pékin durant sa liaison, selon le New York Times
-  https://www.lefigaro.fr/secteur/high-tech/affaire-nvidia-la-maitresse-chinoise-de-jensen-huang-etait-en-contact-avec-pekin-durant-sa-liaison-selon-le-new-york-times-20261123
-  Le quotidien s’appuie sur des sources proches du dossier ayant eu connaissance des rapports des renseignements américains décrivant leurs rencontres.
-- [23/11 13:20] franceinfo — Présidentielle 2027 : le parti Génération.s soutient officiellement la candidature de Jean-Luc Mélenchon, un accord conclu avec LFI
-  https://www.franceinfo.fr/elections/direct-presidentielle-2027-son-combat-est-le-mien-assure-raphael-glucksmann-sur-francois-ruffin-qui-s-est-retire-de-la-course-a-l-elysee_8295479.html#xtor=RSS-3-[lestitres]
-  Le parti de gauche fondé par Benoît Hamon après la présidentielle 2017 se félicite d'"une première étape dans la construction d'une coalition au service de l'union populaire, pour la VIe République".
-- [23/11 13:18] Le Monde — Une enveloppe de 350 millions d’euros pour l’aéronautique : derrière l’annonce d’Emmanuel Macron, le chantier-clé du successeur de l’Airbus A320
-  https://www.lemonde.fr/economie/article/2026/11/23/une-enveloppe-de-350-millions-d-euros-pour-l-aeronautique-derriere-l-annonce-d-emmanuel-macron-le-chantier-cle-du-successeur-de-l-airbus-a320_6814381_3234.html
-  Le chef de l’Etat a confirmé, lundi 23 novembre, un important soutien de l’Etat pour la recherche aéronautique civile. Des fonds nécessaires à la conception du futur appareil moyen-courrier d’Airbus, crucial pour l’avio…
-- [23/11 12:52] franceinfo — Après les inondations dans le Pas-de-Calais, le ministre de l'Intérieur annonce une procédure accélérée de reconnaissance de l'état de catastrophe naturelle
-  https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/inondations-et-crues/apres-les-inondations-dans-le-pas-de-calais-le-ministre-de-l-interieur-annonce-une-procedure-acceleree-de-reconnaissance-de-l-etat-de-catastrophe-naturelle_8295962.html#xtor=RSS-3-[lestitres]
-  Selon Laurent Nuñez, d'après un dernier bilan établi dimanche soir, "196 communes étaient touchées" avec "plus de 860 logements inondés", et "près de 800 personnes ont été évacuées".
-- [23/11 12:09] Le Monde — Nice : Christian Estrosi, son épouse, France Télévisions et « La Tribune » renvoyés devant le tribunal dans le cadre d’une enquête portant sur l’organisation d’événements
-  https://www.lemonde.fr/societe/article/2026/11/23/nice-christian-estrosi-son-epouse-france-televisions-et-la-tribune-renvoyes-devant-le-tribunal-dans-le-cadre-d-une-enquete-portant-sur-l-organisation-d-evenements_6814376_3224.html
-  Ces poursuites s’inscrivent dans le cadre d’une enquête relative à l’organisation à Nice, en 2023, du concours de chant Eurovision junior, retransmis par le groupe audiovisuel, ainsi que du Nice Climate Summit, organisé…
 - [23/11 12:07] franceinfo — Sommet Choose France 2026 : "On a à la fois plus de projets et plus de montants investis", souligne le ministre de l'Économie, Roland Lescure
   https://www.franceinfo.fr/economie/sommet-choose-france-2026-on-a-a-la-fois-plus-de-projets-et-plus-de-montants-investis-souligne-le-ministre-de-l-economie-roland-lescure_8295686.html#xtor=RSS-3-%5Bpolitique%5D
   Plus de 200 projets industriels et près de 15 milliards d'euros d'investissements en France seront mis à l'honneur dès ce lundi 23 novembre, qui marque l'ouverture du sommet Choose France 2026. Il s'agit de la deuxième…
@@ -208,27 +220,12 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [23/11 10:52] Le Figaro — «Si j’avais su, je serais resté aux courriers postaux» : dans le Berry, l’arrivée d’un data center Google vire au débat sur la marche forcée de l’IA
   https://www.lefigaro.fr/actualite-france/si-j-avais-su-je-serais-reste-aux-courriers-postaux-dans-le-berry-l-arrivee-d-un-data-center-google-vire-au-debat-sur-la-marche-forcee-de-l-ia-20261121
   REPORTAGE - Ce projet colossal, présenté par l’entreprise américaine comme «nécessaire» pour «répondre aux besoins» de ses utilisateurs, suscite la colère d’une partie des habitants, qui affirment être pris de court fac…
-- [23/11 10:30] Le Monde — « La chute des Bourses asiatiques ressemble plus à un krach qu’à une simple correction »
-  https://www.lemonde.fr/economie/article/2026/11/23/la-chute-des-bourses-asiatiques-ressemble-plus-a-un-krach-qu-a-une-simple-correction_6814369_3234.html
-  La Bourse de Corée du Sud a chuté de presque 50 % depuis juin, et celle de Taïwan de 30 %. Les autorités financières asiatiques sont intervenues, samedi et dimanche, sur les marchés pour tenter d’enrayer le déclin. Une…
-- [23/11 10:22] franceinfo — Mobilisation sociale : l'ancien patron de la CFDT Laurent Berger dénonce "une forme de mépris" face aux difficultés du quotidien
-  https://www.franceinfo.fr/societe/manifestations/mobilisation-sociale-l-ancien-patron-de-la-cfdt-laurent-berger-denonce-une-forme-de-mepris-face-aux-difficultes-du-quotidien_8295662.html#xtor=RSS-3-%5Bpolitique%5D
-  Sur France Inter, le désormais directeur de l'Institut mutualiste pour l'environnement et la solidarité de Crédit Mutuel Alliance Fédérale s'inquiète de la réponse au mouvement social en cours.
-- [23/11 10:08] franceinfo — "Règle d'or" budgétaire : "Une idée démocrate, ni de droite ni de gauche", explique l'ancien commissaire européen Thierry Breton
-  https://www.franceinfo.fr/economie/budget/regle-d-or-budgetaire-une-idee-democrate-ni-de-droite-ni-de-gauche-explique-l-ancien-commissaire-europeen-thierry-breton_8295680.html#xtor=RSS-3-%5Bpolitique%5D
-  Emmanuel Macron envisage d'instaurer une "règle d'or" budgétaire, défendue par Thierry Breton, afin de donner un cadre à l'État pour limiter son déficit et son endettement.
 - [23/11 09:54] Le Figaro — Colère sociale : à Paris, le «noyau décidé à battre le pavé» ne cache pas l’essoufflement croissant du mouvement
   https://www.lefigaro.fr/actualite-france/colere-sociale-a-paris-le-noyau-decide-a-battre-le-pave-ne-cache-pas-l-essoufflement-croissant-du-mouvement-20261121
   REPORTAGE - Le sixième samedi de mobilisation contre la vie chère n’a rassemblé que 21.500 personnes dans la capitale, selon la préfecture de police. Des heurts ont éclaté place de la Nation en fin de cortège.
-- [23/11 09:08] Le Monde — Les protocoles d’aide à mourir suscitent des interrogations parmi les soignants : « Il n’existe pas de pilule létale magique, mourir n’est jamais simple »
-  https://www.lemonde.fr/societe/article/2026/11/23/aide-a-mourir-il-n-existe-pas-de-pilule-letale-magique-mourir-n-est-jamais-simple_6814359_3224.html
-  Rendues publiques le 19 novembre, les recommandations de la Haute Autorité de santé sur les substances létales permettant d’appliquer la loi sont diversement accueillies par les médecins et infirmiers, en première ligne…
 - [23/11 07:00] Le Figaro — Martial Foucault, professeur à Sciences Po : « Le maire est souvent le maillon d’une chaîne plus complexe »
   https://www.lefigaro.fr/politique/martial-foucault-professeur-a-sciences-po-le-maire-est-souvent-le-maillon-d-une-chaine-plus-complexe-20261123
   ENTRETIEN - Auteur du Casse-tête démocratique. L’avenir des communes françaises, l’ancien directeur du Centre de recherches politiques de Sciences Po (Cevipof) revient sur l’image collective du maire, son rôle et ses li…
-- [23/11 06:30] Le Monde — En Jamaïque, la population défend son accès aux plages
-  https://www.lemonde.fr/m-le-mag/article/2026/11/23/en-jamaique-la-population-defend-son-acces-aux-plages_6814351_4500055.html
-  Habitants et associations de la très touristique île des Caraïbes saisissent de plus en plus la justice pour empêcher l’accaparement du littoral auquel les hôtels et les villas de luxe se livrent, avec le soutien de l’E…
 - [23/11 06:00] Le Monde — Pour Emmanuel Macron, un Choose France 100 % tricolore sur fond de morosité pour les entreprises françaises
   https://www.lemonde.fr/economie/article/2026/11/23/pour-emmanuel-macron-un-choose-france-100-tricolore-sur-fond-de-morosite-des-entreprises-francaises_6814341_3234.html
   Le chef de l’Etat tient, lundi 23 novembre, un sommet destiné à mettre en avant 42,5 milliards d’euros d’investissement en France émanant des entreprises hexagonales. Derrière les montants affichés se cache une dynamiqu…
@@ -264,33 +261,51 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
   DÉCRYPTAGE - Deux ans et demi après les émeutes, la loyaliste Sonia Backès a lancé une opération séduction pour inviter les métropolitains à venir s’installer sur le Caillou. Mais l’initiative a fâché les indépendantist…
 
 ## Gendarmerie-police-justice
+- [23/11 17:05] Zone Militaire — L’accord signé par la France et les Émirats arabes unis sur le Rafale F5 se concentrera sur le moteur T-REX et les capteurs
+  https://www.opex360.com/2026/11/23/laccord-signe-par-la-france-et-les-emirats-arabes-unis-sur-le-rafale-f5-se-concentrera-sur-le-moteur-t-rex-et-les-capteurs/
+  En octobre, la France et les Émirats arabes unis ont signé un accord intergouvernemental portant sur le développement du standard F5 du Rafale. Ce qui était inespéré il y a encore quelques mois, les discussions sur une…
+- [23/11 16:53] Le Figaro — Statue de la Vierge dégradée en Corse : les deux prévenus écopent de trois et six mois de prison ferme aménagés
+  https://www.lefigaro.fr/faits-divers/statue-de-la-vierge-degradee-en-corse-les-deux-prevenus-ecopent-de-trois-et-six-mois-de-prison-ferme-amenages-20261123
+  Le 30 septembre, deux jeunes hommes alcoolisés de 21 et 23 ans avaient sérieusement dégradé une statue de la Vierge à Porto-Vecchio, en Corse-du-Sud. Les deux saisonniers sont désormais interdits de se rendre en Corse d…
+- [23/11 16:28] franceinfo — Deux travailleurs saisonniers condamnés à trois mois de prison ferme pour avoir dégradé une statue de la Vierge en Corse
+  https://www.franceinfo.fr/faits-divers/justice-proces/deux-travailleurs-saisonniers-condamnes-a-trois-mois-de-prison-ferme-pour-avoir-degrade-une-statue-de-la-vierge-en-corse_8296270.html#xtor=RSS-3-%5Bfaits-divers%5D
+  Les deux hommes ont été reconnus coupables de dégradation en réunion et d’exhibition sexuelle. L'un des deux pour avoir mimé des actes sexuels sur la statue dans un lieu public, et l'autre pour avoir filmé et diffusé le…
+- [23/11 16:21] franceinfo — Vol de plus de 200 carpes koï dans l'Oise : quatre suspects devant le tribunal ce lundi
+  https://www.franceinfo.fr/faits-divers/vol-de-plus-de-200-carpes-koi-dans-l-oise-quatre-suspects-devant-le-tribunal-ce-lundi_8296166.html#xtor=RSS-3-%5Bfaits-divers%5D
+  Le procès des voleurs de poissons chez un pisciculteur s'ouvre ce lundi 23 novembre. Quatre personnes sont jugées devant le tribunal correctionnel pour avoir dérobé 230 carpes koï, une espèce particulièrement chère, cél…
+- [23/11 16:13] franceinfo — Déraillement d'un TER en Seine-Maritime : qui sont les quatre individus interpellés près du lieu de l'incident qui avait fait 44 blessés en septembre ?
+  https://www.franceinfo.fr/faits-divers/deraillement-d-un-ter-en-seine-maritime-qui-sont-les-quatre-individus-interpelles-pres-du-lieu-de-l-incident-qui-avait-fait-44-blesses-en-septembre_8296097.html#xtor=RSS-3-%5Bfaits-divers%5D
+  Quatre personnes ont été interpellées après le terrible accident de TER qui avait déraillé en Normandie, faisant 44 blessés. Il s'agit notamment d'un père et de ses deux fils. Un morceau de rail avait été découvert en t…
+- [23/11 15:51] franceinfo — Un mois après l'attentat raciste de Trappes, la famille de Pengo Bossio Wangi regrette qu'aucune date n'ait été annoncée pour l'hommage national au jeune homme
+  https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/un-mois-apres-l-attentat-raciste-de-trappes-la-famille-de-pengo-bossio-wangui-regrette-qu-aucune-date-n-ait-ete-annoncee-pour-l-hommage-national-au-jeune-homme_8295758.html#xtor=RSS-3-%5Bpolitique%5D
+  Le gouvernement avait promis, fin octobre, la tenue d'un hommage national au jeune homme de 26 ans. Mais depuis, aucune date n'a été communiquée.
+- [23/11 15:36] franceinfo — Un morceau de plafond s'effondre dans une salle de classe du lycée Saint-Charles à Marseille
+  https://www.franceinfo.fr/faits-divers/un-morceau-de-plafond-s-effondre-dans-une-salle-de-classe-du-lycee-saint-charles-a-marseille_8296196.html#xtor=RSS-3-[lestitres]
+  Il n'y a pas de blessé, précise l'académie d'Aix-Marseille. Cette salle accueille notamment des élèves en classe préparatoire, toutes les classes de l'étage concerné ont été fermées.
+- [23/11 15:30] franceinfo — INFO RADIO FRANCE. Disparues de l'A6 : les trois hommes mis en examen pour viol et meurtre dans l'affaire Carole Soltysiak confrontés à une juge d'instruction
+  https://www.franceinfo.fr/faits-divers/justice-proces/info-radio-france-disparues-de-l-a6-les-trois-hommes-mis-en-examen-pour-viol-et-meurtre-dans-l-affaire-carole-soltysiak-confrontes-a-une-juge-d-instruction_8296187.html#xtor=RSS-3-%5Bfaits-divers%5D
+  Le pôle spécialisé dans les cold cases de Nanterre a repris ce dossier en 2022. Cette étape importante de l'instruction peut accélérer la procédure, 36 ans après la mort de la jeune fille.
 - [23/11 15:21] franceinfo — "Une dizaine" de tags "RN 2027" et des croix celtiques découverts sur plusieurs bâtiments d'une commune de la Loire
   https://www.franceinfo.fr/faits-divers/une-dizaine-de-tags-rn-2027-et-des-croix-celtiques-decouverts-sur-plusieurs-batiments-d-une-commune-de-la-loire_8296163.html#xtor=RSS-3-%5Bfaits-divers%5D
   La maire de Mornand-en-Forez, a été alertée par une habitante de la présence de ces inscriptions. Stéphanie Fayard a déposé plainte, ainsi que des propriétaires concernés par ces dégradations.
-- [23/11 15:20] franceinfo — 230 carpes Koh volées dans l'Oise, 4 suspects devant le tribunal
+- [23/11 15:20] franceinfo — 230 carpes koï volées dans l'Oise, 4 suspects devant le tribunal
   https://www.franceinfo.fr/faits-divers/230-carpes-koh-volees-dans-l-oise-4-suspects-devant-le-tribunal_8296181.html#xtor=RSS-3-%5Bfaits-divers%5D
   Quatre personnes ont été interpellées après le vol de 230 carpes koï dans l’Oise. Le préjudice est estimé à 83 000 euros. Les suspects seront auditionnés le 23 novembre. #jt13h
-- [23/11 14:54] franceinfo — Un mois après l'attentat raciste de Trappes, la famille de Pengo Bossio Wangui regrette qu'aucune date n'ait été annoncée pour l'hommage national au jeune homme
-  https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/un-mois-apres-l-attentat-raciste-de-trappes-la-famille-de-pengo-bossio-wangui-regrette-qu-aucune-date-n-ait-ete-annoncee-pour-l-hommage-national-au-jeune-homme_8295758.html#xtor=RSS-3-[lestitres]
-  Le gouvernement avait promis, fin octobre, la tenue d'un hommage national au jeune homme de 26 ans. Mais depuis, aucune date n'a été communiquée.
-- [23/11 14:31] franceinfo — Déraillement d'un TER en Seine-Maritime : qui sont les quatre individus interpellés près du lieu de l'incident qui avait fait 44 blessés en septembre ?
-  https://www.franceinfo.fr/faits-divers/deraillement-d-un-ter-en-seine-maritime-qui-sont-les-quatre-individus-interpelles-pres-du-lieu-de-l-incident-qui-avait-fait-44-blesses-en-septembre_8296097.html#xtor=RSS-3-%5Bfaits-divers%5D
-  Quatre personnes ont été interpellées après le terrible accident de TER qui avait déraillé en Normandie. Il s'agit notamment d'un père et de ses deux fils. Les faits ont eu lieu il y a maintenant deux mois, entre Caen e…
 - [23/11 14:30] franceinfo — En Indonésie, le bilan de l'incendie d'une usine de confiseries s'élève à au moins 24 morts
   https://www.franceinfo.fr/faits-divers/incendie/en-indonesie-le-bilan-de-l-incendie-d-une-usine-de-confiseries-s-eleve-a-24-morts_8296076.html#xtor=RSS-3-%5Bfaits-divers%5D
   Le feu s'est déclaré samedi dans une usine de l'entreprise de bonbons PT Fonua Agung Mulia, à une cinquantaine de kilomètres de Jakarta.
 - [23/11 14:03] franceinfo — "Je me retrouve une nouvelle fois humiliée" : Gisèle Pelicot veut poursuivre la maison d'édition qui a utilisé des images d'elle à caractère pornographique
-  https://www.franceinfo.fr/faits-divers/affaire-des-viols-de-mazan/gisele-pelicot-veut-poursuivre-la-maison-d-edition-qui-a-diffuse-des-images-d-elle-a-caractere-pornographique-pour-promouvoir-un-livre_8296037.html#xtor=RSS-3-[lestitres]
+  https://www.franceinfo.fr/faits-divers/affaire-des-viols-de-mazan/gisele-pelicot-veut-poursuivre-la-maison-d-edition-qui-a-diffuse-des-images-d-elle-a-caractere-pornographique-pour-promouvoir-un-livre_8296037.html#xtor=RSS-3-%5Bfaits-divers%5D
   La victime des viols de Mazan dénonce à la fois l'utilisation commerciale de photos intimes, sans son accord, et le contenu du livre d'une autrice connue pour ses positions antiféministes.
-- [23/11 12:36] franceinfo — Déraillement d'un TER en Seine-Maritime : quatre personnes interpellées près de Rouen
-  https://www.franceinfo.fr/faits-divers/accident/info-radio-france-deraillement-d-un-ter-en-seine-maritime-trois-hommes-interpelles-pres-de-rouen_8295620.html#xtor=RSS-3-[lestitres]
+- [23/11 12:36] franceinfo — INFO RADIO FRANCE. Déraillement d'un TER en Seine-Maritime : quatre personnes interpellées près de Rouen
+  https://www.franceinfo.fr/faits-divers/accident/info-radio-france-deraillement-d-un-ter-en-seine-maritime-trois-hommes-interpelles-pres-de-rouen_8295620.html#xtor=RSS-3-%5Bfaits-divers%5D
   D'après ICI Normandie, une opération de police dans les environs de Rouen a permis l'arrestation de quatre suspects, plus de deux mois après l'accident qui avait fait 44 blessés.
+- [23/11 12:09] Le Monde — Nice : Christian Estrosi, son épouse, France Télévisions et « La Tribune » renvoyés devant le tribunal dans le cadre d’une enquête portant sur l’organisation d’événements
+  https://www.lemonde.fr/societe/article/2026/11/23/nice-christian-estrosi-son-epouse-france-televisions-et-la-tribune-renvoyes-devant-le-tribunal-dans-le-cadre-d-une-enquete-portant-sur-l-organisation-d-evenements_6814376_3224.html
+  Ces poursuites s’inscrivent dans le cadre d’une enquête relative à l’organisation à Nice, en 2023, du concours de chant Eurovision junior, retransmis par le groupe audiovisuel, ainsi que du Nice Climate Summit, organisé…
 - [23/11 10:50] franceinfo — "Ils nous ont sauté dessus" : le maire d'un village de la Vienne et son fils agressés en pleine rue samedi soir
   https://www.franceinfo.fr/faits-divers/ils-nous-ont-saute-dessus-le-maire-d-un-village-de-la-vienne-et-son-fils-agresses-en-pleine-rue-samedi-soir_8295755.html#xtor=RSS-3-%5Bpolitique%5D
   Alors que le Congrès des maires de France s'ouvrira mardi, un élu raconte avoir été agressé avec son fils dans la soirée de samedi 21 novembre. Le maire de Mirebeau, une petite commune de la Vienne, explique qu'il inter…
-- [23/11 09:21] franceinfo — Michel Zecler décrit une "victoire partielle" après la condamnation des trois policiers
-  https://www.franceinfo.fr/faits-divers/producteur-passe-a-tabac-par-des-policiers/michel-zecler-decrit-une-victoire-partielle-apres-la-condamnation-des-trois-policiers_8295530.html#xtor=RSS-3-%5Bfaits-divers%5D
-  Invité de France Inter lundi, le producteur de musique déclare que sa "voix a été entendue" mais dit qu'il a été "un peu déçu" des peines.
 - [22/11 13:32] Zone Militaire — La Pologne confirme son intérêt pour l’hélicoptère de transport lourd américain CH-47 Chinook
   https://www.opex360.com/2026/11/22/la-pologne-confirme-son-interet-pour-lhelicoptere-de-transport-lourd-americain-ch-47-chinook/
   Comme l’a récemment souligné une note du Commandement du combat futur de l’armée de Terre [CFAT], la vulnérabilité d’un hélicoptère de reconnaissance et d’attaque «concerne un ensemble et pas seulement l’appareil dans l…
@@ -299,4 +314,4 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
   En 2023, alors à la tête du Commandement de la défense aérienne et des opérations aériennes [CDAOA] de l’armée de l’Air & de l’Espace [AAE], le général Philippe Moralès avait souligné la nécessité de retrouver les «anci…
 
 ## Diagnostic
-- Tri : 13 article(s) écartés (sport, culture…), 3 renvoyé(s) vers International
+- Tri : 17 article(s) écartés (sport, culture…), 9 renvoyé(s) vers International
