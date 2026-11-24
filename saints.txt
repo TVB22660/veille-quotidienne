@@ -1,24 +1,25 @@
-SAINTS — généré le 2026-11-23 20:28 (heure de Paris)
-Date : lundi 23 novembre 2026 (2026-11-23)
+SAINTS — généré le 2026-11-24 06:05 (heure de Paris)
+Date : mardi 24 novembre 2026 (2026-11-24)
 
 ## Calendrier romain actuel (AELF, France)
 - Jour liturgique : de la férie
-- Fête / saint : S. Clément Ier, pape et martyr. Mémoire facultative
-- Ligne 1 : lundi, 34ème semaine du Temps Ordinaire (semaine II du psautier)
-- Ligne 2 : S. Clément Ier, pape et martyr. Mémoire facultative
-- Ligne 3 : S. Colomban, abbé. Mémoire facultative
-- Couleur liturgique : vert
+- Fête / saint : S. André Dung-Lac, prêtre, et ses compagnons, martyrs
+- Ligne 1 : mardi, 34ème semaine du Temps Ordinaire
+- Ligne 2 : S. André Dung-Lac, prêtre, et ses compagnons, martyrs
+- Ligne 3 : Mémoire
+- Couleur liturgique : rouge
 - Temps liturgique : ordinaire
-- Saint du jour (Nominis) : Saint Clément Ier - Pape (4 e ) de 88 à 97 et martyr (+ 97)
-- Saint du jour (Nominis) : Saint Séverin de Paris - Ermite à Paris (+ v. 540)
+- Saint du jour (Nominis) : Saintes Flora et Marie - Martyres à Cordoue (+ 854)
+- Saint du jour (Nominis) : Saints Martyrs du Vietnam - André Dung Lac, prêtre et ses compagnons martyrs entre 1745 et 1862
 
 ## Calendrier traditionnel de 1962 (Divinum Officium, rubriques de 1960)
-- Jour : S. Clementis Papæ et Martyris III. classis
-- Commemoratio ad Laudes tantum: S. Felicitatis Martyris
-- Martyrologe : L’anniversaire de saint Clément Ier, Pape et Martyr, troisième successeur de l’Apôtre saint Pierre dans l’exercice du souverain Pontificat. Durant la persécution de Trajan, il fut banni dans la Chersonèse. Là, une ancre attaché…
-- Martyrologe : À Rome, sainte Félicité, Martyre, mère des Sept Fils Martyrs. Elle fut après eux décapitée pour le Christ par ordre de l’empereur Marc Antonin.
-- Martyrologe : À Cyzique, dans l’Hellespont, saint Sisinius, Martyr, qui, après de multiples tourments, périt par le glaive durant la persécution de l’empereur Dioclétien.
-- Martyrologe : À Mérida, en Espagne, sainte Lucrèce, Vierge et Martyre, qui, durant la même persécution, consomma son martyre sous le préfet Dacien.
-- Martyrologe : À lconium, en Lycaonie (aujourd'hui Konya en Turquie), saint Amphiloque, Évêque. Il fut au désert compagnon des saints Basile et Grégoire de Nazianze et ensuite leur collègue dans l’épiscopat. Après avoir soutenu beaucoup de co…
-- Martyrologe : À Agrigente, la mise au tombeau de l’Évêque saint Grégoire.
-- Martyrologe : Dans un bourg de la Hesbaye, en Belgique, saint Trond, Prêtre et Confesseur. Dans la suite on donna son nom au monastère que le même saint avait élevé sur ses terres, et aussi à la ville qui se forma peu à peu au même endroit.
+- Jour : S. Joannis a Cruce Confessoris et Ecclesiæ Doctoris III. classis
+- Commemoratio ad Laudes tantum: S. Chrysogoni Martyris
+- Martyrologe : Saint Jean de la Croix, Confesseur et Docteur de l’Église, coopérateur de sainte Thérèse dans la réforme des Carmes. Son anniversaire est mentionné le 19 des calendes de janvier (14 décembre).
+- Martyrologe : Le même jour, l’anniversaire de saint Chrysogone, Martyr. Retenu longtemps dans les fers et dans les prisons pour avoir courageusement confessé le Christ, il fut, par ordre de Dioclétien, conduit à Aquilée, décapité et jeté à l…
+- Martyrologe : À Rome, saint Crescentien, Martyr, dont il est fait mention dans la passion du bienheureux Pape Marcel.
+- Martyrologe : Près de Corinthe, saint Alexandre, Martyr. Sous Julien l’Apostat et le préfet Salluste, il combattit jusqu’à la mort pour la Foi du Christ.
+- Martyrologe : À Pérouse, saint Félicissime, Martyr.
+- Martyrologe : À Amélia, en Ombrie, sainte Firmine, Vierge et Martyre. Durant la persécution de l’empereur Dioclétien, elle fut, après diverses tortures, suspendue en l’air, brûlée avec des torches ardentes et rendit à Dieu son âme immaculée.
+- Martyrologe : À Cordoue, en Espagne, les saintes Vierges et Martyres Flore et Marie, qui, après un long emprisonnement, périrent par le glaive, durant la persécution des Arabes.
+- Martyrologe : À Milan, saint Protais, Évêque. Il défendit la cause d’Athanase au concile de Sardique, devant l’empereur Constance. Puis, après avoir beaucoup travaillé pour l’Église confiée à ses soins et pour le bien de la Religion, il s’en…
