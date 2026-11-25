@@ -1,25 +1,20 @@
-SAINTS — généré le 2026-11-24 20:05 (heure de Paris)
-Date : mardi 24 novembre 2026 (2026-11-24)
+SAINTS — généré le 2026-11-25 06:05 (heure de Paris)
+Date : mercredi 25 novembre 2026 (2026-11-25)
 
 ## Calendrier romain actuel (AELF, France)
 - Jour liturgique : de la férie
-- Fête / saint : S. André Dung-Lac, prêtre, et ses compagnons, martyrs
-- Ligne 1 : mardi, 34ème semaine du Temps Ordinaire
-- Ligne 2 : S. André Dung-Lac, prêtre, et ses compagnons, martyrs
-- Ligne 3 : Mémoire
-- Couleur liturgique : rouge
+- Fête / saint : Ste Catherine d'Alexandrie, vierge et martyre
+- Ligne 1 : mercredi, 34ème semaine du Temps Ordinaire
+- Ligne 2 : Ste Catherine d'Alexandrie, vierge et martyre
+- Ligne 3 : Mémoire facultative
+- Couleur liturgique : vert
 - Temps liturgique : ordinaire
-- Saint du jour (Nominis) : Saintes Flora et Marie - Martyres à Cordoue (+ 854)
-- Saint du jour (Nominis) : Saints Martyrs du Vietnam - André Dung Lac, prêtre et ses compagnons martyrs entre 1745 et 1862
+- Saint du jour (Nominis) : Sainte Catherine d'Alexandrie - Vierge et martyre (IV e siècle)
 
 ## Calendrier traditionnel de 1962 (Divinum Officium, rubriques de 1960)
-- Jour : S. Joannis a Cruce Confessoris et Ecclesiæ Doctoris III. classis
-- Commemoratio ad Laudes tantum: S. Chrysogoni Martyris
-- Martyrologe : Saint Jean de la Croix, Confesseur et Docteur de l’Église, coopérateur de sainte Thérèse dans la réforme des Carmes. Son anniversaire est mentionné le 19 des calendes de janvier (14 décembre).
-- Martyrologe : Le même jour, l’anniversaire de saint Chrysogone, Martyr. Retenu longtemps dans les fers et dans les prisons pour avoir courageusement confessé le Christ, il fut, par ordre de Dioclétien, conduit à Aquilée, décapité et jeté à l…
-- Martyrologe : À Rome, saint Crescentien, Martyr, dont il est fait mention dans la passion du bienheureux Pape Marcel.
-- Martyrologe : Près de Corinthe, saint Alexandre, Martyr. Sous Julien l’Apostat et le préfet Salluste, il combattit jusqu’à la mort pour la Foi du Christ.
-- Martyrologe : À Pérouse, saint Félicissime, Martyr.
-- Martyrologe : À Amélia, en Ombrie, sainte Firmine, Vierge et Martyre. Durant la persécution de l’empereur Dioclétien, elle fut, après diverses tortures, suspendue en l’air, brûlée avec des torches ardentes et rendit à Dieu son âme immaculée.
-- Martyrologe : À Cordoue, en Espagne, les saintes Vierges et Martyres Flore et Marie, qui, après un long emprisonnement, périrent par le glaive, durant la persécution des Arabes.
-- Martyrologe : À Milan, saint Protais, Évêque. Il défendit la cause d’Athanase au concile de Sardique, devant l’empereur Constance. Puis, après avoir beaucoup travaillé pour l’Église confiée à ses soins et pour le bien de la Religion, il s’en…
+- Jour : S. Catharinæ Virginis et Martyris III. classis
+- Martyrologe : À Alexandrie, sainte Catherine, Vierge et Martyre. Pour avoir confessé la Foi Chrétienne sous l’empereur Maximin, elle fut mise en prison, frappée très longtemps avec des scorpions. Elle fut enfin décapitée et accomplit ainsi s…
+- Martyrologe : À Rome, saint Moïse, Prêtre et Martyr. Étant en prison avec d’autres fidèles, il fut souvent réconforté par des lettres de saint Cyprien. Comme il s’opposait avec un courage intrépide non seulement aux païens, mais encore aux n…
+- Martyrologe : À Antioche, saint Érasme, Martyr.
+- Martyrologe : À Césarée de Cappadoce (aujourd’hui Kayseri en Turquie), la passion de saint Mercure, soldat qui, avec le secours de son ange gardien, vainquit les Barbares et triompha de la cruauté de Dèce. Orné de ses tourments, comme d’auta…
+- Martyrologe : En Émilie, province d’Italie, sainte Joconde, Vierge.

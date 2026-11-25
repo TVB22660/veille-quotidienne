@@ -1,8 +1,5 @@
-MARÉES — Perros-Guirec — généré le 2026-11-24 20:05 (heure de Paris)
+MARÉES — Perros-Guirec — généré le 2026-11-25 06:05 (heure de Paris)
 Source : https://maree.info/66
-2026-11-24 05:41 PM 9.25 coef=90
-2026-11-24 12:01 BM 1.54
-2026-11-24 18:07 PM 9.33 coef=93
 2026-11-25 00:23 BM 1.44
 2026-11-25 06:27 PM 9.49 coef=96
 2026-11-25 12:48 BM 1.28
@@ -23,3 +20,7 @@ Source : https://maree.info/66
 2026-11-29 09:36 PM 8.89 coef=76
 2026-11-29 16:04 BM 2.10
 2026-11-29 22:15 PM 8.35 coef=71
+2026-11-30 04:26 BM 2.63
+2026-11-30 10:31 PM 8.47 coef=66
+2026-11-30 17:01 BM 2.57
+2026-11-30 23:13 PM 7.95 coef=62
