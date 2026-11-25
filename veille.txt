@@ -1,8 +1,23 @@
-VEILLE — généré le 2026-11-25 11:38 (heure de Paris)
+VEILLE — généré le 2026-11-25 12:53 (heure de Paris)
 Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 
 ## International
-- [25/11 11:26] Le Figaro — « D’abord les Colombiens, ensuite les Colombiens » : la Colombie durcit le ton contre les immigrés vénézuéliens
+- [25/11 12:49] Ouest-France — L’indépendantiste catalan Carles Puigdemont annonce qu’il rentrera en Espagne le 12 décembre
+  https://www.ouest-france.fr/europe/espagne/lindependantiste-catalan-carles-puigdemont-annonce-quil-rentrera-en-espagne-le-12-decembre-43a9496c-e8bd-11f1-86c1-70195b4d2e52?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
+  L’indépendantiste Carles Puigdemont a annoncé, mercredi 25 novembre, son retour en Espagne, et plus précisément au « Parlement de Catalogne », le 12 décembre. Cette décision intervient alors qu’il a été définitivement b…
+- [25/11 12:38] Le Figaro — Face à la chute des naissances en Iran, le guide suprême fait de la croissance démographique «une priorité stratégique»
+  https://www.lefigaro.fr/international/face-a-la-chute-des-naissances-en-iran-le-guide-supreme-fait-de-la-croissance-demographique-une-priorite-strategique-20261125
+  Il a également exhorté les responsables politiques à faciliter les mariages des jeunes, qui auraient chuté de plus de 50% en quinze ans.
+- [25/11 12:21] Le Monde — L’indépendantiste catalan Carles Puigdemont rentrera en Espagne le 12 décembre
+  https://www.lemonde.fr/international/article/2026/11/25/l-independantiste-catalan-carles-puigdemont-rentrera-en-espagne-le-12-decembre_6815086_3210.html
+  Après que le Tribunal suprême espagnol l’a définitivement blanchi, Carles Puigdemont annonce vouloir rentrer en Espagne environ deux semaines après les élections législatives.
+- [25/11 11:55] franceinfo — L'indépendantiste catalan Carles Puigdemont rentrera en Espagne le 12 décembre après neuf ans d'exil
+  https://www.franceinfo.fr/monde/espagne/l-independantiste-catalan-carles-puigdemont-rentrera-en-espagne-le-12decembre-apres-neuf-ans-d-exil_8299407.html#xtor=RSS-3-%5Bmonde%5D
+  Lundi, le Tribunal suprême espagnol a définitivement blanchi l'homme politique, qui était poursuivi par la justice depuis la tentative avortée de sécession de la Catalogne en 2017.
+- [25/11 11:52] franceinfo — En Indonésie, l'inondation d'une mine d'or illégale fait trois morts, 23 mineurs toujours piégés
+  https://www.franceinfo.fr/monde/asie/en-indonesie-26-mineurs-pieges-dans-une-mine-apres-de-fortes-pluies_8298969.html#xtor=RSS-3-%5Bmonde%5D
+  Les "conditions météorologiques pluvieuses et l'étroitesse de l'accès" compliquent les opérations de sauvetage.
+- [25/11 11:49] Le Figaro — « Il a réveillé un monstre qui dormait, celui de la xénophobie » : la Colombie durcit le ton contre les immigrés vénézuéliens
   https://www.lefigaro.fr/international/d-abord-les-colombiens-ensuite-les-colombiens-la-colombie-durcit-le-ton-contre-les-immigres-venezueliens-20261125
   DÉCRYPTAGE - Après une décennie d’accueil de millions de Vénézuéliens, le président Abelardo De La Espriella, président d’extrême droite investi en août dernier, fait craindre aux exilés un retour forcé dans leur pays.
 - [25/11 11:00] Le Monde — La RDC impose un nouvel embargo sur les exportations de cobalt pour faire monter les cours
@@ -12,7 +27,7 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
   https://www.lemonde.fr/m-le-mag/article/2026/11/25/la-guerre-en-ukraine-a-travers-les-lettres-d-olga-et-de-sasha-quand-ma-chorale-a-inscrit-un-auteur-russe-au-repertoire-j-ai-eu-un-haut-le-c-ur_6815078_4500055.html
   Olga et Sasha Kurovska sont deux sœurs ukrainiennes. L’une vit à Paris, l’autre à Kiev. Alors qu’Olga s’emporte de voir les Européens continuer de mettre en avant la culture russe au détriment des artistes ukrainiens, S…
 - [25/11 11:00] franceinfo — L'architecte catalan Antoni Gaudí a sacrifié tout son héritage pour construire la Sagrada Familia
-  https://www.franceinfo.fr/monde/espagne/l-architecte-catalan-antoni-gaudi-a-sacrifie-tout-son-heritage-pour-construire-la-sagrada-familia_8297973.html#xtor=RSS-3-[lestitres]
+  https://www.franceinfo.fr/monde/espagne/l-architecte-catalan-antoni-gaudi-a-sacrifie-tout-son-heritage-pour-construire-la-sagrada-familia_8297973.html#xtor=RSS-3-%5Bmonde%5D
   Père de la Sagrada Familia, l'architecte catalan Antoni Gaudí a légué l'intégralité de son patrimoine personnel pour financer la Sagrada Família, comme le révèle une copie de son testament datant de 1926, rendue publiqu…
 - [25/11 10:54] franceinfo — "Leurs vies sont devenues du jour au lendemain un enfer" : pour protéger la CPI des pressions étrangères, le Parlement européen exige de la Commission une "stratégie globale"
   https://www.franceinfo.fr/monde/europe/union-europeenne/leurs-vies-sont-devenues-du-jour-au-lendemain-un-enfer-pour-proteger-la-cpi-des-pressions-etrangeres-le-parlement-europeen-exige-de-la-commission-une-strategie-globale_8298972.html#xtor=RSS-3-%5Bmonde%5D
@@ -26,9 +41,6 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [25/11 10:27] Le Monde — A Gaza, un bombardement israélien tue un responsable de la sécurité du Hamas et des membres de sa famille
   https://www.lemonde.fr/international/article/2026/11/25/a-gaza-un-bombardement-israelien-tue-un-responsable-de-la-securite-du-hamas-et-des-membres-de-sa-famille_6815073_3210.html
   Un homme, identifié par le ministère de l’intérieur de Gaza comme étant le directeur du service de sécurité intérieure pour le nord de l’enclave, a été tué avec son épouse et ses deux filles, selon les services de secou…
-- [25/11 10:01] franceinfo — En Indonésie, 26 mineurs piégés dans une mine après de fortes pluies
-  https://www.franceinfo.fr/monde/asie/en-indonesie-26-mineurs-pieges-dans-une-mine-apres-de-fortes-pluies_8298969.html#xtor=RSS-3-%5Bmonde%5D
-  Les "conditions météorologiques pluvieuses et à l'étroitesse de l'accès" compliquent les opérations de sauvetage.
 - [25/11 09:47] Le Monde — EN DIRECT, guerre en Ukraine : Kiev a exercé son droit « à la légitime défense » en attaquant des navires russes en Libye, considère Jean-Noël Barrot
   https://www.lemonde.fr/international/live/2026/11/25/en-direct-guerre-en-ukraine-kiev-a-exerce-son-droit-a-la-legitime-defense-en-attaquant-des-navires-russes-en-libye-considere-le-quai-d-orsay_6814183_3210.html
   « Mettons-nous à leur place. Qu’est-ce qu’on ferait, nous, si on se prenait toutes les nuits et tous les jours des bombardements ? », a réagi Jean-Noël Barrot, chef de la diplomatie française, après les attaques menées…
@@ -56,18 +68,12 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [25/11 08:24] franceinfo — À suivre Loïc de la Mornais : la guerre nucléaire aura-t-elle lieu dans l'espace ?
   https://www.franceinfo.fr/replay-magazine/franceinfo/a-suivre-avec-loic-de-la-mornais/a-suivre-loic-de-la-mornais-la-guerre-nucleaire-aura-t-elle-lieu-dans-l-espace_8298912.html#xtor=RSS-3-%5Bmonde%5D
   Dans cette quatrième partie, Loïc de la Mornais s'intéresse aux révélations des services secrets allemands ébruitées dans la presse, selon lesquelles la Russie s'apprêterait à lancer dans l'espace un satellite avec une…
-- [25/11 08:20] franceinfo — Le géant chinois Huawei reconnu coupable de vol de secrets industriels aux Etats-Unis
-  https://www.franceinfo.fr/monde/chine/le-geant-chinois-huawei-reconnu-coupable-de-vol-de-secrets-industriels-aux-etats-unis_8298741.html#xtor=RSS-3-%5Bmonde%5D
-  Les accusations américaines sont "dénuées de tout fondement juridique et factuel", a réagi Huawei.
 - [25/11 08:08] Le Monde — L’Australie et les Iles Salomon signent un traité freinant les ambitions de la Chine dans le Pacifique
   https://www.lemonde.fr/international/article/2026/11/25/l-australie-et-les-iles-salomon-signent-un-traite-freinant-les-ambitions-de-la-chine-dans-le-pacifique_6815057_3210.html
   Le traité, qui couvre de nombreux domaines (éducation, santé, police, énergie, résilience climatique…) consacre l’Australie comme « premier partenaire en matière de sécurité » des Iles Salomon, et stipule qu’il ne peut…
 - [25/11 08:00] Le Monde — En Espagne, pays aux avant-postes du changement climatique, l’environnement reste le grand absent de la campagne électorale
   https://www.lemonde.fr/international/article/2026/11/25/en-espagne-pays-aux-avant-postes-du-changement-climatique-l-environnement-reste-le-grand-absent-de-la-campagne-electorale_6815056_3210.html
   Malgré les catastrophes climatiques à répétition, la lutte contre le réchauffement peine à s’imposer dans le débat public, victime des clivages politiques qui fracturent le pays, et alors que des élections législatives…
-- [25/11 06:26] Le Monde — Au Bangladesh, les ouvriers du textile, secteur-clé de l’économie nationale, obtiennent une revalorisation du salaire minimum
-  https://www.lemonde.fr/international/article/2026/11/25/au-bangladesh-les-ouvriers-du-textile-secteur-cle-de-l-economie-nationale-obtiennent-une-revalorisation-du-salaire-minimum_6815049_3210.html
-  Début novembre, de nombreux salariés, confrontés à la cherté du coût de la vie, ont manifesté pendant plusieurs jours pour réclamer une hausse des rémunérations. La principale association patronale du secteur a estimé à…
 - [25/11 02:39] Le Figaro — Aux États-Unis, le nuage de plomb qui effraie l’Iowa avant l’explosion d’un stock de munitions
   https://www.lefigaro.fr/international/aux-etats-unis-le-nuage-de-plomb-qui-effraie-l-iowa-avant-l-explosion-d-un-stock-de-munitions-20261125
   L’armée américaine doit détruire mercredi un stock de produits chimiques instables. L’opération a suscité un tollé dont Donald Trump s’est mêlé.
@@ -97,114 +103,120 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
   REPORTAGE - Le décès du Líder Máximo, le 25 novembre 2016, a entraîné la chute du communisme tropical, qui avait de multiples défauts, mais que le gouvernement actuel est incapable de remplacer par un système viable.
 
 ## France
+- [25/11 12:52] Le Figaro — « Du jamais vu » à Lyon : comment la guerre de La Duchère a fait franchir un cap au narcobanditisme local
+  https://www.lefigaro.fr/lyon/du-jamais-vu-a-lyon-comment-la-guerre-de-la-duchere-a-fait-franchir-un-cap-au-narcobanditisme-local-20261125
+  Les policiers ont décrit un mécanisme de cartellisation calqué sur les trafiquants sud-américains au second jour du procès de La Duchère, qui voit dix accusés comparaître devant la cour d’assises de Lyon pour des faits…
+- [25/11 12:48] Ouest-France — « Est-ce que c’est quelqu’un qui a fait demi-tour ? » : un véhicule signalé à contresens sur l’A11 près du Mans
+  https://www.ouest-france.fr/economie/transports/autoroute/est-ce-que-cest-quelquun-qui-a-fait-demi-tour-un-vehicule-signale-a-contresens-sur-la11-pres-du-mans-e43f3b5a-e8bf-11f1-86c1-70195b4d2e52?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
+  Ce mercredi 25 novembre 2026, en fin de matinée, un véhicule a été aperçu circulant à contresens sur l’A11, au niveau d’Yvré-l’Évêque (Sarthe). Trois entrées d’autoroute ont été fermées pendant quarante minutes avant un…
+- [25/11 12:47] Le Figaro — Lac de Côme : Jumeirah reprend l’un des plus beaux hôtels de design d’Italie
+  https://www.lefigaro.fr/voyages/hotels/lac-de-come-jumeirah-reprend-l-un-des-plus-beaux-hotels-de-design-d-italie-20261125
+  Dix ans après son ouverture, Il Sereno, refuge de 40 suites dessiné par Patricia Urquiola, passe sous pavillon Jumeirah. Le groupe hôtelier de Dubaï inaugurera sa deuxième adresse italienne au printemps 2027.
+- [25/11 12:47] Le Figaro — EN DIRECT - Présidentielle 2027 : Valérie Pécresse «supplie» les candidats de la droite et du centre de se mettre d’accord sur un mode de départage
+  https://www.lefigaro.fr/elections/presidentielles/en-direct-presidentielle-2027-david-lisnard-brigue-un-nouveau-mandat-de-president-des-maires-de-france-avant-de-viser-l-elysee-20261125
+  Les négociations pour l’organisation d’une primaire piétinant, l’ancienne candidate à l’élection présidentielle souhaite «un projet de rupture» et «un seul candidat».
+- [25/11 12:44] franceinfo — Le trafic des trains Eurostar entre Londres et Paris fortement perturbé dans les deux sens en raison d'une "grève imprévue"
+  https://www.franceinfo.fr/economie/transports/le-trafic-des-trains-eurostar-entre-londres-et-paris-fortement-perturbe-en-raison-d-une-greve-imprevue_8299053.html#xtor=RSS-3-[lestitres]
+  La société ferroviaire "présente ses excuses aux clients pour les désagréments occasionnés".
+- [25/11 12:41] franceinfo — Projet de loi sur le logement : le gouvernement "ne portera pas la suppression" de l'interdiction de louer des passoires thermiques
+  https://www.franceinfo.fr/politique/projet-de-loi-sur-le-logement-le-gouvernement-ne-portera-pas-la-suppression-de-l-interdiction-de-louer-des-passoires-thermiques_8299518.html#xtor=RSS-3-%5Bpolitique%5D
+  Vincent Jeanbrun, ministre de la Ville et du Logement, estime que la mesure introduite par le RN avant l'adoption du texte en première lecture, mardi, n'est "pas acceptable".
+- [25/11 12:40] Ouest-France — Vienne : interpellé ivre, il frappe violemment un policier à la tête et écope d’un an de prison ferme
+  https://www.ouest-france.fr/nouvelle-aquitaine/chatellerault-86100/vienne-interpelle-ivre-il-frappe-violemment-un-policier-a-la-tete-et-ecope-dun-an-de-prison-ferme-d0bf0908-e8c3-11f1-b706-1d273d1ab155?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
+  Arrêté en état d’ébriété sur la voie publique à Châtellerault (Vienne), un homme de 46 ans a agressé un policier au commissariat, samedi 21 novembre. Jugé le surlendemain, il a été condamné à un an de prison ferme.
+- [25/11 12:40] Ouest-France — Plus de 2,4 millions d’euros de cocaïne saisis à Dunkerque, trois agents du port soupçonnés d’implication dans le trafic
+  https://www.ouest-france.fr/economie/transports/transport-maritime/dunkerque-plus-de-2-4-millions-deuros-de-cocaine-saisis-trois-agents-du-port-soupconnes-de-trafic-c08365fe-e8c1-11f1-b706-1d273d1ab155?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
+  Une enquête sur un trafic de stupéfiants au port de Dunkerque (Nord) a conduit à la mise en examen de huit personnes, vendredi 20 novembre. Parmi elles figurent trois agents portuaires, soupçonnés d’avoir participé à la…
+- [25/11 12:38] franceinfo — La Ligue des droits de l'homme saisit la justice contre la suspension des aides aux auteurs de dégradations dans les lycées, voulue par Valérie Pécresse
+  https://www.franceinfo.fr/societe/education/blocage-des-lycees/la-ldh-saisit-la-justice-contre-la-suspension-des-aides-aux-auteurs-de-degradations-dans-les-lycees-voulue-par-valerie-pecresse_8299473.html#xtor=RSS-3-[lestitres]
+  Selon le recours formé par l'association, le conseil régional dirigé par l'élue LR n'est pas compétent pour prononcer de telles sanctions.
+- [25/11 12:36] Le Figaro — Déraillement d’un TER en Normandie : le vol de rails, un nouveau risque pour la SNCF ?
+  https://www.lefigaro.fr/conjoncture/deraillement-d-un-ter-en-normandie-le-vol-de-rails-un-nouveau-risque-pour-la-sncf-20261125
+  Les enquêteurs soupçonnent un père et ses deux fils d’avoir abandonné un morceau de rail qu’ils étaient en train de voler sur la voie, provoquant le déraillement du train en septembre.
+- [25/11 12:36] franceinfo — Enquête sur des soupçons de fuites vers le RN : Hugues Moutouh a été officiellement démis de ses fonctions et remplacé par le préfet Pierre Ory
+  https://www.franceinfo.fr/politique/front-national/enquete-sur-des-soupcons-de-fuites-vers-le-rn-hugues-moutouh-a-ete-officiellement-demis-de-ses-fonctions-remplace-par-le-prefet-pierre-ory_8299428.html#xtor=RSS-3-[lestitres]
+  Le haut fonctionnaire avait demandé à être relevé de ses fonctions après l'ouverture d'une enquête sur des soupçons de fuites d'éléments judiciaires concernant le RN venant du ministère de l'Intérieur, à l'époque où il…
+- [25/11 12:32] Le Monde — Hugues Moutouh, le préfet soupçonné de fuites d’informations confidentielles vers le RN, a été démis de ses fonctions en conseil des ministres
+  https://www.lemonde.fr/politique/article/2026/11/25/hugues-moutouh-le-prefet-soupconne-de-fuites-d-informations-confidentielles-vers-le-rn-a-ete-demis-de-ses-fonctions-en-conseil-des-ministres_6815089_823448.html
+  L’ancien haut fonctionnaire du ministère de l’intérieur est remplacé par Pierre Ory, actuel préfet de Seine-et-Marne, a annoncé le gouvernement.
+- [25/11 12:29] franceinfo — Valberg, Auron, Isola 2000... Un manteau neigeux recouvre les stations des Alpes du Sud
+  https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/alpes-maritimes/nice/en-images-valberg-auron-isola-2-000-un-manteau-neigeux-recouvre-les-stations-des-alpes-du-sud-3455687.html#xtor=RSS-3-[lestitres]
+  Elles ont été recouvertes de 20 et 30 centimètres de neige dans la nuit de ce mardi 24 novembre au mercredi 25 novembre. Pour certaines stations des Alpes du Sud, il s'agit de leur premier manteau neigeux de la saison.…
+- [25/11 12:28] Le Monde — Budget 2027 : au Sénat, un vote inattendu sur la mise à contribution des retraités
+  https://www.lemonde.fr/politique/article/2026/11/25/budget-2027-au-senat-un-vote-inattendu-sur-la-mise-a-contribution-des-retraites_6815088_823448.html
+  Contre l’avis du gouvernement et de la commission des finances, une partie de la droite et du centre droit a mêlé ses voix à celles de la gauche et de l’extrême droite pour s’opposer à la suppression totale de l’abattem…
+- [25/11 12:24] Le Figaro — « Ils ne me font pas peur! » : le préfet démissionnaire Hugues Moutouh veut rendre coup pour coup
+  https://www.lefigaro.fr/actualite-france/ils-ne-me-font-pas-peur-le-prefet-demissionnaire-hugues-moutouh-veut-rendre-coup-pour-coup-20261125
+  EXCLUSIF - Persuadé d’être victime d’une opération politique, le préfet du Loiret, officiellement remplacé ce mercredi, expose sa version au Figaro et met en garde ceux qui orchestreraient cette affaire.
+- [25/11 12:24] Le Figaro — Présidentielle 2027 : Édouard Philippe «doit montrer ses tripes», conseille Gérald Darmanin
+  https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-edouard-philippe-doit-montrer-ses-tripes-conseille-gerald-darmanin-20261125
+  Sur France Inter, le soutien du candidat Horizons en chute dans les sondages a fustigé le positionnement politique de David Lisnard qu’il juge proche du RN.
+- [25/11 12:23] franceinfo — Pénurie d'eau potable, rejets radioactifs de la centrale nucléaire : pourquoi le niveau historiquement bas de la Garonne inquiète
+  https://france3-regions.franceinfo.fr/nouvelle-aquitaine/lot-et-garonne/agen/penurie-d-eau-potable-rejets-radioactifs-de-la-centrale-nucleaire-pourquoi-le-niveau-historiquement-bas-de-la-garonne-inquiete-3454913.html#xtor=RSS-3-[lestitres]
+  Malgré la pluie de ces dernières semaines, les canicules de l'été ont eu des effets sur nos cours d'eau. Avec un niveau historiquement bas en ce mois de novembre, la Garonne fait craindre d'importantes pénuries d’eau po…
+- [25/11 12:20] Le Figaro — Soupçons de fuites vers le RN : Pierre Ory remplace Hugues Moutouh, officiellement démis de ses fonctions
+  https://www.lefigaro.fr/politique/soupcons-de-fuites-vers-le-rn-pierre-ory-remplace-hugues-moutouh-officiellement-demis-de-ses-fonctions-20261125
+  Visé par une enquête portant sur de possibles divulgations d’informations judiciaires relatives au Rassemblement national, le haut fonctionnaire avait lui-même sollicité son départ.
+- [25/11 12:17] Le Monde — EN DIRECT, congrès des maires 2026 : David Lisnard va-t-il être réélu à la tête des maires de France ? Suivez la journée et posez-nous vos questions
+  https://www.lemonde.fr/politique/live/2026/11/25/en-direct-congres-des-maires-2026-david-lisnard-va-t-il-etre-reelu-a-la-tete-des-maires-de-france-suivez-la-journee-et-posez-nous-vos-questions_6815062_823448.html
+  Le 108ᵉ congrès des maires de France a pris une dimension très politique à l’approche de la présidentielle, alors que la majorité des candidats, à l’exception de Marine Le Pen et de Jean-Luc Mélenchon, a prévu de s’y re…
+- [25/11 12:16] Le Figaro — Alexandre Devecchio : « La droite éparpillée façon puzzle »
+  https://www.lefigaro.fr/vox/politique/alexandre-devecchio-la-droite-eparpillee-facon-puzzle-20261125
+  LA BATAILLE DES IDÉES - Lisnard, Philippe, Retailleau, Zemmour, le RN : en refusant la primaire, la droite retrouve ses anciennes familles, longtemps dissoutes dans le chiraco-juppéisme.
+- [25/11 12:13] Le Monde — Trois recettes pour le goûter, pour les petits comme pour les grands
+  https://www.lemonde.fr/les-recettes-du-monde/article/2026/11/25/mercredi-c-est-du-gateau-cookies-sables-et-chocolats-chauds-maison-trois-recettes-pour-le-gouter_6815085_5324493.html
+  A faire à quatre ou à six petites mains, une ribambelle de cookies et de sablés que l’on pourra tremper dans un chocolat chaud maison aussi beau qu’au coffee shop… Trois grands classiques du quatre-heures très bon enfan…
+- [25/11 12:07] Ouest-France — États-Unis. Deux enfants de huit et dix ans ainsi que quatre adultes trouvent la mort dans un accident d’avion
+  https://www.ouest-france.fr/economie/transports/avion/etats-unis-deux-enfants-de-huit-et-dix-ans-ainsi-que-quatre-adultes-trouvent-la-mort-dans-un-accident-davion-f10df2dc-e8be-11f1-b706-1d273d1ab155?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
+  Un crash aérien a coûté la vie à six personnes dans le Mississippi (États-Unis) mardi 24 novembre. Aucun des passagers du Cessna n’a survécu après que l’appareil s’est abîmé en mer. des recherches avaient été entreprise…
+- [25/11 12:02] franceinfo — Le youtubeur Tibo InShape porte plainte après l’intimidation d’identitaires devant son domicile
+  https://www.franceinfo.fr/l-actu-pour-les-jeunes/le-youtubeur-tibo-inshape-porte-plainte-apres-l-intimidation-d-identitaires-devant-son-domicile_8299452.html#xtor=RSS-3-%5Bpolitique%5D
+  Le youtubeur Tibo InShape a porté plainte pour provocation publique à la haine ou à la violence. En cause, une intimidation faite par un groupe identitaire toulousain devant chez lui à Biarritz (Pyrénées-Atlantiques). I…
+- [25/11 12:00] Le Monde — Malgré des financements ténus, le programme « Savoir rouler à vélo » veut mettre les enfants en selle
+  https://www.lemonde.fr/economie/article/2026/11/25/malgre-des-financements-tenus-le-programme-savoir-rouler-a-velo-veut-mettre-les-enfants-en-selle_6815084_3234.html
+  Certaines collectivités et associations se battent pour maintenir l’enseignement du vélo aux enfants, en dépit des coupes budgétaires de l’Etat. A Paris, 3 300 vélos ont été mis à disposition des écoles, à l’exemple de…
+- [25/11 11:48] franceinfo — "Être étiqueté, c'est de plus en plus mal vu" : avant la présidentielle 2027, des maires refusent de parrainer un candidat
+  https://france3-regions.franceinfo.fr/nouvelle-aquitaine/creuse/gueret/etre-etiquete-c-est-de-plus-en-plus-mal-vu-avant-la-presidentielle-2027-des-maires-refusent-de-parrainer-un-candidat-3455297.html#xtor=RSS-3-[lestitres]
+  À cinq mois du premier tour de la présidentielle, la course aux 500 parrainages est déjà bien lancée pour les candidats. Près de 42 000 élus sont susceptibles de leur apporter leur soutien, dont les députés, les sénateu…
+- [25/11 11:47] franceinfo — VIDEO. Economies demandées aux collectivités : "Je vais sanctuariser mon budget lycée, et les travaux seront faits quoi qu'il en soit", assure Valérie Pécresse, présidente de la région Ile-de-France
+  https://www.franceinfo.fr/politique/budget-2027-je-vais-sanctuariser-mon-budget-lycee-et-les-travaux-seront-faits-quoi-qu-il-en-soit-annonce-valerie-pecresse_8298933.html#xtor=RSS-3-%5Bpolitique%5D
+  Invitée des "4V" mercredi 25 novembre, la présidente LR du conseil régional d'Île-de-France assure qu'elle sécurisera le budget de la région réservé aux rénovations des lycées, estimant que les économies demandées par l…
+- [25/11 11:43] Le Figaro — Julien Aubert : « La primaire ou comment diluer la droite dans la macronie »
+  https://www.lefigaro.fr/vox/politique/julien-aubert-la-primaire-ou-comment-diluer-la-droite-dans-la-macronie-20261125
+  TRIBUNE - Pour le vice-président des Républicains président de l’institut Valmy, la primaire efface les idées au profit d’un candidat de consensus, élu par défaut par crainte d’un second tour RN - LFI. Il y voit le prol…
+- [25/11 11:42] franceinfo — "C'est peut-être problématique d'avoir le président d'une association de tous les maires de France qui est candidat très marqué dans une présidentielle", pointe le politologue Olivier Rouquan à propo…
+  https://www.franceinfo.fr/elections/c-est-peut-etre-problematique-d-avoir-le-president-d-une-association-de-tous-les-maires-de-france-qui-est-candidat-tres-marque-dans-une-presidentielle-pointe-le-politologue-olivier-rouquan-a-propos-de-david-lisnard_8299074.html#xtor=RSS-3-%5Bpolitique%5D
+  Enseignant-chercheur en sciences politiques et chercheur associé au Cersa, Olivier Rouquan revient dans "La Matinale" sur la candidature à la présidentielle de David Lisnard, qui pourrait être réélu ce mercredi présiden…
+- [25/11 11:39] franceinfo — franceinfo au Congrès des maires : comment rendre attractives les communes rurales ?
+  https://www.franceinfo.fr/politique/franceinfo-au-congres-des-maires-comment-rendre-attractives-les-communes-rurales_8299362.html#xtor=RSS-3-%5Bpolitique%5D
+  En direct depuis le Congrès des maires, quinze élus débattent sur franceinfo d'un thème qui agite leur quotidien d'édiles.
 - [25/11 11:37] Le Figaro — Présidentielle 2027 : le camp d’Édouard Philippe pointe le « flou » de David Lisnard face à « l’extrême droite »
   https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-le-camp-d-edouard-philippe-pointe-le-flou-de-david-lisnard-face-a-l-extreme-droite-20261124
   RÉCIT - Pris de court par la percée du candidat libéral de Nouvelle Énergie, l’ancien premier ministre l’a appelé mardi, depuis le Salon des maires, à débattre avec lui et à clarifier sa position vis-à-vis du RN. Sans l…
-- [25/11 11:34] franceinfo — Enquête sur des soupçons de fuites vers le RN : le préfet Hugues Moutouh dénonce "une opération de nature politique"
+- [25/11 11:36] franceinfo — Enquête sur des soupçons de fuites vers le RN : le préfet Hugues Moutouh dénonce "une opération de nature politique"
   https://www.franceinfo.fr/politique/front-national/enquete-sur-des-fuites-presumees-vers-le-rn-le-prefet-hugues-moutouh-denonce-une-operation-de-nature-politique_8299188.html#xtor=RSS-3-[lestitres]
   Dans "Le Figaro", le haut fonctionnaire confirme porter plainte "contre X pour violation et recel du secret de l'enquête et pour complicité".
 - [25/11 11:33] franceinfo — Routes coupées, cours d'eau qui débordent : le point sur les perturbations liées à l'épisode méditerranéen dans le Var
   https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/var/saint-tropez/routes-coupees-cours-d-eau-qui-debordent-etat-des-lieux-de-l-episode-mediterraneen-dans-le-var-3455510.html#xtor=RSS-3-[lestitres]
   Un nouvel épisode méditerranéen avec de fortes pluies frappe depuis ce mercredi 25 novembre minuit le département du Var et dans une moindre mesure pour l'instant, les Alpes-Maritimes. Ces deux départements sont en vigi…
-- [25/11 11:33] Ouest-France — « C’est possible de s’en sortir » : Femmes inspirantes, un podcast normand qui raconte l’après violence conjugale
-  https://www.ouest-france.fr/societe/faits-divers/violences-conjugales/cest-possible-de-sen-sortir-femmes-inspirantes-un-podcast-normand-qui-raconte-lapres-violence-conjugale-aa72f5f0-e80c-11f1-9b33-2f81462d3339?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
-  Des témoignages d’anciennes victimes de violences conjugales et la parole des différents professionnels qui jalonnent le long chemin qu’il faut emprunter pour s’en sortir. C’est la recette retenue par Nathalie Delanoue,…
-- [25/11 11:32] franceinfo — Présidentielle 2027 : "Travailler avec Eric Zemmour", comme l'envisage David Lisnard, serait "une rupture fondamentale avec la droite traditionnelle" pour Gérald Darmanin
-  https://www.franceinfo.fr/elections/direct-presidentielle-2027-lance-dans-la-course-a-l-elysee-david-lisnard-fixe-dans-la-journee-sur-sa-reelection-a-la-tete-de-l-association-des-maires-de-france_8298708.html#xtor=RSS-3-[lestitres]
-  Ce soutien d'Edouard Philippe se demande si le maire de Cannes est là "pour faire une alliance libérale" avec un gouvernement RN "illibéral".
-- [25/11 11:31] Le Figaro — Pour la première fois, les paiements par carte dépassent les espèces dans la zone euro, révèle la BCE
-  https://www.lefigaro.fr/conjoncture/pour-la-premiere-fois-les-paiements-par-carte-depassent-les-especes-dans-la-zone-euro-revele-la-bce-20261125
-  Selon une étude de la Banque centrale européenne, les moyens de paiement dématérialisés séduisent de plus en plus les consommateurs, qui restent toutefois attachés à la possibilité de régler en liquide.
-- [25/11 11:29] Le Figaro — IA, informatique quantique… L’Union européenne veut lancer un fonds souverain de 50 milliards d’euros
-  https://www.lefigaro.fr/secteur/high-tech/ia-informatique-quantique-l-union-europeenne-veut-lancer-un-fonds-souverain-de-50-milliards-d-euros-20261125
-  En associant capitaux publics et privés, Bruxelles entend renforcer l’indépendance technologique et la sécurité économique du Vieux Continent.
-- [25/11 11:26] Ouest-France — Audience : un score honorable pour Étienne Carbonnier et son « Canap 92 » pour sa première sur TF1
-  https://programmetv.ouest-france.fr/audiences/audience-un-score-honorable-pour-etienne-carbonnier-et-son-canap-92-pour-sa-premiere-sur-tf1-393ab936-e8ac-11f1-86c1-70195b4d2e52?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
-  Pour sa première en prime time, l’émission nostalgique à base d’archives présentée par Étienne Carbonnier a attiré un peu plus de 2 millions de téléspectateurs. Une belle audience même si c’est deux fois moins qu’ « Ale…
-- [25/11 11:25] Le Figaro — Monoxyde de carbone dans les logements : l’Anses juge que l’installation de détecteurs pourrait «limiter la gravité» des intoxications
-  https://www.lefigaro.fr/maison/monoxyde-de-carbone-dans-les-logements-l-anses-juge-que-l-installation-de-detecteurs-pourrait-limiter-la-gravite-des-intoxications-20261125
-  Les résultats d’une étude récemment dévoilés plaident en faveur du recours généralisé aux détecteurs de monoxyde de carbone (DAACO). L’agence de l’État rappelle qu’une proposition de loi visant à rendre obligatoire l’in…
 - [25/11 11:25] franceinfo — franceinfo au Congrès des maires : les équations difficiles de la fiscalité locale
   https://www.franceinfo.fr/economie/impots/reforme-fiscale/franceinfo-au-congres-des-maires-les-equations-difficiles-de-la-fiscalite-locale_8299326.html#xtor=RSS-3-%5Bpolitique%5D
   En direct depuis le Congrès des maires, quinze élus débattent sur franceinfo d'un thème qui agite leur quotidien d'édiles.
-- [25/11 11:24] Ouest-France — Accès libre : Ouest-France vous ouvre ses pages ce jeudi, avec B.Connect
-  https://www.ouest-france.fr/medias/ouest-france/acces-libre-ouest-france-vous-ouvre-ses-pages-ce-jeudi-avec-b-connect-b65a0dec-e8b9-11f1-86c1-70195b4d2e52?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
-  Ce jeudi 26 novembre, découvrez gratuitement l’ensemble des articles du site et de l’application Ouest-France ainsi que le journal du jour, pendant 24 heures. Activez votre accès sur simple inscription.
-- [25/11 11:23] Ouest-France — Il avait abandonné sa voiture coincée dans un fossé : un octogénaire retrouvé mort dans les Alpes-Maritimes
-  https://www.ouest-france.fr/provence-alpes-cote-dazur/alpes-maritimes/il-avait-abandonne-sa-voiture-coincee-dans-un-fosse-un-octogenaire-retrouve-mort-dans-les-alpes-maritimes-edeff1c4-e8b7-11f1-b706-1d273d1ab155?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
-  Un octogénaire a été retrouvé mort près de Roquebillière (Alpes-Maritimes), dans la nuit du lundi 23 au mardi 24 novembre. Il aurait dévalé une pente sur une cinquantaine de mètres après avoir abandonné sa voiture, coin…
-- [25/11 11:17] Ouest-France — EN IMAGES. Météo : de fortes pluies et inondations frappent le Var, de nouvelles chutes de neige sur les Alpes
-  https://www.ouest-france.fr/meteo/en-images-meteo-de-fortes-pluies-et-inondations-frappent-le-var-de-nouvelles-chutes-de-neige-sur-les-alpes-a6e6b644-e8af-11f1-9b33-2f81462d3339?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
-  Les forts cumuls de pluie ont entraîné des inondations dans le Var ce mercredi 25 novembre. Dans les Alpes, de nouvelles chutes de neige ont été enregistrées. Le point en images.
-- [25/11 11:16] Le Figaro — Eurostar : une grève surprise provoque «des annulations et d’importantes perturbations» entre Paris et Londres ce mercredi
-  https://www.lefigaro.fr/societes/eurostar-une-greve-surprise-provoque-des-annulations-et-d-importantes-perturbations-entre-paris-et-londres-ce-mercredi-20261125
-  Les clients concernés pourront, conformément à la politique commerciale de la société, «modifier leur voyage pour une autre date ou obtenir un remboursement intégral», a précisé Eurostar.
-- [25/11 11:16] Le Figaro — EN DIRECT - Présidentielle 2027 : Valérie Pécresse «supplie» les candidats de la droite et du centre de se mettre d’accord sur un mode de départage
-  https://www.lefigaro.fr/elections/presidentielles/en-direct-presidentielle-2027-david-lisnard-brigue-un-nouveau-mandat-de-president-des-maires-de-france-avant-de-viser-l-elysee-20261125
-  Les négociations pour l’organisation d’une primaire piétinant, l’ancienne candidate à l’élection présidentielle souhaite «un projet de rupture» et «un seul candidat».
 - [25/11 11:15] franceinfo — franceinfo au Congrès des maires : faut-il armer les polices municipales ?
   https://www.franceinfo.fr/politique/franceinfo-au-congres-des-maires-faut-il-armer-les-polices-municipales_8299077.html#xtor=RSS-3-%5Bpolitique%5D
   En direct depuis le Congrès des maires, quinze élus débattent sur franceinfo d'un thème qui agite leur quotidien d'édiles.
 - [25/11 11:10] Le Monde — La Malaisie poursuit Google pour ne pas avoir retiré des contenus « nocifs » sur YouTube
   https://www.lemonde.fr/economie/article/2026/11/25/la-malaisie-poursuit-google-pour-ne-pas-avoir-retire-des-contenus-nocifs-sur-youtube_6815080_3234.html
   Les poursuites surviennent trois semaines après que le géant américain a annoncé son intention d’investir 15 milliards de dollars en Malaisie. Le pays avait précédemment interpellé d’autres plateformes majeures de résea…
-- [25/11 11:03] Le Figaro — Présidentielle 2027 : Édouard Philippe «doit montrer ses tripes», conseille Gérald Darmanin
-  https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-edouard-philippe-doit-montrer-ses-tripes-conseille-gerald-darmanin-20261125
-  Sur France Inter, le soutien du candidat Horizons en chute dans les sondages a fustigé le positionnement politique de David Lisnard qu’il juge proche du RN.
-- [25/11 11:02] franceinfo — Deux adolescents de 17 ans en garde à vue après l'incendie d'un lycée à Aix-en-Provence
-  https://www.franceinfo.fr/societe/education/blocage-des-lycees/deux-jeunes-de-17ans-en-garde-a-vue-apres-l-incendie-d-un-lycee-a-aix-en-provence_8299137.html#xtor=RSS-3-[lestitres]
-  Le lycée Emile-Zola, qui accueille plus de 1 900 élèves, a été sérieusement endommagé dans la nuit du 9 au 10 novembre.
-- [25/11 11:02] franceinfo — L'Agence spatiale européenne "a des projets à proposer aux hommes politiques" pour assurer l'indépendance spatiale de l'Europe, affirme Thomas Pesquet
-  https://www.franceinfo.fr/sciences/espace/l-agence-spatiale-europeenne-a-des-projets-a-proposer-aux-hommes-politiques-pour-assurer-l-independance-spatiale-de-l-europe-affirme-thomas-pesquet_8299083.html#xtor=RSS-3-[lestitres]
-  L'astronaute français, qui se prépare à une mission privée dans l’espace en juillet 2027, était l'invité de France Inter mercredi.
-- [25/11 10:57] Ouest-France — Une « grève imprévue » à Eurostar, plusieurs trains annulés entre Paris et Londres
-  https://www.ouest-france.fr/economie/entreprises/eurostar/une-greve-imprevue-a-eurostar-plusieurs-trains-annules-entre-paris-et-londres-5cafcc58-e8b1-11f1-86c1-70195b4d2e52?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
-  Une grève surprise à Eurostar impacte le trafic des trains entre Paris et Londres, mercredi 25 novembre. L’entreprise demande aux passagers de ne pas se rendre en gare en cas d’annulation de leur train.
-- [25/11 10:51] Le Figaro — « Ils ne me font pas peur! » : le préfet démissionnaire Hugues Moutouh veut rendre coup pour coup
-  https://www.lefigaro.fr/actualite-france/ils-ne-me-font-pas-peur-le-prefet-demissionnaire-hugues-moutouh-veut-rendre-coup-pour-coup-20261125
-  EXCLUSIF - Persuadé d’être victime d’une opération politique, le préfet du Loiret, qui doit être remplacé ce mercredi, a exposé sa version au Figaro et met en garde ceux qui orchestreraient cette affaire.
-- [25/11 10:49] franceinfo — Un second tour Mélenchon-Le Pen à la présidentielle 2027 mettrait la France "au bord de la guerre civile", affirme Gérald Darmanin
-  https://www.franceinfo.fr/elections/un-second-tour-melenchon-le-pen-a-la-presidentielle-2027-mettrait-la-france-au-bord-de-la-guerre-civile-affirme-gerald-darmanin_8298966.html#xtor=RSS-3-[lestitres]
-  "Il faut tout faire pour éviter cela", explique sur France Inter le ministre de la Justice, soutien de la candidature d'Edouard Philippe, qui veut rassembler la droite et le centre, mais en difficulté dans les sondages
-- [25/11 10:48] franceinfo — Le trafic des trains Eurostar entre Londres et Paris fortement perturbé dans les deux sens en raison d'une "grève imprévue"
-  https://www.franceinfo.fr/economie/transports/le-trafic-des-trains-eurostar-entre-londres-et-paris-fortement-perturbe-en-raison-d-une-greve-imprevue_8299053.html#xtor=RSS-3-[lestitres]
-  La société ferroviaire "présente ses excuses aux clients pour les désagréments occasionnés".
 - [25/11 10:44] Le Monde — Une grève surprise à Eurostar provoque plusieurs annulations de trains entre Paris et Londres
   https://www.lemonde.fr/economie/article/2026/11/25/une-greve-surprise-a-eurostar-provoque-plusieurs-annulations-de-trains-entre-paris-et-londres_6815076_3234.html
   L’opérateur ferroviaire a appelé les organisations syndicales « à poursuivre les discussions » sans préciser les raisons de la grève.
 - [25/11 10:39] Le Monde — L’Union européenne veut se doter d’une stratégie industrielle sur l’informatique quantique
   https://www.lemonde.fr/economie/article/2026/11/25/l-union-europeenne-veut-se-doter-d-une-strategie-industrielle-sur-l-informatique-quantique_6815075_3234.html
   La Commission a présenté, mercredi 25 novembre, le Quantum Act, un plan qui vise à accélérer le passage à l’usage industriel de cette technologie capable de traiter des quantités de données plus importantes que l’inform…
-- [25/11 10:37] franceinfo — Présidentielle 2027 : "Je ne comprends pas du tout les ralliements à Jean-Luc Mélenchon, il y a un côté maso", estime Karim Bouamrane
-  https://www.franceinfo.fr/replay-jt/franceinfo/6h30-9h30/7-heures/la-matinale-info-du-mercredi-25-novembre-2026_8291456.html#xtor=RSS-3-%5Bpolitique%5D
-  La maire de Saint-Ouen, qui reste candidat à l'élection présidentielle, revient dans le "7.40" sur les rapprochements entre certains représentants et militants de gauche et La France insoumise de Jean-Luc Mélenchon. "Je…
-- [25/11 10:34] Le Figaro — Routes inondées, axes coupés, alertes crues… Les images des intempéries dans le Var
-  https://www.lefigaro.fr/meteo/routes-inondees-axes-coupes-alertes-crues-les-images-des-inondations-dans-le-var-20261125
-  VIDÉO - Sur les réseaux sociaux, de nombreux Varois partagent leur préoccupation face à des routes inondées.
-- [25/11 10:32] Le Figaro — « Mon mari a fait un faux contrat de travail » : ces Français prêts à tout pour décrocher un logement à louer
-  https://www.lefigaro.fr/social/mon-mari-a-fait-un-faux-contrat-de-travail-ces-francais-prets-a-tout-pour-decrocher-un-logement-a-louer-20261124
-  DÉCRYPTAGE - Cadres, jeunes actifs, étudiants, foyers modestes… Alors que la crise de l’immobilier s’étend, les difficultés à trouver une location en France touchent tous les profils. Pour se loger, les candidats redoub…
-- [25/11 10:32] franceinfo — Barnham : le village anglais veut quitter le Royaume-Uni
-  https://www.franceinfo.fr/politique/video-barnham-le-village-anglais-veut-quitter-le-royaume-uni_8297958.html#xtor=RSS-3-%5Bpolitique%5D
-  Un village anglais a organisé un référendum pour quitter le Royaume-Uni ! À Barnham, dans l'est de l'Angleterre, des habitants ont décidé de défier le gouvernement britannique en organisant leur propre vote. À l'origine…
-- [25/11 10:12] franceinfo — Laure Lavalette accusée d'antisémitisme : "Une erreur de jeunesse", estime Jean-Philippe Tanguy
-  https://www.franceinfo.fr/politique/front-national/laure-lavalette-accusee-d-antisemitisme-une-erreur-de-jeunesse-estime-jean-philippe-tanguy_8298996.html#xtor=RSS-3-%5Bpolitique%5D
-  La porte-parole de la campagne de Marine Le Pen, est accusée par le média "Les Jours" d'avoir cautionné des écrits antisémites au sein de son syndicat étudiant dans les années 1990.
-- [25/11 09:56] franceinfo — Présence d'un procureur au siège du RN : le député RN Jean-Philippe Tanguy juge l'affaire "totalement insignifiante"
-  https://www.franceinfo.fr/politique/front-national/presence-d-un-procureur-au-siege-du-rn-le-depute-rn-jean-philippe-tanguy-juge-l-affaire-totalement-insignifiante_8298999.html#xtor=RSS-3-%5Bpolitique%5D
-  Mercredi matin, Gérald Darmanin a annoncé saisir l'Inspection générale de la justice concernant Christian de Rocquigny, un procureur adjoint du parquet de Paris aperçu au siège du Rassemblement national lors d'une perqu…
-- [25/11 09:45] franceinfo — Face à la dynamique de David Lisnard, Édouard Philippe assume le match et appuie sur leurs désaccords
-  https://www.franceinfo.fr/elections/face-a-la-dynamique-de-david-lisnard-edouard-philippe-assume-le-match-et-appuie-sur-leurs-desaccords_8298915.html#xtor=RSS-3-%5Bpolitique%5D
-  Au Salon des maires, Édouard Philippe n'est pas vraiment venu chercher les parrainages des édiles, il en a déjà assez avec les adhérents au parti Horizons. Il est plutôt venu se relancer, et assumer la confrontation ave…
-- [25/11 09:29] franceinfo — Eric Zemmour définitivement condamné pour "contestation de l'existence de crime contre l'humanité"
-  https://www.franceinfo.fr/politique/eric-zemmour-definitivement-condamne-pour-contestation-de-l-existence-de-crime-contre-l-humanite_8298975.html#xtor=RSS-3-%5Bpolitique%5D
-  Éric Zemmour a été définitivement condamné pour “contestation de crime contre l’humanité” après avoir affirmé que le maréchal Pétain “avait sauvé les juifs français” durant la Seconde Guerre mondiale. La Cour de cassati…
-- [25/11 08:57] Le Monde — EN DIRECT, congrès des maires 2026 : « La relation d’Emmanuel Macron avec les maires est une suite d’espoirs déçus. Depuis 2017, ils ont eu le sentiment de ne pas être pris au sérieux, ni reconnus »
-  https://www.lemonde.fr/politique/live/2026/11/25/en-direct-congres-des-maires-2026-suivez-l-election-du-president-de-l-association-des-maires-de-france-a-cinq-mois-de-l-election-presidentielle_6815062_823448.html
-  Martial Foucault, professeur des universités à Sciences Po Paris, ancien directeur du Cevipof et coauteur l’enquête du Cevipof sur les maires pour l’Association des maires de France, répond à vos questions dès 10 heures.
-- [25/11 08:55] Le Monde — Procureur présent au siège du RN lors d’une perquisition : Gérald Darmanin annonce saisir l’inspection générale de la justice « pour faire toute la lumière »
+- [25/11 08:55] Le Monde — Procureur présent lors d’une perquisition au RN : Gérald Darmanin annonce saisir l’inspection générale de la justice « pour faire toute la lumière »
   https://www.lemonde.fr/societe/article/2026/11/25/procureur-present-lors-d-une-perquisition-au-rn-gerald-darmanin-annonce-saisir-l-inspection-generale-de-la-justice-pour-faire-toute-la-lumiere_6815060_3224.html
-  Le Garde des Sceaux a pointé « un défaut de loyauté » manifeste du haut magistrat, qui n’a pas posé de jour de congé pour rendre visite à une personnalité politique – Jean-Paul Garraud, député européen RN –, et qui n’a…
+  Au cours d’une perquisition au siège du RN, le 9 novembre, les enquêteurs de l’IGPN avaient eu une étrange surprise en pénétrant dans les locaux, tombant nez à nez avec Christian de Rocquigny, procureur adjoint du parqu…
 - [25/11 08:30] Le Monde — Les anciens de la gauche plurielle, en colloque à Paris, nostalgiques de la méthode Jospin
   https://www.lemonde.fr/politique/article/2026/11/25/les-anciens-de-la-gauche-plurielle-en-colloque-a-paris-nostalgiques-de-la-methode-jospin_6815058_823448.html
   Figure morale à gauche, Lionel Jospin n’a pas d’héritier direct dans la campagne présidentielle. Ses anciens ministres décrivent le dernier âge d’or de la gauche française, de 1997 à 2002, et le contraste avec la situat…
@@ -214,21 +226,18 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [25/11 07:42] Le Monde — Pluie et inondations : les Alpes-Maritimes et le Var en vigilance orange
   https://www.lemonde.fr/planete/article/2026/11/25/pluie-et-inondations-les-alpes-maritimes-et-le-var-en-vigilance-orange_6815053_3244.html
   Sans privilégier ce scénario, Météo-France n’exclut pas d’étendre dans la journée sa vigilance orange « pluie-inondation » à d’autres départements, comme les Bouches-du-Rhône, le Vaucluse, la Drôme ou les Alpes-de-Haute…
+- [25/11 06:30] Le Monde — Prix Penser le travail 2026 : les nouveaux visages de la subordination des salariés
+  https://www.lemonde.fr/vie-au-travail/article/2026/11/25/prix-penser-le-travail-2026-les-nouveaux-visages-de-la-subordination-des-salaries_6815051_6768900.html
+  Le prix Penser le travail, cofondé par Sciences Po et « Le Monde », doit être décerné mercredi 25 novembre. Dans leurs ouvrages respectifs, les trois finalistes, Marion Flécher, Maud Simonet et Clément Pouré, interrogen…
+- [25/11 06:30] Le Monde — Le succès des IA chinoises auprès des entreprises met les leaders Anthropic et OpenAI sous pression
+  https://www.lemonde.fr/economie/article/2026/11/25/le-succes-des-ia-chinoises-aupres-des-entreprises-met-les-leaders-anthropic-et-openai-sous-pression_6815050_3234.html
+  Moins coûteux que les outils américains et pouvant être installés sur des serveurs propres aux entreprises, les modèles ouverts de DeepSeek, Moonshot AI, Z.ai ou Alibaba grignotent des parts de marché.
 - [25/11 06:15] Le Figaro — Chantage, surveillance, humiliation... Le «contrôle coercitif», cette violence conjugale qui émerge dans le droit
   https://www.lefigaro.fr/actualite-france/chantage-surveillance-humiliation-le-controle-coercitif-cette-violence-conjugale-qui-emerge-dans-le-droit-20261125
   DÉCRYPTAGE - Des décisions de justice commencent à prendre en compte cette violence aux multiples facettes qui dessine un système de domination. La notion, pourtant, peine à trouver sa place dans la loi.
 - [25/11 06:05] Le Figaro — « On a beaucoup échangé » : Macron-Lisnard, les coulisses d’un rendez-vous manqué qui a viré à la guerre froide
   https://www.lefigaro.fr/elections/presidentielles/on-a-beaucoup-echange-macron-lisnard-les-coulisses-d-un-rendez-vous-manque-qui-a-vire-a-la-guerre-froide-20261125
   RÉCIT - Si le maire de Cannes a montré de l’intérêt pour le ministre puis le candidat Macron il y a dix ans, la relation entre les deux hommes s’est tendue par la suite.
-- [25/11 06:00] Le Monde — Quand le travail casse, abîme, use : « Les douleurs sont atroces, surtout la nuit. Comme des petits coups de couteau dans le dos, tout le temps »
-  https://www.lemonde.fr/economie/article/2026/11/25/quand-le-travail-casse-abime-use-les-douleurs-sont-atroces-surtout-la-nuit-comme-des-petits-coups-de-couteau-dans-le-dos-tout-le-temps_6815045_3234.html
-  Hernie cervicale, tendinites… parmi les « actifs occupés », 60 % des femmes et 54 % des hommes déclarent souffrir de troubles musculo-squelettiques. Et encore, les chiffres, qui ne font état ni des fonctionnaires ni des…
-- [25/11 06:00] Le Monde — « Le féminicide détruit tout » : des bancs rouges contre les violences conjugales, symboles du combat de Patricia Le Fell après la mort de sa sœur
-  https://www.lemonde.fr/societe/article/2026/11/25/le-feminicide-detruit-tout-des-bancs-rouges-contre-les-violences-conjugales-symboles-du-combat-de-patricia-le-fell-apres-la-mort-de-sa-s-ur_6815044_3224.html
-  Patricia Le Fell a perdu sa sœur Christelle, en mai 2013, tuée par son compagnon, en présence de ses deux enfants. Elle vient en aide aux victimes de violences intrafamiliales dans le Finistère, à travers son associatio…
-- [25/11 05:45] Le Monde — Mobilisation lycéenne : l’inspection générale de l’éducation nationale livre une première analyse du mouvement et formule des recommandations pour sortir de la crise
-  https://www.lemonde.fr/education/article/2026/11/25/mobilisation-lyceenne-l-inspection-generale-de-l-education-nationale-livre-une-premiere-analyse-du-mouvement-et-formule-des-recommandations-pour-sortir-de-la-crise_6815037_1473685.html
-  Après plusieurs semaines de vives confrontations politiques sur la nature et les ressorts du mouvement, les inspecteurs ont remis, mardi, au ministre Edouard Geffray un rapport sur l’évolution de la mobilisation, le rôl…
 - [25/11 05:29] Le Monde — Présidentielle 2027 : LFI, force d’attraction à gauche
   https://www.lemonde.fr/politique/article/2026/11/25/presidentielle-2027-lfi-force-d-attraction-a-gauche_6815035_823448.html
   Après la majorité du groupe communiste à l’Assemblée nationale, puis la secrétaire nationale des Ecologistes, Marine Tondelier, le parti Génération.s apporte, à son tour, son soutien à Jean-Luc Mélenchon, en vue du scru…
@@ -241,21 +250,9 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [24/11 20:56] Le Monde — Présidentielle 2027 : Gabriel Attal presse Edouard Philippe de « proposer une autre modalité de départage », face à son refus de la primaire
   https://www.lemonde.fr/politique/article/2026/11/24/presidentielle-2027-gabriel-attal-presse-edouard-philippe-de-proposer-une-autre-modalite-de-departage-face-a-son-refus-de-la-primaire_6814848_823448.html
   Dans une interview au « Parisien » mardi, le candidat de Renaissance à la présidentielle estime que seule une primaire « pourra créer [un] élan » au centre et à droite.
-- [24/11 19:59] Le Monde — Budget : un premier texte adopté par le Parlement, Sébastien Lecornu rêve désormais d’un compromis pour 2027
-  https://www.lemonde.fr/politique/article/2026/11/24/budget-un-premier-texte-adopte-par-le-parlement-sebastien-lecornu-reve-desormais-d-un-compromis-pour-2027_6814842_823448.html
-  La loi de fin de gestion pour 2026 a été validée mardi 24 novembre. L’accord sur le budget 2027 que vise le premier ministre paraît beaucoup plus aléatoire. Surtout avec l’énorme couac sur les retraites intervenu mardi…
 - [24/11 19:52] Le Figaro — « Il est déjà élu à l’applaudimètre »: dans les coulisses du match entre David Lisnard et Philippe Laurent pour la présidence de l’AMF
   https://www.lefigaro.fr/elections/presidentielles/il-est-deja-elu-a-l-applaudimetre-dans-les-coulisses-du-match-entre-david-lisnard-et-philippe-laurent-pour-la-presidence-de-l-amf-20261124
   RÉCIT - Mardi, les deux élus ont défendu leur projet devant 3 000 personnes réunies dans le cadre du 108e congrès des maires de France. Le résultat des urnes est attendu mercredi, avant 14h.
-- [24/11 19:42] Le Monde — La Commission européenne se montre indulgente sur la situation budgétaire française
-  https://www.lemonde.fr/economie/article/2026/11/24/la-commission-europeenne-se-montre-indulgente-sur-la-situation-budgetaire-francaise_6814840_3234.html
-  Le commissaire chargé de la planification, Valdis Dombrovskis, écoutant le ministre de l’économie Roland Lescure, table sur l’adoption du budget 2027 par le Parlement français. Avant les élections, la Commission marche…
-- [24/11 19:33] Le Monde — Présidentielle 2027 : devant des maires, Marine Le Pen promet plus de « liberté » pour les communes et veut s’attaquer au « millefeuille territorial »
-  https://www.lemonde.fr/politique/article/2026/11/24/presidentielle-2027-devant-des-maires-marine-le-pen-promet-plus-de-liberte-pour-les-communes-et-veut-s-attaquer-au-millefeuille-territorial_6814839_823448.html
-  A l’occasion du congrès des maires de France, la candidate du Rassemblement national a reçu plusieurs édiles au siège du parti mardi 24 novembre et a dévoilé son programme pour les collectivités locales.
-- [24/11 19:15] Le Monde — Budget 2027 : le Sénat abaisse le plafond de l’abattement fiscal de 10 % des retraités, refusant sa suppression totale
-  https://www.lemonde.fr/politique/article/2026/11/24/budget-2027-le-senat-abaisse-le-plafond-de-l-abattement-fiscal-de-10-des-retraites-refusant-sa-suppression-totale_6814837_823448.html
-  Actuellement, l’abattement dont bénéficient les retraités est plafonné à 4 439 euros. Dans son projet de loi de finances, le gouvernement proposait de réduire ce plafond à 3 000 euros. Les sénateurs ont voté son abaisse…
 - [24/11 18:30] Le Figaro — Barrages, agressions, viols… Mayotte face à l’escalade de la violence
   https://www.lefigaro.fr/actualite-france/barrages-agressions-viols-mayotte-face-a-l-escalade-de-la-violence-20261124
   RÉCIT - Sur la route, dans les établissements scolaires ou sur les chantiers, les affrontements entre bandes et les agressions se multiplient dans l’île. Le viol d’une automobiliste, attaquée après avoir été extraite de…
@@ -289,14 +286,26 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [24/11 07:45] Le Figaro — « C’est dur, mais c’est ce qu’on est venus chercher » : à Épinal, les premiers pas enthousiastes des jeunes recrues du nouveau service national
   https://www.lefigaro.fr/actualite-france/c-est-dur-mais-c-est-ce-qu-on-est-venus-chercher-a-epinal-les-premiers-pas-enthousiastes-des-jeunes-recrues-du-nouveau-service-national-20261124
   REPORTAGE - Début novembre, une trentaine de recrues de 18 à 25 ans ont rejoint le 1er régiment de tirailleurs, dans les Vosges, où ils suivent une formation de dix mois. Dans quelques semaines, ils participeront à l’op…
-- [24/11 06:00] Le Figaro — Cardinal Victor Manuel Fernandez : «Lorsque j’ai reçu le “Journal spirituel” du pape François et que je l’ai lu, j’ai éprouvé un véritable choc»
-  https://www.lefigaro.fr/actualite-france/cardinal-victor-manuel-fernandez-lorsque-j-ai-recu-le-journal-spirituel-du-pape-francois-et-que-je-l-ai-lu-j-ai-eprouve-un-veritable-choc-20261124
-  EXCLUSIF - Ami personnel du pape argentin, mort en 2025, l’actuel préfet du Dicastère de la Doctrine de la Foi explique l’enjeu de la publication de son «Journal spirituel».
 
 ## Gendarmerie-police-justice
-- [25/11 11:28] franceinfo — La main d'un homme arrachée par un engin pyrotechnique dans le centre de Paris, une enquête ouverte
+- [25/11 12:39] Le Monde — La présence d’un procureur au siège du RN suscite l’émoi au sein de la magistrature
+  https://www.lemonde.fr/societe/article/2026/11/25/la-presence-d-un-procureur-au-siege-du-rn-suscite-l-emoi-au-sein-de-la-magistrature_6815091_3224.html
+  Lors d’une perquisition de l’IGPN, Christian de Rocquigny, procureur adjoint de Paris, a été aperçu dans les locaux du Rassemblement national. S’il évoque un rendez-vous « amical », qu’aucune règle ne vient interdire, l…
+- [25/11 12:12] Ouest-France — « Il a dit qu’il jouait à Star Wars » : neuf mois après le féminicide de Marine en Sarthe, des zones d’ombre à éclaircir
+  https://www.ouest-france.fr/faits-divers/meurtres/il-a-dit-quil-jouait-a-star-wars-neuf-mois-apres-le-feminicide-de-marine-de-nombreuses-zones-dombre-a-eclaircir-9e24e9d4-e42e-11f1-a3b1-0c6de532ce7d?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
+  L’homme mis en examen et incarcéré depuis mars 2026 pour le meurtre de Marine, née Frédéric Quartenoud, invoque toujours l’accident devant les enquêteurs. La victime est décédée dans la nuit du dimanche 1er au 2 mars 20…
+- [25/11 12:08] Ouest-France — Narcotrafic. « Nous attendons des actes » : le président du Conseil exécutif de Martinique interpelle Emmanuel Macron
+  https://www.ouest-france.fr/faits-divers/trafic/narcotrafic/narcotrafic-nous-attendons-des-actes-le-president-du-conseil-executif-de-martinique-interpelle-emmanuel-macron-3bb547e6-e8b9-11f1-9b33-2f81462d3339?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
+  Serge Letchimy, président du Conseil exécutif de Martinique, a adressé un courrier à Emmanuel Macron mardi 24 novembre dans lequel il demande un plan d’action contre le narcotrafic et la criminalité armée. « Notre pays…
+- [25/11 11:48] franceinfo — franceinfo au Congrès des maires : après les incendies et les inondations, comment mieux protéger les communes ?
+  https://www.franceinfo.fr/faits-divers/incendie/franceinfo-au-congres-des-maires-apres-les-incendies-et-les-inondations-comment-mieux-proteger-les-communes_8299410.html#xtor=RSS-3-%5Bpolitique%5D
+  En direct depuis le Congrès des maires, quinze élus débattent sur franceinfo d'un thème qui agite leur quotidien d'édiles.
+- [25/11 11:40] franceinfo — La main d'un homme arrachée par un engin pyrotechnique dans le centre de Paris, une enquête ouverte
   https://www.franceinfo.fr/faits-divers/la-main-d-un-homme-arrachee-par-un-engin-pyrotechnique-dans-le-centre-de-paris-une-enquete-ouverte_8299056.html#xtor=RSS-3-[lestitres]
   Grièvement blessé, l'homme a été transporté à l'hôpital en urgence absolue.
+- [25/11 11:02] franceinfo — Deux adolescents de 17 ans en garde à vue après l'incendie d'un lycée à Aix-en-Provence
+  https://www.franceinfo.fr/societe/education/blocage-des-lycees/deux-jeunes-de-17ans-en-garde-a-vue-apres-l-incendie-d-un-lycee-a-aix-en-provence_8299137.html#xtor=RSS-3-%5Bfaits-divers%5D
+  Le lycée Emile-Zola, qui accueille plus de 1 900 élèves, a été sérieusement endommagé dans la nuit du 9 au 10 novembre.
 - [25/11 10:11] franceinfo — VIDEO. Mère en garde à vue, signalements, enquête ouverte... Ce que l'on sait de la découverte de deux jeunes enfants dans une cave dans les Yvelines
   https://www.franceinfo.fr/faits-divers/une-mere-placee-en-garde-a-vue-apres-la-decouverte-de-ses-enfants-de-3-et-4-ans-dans-une-cave-dans-les-yvelines_8298309.html#xtor=RSS-3-%5Bfaits-divers%5D
   Deux enfants de 3 et 4 ans, frigorifiés, ont été découverts lundi dans la cave d'un pavillon à Meulan-en-Yvelines. Ils ont été confiés à l'aide sociale à l'enfance et leur mère a été interpellée.
@@ -321,9 +330,6 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [24/11 23:26] franceinfo — "Il n'y a que ça, des p*tes à bougn" : des accusations de racisme à l'école de police
   https://www.franceinfo.fr/faits-divers/police/il-n-y-a-que-ca-des-p-tes-a-bougn-des-accusations-de-racisme-a-l-ecole-de-police_8298345.html#xtor=RSS-3-%5Bfaits-divers%5D
   Certains échanges entre futurs officiers de police contiendraient des messages racistes et violents. L’affaire concerne une école de Seine-et-Marne. Une trentaine d’élèves ont été entendus par l’administration, selon le…
-- [24/11 23:21] franceinfo — Un hélicoptère s'écrase dans les Hautes-Pyrénées, le pilote est indemne
-  https://www.franceinfo.fr/faits-divers/un-helicoptere-s-ecrase-dans-le-hautes-pyrenees-le-pilote-est-indemne_8298321.html#xtor=RSS-3-%5Bfaits-divers%5D
-  L’hélicoptère est complètement détruit, mais le pilote s’en est sorti miraculeusement avec seulement quelques coupures. Dans la matinée du mardi 24 novembre à Cauterets, dans les Hautes-Pyrénées, l'engin allait se poser…
 - [24/11 22:45] Le Monde — Aux assises à Lyon, la série criminelle qui fait basculer le banditisme dans la « cartellisation »
   https://www.lemonde.fr/societe/article/2026/11/24/aux-assises-a-lyon-la-serie-criminelle-qui-fait-basculer-le-banditisme-dans-la-cartellisation_6814867_3224.html
   Au procès de dix accusés, jugés depuis lundi 23 novembre et jusqu’au 18 décembre pour une série de fusillades et de représailles sur fond de narcotrafic, les enquêteurs de la police judiciaire expliquent que la stratégi…
@@ -354,12 +360,6 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [24/11 12:21] Le Monde — Les violences intrafamiliales, hors violences conjugales, ont augmenté de 8 % en France en 2025
   https://www.lemonde.fr/societe/article/2026/11/24/les-violences-intrafamiliales-hors-violences-conjugales-ont-augmente-de-8-en-france-en-2025_6814753_3224.html
   Comme les années précédentes, les mineurs sont les principales victimes des violences intrafamiliales : ils représentent 75 % des victimes de violences physiques et 96 % des victimes de violences sexuelles, selon le min…
-- [24/11 10:58] Le Monde — Guadeloupe : le parquet de Paris ouvre une enquête à la suite de la cyberattaque contre le CHU
-  https://www.lemonde.fr/pixels/article/2026/11/24/guadeloupe-le-parquet-de-paris-ouvre-une-enquete-a-la-suite-de-la-cyberattaque-contre-le-chu_6814735_4408996.html
-  Le CHU de Guadeloupe a été la cible, samedi soir, d’« une cyberattaque de grande ampleur », selon sa direction. Un plan blanc a été déclenché dimanche matin.
-- [24/11 09:55] Le Monde — Mort de Nahel : la cour d’appel de Versailles ordonne un procès pour meurtre à l’encontre du policier
-  https://www.lemonde.fr/societe/article/2026/11/24/mort-de-nahel-la-cour-d-appel-de-versailles-ordonne-un-proces-pour-meurtre-a-l-encontre-du-policier_6814726_3224.html
-  En mars, la cour d’appel avait une première fois requalifié les faits et ordonné que le policier soit jugé pour violences ayant entraîné la mort sans intention de la donner, mais la Cour de cassation avait annulé cet ar…
 
 ## Diagnostic
-- Tri : 17 article(s) écartés (sport, culture…), 0 renvoyé(s) vers International
+- Tri : 14 article(s) écartés (sport, culture…), 1 renvoyé(s) vers International
