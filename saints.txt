@@ -1,20 +1,23 @@
-SAINTS — généré le 2026-11-25 19:11 (heure de Paris)
-Date : mercredi 25 novembre 2026 (2026-11-25)
+SAINTS — généré le 2026-11-26 06:05 (heure de Paris)
+Date : jeudi 26 novembre 2026 (2026-11-26)
 
 ## Calendrier romain actuel (AELF, France)
 - Jour liturgique : de la férie
-- Fête / saint : Ste Catherine d'Alexandrie, vierge et martyre
-- Ligne 1 : mercredi, 34ème semaine du Temps Ordinaire
-- Ligne 2 : Ste Catherine d'Alexandrie, vierge et martyre
-- Ligne 3 : Mémoire facultative
+- Fête / saint : de la férie
+- Ligne 1 : jeudi, 34ème semaine du Temps Ordinaire
+- Ligne 2 : de la férie
 - Couleur liturgique : vert
 - Temps liturgique : ordinaire
-- Saint du jour (Nominis) : Sainte Catherine d'Alexandrie - Vierge et martyre (IV e siècle)
+- Saint du jour (Nominis) : Saint Innocent d'Irkoutsk - Missionnaire en Sibérie (+ 1731)
 
 ## Calendrier traditionnel de 1962 (Divinum Officium, rubriques de 1960)
-- Jour : S. Catharinæ Virginis et Martyris III. classis
-- Martyrologe : À Alexandrie, sainte Catherine, Vierge et Martyre. Pour avoir confessé la Foi Chrétienne sous l’empereur Maximin, elle fut mise en prison, frappée très longtemps avec des scorpions. Elle fut enfin décapitée et accomplit ainsi s…
-- Martyrologe : À Rome, saint Moïse, Prêtre et Martyr. Étant en prison avec d’autres fidèles, il fut souvent réconforté par des lettres de saint Cyprien. Comme il s’opposait avec un courage intrépide non seulement aux païens, mais encore aux n…
-- Martyrologe : À Antioche, saint Érasme, Martyr.
-- Martyrologe : À Césarée de Cappadoce (aujourd’hui Kayseri en Turquie), la passion de saint Mercure, soldat qui, avec le secours de son ange gardien, vainquit les Barbares et triompha de la cruauté de Dèce. Orné de ses tourments, comme d’auta…
-- Martyrologe : En Émilie, province d’Italie, sainte Joconde, Vierge.
+- Jour : S. Silvestri Abbatis III. classis
+- Commemoratio ad Laudes tantum: S. Petri Alexandrini Martyris
+- Martyrologe : À Fabriano, dans les Marches, le bienheureux Abbé Silvestre, fondateur de la Congrégation des moines Silvestrins.
+- Martyrologe : À Alexandrie, l’anniversaire de saint Pierre, Évêque de cette ville et Martyr. Éminent en toutes sortes de vertus, il eut la tête tranchée par ordre de Galère Maximien.
+- Martyrologe : Souffrirent également à Alexandrie, durant la même persécution, les saints Martyrs Fauste, Prêtre, Didius et Ammonius, puis quatre Évêques égyptiens, savoir : Philéas, Hésyque, Pacôme et Théodore, et enfin six cent soixante aut…
+- Martyrologe : Au village qu’on nomme Fratta, dans la région de Rovigo, saint Bellin, Évêque de Padoue, et Martyr. Défenseur intrépide des droits de l’Église, il fut inhumainement attaqué par des sicaires, criblé de blessures et mis à mort.
+- Martyrologe : À Nicomédie, saint Marcel, Prêtre, qui, au temps de Constance, fut précipité par les ariens du haut d’un rocher et succomba en Martyr.
+- Martyrologe : À Rome, saint Sirice, Pape et Confesseur, illustre par sa science, sa piété, son zèle pour la Religion. Il condamna divers hérétiques, et par de très sages ordonnances rétablit la discipline ecclésiastique.
+- Martyrologe : À Autun, saint Amateur, Évêque.
+- Martyrologe : À Constance, en Germanie, saint Conrad, Évêque.
