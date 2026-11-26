@@ -1,37 +1,61 @@
-VEILLE — généré le 2026-11-26 12:42 (heure de Paris)
+VEILLE — généré le 2026-11-26 13:43 (heure de Paris)
 Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 
 ## International
-- [26/11 12:35] franceinfo — DIRECT. Sommet européen : le président du Conseil européen, Antonio Costa, insiste sur la nécessité de trouver un compromis budgétaire "avant la fin de l'année"
-  https://www.franceinfo.fr/monde/europe/union-europeenne/direct-sommet-europeen-les-dirigeants-de-l-ue-reunis-a-bruxelles-pour-avancer-sur-le-futur-budget-des-27-et-l-aide-a-l-ukraine_8300823.html#xtor=RSS-3-%5Bmonde%5D
+- [26/11 13:36] franceinfo — Deux ressortissants irakiens soupçonnés de préparer des attentats contre des synagogues arrêtés en Allemagne
+  https://www.franceinfo.fr/monde/europe/allemagne/deux-ressortissants-irakiens-soupconnes-de-preparer-des-attentats-contre-des-synagogues-arretes-en-allemagne_8301342.html#xtor=RSS-3-%5Bmonde%5D
+  Les deux hommes sont "fortement soupçonnés d'appartenir à une association terroriste nationale", selon le parquet de Karlsruhe.
+- [26/11 13:32] Le Figaro — Islande : un bateau de pêche coule au large des côtes, trois morts
+  https://www.lefigaro.fr/international/islande-un-bateau-de-peche-coule-au-large-des-cotes-trois-morts-20261126
+  Quatorze marins ont pu être secourus après avoir passé quatre heures en pleine mer dans des conditions météorologiques difficiles. Le ministère polonais des Affaires étrangères a confirmé qu’un ressortissant polonais fi…
+- [26/11 13:30] Le Figaro — EN DIRECT - Présidentielle 2027 : «La guerre en Ukraine est notre guerre», répond Raphaël Glucksmann à Teddy Riner
+  https://www.lefigaro.fr/elections/presidentielles/en-direct-presidentielle-2027-marine-le-pen-se-declare-sereine-face-a-l-emergence-de-david-lisnard-20261126
+  «Tous ceux qui prônent l’arrêt de l’aide à la résistance ukrainienne prônent la soumission au tyran qui veut abattre la sécurité européenne. Ils sont donc opposés aux intérêts vitaux de la France», a cinglé le candidat…
+- [26/11 13:28] franceinfo — Sommet européen : le président du Conseil européen, Antonio Costa, insiste sur la nécessité de trouver un compromis budgétaire "avant la fin de l'année"
+  https://www.franceinfo.fr/monde/europe/union-europeenne/direct-sommet-europeen-les-dirigeants-de-l-ue-reunis-a-bruxelles-pour-avancer-sur-le-futur-budget-des-27-et-l-aide-a-l-ukraine_8300823.html#xtor=RSS-3-[lestitres]
   Le sommet qui s'ouvre jeudi est censé débloquer les discussions sur le futur budget de l'Union européenne.
+- [26/11 13:14] franceinfo — Des marées historiques et des vagues de 9 mètres frappent la Californie
+  https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/des-marees-historiques-et-des-vagues-de-9-metres-frappent-la-californie_8301357.html#xtor=RSS-3-%5Bmonde%5D
+  Les grandes marées historiques qui touchent la Californie ont inondé, mercredi 25 novembre, quelques zones résidentielles côtières. Des vagues de près de 9 mètres ont déferlé sur le littoral sans toutefois provoquer de…
+- [26/11 13:11] Ouest-France — Neuf blessés, dont trois dans un état grave, dans l’explosion d’un site pétrolier à Bangkok en Thaïlande
+  https://www.ouest-france.fr/monde/thailande/sept-blesses-dont-quatre-dans-un-etat-grave-dans-lexplosion-dun-site-petrolier-a-bangkok-en-thailande-9a4baf9a-e97a-11f1-86c1-70195b4d2e52?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
+  Neuf personnes ont été blessées, dont trois se trouvent dans un état grave, après l’explosion d’un site pétrolier dans la capitale thaïlandaise, jeudi 26 novembre.
+- [26/11 13:10] franceinfo — La capitale du Yémen visée par une série de frappes saoudiennes en réplique aux attaques menées par les houthis
+  https://www.franceinfo.fr/monde/proche-orient/yemen/la-capitale-du-yemen-visee-par-une-serie-de-frappes-saoudiennes-en-replique-aux-attaques-menees-par-les-houthis_8301075.html#xtor=RSS-3-%5Bmonde%5D
+  Depuis la reprise du conflit entre les houthis et le gouvernement yéménite en juillet, les échanges de frappes sont quasi quotidiens.
+- [26/11 13:01] Le Figaro — Irak : huit nouveaux djihadistes français, dont Romain Garnier, condamnés à la perpétuité
+  https://www.lefigaro.fr/international/irak-huit-nouveaux-djihadistes-francais-dont-romain-garnier-condamnes-a-la-perpetuite-20261126
+  La France a rapatrié des centaines de membres de familles de jihadistes, mais refuse de faire de même pour la plupart des hommes accusés d’avoir joué un rôle actif, les laissant répondre de leurs actes devant la justice…
+- [26/11 12:56] Le Monde — Royaume-Uni : l’immigration nette enregistre sa plus forte baisse depuis 1997, hors période du Covid-19
+  https://www.lemonde.fr/international/article/2026/11/26/royaume-uni-l-immigration-nette-enregistre-sa-plus-forte-baisse-depuis-1997-hors-periode-du-covid-19_6815526_3210.html
+  Le gouvernement du premier ministre Andy Burnham, qui mène une politique migratoire restrictive dans la lignée de celui de son prédécesseur Keir Starmer, s’est félicité, jeudi, d’avoir « rétabli le contrôle ».
+- [26/11 12:38] franceinfo — Au moins 31 morts dans un incendie au Caire
+  https://www.franceinfo.fr/monde/afrique/egypte/au-moins-31-m0rts-dans-un-incendie-au-caire_8301291.html#xtor=RSS-3-%5Bmonde%5D
+  Un incendie dans l’agglomération du Caire, en Egypte, a fait au moins 31 morts, mercredi 25 novembre. Le feu s’est déclaré lorsqu’un camion chargé de carburant s’est renversé sur une autoroute. Le conducteur d’une voitu…
 - [26/11 12:31] franceinfo — Les Etats-Unis approuvent la vente de matériel pour la maintenance de F-16 ukrainiens pour environ 570 millions d'euros
-  https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/les-etats-unis-approuvent-la-vente-de-materiel-pour-la-maintenance-de-f-16-ukrainiens-pour-environ-570-millions-d-euros_8301270.html#xtor=RSS-3-%5Bmonde%5D
+  https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/les-etats-unis-approuvent-la-vente-de-materiel-pour-la-maintenance-de-f-16-ukrainiens-pour-environ-570-millions-d-euros_8301270.html#xtor=RSS-3-[lestitres]
   La transaction sera financée par des fonds en provenance "de la Belgique, du Danemark, des Pays-Bas et de la Norvège", précise Washington.
-- [26/11 12:23] Le Monde — Jean-Luc Mélenchon inquiète l’Allemagne avec sa rhétorique anti-allemande
+- [26/11 12:23] Le Monde — Présidentielle 2027 : Jean-Luc Mélenchon, en visite vendredi à Berlin, inquiète l’Allemagne avec sa rhétorique anti-allemande
   https://www.lemonde.fr/international/article/2026/11/26/l-allemagne-s-inquiete-de-la-rhetorique-anti-allemande-de-jean-luc-melenchon_6815524_3210.html
-  Le candidat de La France insoumise à l’élection présidentielle française de 2027, de passage à Berlin vendredi 27 novembre, n’a à ce stade pas de rendez-vous prévu avec des élus du parti de gauche radicale Die Linke, qu…
+  Le candidat de La France insoumise à l’élection présidentielle française de 2027, de passage à Berlin le 27 novembre, n’a à ce stade pas de rendez-vous prévu avec des élus du parti de gauche radicale Die Linke, qu’il no…
 - [26/11 12:23] Le Figaro — Au Mali, les morts discrets de l’Africa Corps
   https://www.lefigaro.fr/international/au-mali-les-morts-discrets-de-l-africa-corps-20261126
   RÉCIT - Le Guardian révèle qu’au moins 349 soldats russes sont morts au cours des trois dernières années en appuyant la junte au pouvoir à Bamako.
-- [26/11 12:22] franceinfo — Au moins 31 m0rts dans un incendie au Caire
-  https://www.franceinfo.fr/monde/afrique/egypte/au-moins-31-m0rts-dans-un-incendie-au-caire_8301291.html#xtor=RSS-3-%5Bmonde%5D
-  Un incendie dans l’agglomération du Caire, en Egypte, a fait au moins 31 m0rts, mercredi 25 novembre. Le feu s’est déclaré lorsqu’un camion chargé de carburant s’est renversé sur une autoroute. Le conducteur d’une voitu…
-- [26/11 12:15] franceinfo — Les relations compliquées de Jean-Luc Mélenchon avec l'Allemagne
-  https://www.franceinfo.fr/politique/melenchon/les-relations-compliquees-de-jean-luc-melenchon-avec-l-allemagne_8301105.html#xtor=RSS-3-[lestitres]
+- [26/11 12:15] franceinfo — Après ses propos hostiles à l'Allemagne et ses projets de renforcement de son armée, Jean-Luc Mélenchon est à Berlin pour présenter son livre
+  https://www.franceinfo.fr/politique/melenchon/les-relations-compliquees-de-jean-luc-melenchon-avec-l-allemagne_8301105.html#xtor=RSS-3-%5Bmonde%5D
   Le candidat LFI à l'élection présidentielle se rend jeudi à Berlin, pour la parution de son dernier livre, traduit en allemand. Une occasion de clarifier sa vision de l'Europe et des relations franco-allemandes.
+- [26/11 12:06] franceinfo — L'Australie adopte une loi imposant aux réseaux sociaux de permettre à leurs utilisateurs de désactiver les algorithmes
+  https://www.franceinfo.fr/internet/reseaux-sociaux/l-australie-adopte-une-loi-imposant-aux-reseaux-sociaux-de-permettre-a-leurs-utilisateurs-de-desactiver-les-algorithmes_8300751.html#xtor=RSS-3-%5Bmonde%5D
+  Les plateformes seront également tenues directement responsables de la protection des mineurs contre la pornographie, le harcèlement en ligne, les contenus qui glorifient la criminalité et ceux qui encouragent les troub…
 - [26/11 12:05] franceinfo — Un navire transportant jusqu'à 7 000 tonnes de diesel coule au large de l'île espagnole d'Ibiza, faisant un mort parmi les membres de l'équipage
-  https://www.franceinfo.fr/monde/espagne/un-navire-transportant-jusqu-a-7-000-tonnes-de-diesel-coule-au-large-de-l-ile-espagnole-d-ibiza-faisant-un-mort-parmi-les-membres-de-l-equipage_8300973.html#xtor=RSS-3-[lestitres]
+  https://www.franceinfo.fr/monde/espagne/un-navire-transportant-jusqu-a-7-000-tonnes-de-diesel-coule-au-large-de-l-ile-espagnole-d-ibiza-faisant-un-mort-parmi-les-membres-de-l-equipage_8300973.html#xtor=RSS-3-%5Bmonde%5D
   Les éventuels dommages environnementaux sont en cours d'évaluation, selon les secours.
-- [26/11 11:59] Ouest-France — Sept blessés, dont quatre dans un état grave, dans l’explosion d’un site pétrolier à Bangkok en Thaïlande
-  https://www.ouest-france.fr/monde/thailande/sept-blesses-dont-quatre-dans-un-etat-grave-dans-lexplosion-dun-site-petrolier-a-bangkok-en-thailande-9a4baf9a-e97a-11f1-86c1-70195b4d2e52?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
-  Sept personnes ont été blessées, dont quatre se trouvent dans un état grave, après l’explosion d’un site pétrolier dans la capitale thaïlandaise, jeudi 26 novembre.
 - [26/11 11:30] Le Monde — En Algérie, la posture martiale du président Tebboune sur le narcotrafic avive les tensions avec le Maroc
   https://www.lemonde.fr/afrique/article/2026/11/26/en-algerie-la-posture-martiale-du-president-tebboune-sur-le-narcotrafic-avive-les-tensions-avec-le-maroc_6815519_3212.html
   Deux Marocains suspectés de contrebande de stupéfiants ont été tués le 20 novembre dans l’Ouest algérien. Le chef de l’Etat Abdelmadjid Tebboune appelle à cibler « la source » du trafic, dans une allusion claire au Maro…
-- [26/11 11:06] Le Monde — EN DIRECT, guerre en Ukraine : Kiev et sept régions ukrainiennes bombardées pendant la nuit, selon le premier ministre ukrainien
+- [26/11 11:06] Le Monde — EN DIRECT, guerre en Ukraine : Volodymyr Zelensky accuse la Russie de préparer de nouvelles frappes massives sur des « infrastructures énergétiques et logistiques »
   https://www.lemonde.fr/international/live/2026/11/26/en-direct-guerre-en-ukraine-un-mort-dans-l-oblast-de-kherson-des-foyers-prives-d-electricite-dans-sept-regions-apres-des-attaques-russes_6814183_3210.html
-  La Russie a attaqué « des infrastructures d’approvisionnement en eau, des réseaux de chauffage, des centres commerciaux et des immeubles résidentiels » au cours de la nuit de mercredi à jeudi, a déclaré Serhi Koretsky.
+  La Russie a attaqué « des infrastructures d’approvisionnement en eau, des réseaux de chauffage, des centres commerciaux et des immeubles résidentiels » au cours de la nuit de mercredi à jeudi, a déclaré le premier minis…
 - [26/11 10:58] Le Monde — Thaïlande : une explosion dans un dépôt pétrolier de Bangkok fait provisoirement sept blessés
   https://www.lemonde.fr/international/article/2026/11/26/thailande-une-explosion-dans-un-depot-petrolier-de-bangkok-fait-provisoirement-sept-blesses_6815511_3210.html
   L’incendie, qui s’est déclenché dans la raffinerie, jeudi, en zone urbaine de la capitale thaïlandaise, est « désormais maîtrisé » selon les autorités.
@@ -71,21 +95,9 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [26/11 09:29] franceinfo — Donald Trump et le secrétaire général de l'Otan, Mark Rutte, exhortent la Russie à ne pas "étendre la guerre" avec l'Ukraine
   https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/donald-trump-et-le-secretaire-general-de-l-otan-mark-rutte-exhortent-la-russie-a-ne-pas-etendre-la-guerre-avec-l-ukraine_8300721.html#xtor=RSS-3-%5Bmonde%5D
   Les deux hommes ont discuté "de l'importance d'obtenir une résolution pacifique du conflit dans les plus brefs délais", a écrit la Maison Blanche.
-- [26/11 09:11] franceinfo — "C'est difficile de trouver des gens sincères" : un jeune Britannique sur trois n'a jamais eu de rapport sexuel, d'après une étude
-  https://www.franceinfo.fr/monde/royaume-uni/c-est-difficile-de-trouver-des-gens-sinceres-un-jeune-britannique-sur-trois-n-a-jamais-eu-de-rapport-sexuel-d-apres-une-etude_8300916.html#xtor=RSS-3-%5Bmonde%5D
-  D'après la revue scientifique britannique "The Lancet", près d'un jeune sur trois, entre 16 et 24 ans, déclare n'avoir jamais eu de relation sexuelle, préférant consommer du porno ou s'abstenir en attendant "la bonne pe…
-- [26/11 09:06] Le Monde — Irak : huit nouveaux djihadistes français, dont Romain Garnier, condamnés à la perpétuité
-  https://www.lemonde.fr/international/article/2026/11/26/irak-huit-nouveaux-djihadistes-francais-dont-romain-garnier-condamnes-a-la-perpetuite_6815494_3210.html
-  Au total, quarante-sept djihadistes français, transférés de Syrie vers l’Irak l’an dernier, doivent être jugés par une cour criminelle de Bagdad. Vingt-trois d’entre eux ont déjà été condamnés à la prison à vie, et troi…
-- [26/11 09:04] franceinfo — Emilie König, propagandiste et recruteuse de l'Etat islamique, devant la justice
-  https://www.franceinfo.fr/monde/proche-orient/offensive-jihadiste-en-irak/emilie-konig-propagandiste-et-recruteuse-de-l-etat-islamique-devant-la-justice_8300964.html#xtor=RSS-3-%5Bmonde%5D
-  Emilie König avait rejoint l’Etat islamique en Syrie dans les années 2010. En pleine guerre, elle était devenue une propagandiste de l’organisation terroriste. La Bretonne comparaît à partir de jeudi 26 novembre devant…
 - [26/11 08:06] franceinfo — Emilie König, propagandiste et recruteuse de l'Etat islamique, devant la justice
   https://www.franceinfo.fr/monde/proche-orient/offensive-jihadiste-en-irak/emilie-konig-egerie-de-l-etat-islamique-devant-la-justice_8300913.html#xtor=RSS-3-%5Bfaits-divers%5D
   Emilie König avait rejoint l’Etat islamique en Syrie dans les années 2010. En pleine guerre, elle était devenue une propagandiste de l’organisation terroriste. La Bretonne comparaît à partir de jeudi 26 novembre devant…
-- [26/11 08:00] Le Monde — Elections législatives en Espagne : l’Andalousie, laboratoire de l’alliance entre la droite et l’extrême droite
-  https://www.lemonde.fr/international/article/2026/11/26/elections-legislatives-en-espagne-l-andalousie-laboratoire-de-l-alliance-entre-la-droite-et-l-extreme-droite_6815491_3210.html
-  Dans cette ancienne place forte socialiste du sud de l’Espagne et à quelques jours des élections législatives anticipées du dimanche 29 novembre, les partisans du Parti populaire et de Vox expriment leur détermination à…
 - [26/11 05:05] Le Figaro — «Des siècles d’oppression» : aux États-Unis, quand des Amérindiens font le deuil le jour de Thanksgiving
   https://www.lefigaro.fr/international/des-siecles-d-oppression-aux-etats-unis-quand-des-amerindiens-font-le-deuil-le-jour-de-thanksgiving-20261126
   RÉCIT - Fondée sur le mythe populaire de l’amitié entre les premiers colons et les tribus natives, la célèbre fête familiale américaine est avant tout, pour certains descendants d’Indiens d’Amérique, une journée de deui…
@@ -106,81 +118,93 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
   RÉCIT - L’appui du président américain pour le retour du PDG évincé le 12 novembre suscite des réactions indignées au Congrès, qui doit auditionner le dirigeant du géant mondial des puces électroniques début décembre.
 
 ## France
-- [26/11 12:39] Ouest-France — «Elle a passé 20 ans dans un jardin privé» : comment cette borne, symbole de la Libération, a été sauvée de la déchetterie et de l’oubli
-  https://www.ouest-france.fr/pays-de-la-loire/ligne-44850/une-authentique-borne-de-la-voie-de-la-liberte-sauvee-de-loubli-et-inauguree-a-ligne-016835e0-e8ae-11f1-b706-1d273d1ab155?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
-  Témoin de l’avancée des troupes alliées en 1944, cette borne historique de plus de 400 kg a connu un destin insolite entre Vritz et Ligné, en Loire-Atlantique : passée par la déchetterie puis un jardin privée, elle vien…
-- [26/11 12:37] Le Figaro — Sortie du nucléaire, blocage des prix : Terra Nova alerte sur le volet énergétique du programme de LFI
-  https://www.lefigaro.fr/societes/sortie-du-nucleaire-blocage-des-prix-terra-nova-alerte-sur-le-volet-energetique-du-programme-de-lfi-20261126
-  Le parti de Jean-Luc Mélenchon veut fermer les centrales nucléaires françaises et faire «de l’océan la première source d’énergie renouvelable propre». Sans chiffrer les conséquences de ces choix, ni prendre en compte le…
+- [26/11 13:32] Ouest-France — Les taches du fer à repasser finissant sur les vêtements ne sont pas une fatalité, voici comment s’en débarrasser
+  https://www.ouest-france.fr/le-mag/maison/les-taches-du-fer-a-repasser-finissant-sur-les-vetements-ne-sont-pas-une-fatalite-voici-comment-sen-debarrasser-3e1313d0-e993-11f1-b706-1d273d1ab155?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
+  Avec le temps, un fer à repasser peut s’encrasser. Calcaire ou taches sur la semelle sont à l’origine de plusieurs problèmes, notamment de traces laissées sur les vêtements. Les placards regorgent toutefois de produits…
+- [26/11 13:31] Ouest-France — Un homme condamné à la prison à perpétuité pour des viols et actes de torture commis sur des membres de sa famille
+  https://www.ouest-france.fr/societe/justice/un-homme-condamne-a-la-prison-a-perpetuite-pour-des-viols-et-actes-de-torture-commis-sur-des-membres-de-sa-famille-71d5b8e4-e993-11f1-86c1-70195b4d2e52?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
+  Un homme de 36 ans a été condamné, mercredi 25 novembre par la cour d’assises de Charente, à la prison à perpétuité pour avoir commis des viols et actes de torture sur des membres de sa famille durant plusieurs années.
+- [26/11 13:31] franceinfo — L'ONG Reporters sans frontières saisit l'Arcom pour demander de "suspendre CNews pendant un mois"
+  https://www.franceinfo.fr/economie/medias/l-ong-reporters-sans-frontieres-saisit-l-arcom-pour-demander-de-suspendre-cnews-pendant-un-mois_8300685.html#xtor=RSS-3-[lestitres]
+  L'ONG accuse la chaîne de non-respect répété du pluralisme pour favoriser l'extrême droite.
+- [26/11 13:27] franceinfo — Mobilisation des étudiants : "Il faut que les blocages cessent, c'est inacceptable", affirme le ministre Philippe Baptiste
+  https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-de-la-jeunesse-les-organisations-veulent-maintenir-la-pression-malgre-le-recul-des-blocages-une-manifestation-prevue-dans-l-apres-midi_8300754.html#xtor=RSS-3-[lestitres]
+  Le ministre de l'Enseignement supérieur s'inquiète des difficultés scolaires rencontrées par les étudiants dans le contexte de la mobilisation.
+- [26/11 13:22] Ouest-France — Un incendie dans l’un de ses abattoirs en Hongrie conduit le groupe volailler LDC à négocier avec un concurrent
+  https://www.ouest-france.fr/economie/agroalimentaire/un-incendie-dans-lun-de-ses-abattoirs-en-hongrie-conduit-le-groupe-volailler-ldc-a-negocier-avec-un-concurrent-f269bf10-e97e-11f1-86c1-70195b4d2e52?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
+  Touché par une baisse de production en raison d’un incendie dans l’une de ses usines en Hongrie, le groupe agroalimentaire LDC, installé à Sablé-sur-Sarthe, discute avec Bonafarm, une société hongroise qui revendique la…
+- [26/11 13:18] Le Figaro — Lilia Hassaine remporte le prix Goncourt des Lycéens 2026
+  https://www.lefigaro.fr/livres/lilia-hassaine-remporte-le-prix-goncourt-des-lyceens-2026-20261126
+  Le dernier des prix d’automne, et l’un des plus prescripteurs, a couronné JE, chez Gallimard, qui dépoussière le classique de Charlotte Brontë en s’attachant à la première femme de Rochester, Bertha, dans Jane Eyre.
+- [26/11 13:17] Ouest-France — RSF demande la suspension de CNews, dénonçant un « péril démocratique », la chaîne parle d’un « acharnement »
+  https://programmetv.ouest-france.fr/chaines/programme-tv-cnews-226/rsf-demande-la-suspension-de-cnews-denoncant-un-peril-democratique-3165c1f4-e958-11f1-86c1-70195b4d2e52?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
+  Reporters sans frontières a annoncé, jeudi 26 novembre, son intention de saisir l’Arcom pour demander la suspension de « CNews », qu’elle juge trop favorable aux idées d’extrême droite. La chaîne d’informations a dénonc…
+- [26/11 13:07] Le Figaro — Privatisation des autoroutes : comment Dominique de Villepin veut corriger son «erreur» de 2006
+  https://www.lefigaro.fr/automobile/privatisation-des-autoroutes-comment-dominique-de-villepin-veut-corriger-son-erreur-de-2006-20261126
+  DÉCRYPTAGE - La question des autoroutes revient dans le débat à l’approche de l’élection présidentielle car certaines concessions arrivent à terme en 2031 et 2032. Dominique de Villepin a changé d’avis sur le sujet. Les…
+- [26/11 13:01] Le Monde — EN DIRECT, congrès des maires de France : David Lisnard est accusé de « compromission » avec l’extrême droite par Gérald Darmanin
+  https://www.lemonde.fr/politique/live/2026/11/26/en-direct-congres-des-maires-de-france-david-lisnard-est-accuse-de-compromission-avec-l-extreme-droite-par-gerald-darmanin_6815062_823448.html
+  « Au moment où de très nombreux messages racistes et antisémites des dirigeants d’extrême droite ressortent encore », dans une allusion aux nouvelles révélations du « Monde » et « Mediapart » sur Jordan Bardella, « Davi…
+- [26/11 13:00] Le Monde — En Grèce, le « mini Dubaï » de la Méditerranée, zone immobilière de luxe, fortement contaminé aux PFAS
+  https://www.lemonde.fr/les-decodeurs/article/2026/11/26/en-grece-le-mini-dubai-de-la-mediterranee-zone-immobiliere-de-luxe-fortement-contamine-aux-pfas_6815528_4355770.html
+  Le site de l’ancien aéroport d’Athènes, en cours de transformation en quartier résidentiel haut de gamme, est fortement contaminé aux polluants éternels, sans que cette information ne figure dans les documents du promot…
+- [26/11 13:00] Le Monde — Présidentielle 2027 : Edouard Philippe passe à l’offensive face à David Lisnard
+  https://www.lemonde.fr/politique/article/2026/11/26/presidentielle-2027-edouard-philippe-passe-a-l-offensive-face-a-david-lisnard_6815527_823448.html
+  Sous pression de ses concurrents de droite et du centre pour une primaire, le candidat Horizons avait sous-estimé la percée du maire de Cannes. Il dénonce désormais ses ambiguïtés avec l’extrême droite et veut se démarq…
+- [26/11 13:00] Ouest-France — « Les 12 coups de midi » : après avoir atteint les 400 000 €, Sébastien franchit un nouveau cap majeur
+  https://programmetv.ouest-france.fr/divers/jeu/les-douze-coups-de-midi-m95771292/les-12-coups-de-midi-apres-avoir-atteint-les-400-000-euros-sebastien-franchit-un-nouveau-cap-majeur-aabd5772-e982-11f1-86c1-70195b4d2e52?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
+  À quelques jours d’intervalle, le Maître de midi a enchaîné deux étapes symboliques : le cap des 400 000 € de gains ainsi qu’une performance que seuls neuf autres candidats avaient réalisée avant lui.
+- [26/11 12:59] franceinfo — "Pas question" : le ministre de l'Enseignement supérieur refuse d'annuler les partiels et appelle à "cesser" les blocages "immédiatement"
+  https://www.franceinfo.fr/societe/education/blocage-des-lycees/on-est-a-peu-pres-aujourd-hui-a-20-de-fermetures-administratives-d-universites-affirme-le-ministre-de-l-enseignement-superieur_8301297.html#xtor=RSS-3-[lestitres]
+  Dans la foulée de la mobilisation lycéenne, de nombreux campus ont été fermés à cause de blocages ou par décision administrative depuis octobre. Les organisations étudiantes réclament une adaptation des examens à venir.
+- [26/11 12:58] Ouest-France — Un adolescent de 17 ans meurt à Mayotte après une rixe : troisième décès d’une jeune dans l’archipel en moins d’une semaine
+  https://www.ouest-france.fr/societe/faits-divers/un-adolescent-de-17-ans-meurt-a-mayotte-apres-une-rixe-troisieme-deces-dune-jeune-dans-larchipel-en-moins-dune-semaine-cc5e2f28-e98c-11f1-86c1-70195b4d2e52?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
+  Alors que Mayotte fait face à un épisode de violences depuis plusieurs semaines, un adolescent a succombé à ses blessures après une rixe dans un lycée, mercredi 25 novembre 2026.
+- [26/11 12:51] franceinfo — L'avocat de Jordan Bardella envisage de déposer un complément de plainte pour "faux et usage de faux" après de nouvelles révélations sur des propos antisémites
+  https://www.franceinfo.fr/politique/jordan-bardella/propos-antisemites-attribues-a-jordan-bardella/l-avocat-de-jordan-bardella-envisage-de-deposer-un-complement-de-plainte-pour-faux-et-usage-de-faux-apres-de-nouvelles-revelations-sur-des-propos-antisemites_8301303.html#xtor=RSS-3-[lestitres]
+  Le président du Rassemblement national dénonce une "entreprise de persécution". "Le Monde" et Mediapart ont publié jeudi de nouveaux éléments de preuve sur les écrits antisémites attribués à Jordan Bardella.
+- [26/11 12:45] Le Figaro — «Il gêne le système, comme Coluche» : Ségolène Royal défend Teddy Riner sur l’Ukraine et lui conseille de ne pas aller à Béziers chez Robert Ménard
+  https://www.lefigaro.fr/elections/presidentielles/il-gene-le-systeme-comme-coluche-segolene-royal-defend-teddy-riner-sur-l-ukraine-et-lui-conseille-de-ne-pas-aller-a-beziers-chez-robert-menard-20261126
+  L’ancienne ministre a dénoncé les propos tenus par Robert Ménard contre Teddy Riner sur l’Ukraine. «Les opinions divergentes doivent se confronter à des arguments pas à des injures», a-t-elle estimé.
+- [26/11 12:44] Le Figaro — « Il a dit qu’il voulait nous tuer une par une » : la peur des amies de Chahinez Daoud, brûlée vive par son ex-mari
+  https://www.lefigaro.fr/bordeaux/il-a-dit-qu-il-voulait-nous-tuer-une-par-une-la-peur-des-amies-de-chahinez-daoud-brulee-vive-par-son-ex-mari-20261126
+  COMPTE RENDU D’AUDIENCE - Au procès en appel de Mounir Boutaa, la famille et les meilleures amies de Chahinez Daoud ont décrit les violences quotidiennes qu’elle a subies jusqu’à sa mort. Elles disent vivre dans la crai…
+- [26/11 12:40] Le Figaro — La proximité supposée d’un procureur avec le RN au cœur d’une enquête administrative
+  https://www.lefigaro.fr/actualite-france/la-proximite-supposee-d-un-procureur-avec-le-rn-au-coeur-d-une-enquete-administrative-20261125
+  DÉCRYPTAGE - L’inspection générale de la justice, saisie par Gérald Darmanin ce mercredi, va devoir redéfinir les contours de l’engagement politique des magistrats.
+- [26/11 12:40] Le Figaro — Soupçons de fuites vers le RN : qui est Pierre Ory, le successeur du préfet Hugues Moutouh ?
+  https://www.lefigaro.fr/actualite-france/soupcons-de-fuites-vers-le-rn-qui-est-pierre-ory-le-successeur-du-prefet-hugues-moutouh-20261125
+  Hugues Moutouh a demandé à être relevé de ses fonctions après la révélation d’une enquête sur des soupçons de fuites d’éléments judiciaires concernant le RN venant du ministère de l’Intérieur, à l’époque où il y dirigea…
+- [26/11 12:40] Le Figaro — « Ils ne me font pas peur ! » : le préfet démissionnaire Hugues Moutouh veut rendre coup pour coup
+  https://www.lefigaro.fr/actualite-france/ils-ne-me-font-pas-peur-le-prefet-demissionnaire-hugues-moutouh-veut-rendre-coup-pour-coup-20261125
+  EXCLUSIF - Persuadé d’être victime d’une opération politique, le préfet du Loiret, officiellement remplacé ce mercredi, expose sa version au Figaro et met en garde ceux qui orchestreraient cette affaire.
 - [26/11 12:36] Le Figaro — Les pièges de l’assurance-vie luxembourgeoise, nouvel eldorado des Français qui ont de l’épargne
   https://www.lefigaro.fr/economie/les-pieges-de-l-assurance-vie-luxembourgeoise-nouvel-eldorado-des-francais-qui-ont-de-l-epargne-20261125
   DÉCRYPTAGE - Les Français sont de plus en plus nombreux à vouloir placer de l’argent dans des contrats au Luxembourg. Mais il faut rester vigilants face à certaines chausse-trappes.
 - [26/11 12:33] franceinfo — Propos antisémites attribués à Jordan Bardella : il "ne peut pas plaider l'erreur de jeunesse", martèle le co-auteur de l’enquête de Mediapart
-  https://www.franceinfo.fr/politique/jordan-bardella/propos-antisemites-attribues-a-jordan-bardella-il-ne-peut-pas-plaider-l-erreur-de-jeunesse-martele-le-co-auteur-de-l-enquete-de-mediapart_8301168.html#xtor=RSS-3-[lestitres]
+  https://www.franceinfo.fr/politique/jordan-bardella/propos-antisemites-attribues-a-jordan-bardella-il-ne-peut-pas-plaider-l-erreur-de-jeunesse-martele-le-co-auteur-de-l-enquete-de-mediapart_8301168.html#xtor=RSS-3-%5Bpolitique%5D
   Le site d'investigation et le journal "Le Monde" ont publié, jeudi, de nouveaux éléments concernant le président du Rassemblement national.
-- [26/11 12:33] Le Figaro — Des dispositifs intégrés aux réseaux sociaux sont-ils efficaces contre les impacts néfastes ? 2500 jeunes ont fait le test
-  https://www.lefigaro.fr/secteur/high-tech/des-dispositifs-integres-aux-reseaux-sociaux-sont-ils-efficaces-contre-les-impacts-nefastes-2500-jeunes-ont-fait-le-test-20261126
-  Ages de 18 à 25 ans, ils ont adopté plusieurs dispositifs d’intervention, directement intégrés aux interfaces des plateformes, destinés à contrer les logiques algorithmiques.
-- [26/11 12:27] Le Figaro — Elon Musk promet deux actions SpaceX à «chaque enfant en Amérique»
-  https://www.lefigaro.fr/societes/elon-musk-promet-deux-actions-spacex-a-chaque-enfant-en-amerique-20261126
-  «Chaque enfant en Amérique recevra deux actions SpaceX, une de la part de l’entreprise et une de ma part personnellement», a promis l’homme le plus riche du monde dans un message publié sur X.
-- [26/11 12:27] Ouest-France — Écrits antisémites attribués à Jordan Bardella : conversations Facebook, fautes d’orthographe… Retour sur deux mois de révélations
-  https://www.ouest-france.fr/politique/jordan-bardella/ecrits-antisemites-attribues-a-jordan-bardella-conversations-facebook-fautes-dorthographe-retour-sur-deux-mois-de-revelations-29f3d46a-e971-11f1-9b33-2f81462d3339?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
-  Le journal « Le Monde » et le site d’investigation « Mediapart » diffusent ce jeudi 26 novembre de nouveaux éléments permettant d’attribuer au président du Rassemblement national (RN) des écrits antisémites publiés sur…
 - [26/11 12:25] franceinfo — "Le Monde" et Mediapart publient de nouveaux éléments de preuve sur les écrits antisémites attribués à Jordan Bardella
-  https://www.franceinfo.fr/politique/jordan-bardella/le-monde-et-mediapart-publient-de-nouveaux-elements-de-preuve-sur-les-ecrits-antisemites-attribues-a-jordan-bardella_8300856.html#xtor=RSS-3-[lestitres]
+  https://www.franceinfo.fr/politique/jordan-bardella/le-monde-et-mediapart-publient-de-nouveaux-elements-de-preuve-sur-les-ecrits-antisemites-attribues-a-jordan-bardella_8300856.html#xtor=RSS-3-%5Bpolitique%5D
   Les deux médias ont eu accès à une conversation où un ancien camarade de lycée de Jordan Bardella reçoit des messages affirmant notamment que "ce sont les sionistes qui sont à la tête des banques". Le président du RN "r…
-- [26/11 12:25] Le Figaro — La proximité supposée d’un procureur avec le RN au cœur d’une enquête administrative
-  https://www.lefigaro.fr/actualite-france/la-proximite-supposee-d-un-procureur-avec-le-rn-au-coeur-d-une-enquete-administrative-20261125
-  DÉCRYPTAGE - L’inspection générale de la justice, saisie par Gérald Darmanin ce mercredi, va devoir redéfinir les contours de l’engagement politique des magistrats.
-- [26/11 12:24] franceinfo — Airbags Takata : Stellantis et l'équipementier Joyson Safety Systems France perquisitionnés
-  https://www.franceinfo.fr/economie/automobile/airbags-takata/airbags-takata-stellantis-et-l-equipementier-joyson-safety-systems-france-perquisitionnes_8301195.html#xtor=RSS-3-[lestitres]
-  "Les investigations, d'une particulière technicité, se poursuivent", a déclaré le parquet.
 - [26/11 12:24] franceinfo — "La pensée anti-juifs obsédait Jordan Bardella" : ce qu'il faut retenir des nouvelles révélations sur des écrits antisémites attribués au patron du Rassemblement national
-  https://www.franceinfo.fr/politique/jordan-bardella/la-pensee-anti-juifs-obsedait-jordan-bardella-ce-qu-il-faut-retenir-des-nouvelles-revelations-sur-des-ecrits-antisemites-attribues-au-patron-du-rassemblement-national_8300919.html#xtor=RSS-3-[lestitres]
+  https://www.franceinfo.fr/politique/jordan-bardella/la-pensee-anti-juifs-obsedait-jordan-bardella-ce-qu-il-faut-retenir-des-nouvelles-revelations-sur-des-ecrits-antisemites-attribues-au-patron-du-rassemblement-national_8300919.html#xtor=RSS-3-%5Bpolitique%5D
   Deux mois après les premières révélations de Mediapart, le site d'investigation et "Le Monde" publient de nouveaux messages antisémites attribués au leader d'extrême droite.
-- [26/11 12:21] Le Figaro — EN DIRECT - Présidentielle 2027 : il manque «un peu moins d’une centaine de parrainages au RN», annonce Laurent Jacobelli
-  https://www.lefigaro.fr/elections/presidentielles/en-direct-presidentielle-2027-marine-le-pen-se-declare-sereine-face-a-l-emergence-de-david-lisnard-20261126
-  Invité de CNews/Europe 1, Laurent Jacobelli, porte-parole du RN, estime que «beaucoup de maires ont peur de donner leur parrainage parce que leur nom sera public dans le petit milieu des notables locaux il peut y avoir…
-- [26/11 12:20] franceinfo — Le Népal s'apprête à déclarer morts les milliers de disparus des inondations d'août
-  https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/inondations-et-crues/crues-meurtrieres-au-nepal-et-au-tibet/le-nepal-s-apprete-a-declarer-morts-les-milliers-de-disparus-des-inondations-d-aout_8301084.html#xtor=RSS-3-[lestitres]
-  Sans certificat de décès, de nombreuses familles ne peuvent réclamer d'indemnités, transférer des biens ou régler d'autres questions juridiques.
+- [26/11 12:20] franceinfo — Un professeur de guitare, ancien responsable socialiste dans le département, jugé dans la Drôme pour des agressions sexuelles sur onze jeunes filles
+  https://www.franceinfo.fr/societe/harcelement-sexuel/un-professeur-de-guitare-ancien-responsable-socialiste-dans-le-departement-juge-dans-la-drome-pour-des-agressions-sexuelles-sur-onze-jeunes-filles_8301009.html#xtor=RSS-3-[lestitres]
+  Samuel Arnaud comparaît jeudi pour des agressions sexuelles sur onze jeunes filles entre 2020 et 2022, à qui il donnait des cours particuliers de guitare
 - [26/11 12:16] franceinfo — "Des gelées et un froid hivernal" prévus en fin de semaine dans le nord du pays, annonce Météo-France
   https://www.franceinfo.fr/environnement/meteo/des-gelees-et-un-froid-hivernal-prevus-en-fin-de-semaine-dans-le-nord-du-pays-annonce-meteo-france_8301090.html#xtor=RSS-3-[lestitres]
   L'organisme prévoit des températures largement inférieures aux moyennes de saison dans le quart nord-est.
 - [26/11 12:15] franceinfo — Susceptibles d'appartenir à la mouvance d'ultradroite, 10 hommes comparaissent devant la justice après les violences du 24 octobre
   https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/alpes-maritimes/nice/susceptibles-d-appartenir-a-la-mouvance-d-ultradroite-10-hommes-comparaissent-devant-la-justice-apres-les-violences-du-24-octobre-3456251.html#xtor=RSS-3-[lestitres]
   Dix hommes âgés de 18 à 32 ans assimilés à des groupuscules d'extrême droite -ce qu'ils nient- comparaissent devant le tribunal correctionnel de Nice pour association de malfaiteurs en vue de commettre des violences vol…
-- [26/11 12:11] Le Figaro — «Il gêne le système, comme Coluche» : Ségolène Royal défend Teddy Riner sur l’Ukraine et lui conseille de ne pas aller à Béziers chez Robert Ménard
-  https://www.lefigaro.fr/elections/presidentielles/il-gene-le-systeme-comme-coluche-segolene-royal-defend-teddy-riner-sur-l-ukraine-et-lui-conseille-de-ne-pas-aller-a-beziers-chez-robert-menard-20261126
-  L’ancienne ministre a dénoncé les propos tenus par Robert Ménard contre Teddy Riner sur l’Ukraine. «Les opinions divergentes doivent se confronter à des arguments pas à des injures», a-t-elle estimé.
-- [26/11 12:09] Ouest-France — GTA VI a battu tous les records sur PS5 : 39 millions de gamers ont cumulé 683 millions d’heures de jeu en quatre jours
-  https://www.ouest-france.fr/gaming/jeux-video/gta-vi-a-battu-tous-les-records-sur-ps5-39-millions-de-gamers-ont-cumule-683-millions-dheures-de-jeu-en-quatre-jours-1020cf2c-e988-11f1-b706-1d273d1ab155?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
-  Sony a communiqué lundi 23 novembre les chiffres enregistrés par le jeu GTA VI sur la PS5 entre jeudi 19 novembre, jours de sortie du jeu vidéo déjà culte, et dimanche 22 novembre. Le titre a établi de nouveaux records…
-- [26/11 12:06] franceinfo — L'Australie adopte une loi imposant aux réseaux sociaux de permettre à leurs utilisateurs de désactiver les algorithmes
-  https://www.franceinfo.fr/internet/reseaux-sociaux/l-australie-adopte-une-loi-imposant-aux-reseaux-sociaux-de-permettre-a-leurs-utilisateurs-de-desactiver-les-algorithmes_8300751.html#xtor=RSS-3-[lestitres]
-  Les plateformes seront également tenues directement responsables de la protection des mineurs contre la pornographie, le harcèlement en ligne, les contenus qui glorifient la criminalité et ceux qui encouragent les troub…
-- [26/11 12:04] Ouest-France — « S’il vous plaît, laissez-moi remonter » : une femme évacuée après 15 ans de nuisances dans son immeuble en Vendée
-  https://www.ouest-france.fr/societe/sil-vous-plait-laissez-moi-remonter-une-femme-evacuee-apres-15-ans-de-nuisances-dans-son-immeuble-en-vendee-ce6f9eec-e8d2-11f1-86c1-70195b4d2e52?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
-  Une sexagénaire, qui souffre d’un probable syndrome de Diogène, a été évacuée de son appartement envahi par les déchets mercredi 25 novembre 2026, aux Sables-d’Olonne (Vendée). Les voisins, qui alertent les autorités de…
-- [26/11 12:03] franceinfo — Une bombe lacrymogène tirée à l'intérieur du lycée Mandela à Nantes, les cours suspendus pour la journée
-  https://france3-regions.franceinfo.fr/pays-de-la-loire/loire-atlantique/nantes/blocage-du-lycee-mandela-de-nantes-un-barrage-filtrant-installe-par-les-eleves-des-policiers-sont-sur-place-3456173.html#xtor=RSS-3-[lestitres]
-  Nouvelle action des élèves ce jeudi matin au lycée Mandela à Nantes. Les forces de l'ordre ont été appelées sur place, en milieu de matinée. L'établissement a été de nouveau fermé, suite au tir d'une bombe lacrymogène à…
-- [26/11 12:00] Ouest-France — Dans cette ville où Diderot est né, un magnifique hôtel particulier vous fait voyager au siècle des Lumières
-  https://www.ouest-france.fr/tourisme/dans-cette-ville-ou-diderot-est-ne-un-magnifique-hotel-particulier-vous-fait-voyager-au-siecle-des-lumieres-75511a00-d2ea-11f1-807c-c0c44a88b55f?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
-  La Maison des Lumières Denis Diderot, à Langres (Haute-Marne), propose aux visiteurs d’explorer la vie et l’œuvre du célèbre philosophe. Elle abrite notamment plusieurs éditions originales de « L’Encyclopédie ».
-- [26/11 11:56] franceinfo — Château de Miraval : Brad et Angelina se sont enfin dit oui après une longue bataille judiciaire
-  https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/var/brignoles/chateau-de-miraval-brad-et-angelina-se-sont-enfin-dit-oui-apres-une-longue-bataille-judiciaire-3456275.html#xtor=RSS-3-[lestitres]
-  L'ancien couple star du cinéma américain, Angelina Jolie et Brad Pitt, ont annoncé avoir réglé leur différend autour de la vente du château Miraval, dans le Var. La possession de cette prestigieuse propriété était deven…
+- [26/11 12:15] franceinfo — Pourquoi Muse, l'agent IA quasi autonome de Meta, relance les inquiétudes sur son utilisation des données personnelles
+  https://www.franceinfo.fr/internet/intelligence-artificielle/pourquoi-muse-l-agent-ia-quasi-autonome-de-meta-relance-les-inquietudes-sur-son-utilisation-des-donnees-personnelles_8297907.html#xtor=RSS-3-[lestitres]
+  La maison mère de Facebook poursuit le déploiement de son agent IA, déjà disponible aux Etats-Unis et au Canada, mais pas encore en France. Son arrivée suscite des interrogations après la révélation de problèmes liées a…
 - [26/11 11:56] Le Monde — Airbags Takata : Stellantis et l’équipementier Joyson Safety Systems France ont été perquisitionnés, selon le parquet de Paris
   https://www.lemonde.fr/economie/article/2026/11/26/airbags-takata-stellantis-et-l-equipementier-joyson-safety-systems-france-ont-ete-perquisitionnes-selon-le-parquet-de-paris_6815521_3234.html
   Un juge d’instruction enquête à Paris depuis avril 2025, notamment pour mise en danger de la vie d’autrui, après une plainte de l’association UFC-Que choisir et de propriétaires de véhicules de Stellantis. Le constructe…
-- [26/11 11:53] Ouest-France — Un mort et un blessé grave lors d’une fusillade dans le Doubs
-  https://www.ouest-france.fr/societe/faits-divers/un-mort-et-un-blesse-grave-lors-dune-fusillade-dans-le-doubs-2b28c290-e986-11f1-86c1-70195b4d2e52?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
-  Un homme de 34 ans est mort et un autre de 23 ans a été gravement blessé lors d’une fusillade survenue jeudi 26 novembre à Audincourt, dans le Doubs.
-- [26/11 11:49] Le Figaro — « Il a dit qu’il voulait nous tuer une par une » : la peur des amies de Chahinez Daoud, brûlée vive par son ex-mari
-  https://www.lefigaro.fr/bordeaux/il-a-dit-qu-il-voulait-nous-tuer-une-par-une-la-peur-des-amies-de-chahinez-daoud-brulee-vive-par-son-ex-mari-20261126
-  COMPTE RENDU D’AUDIENCE - Au procès en appel de Mounir Boutaa, la famille et les meilleures amies de Chahinez Daoud ont décrit les violences quotidiennes qu’elle a subies jusqu’à sa mort. Elles disent vivre dans la crai…
 - [26/11 11:42] Le Monde — Le Népal s’apprête à déclarer mortes les plus de 5 000 personnes disparues dans les inondations de l’Himalaya
   https://www.lemonde.fr/planete/article/2026/11/26/le-nepal-s-apprete-a-declarer-mortes-les-plus-de-5-000-personnes-disparues-dans-les-inondations-de-l-himalaya_6815520_3244.html
   Au mois d’octobre, la législation népalaise avait été modifiée pour réduire de douze ans à environ six semaines le délai d’attente pour déclarer des disparus officiellement morts.
@@ -193,9 +217,6 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [26/11 11:25] Le Monde — Propos antisémites de Jordan Bardella : le président du RN réitère sa « contestation formelle » après des révélations du « Monde » et de « Mediapart »
   https://www.lemonde.fr/politique/article/2026/11/26/propos-antisemites-de-jordan-bardella-le-president-du-rn-reitere-sa-contestation-formelle-apres-des-revelations-du-monde-et-de-mediapart_6815516_823448.html
   « Le Monde » et « Mediapart » ont publié, jeudi, de nouveaux éléments montrant que le président du Rassemblement national est bien l’auteur de propos antisémites remontant à 2013, ce que l’intéressé conteste à nouveau «…
-- [26/11 10:54] franceinfo — "Tous les partis font ça" : qui est Christian de Rocquigny, le procureur qui se trouvait au siège du Rassemblement national lors d'une perquisition ?
-  https://www.franceinfo.fr/politique/front-national/tous-les-partis-font-ca-qui-est-christian-de-rocquigny-le-procureur-qui-se-trouvait-au-siege-du-rassemblement-national-lors-d-une-perquisition_8299719.html#xtor=RSS-3-%5Bpolitique%5D
-  La présence du procureur adjoint de Paris au siège du RN, le 9 novembre, suscite des questions sur ses liens avec le parti de Marine Le Pen et a déclenché l'ouverture d'une enquête administrative.
 - [26/11 10:44] Le Monde — « A l’hôpital, ils ne savaient pas si je passerais la nuit » : les grenades assourdissantes blessent toujours plus gravement les manifestants
   https://www.lemonde.fr/societe/article/2026/11/26/a-l-hopital-ils-ne-savaient-pas-si-je-passerais-la-nuit-les-grenades-assourdissantes-blessent-toujours-plus-gravement-les-manifestants_6815510_3224.html
   Stéphanie et Jonathan ne se connaissent pas mais, depuis le 24 octobre, ils ont un point commun : tous deux ont vu leur corps perforé par un éclat de grenade assourdissante. Des blessures qui continuent de les hanter.
@@ -211,17 +232,15 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [26/11 10:30] Le Monde — Présidentielle 2027 : le désarroi des partis pro-Ukraine et pro-Europe alors que ces sujets ne mobilisent pas les électeurs
   https://www.lemonde.fr/politique/article/2026/11/26/presidentielle-2027-le-desarroi-des-partis-pro-ukraine-et-pro-europe-alors-que-ces-sujets-ne-mobilisent-pas-les-electeurs_6815508_823448.html
   De Raphaël Glucksmann à Gabriel Attal, en passant par Edouard Philippe, les défenseurs d’une ligne ferme face à Moscou peinent à imposer les sujets internationaux en raison des préoccupations pour le pouvoir d’achat et…
-- [26/11 10:29] Le Figaro — Soupçons d’écrits antisémites attribués à Jordan Bardella : Charles Alloncle dénonce un «acharnement médiatique de la part de journalistes militants»
-  https://www.lefigaro.fr/politique/soupcons-d-ecrits-antisemites-attribues-a-jordan-bardella-charles-alloncle-denonce-un-acharnement-mediatique-de-la-part-de-journalistes-militants-20261126
-  Le porte-parole de la campagne présidentielle de Marine Le Pen a tenté de minimiser les nouvelles révélations du Monde et de Mediapart qui indiquent que le président du Rassemblement national est l’auteur de propos anti…
 - [26/11 10:29] Le Figaro — Présidentielle 2027 : près d’un électeur sur deux n’a pas encore fait son choix
   https://www.lefigaro.fr/elections/presidentielles/sondages/presidentielle-2027-pres-d-un-electeur-sur-deux-n-a-pas-encore-fait-son-choix-20261126
   SONDAGES – À moins de cinq mois du premier tour, environ la moitié des Français certains d’aller voter n’ont pas de candidat, ou se disent prêts à en changer. Comme il y a cinq ans, où tout s’était joué dans la dernière…
+- [26/11 10:29] Le Figaro — Soupçons d’écrits antisémites attribués à Jordan Bardella : Charles Alloncle dénonce un «acharnement médiatique de la part de journalistes militants»
+  https://www.lefigaro.fr/politique/soupcons-d-ecrits-antisemites-attribues-a-jordan-bardella-charles-alloncle-denonce-un-acharnement-mediatique-de-la-part-de-journalistes-militants-20261126
+  Le porte-parole de la campagne présidentielle de Marine Le Pen a tenté de minimiser les nouvelles révélations du Monde et de Mediapart qui indiquent que le président du Rassemblement national est l’auteur de propos anti…
 - [26/11 10:29] Le Figaro — Écrits antisémites : après de nouvelles accusations, Jordan Bardella «dénonce une entreprise de persécution»
   https://www.lefigaro.fr/politique/ecrits-antisemites-de-nouveaux-elements-compromettants-attribues-a-jordan-bardella-par-le-monde-et-mediapart-20261126
   Deux mois après ses premières révélations, Mediapart publie avec Le Monde de nouveaux éléments qui désignent le président du RN comme l’auteur de propos antisémites tenus en 2013. Jordan Bardella dénonce une «entreprise…
-- [26/11 10:27] Le Figaro — Jean-Luc Mélenchon peut-il gagner la présidentielle, comme l'affirme Gérald Darmanin ?
-  https://www.lefigaro.fr/politique/jean-luc-melenchon-peut-il-gagner-la-presidentielle-comme-l-affirme-gerald-darmanin-20261126
 - [26/11 10:24] Le Monde — Budget de la « Sécu » 2027 : les députés et sénateurs échouent à s’accorder en commission mixte paritaire
   https://www.lemonde.fr/politique/article/2026/11/26/budget-de-la-secu-2027-les-deputes-et-senateurs-echouent-a-s-accorder-en-commission-mixte-paritaire_6815507_823448.html
   Les points de vue des sept députés et sept sénateurs réunis, jeudi matin, pour discuter du texte proposé pour un budget de la Sécurité sociale se sont révélés irréconciliables, et ce premier conclave budgétaire de la sa…
@@ -237,27 +256,15 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [26/11 09:31] franceinfo — Présidentielle 2027 : depuis la Mayenne, Raphaël Glucksmann dévoile son projet de "Conseil des territoires" pour donner plus de pouvoir aux élus locaux
   https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-depuis-la-mayenne-raphael-glucksmann-devoile-son-projet-de-conseil-des-territoires-pour-donner-plus-de-pouvoir-aux-elus-locaux_8300955.html#xtor=RSS-3-%5Bpolitique%5D
   C'est "l'illustration d'une nouvelle approche", promet le candidat social-démocrate qui dénonce une politique verticale au micro d'ICI Mayenne.
-- [26/11 09:23] Le Monde — EN DIRECT, propos antisémites : Jordan Bardella réitère « sa contestation formelle » ; mais « les nombreux éléments ne laissent aucun doute », affirme notre journaliste Clément Guillou
-  https://www.lemonde.fr/politique/live/2026/11/26/en-direct-david-lisnard-assure-garder-la-tete-froide-apres-sa-reelection-a-l-amf-retour-sur-les-propos-antisemites-de-jordan-bardella_6815062_823448.html
-  Le président du RN « réitère [sa] contestation formelle des propos » antisémites rapportés par « Le Monde » et « Mediapart » et se dit victime d’une « entreprise de persécution ». Notre journaliste spécialiste de l’extr…
 - [26/11 09:18] franceinfo — David Lisnard réélu à la tête de l'AMF : "Il faut le féliciter de manière républicaine, mais ce n'est pas la campagne présidentielle et encore moins le bloc central", réagit Clément Beaune
   https://www.franceinfo.fr/replay-magazine/franceinfo/l-invite-politique/le-7-40-franceinfo-du-jeudi-26-novembre-2026_8291411.html#xtor=RSS-3-%5Bpolitique%5D
   L'ancien ministre macroniste des Transports, désormais haut-commissaire à la Stratégie et au Plan, réaffirme, dans le "7.40" du 26 novembre, ses différences politiques avec le président de l'Association des maires de Fr…
 - [26/11 07:25] Le Figaro — Des colis polonais aux épiceries de nuit : avec les douaniers et policiers marseillais qui chassent les mortiers d’artifice
   https://www.lefigaro.fr/marseille/des-colis-polonais-aux-epiceries-de-nuit-avec-les-douaniers-et-policiers-marseillais-qui-chassent-les-mortiers-d-artifice-20261126
   REPORTAGE - Temporairement interdits à la vente en France, ces engins pyrotechniques sont régulièrement utilisés contre les forces de l’ordre. À Marseille, les douaniers multiplient les contrôles pour tarir leur approvi…
-- [26/11 06:55] Le Monde — « Les sionistes sont à la tête des banques, tout est lié » : nouvelles révélations sur les propos antisémites de Jordan Bardella
-  https://www.lemonde.fr/politique/article/2026/11/26/les-sionistes-sont-a-la-tete-des-banques-tout-est-lie-nouvelles-revelations-sur-les-propos-antisemites-de-jordan-bardella_6815484_823448.html
-  « Le Monde » s’est procuré la conversation tenue en 2013 par Jordan Bardella, révélée par « Mediapart » le 28 septembre, et s’est entretenu avec son interlocuteur de l’époque. Leurs échanges sur Messenger, dans leur int…
 - [26/11 06:55] Le Monde — Messages antisémites de Jordan Bardella : les 19 preuves que le président du RN est bien l’auteur des propos incriminés sur Messenger
   https://www.lemonde.fr/politique/article/2026/11/26/messages-antisemites-de-jordan-bardella-les-19-preuves-que-le-president-du-rn-est-bien-l-auteur-des-propos-incrimines-sur-messenger_6815482_823448.html
   « Le Monde » s’est procuré les échanges privés de Jordan Bardella sur Facebook en 2013, révélés par « Mediapart » le 28 septembre, et s’est entretenu avec son interlocuteur de l’époque. En comparaison de ses déclaration…
-- [26/11 06:55] Le Monde — Les Millionnaires patriotes, ces riches qui veulent payer des impôts, se lancent en France
-  https://www.lemonde.fr/economie/article/2026/11/26/les-millionnaires-patriotes-ces-riches-qui-veulent-payer-des-impots-se-lancent-en-france_6815481_3234.html
-  Espérant peser sur le débat à l’approche de la présidentielle, la branche française de l’association, créée aux Etats-Unis, ouvre jeudi 26 novembre. L’héritière Emmanuelle Oudéa et l’entrepreneur Maxime Kurkdjian sont l…
-- [26/11 06:55] Le Monde — Derrière les messages antisémites de Jordan Bardella, une archive certifiée, une adresse e-mail et un profil Facebook dormant
-  https://www.lemonde.fr/les-decodeurs/article/2026/11/26/derriere-les-messages-antisemites-de-jordan-bardella-une-archive-certifiee-une-adresse-e-mail-et-un-profil-facebook-dormant_6815483_4355770.html
-  Plusieurs éléments techniques permettent d’étayer les liens entre le président du Rassemblement national et les messages datant de 2013 à caractère antisémite et complotiste qui lui sont imputés.
 - [25/11 23:35] Le Figaro — «Ça fait crier les fachos» : au théâtre de la Concorde, la mairie de Paris lance son MascuRadar dans une ambiance festive et annonce un appel à projets de 100.000 euros
   https://www.lefigaro.fr/actualite-france/ca-fait-crier-les-fachos-au-theatre-de-la-concorde-la-mairie-de-paris-lance-son-mascuradar-dans-une-ambiance-festive-et-annonce-un-appel-a-projets-de-100-000-euros-20261125
   NOUS Y ÉTIONS - Ce mercredi, la mairie de Paris a organisé un colloque spectacle pour le lancement de son outil anti-masculinisme. Elle a aussi répliqué aux critiques de «l’extrême droite et de la droite extrême» contre…
@@ -270,9 +277,6 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [25/11 19:36] Le Figaro — Immigration: ce que l’on sait du centre de retour au Rwanda, ce fameux «hub» censé accueillir les migrants déboutés du droit d’asile
   https://www.lefigaro.fr/actualite-france/immigration-ce-que-l-on-sait-du-centre-de-retour-au-rwanda-ce-fameux-hub-cense-accueillir-les-migrants-deboutes-du-droit-d-asile-20261125
   DÉCRYPTAGE - Le 16 novembre dernier, l’Allemagne, l’Autriche, le Danemark, la Grèce et les Pays-Bas ont annoncé un accord avec Kigali pour l’ouverture expérimentale d’un centre pour migrants illégaux.
-- [25/11 18:23] Le Figaro — Soupçons de fuites vers le RN : qui est Pierre Ory, le successeur du préfet Hugues Moutouh ?
-  https://www.lefigaro.fr/actualite-france/soupcons-de-fuites-vers-le-rn-qui-est-pierre-ory-le-successeur-du-prefet-hugues-moutouh-20261125
-  Hugues Moutouh a demandé à être relevé de ses fonctions après la révélation d’une enquête sur des soupçons de fuites d’éléments judiciaires concernant le RN venant du ministère de l’Intérieur, à l’époque où il y dirigea…
 - [25/11 16:41] Le Figaro — Le château de Bellefontaine, que la Ville de Paris met en vente à 450 000 euros, avait été volé à une famille juive en 1942
   https://www.lefigaro.fr/actualite-france/le-chateau-de-bellefontaine-que-la-ville-de-paris-met-en-vente-a-450-000-euros-avait-ete-spolie-a-une-famille-juive-en-1942-20261124
   Ce domaine tombé en décrépitude, situé près de Fontainebleau, est mis aux enchères à partir de ce mardi. L’annonce immobilière omet de mentionner les conditions d’acquisition du bien par la municipalité, sous l’Occupati…
@@ -282,14 +286,11 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [25/11 14:19] Le Figaro — Le dernier campement de migrants situé sous la ligne 2 du métro parisien, à La Chapelle, a été évacué
   https://www.lefigaro.fr/actualite-france/le-dernier-campement-de-migrants-situe-sous-la-ligne-2-du-metro-parisien-a-la-chapelle-a-ete-evacue-20261125
   400 personnes ont été «mises à l’abri» selon la mairie. Les associations affirment que nombre de migrants sont conduits hors de Paris, à Rouen, Angers ou Toulouse.
-- [25/11 12:24] Le Figaro — « Ils ne me font pas peur! » : le préfet démissionnaire Hugues Moutouh veut rendre coup pour coup
-  https://www.lefigaro.fr/actualite-france/ils-ne-me-font-pas-peur-le-prefet-demissionnaire-hugues-moutouh-veut-rendre-coup-pour-coup-20261125
-  EXCLUSIF - Persuadé d’être victime d’une opération politique, le préfet du Loiret, officiellement remplacé ce mercredi, expose sa version au Figaro et met en garde ceux qui orchestreraient cette affaire.
 
 ## Gendarmerie-police-justice
-- [26/11 12:41] Ouest-France — Un jeune homme enlevé et séquestré pour une dette de 1 800 €, deux suspects interpellés à Paris
-  https://www.ouest-france.fr/faits-divers/violences/un-jeune-homme-enleve-et-sequestre-pour-une-dette-de-1-800-euros-deux-suspects-interpelles-a-paris-f5102a7a-e98c-11f1-b706-1d273d1ab155?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
-  Un jeune homme enlevé et séquestré par plusieurs individus a été secouru par la police à Paris dans la nuit du mardi 24 au mercredi 25 novembre. Deux suspects ont été interpellés et placés en garde à vue, et deux autres…
+- [26/11 13:01] Zone Militaire — L’Ukraine souhaiterait obtenir entre dix et vingt anciens Eurofighter F-2000 auprès de l’Italie
+  https://www.opex360.com/2026/11/26/lukraine-souhaiterait-obtenir-entre-dix-et-vingt-anciens-eurofighter-f-2000-aupres-de-litalie/
+  La semaine passée, lors d’une d’une réunion du groupe de contact sur la défense de l’Ukraine [UDCG, encore appelé «groupe de Ramstein»], lequel comprend un quarantaine de pays, le président ukrainien, Volodymyr Zelenski…
 - [26/11 10:48] franceinfo — Incendie d'un lycée à Aix-en-Provence : les deux suspects de 17 ans déférés jeudi
   https://www.franceinfo.fr/societe/education/blocage-des-lycees/incendie-d-un-lycee-a-aix-en-provence-les-deux-suspects-de-17-ans-deferes-jeudi_8301045.html#xtor=RSS-3-%5Bfaits-divers%5D
   Le parquet a requis leur placement sous contrôle judiciaire dans l'attente de leur jugement.
@@ -349,4 +350,4 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
   Le Garde des Sceaux a pointé « un défaut de loyauté » manifeste du haut magistrat, qui n’a pas posé de jour de congé pour rendre visite à une personnalité politique – Jean-Paul Garraud, député européen RN –, et qui n’a…
 
 ## Diagnostic
-- Tri : 11 article(s) écartés (sport, culture…), 4 renvoyé(s) vers International
+- Tri : 14 article(s) écartés (sport, culture…), 4 renvoyé(s) vers International
