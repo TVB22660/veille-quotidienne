@@ -1,82 +1,130 @@
-VEILLE — généré le 2026-11-26 18:52 (heure de Paris)
+VEILLE — généré le 2026-11-27 06:04 (heure de Paris)
 Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 
 ## International
-- [26/11 18:48] franceinfo — Deux Italiens sont morts dans une attaque de drones au Koweït
-  https://www.franceinfo.fr/monde/moyen-orient/deux-italiens-sont-morts-dans-une-attaque-de-drones-au-koweit-annonce-rome_8301744.html#xtor=RSS-3-[lestitres]
-  L'Iran dément être derrière l'attaque qui a visé des installations militaires koweïtiennes, où travaillaient les victimes.
-- [26/11 18:38] Ouest-France — Procès d’Émilie König : qui sont ces personnes qui s’arrachent les places pour assister à l’audience de l’ancienne djihadiste ?
-  https://www.ouest-france.fr/monde/djihadisme/proces-demilie-koenig-qui-sont-ces-personnes-qui-sarrachent-les-places-pour-assister-a-laudience-de-lancienne-djihadiste-d68d1fdc-e9b8-11f1-86c1-70195b4d2e52?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
-  Ce jeudi 26 novembre 2026, on se bouscule pour assister au procès de l’ancienne djihadiste, originaire de Lorient (Morbihan), dans une salle du palais de justice de Paris. Mais, hormis la presse, qui s’intéresse à ce pr…
+- [27/11 05:59] Le Monde — Au Brésil, Lula nomme un banquier au ministère des finances pour tenter de rassurer les marchés
+  https://www.lemonde.fr/international/article/2026/11/27/au-bresil-lula-nomme-un-banquier-au-ministere-des-finances-pour-tenter-de-rassurer-les-marches_6815796_3210.html
+  Luiz Carlos Trabuco prendra ses fonctions après l’investiture en janvier du président de gauche, dont la victoire surprise, en octobre, avait été suivie d’une forte chute de la Bourse et d’une dépréciation du real.
+- [27/11 05:54] franceinfo — REPORTAGE. "Ils jouent avec nos vies" : en Espagne, la crise du logement pousse les locataires à se mobiliser à l'approche des élections législatives
+  https://www.franceinfo.fr/monde/espagne/reportage-ils-jouent-avec-nos-vies-en-espagne-la-crise-du-logement-pousse-les-locataires-a-se-mobiliser-a-l-approche-des-elections-legislatives_8297727.html#xtor=RSS-3-%5Bmonde%5D
+  A Madrid, de nombreux locataires sont menacés d'expulsion après le rachat de leur appartement par des fonds d'investissement. La question du logement est au cœur de la bataille pour la réélection du Premier ministre soc…
+- [27/11 05:45] Le Monde — Les Vingt-Sept remettent à décembre le bouclage d’un nouveau prêt de 45 milliards d’euros pour l’Ukraine
+  https://www.lemonde.fr/international/article/2026/11/27/les-vingt-sept-remettent-a-decembre-le-bouclage-d-un-nouveau-pret-de-45-milliards-d-euros-pour-l-ukraine_6815795_3210.html
+  Les chefs d’Etat et de gouvernement européens ont tenté, jeudi, de rapprocher leurs points de vue sur le financement d’un prêt supplémentaire à Kiev pour l’année 2027. Parmi les quatre pays refusant encore de financer c…
+- [27/11 05:45] Ouest-France — Le dessin de Chaunu. « L’Ukraine n’est pas notre guerre » pour le candidat judoka Teddy Riner
+  https://www.ouest-france.fr/medias/ouest-france/chaunu/le-dessin-de-chaunu-lukraine-nest-pas-notre-guerre-pour-le-candidat-judoka-teddy-riner-ed8ae07c-e9ca-11f1-86c1-70195b4d2e52?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
+  Le dessinateur et caricaturiste Chaunu croque au quotidien l’actualité française et internationale pour Ouest-France. Aujourd’hui, la campagne présidentielle de Teddy Riner, avec une polémique sur le soutien de la Franc…
+- [27/11 05:29] Le Monde — Les discussions sur le budget de l’Union européenne menacées par les échéances électorales françaises
+  https://www.lemonde.fr/international/article/2026/11/27/les-discussions-sur-le-budget-de-l-union-europeenne-menacees-par-les-echeances-electorales-francaises_6815793_3210.html
+  Pendant le sommet européen jeudi 26 novembre, Emmanuel Macron a confirmé qu’il ne poursuivrait pas les discussions sur le budget européen au-delà de la fin de l’année. Il a dénoncé l’arrogance de Marine Le Pen, qui a qu…
+- [27/11 05:16] Le Monde — La rapporteuse spéciale des Nations unies pour les territoires palestiniens se voit refuser l’entrée au Costa Rica
+  https://www.lemonde.fr/international/article/2026/11/27/la-rapporteuse-speciale-des-nations-unies-pour-les-territoires-palestiniens-se-voit-refuser-l-entree-au-costa-rica_6815792_3210.html
+  Francesca Albanese venait recevoir un titre de docteure honoris causa de l’université du Costa Rica. Mais elle a été interdite d’entrée dans le pays, car sous le coup d’une « alerte internationale pour liens avec des ac…
+- [27/11 05:13] Ouest-France — La rapporteure spéciale des Nations Unies pour les Palestiniens, Francesca Albanese, a été refoulée du Costa Rica
+  https://www.ouest-france.fr/monde/palestine/la-rapporteure-speciale-des-nations-unies-pour-les-palestiniens-francesca-albanese-a-ete-refoulee-du-costa-rica-71418d76-ea16-11f1-8e4e-f44a9b15a834?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
+  Sous le coup d’une « alerte internationale pour liens avec des actes terroristes », la rapporteure spéciale des Nations Unies sur la situation des droits humains dans les territoires palestiniens occupés, Francesca Alba…
+- [27/11 03:01] Ouest-France — Donald Trump souhaite que Vladimir Poutine « mette fin à toute agression militaire » en Europe
+  https://www.ouest-france.fr/monde/etats-unis/donald-trump/donald-trump-souhaite-que-vladimir-poutine-mette-fin-a-toute-agression-militaire-en-europe-3f0589d6-ea00-11f1-86c1-70195b4d2e52?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
+  Soufflant le chaud et le froid, Donald Trump a affirmé jeudi 26 novembre 2026 qu’il souhaitait que Vladimir Poutine « mette fin à toute agression militaire » en Europe.
+- [27/11 03:00] Le Monde — En Suisse, un scrutin qui sent la poudre
+  https://www.lemonde.fr/international/article/2026/11/27/en-suisse-un-scrutin-qui-sent-la-poudre_6815692_3210.html
+  Les citoyens sont appelés aux urnes dimanche 29 novembre pour dire s’ils souhaitent interdire aux particuliers d’acheter et d’utiliser des feux d’artifice, accusés notamment de provoquer régulièrement des incendies et d…
+- [27/11 01:50] Ouest-France — Au Kenya, le pasteur autoproclamé Paul Mackenzie, de nouveau condamné pour activités criminelles organisées et terrorisme
+  https://www.ouest-france.fr/monde/kenya/au-kenya-le-pasteur-autoproclame-paul-mackenzie-de-nouveau-condamne-pour-activites-criminelles-organisees-et-terrorisme-bb6f3920-e9f8-11f1-9b33-2f81462d3339?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
+  Le pasteur autoproclamé Paul Mackenzie a été reconnu coupable de radicalisation et de terrorisme, jeudi 26 novembre 2026, par la Haute Cour de Mombasa. Début novembre, il avait déjà été condamné à 200 ans de prison pour…
+- [27/11 00:45] Le Monde — EN DIRECT, guerre en Ukraine : Kiev n’a « aucune intention d’étendre la guerre à la Libye », assure le chef de la diplomatie ukrainienne
+  https://www.lemonde.fr/international/live/2026/11/27/en-direct-guerre-en-ukraine-kiev-n-a-aucune-intention-d-etendre-la-guerre-a-la-libye-assure-le-chef-de-la-diplomatie-ukrainienne_6814183_3210.html
+  Andrii Sybiha dit avoir expliqué à son homologue libyen, Taher Al-Baour, « qu’aucune des actions de l’Ukraine n’a jamais été dirigée contre la Libye ou le peuple libyen, uniquement contre des objets militaires russes se…
+- [27/11 00:23] Ouest-France — En Guinée-Bissau, les militaires reportent de deux ans la présidentielle prévue le 6 décembre
+  https://www.ouest-france.fr/monde/guinee/en-guinee-bissau-les-militaires-reportent-de-deux-ans-la-presidentielle-prevue-le-6-decembre-fe823acc-e9ea-11f1-86c1-70195b4d2e52?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
+  Un an après le coup d’État qui a interrompu le processus électoral en Guinée-Bissau à la veille de la publication des résultats, le général Horta N’Tam, président de la transition a signé, jeudi 26 novembre 2026, le rep…
+- [26/11 23:57] Le Figaro — Un vol EasyJet contraint de faire demi-tour en Écosse après une «explosion» dans les airs
+  https://www.lefigaro.fr/international/un-vol-easyjet-contraint-de-faire-demi-tour-en-ecosse-apres-une-explosion-dans-les-airs-20261126
+  Selon des médias locaux, les services d’urgence, dont la police et les pompiers, ont rapidement été déployés à l’aéroport d’Édimbourg.
+- [26/11 23:51] franceinfo — VIDEO. Pays baltes : à votre bunker !
+  https://www.franceinfo.fr/replay-magazine/france-2/envoye-special/video-pays-baltes-a-votre-bunker_8295827.html#xtor=RSS-3-%5Bmonde%5D
+  Depuis l'invasion de l'Ukraine, l’Estonie se prépare au pire et mobilise toute sa population, qui se prépare à défendre le pays si la Russie l'attaquait...
+- [26/11 23:25] franceinfo — "Il faut plus d'humilité quand on fait campagne" : Emmanuel Macron tacle la "drôle d'arrogance" de Marine Le Pen
+  https://www.franceinfo.fr/politique/emmanuel-macron/il-faut-plus-d-humilite-quand-on-fait-campagne-emmanuel-macron-tacle-la-drole-d-arrogance-de-marine-le-pen_8302119.html#xtor=RSS-3-[lestitres]
+  La candidate du parti d'extrême droite avait auparavant dénoncé "de basses manœuvres politiciennes" pour conclure d'ici la fin de l'année un accord sur le budget européen qui serait difficile à remettre en cause si elle…
+- [26/11 23:03] Le Figaro — Espagne : la gendarmerie découvre une plantation de cannabis dans un bunker géant caché sous une aire de jeux pour enfants
+  https://www.lefigaro.fr/international/espagne-la-gendarmerie-decouvre-une-plantation-de-cannabis-dans-un-bunker-geant-cache-sous-une-aire-de-jeux-pour-enfants-20261126
+  À l’intérieur de ce bunker souterrain de 180 m² dissimulé près de Grenade, les autorités espagnoles ont saisi 1954 plants de cannabis appartenant à une organisation criminelle.
+- [26/11 22:54] Le Figaro — Budget européen : Macron dénonce une «erreur stratégique» et trace ses lignes rouges
+  https://www.lefigaro.fr/international/budget-europeen-macron-denonce-une-erreur-strategique-et-trace-ses-lignes-rouges-20261126
+  Isolé à Bruxelles face à l’Allemagne et aux autres pays «frugaux», le président lance un ultimatum d’ici à la fin de l’année pour l’adoption d’un budget, dont il dénonce l’insuffisance, faute de quoi, ce sera à son succ…
+- [26/11 22:31] Le Monde — Depuis Bruxelles, Emmanuel Macron reproche à Marine Le Pen de faire preuve d’une « drôle d’arrogance » en pensant « qu’elle serait déjà en charge du destin de la France »
+  https://www.lemonde.fr/politique/article/2026/11/26/emmanuel-macron-rabroue-marine-le-pen-et-sa-drole-d-arrogance_6815601_823448.html
+  La candidate du Rassemblement national a accusé le président de la République de s’adonner à de « basses manœuvres politiciennes » visant à conclure, d’ici à la fin de l’année, un accord sur le budget européen, qu’il lu…
+- [26/11 22:19] franceinfo — Kiev assure n'avoir "aucune intention d'étendre la guerre" à la Libye, après l'attaque de navires russes près de Benghazi
+  https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/kiev-assure-n-avoir-aucune-intention-d-etendre-la-guerre-a-la-libye-apres-l-attaque-de-navires-russes-pres-de-benghazi_8302074.html#xtor=RSS-3-[lestitres]
+  Deux navires, russes d'après la présidence ukrainienne, ont été attaqués, dimanche, dans le port et au large de Benghazi, en Libye.
+- [26/11 22:11] franceinfo — Un pétrolier transportant 7 000 tonnes de diesel a fait naufrage au large au large d'Ibiza
+  https://www.franceinfo.fr/environnement/pollution/naufrages/un-petrolier-transportant-7-000-tonnes-de-diesel-a-fait-naufrage-au-large-au-large-d-ibiza_8302080.html#xtor=RSS-3-%5Bmonde%5D
+  Le navire maltais a chaviré au large d’Ibiza (Espagne), mercredi 25 novembre, alors qu'il se dirigeait vers Barcelone. Un membre de l’équipage est mort et plusieurs sont blessés.
+- [26/11 21:36] franceinfo — "Si on abandonnait l'Ukraine, on mettrait en péril notre sécurité à court ou moyen terme", affirme Emmanuel Macron
+  https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/si-on-abandonnait-l-ukraine-on-mettrait-en-peril-notre-securite-a-court-ou-moyen-terme-affirme-emmanuel-macron_8302044.html#xtor=RSS-3-[lestitres]
+  Cette prise de parole intervient alors que la veille, Teddy Riner, candidat surprise à l'élection présidentielle, a affirmé, à propos du conflit : "Je ne comprends pas qu'on envoie des troupes en Ukraine, ce n'est pas n…
+- [26/11 21:28] franceinfo — Ukraine : combien la France a-t-elle versé depuis le début de la guerre ?
+  https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/ukraine-combien-la-france-a-t-elle-verse-depuis-le-debut-de-la-guerre_8302041.html#xtor=RSS-3-%5Bmonde%5D
+  Depuis février 2022, l'Ukraine a reçu 373 milliards d'euros d'aide de la part de 41 pays donateurs. Une somme destinée à financer aussi bien son effort militaire que le fonctionnement de son État. Mais quels pays contri…
+- [26/11 21:05] Le Figaro — La Russie minée par le coût humain insoutenable de sa guerre contre l’Ukraine
+  https://www.lefigaro.fr/international/la-russie-minee-par-le-cout-humain-insoutenable-de-sa-guerre-contre-l-ukraine-20261126
+  RÉCIT - Selon des « fuites » de données exploitées par des activistes ukrainiens et biélorusses, l’armée russe aurait recensé 700.000 morts au combat depuis le début du conflit en 2022.
+- [26/11 21:02] Le Monde — En Europe, seules la France et la Pologne s’inquiètent du réarmement allemand
+  https://www.lemonde.fr/international/article/2026/11/26/en-europe-seules-la-france-et-la-pologne-s-inquietent-du-rearmement-allemand_6815598_3210.html
+  Selon une étude du German Marshall Fund, publiée jeudi et intitulée « la question allemande revisitée », la grande majorité des pays européens soutiennent, voire encouragent, les ambitions de Berlin en matière de défens…
+- [26/11 21:00] franceinfo — "La violence, la terreur et la mort..." : Emilie König confrontée à son engagement pour l'Etat islamique et au sort de ses enfants, à l'ouverture de son procès
+  https://www.franceinfo.fr/faits-divers/terrorisme/la-violence-la-terreur-et-la-mort-emilie-konig-confrontee-a-son-engagement-pour-l-etat-islamique-et-au-sort-de-ses-enfants-a-l-ouverture-de-son-proces_8301786.html#xtor=RSS-3-%5Bfaits-divers%5D
+  Cette ex-figure française du jihad en Syrie est jugée devant la cour d'assises spéciale de Paris pour "association de malfaiteurs terroriste". La "revenante" encourt trente ans de réclusion criminelle.
+- [26/11 20:54] Le Monde — L’Algérie accuse les autorités françaises d’avoir maltraité un agent consulaire détenu en France depuis 2025, critiquant une « démonstration hollywoodienne »
+  https://www.lemonde.fr/afrique/article/2026/11/26/l-algerie-accuse-les-autorites-francaises-d-avoir-maltraite-un-agent-consulaire-detenu-en-france-depuis-2025-critiquant-une-demonstration-hollywoodienne_6815597_3212.html
+  Cet agent avait été mis en examen en avril 2025, accusé d’être impliqué dans l’enlèvement en France de l’opposant et influenceur algérien, Amir DZ.
+- [26/11 20:45] franceinfo — Égypte : 31 morts après l'embrasement d'un camion-citerne sur une autoroute
+  https://www.franceinfo.fr/monde/egypte-31-morts-apres-l-embrasement-d-un-camion-citerne-sur-une-autoroute_8301990.html#xtor=RSS-3-%5Bmonde%5D
+  Un camion-citerne s'est embrasé sur une autoroute du Caire, en Égypte, mercredi 25 novembre au soir. L'accident a fait 31 morts et de nombreux blessés, dont quatre dans un état grave.
+- [26/11 20:35] franceinfo — Espagne : bunkers souterrains, tunnels, drones... les narcotrafiquants rivalisent d'ingéniosité
+  https://www.franceinfo.fr/societe/drogue/espagne-bunkers-souterrains-tunnels-drones-les-narcotrafiquants-rivalisent-d-ingeniosite_8301999.html#xtor=RSS-3-%5Bmonde%5D
+  Bunkers souterrains, tunnels transfrontaliers, drones capables de transporter des centaines de kilos de drogue... En Espagne, les narcotrafiquants rivalisent d'ingéniosité pour acheminer leurs marchandises. Plusieurs in…
+- [26/11 20:30] franceinfo — "Notre compatriote a été violemment interpellé" : l'Algérie accuse la France d'avoir maltraité un agent consulaire
+  https://www.franceinfo.fr/monde/afrique/algerie/l-algerie-accuse-la-france-d-avoir-maltraite-un-agent-consulaire-detenu-depuis-plus-d-un-an_8301975.html#xtor=RSS-3-%5Bmonde%5D
+  Cet agent a été mis en examen en avril 2025, accusé d'être impliqué dans l'enlèvement en France d'un influenceur algérien, Amir DZ.
+- [26/11 20:30] Le Figaro — En Irak, le gouvernement défie les Kurdes et menace leur autonomie
+  https://www.lefigaro.fr/international/en-irak-le-gouvernement-defie-les-kurdes-et-menace-leur-autonomie-20261126
+  DÉCRYPTAGE - Privés de défense aérienne occidentale et minés par leurs divisions, les Kurdes sont confrontés à la volonté du gouvernement de contrôler leurs frontières et leurs champs pétroliers.
+- [26/11 20:21] franceinfo — Émilie König, figure de la propagande de Daech, jugée à Paris
+  https://www.franceinfo.fr/faits-divers/emilie-konig-figure-de-la-propagande-de-daech-jugee-a-paris_8301987.html#xtor=RSS-3-%5Bfaits-divers%5D
+  Émilie König, surnommée "l'égérie du djihad", comparaît depuis ce jeudi 26 novembre devant la justice à Paris. Accusée d'avoir été l'une des recruteuses de Daech, cette Française radicalisée sur internet avait rejoint l…
+- [26/11 20:15] Le Figaro — « Forcer la porte de la négociation, ce n’est simple ni avec les Américains, ni avec les Russes » : l’Europe en quête d’une voie pour renouer le dialogue avec Moscou
+  https://www.lefigaro.fr/international/forcer-la-porte-de-la-negociation-ce-n-est-simple-ni-avec-les-americains-ni-avec-les-russes-l-europe-en-quete-d-une-voie-pour-renouer-le-dialogue-avec-moscou-20261126
+  ANALYSE - Le sommet de Shenzhen entre la Russie, les États-Unis et la Chine a convaincu plusieurs pays européens, dont l’Allemagne et la France, que l’heure est revenue de parler avec le chef du Kremlin.
+- [26/11 20:00] franceinfo — La Russie ressuscite Dostoïevski en IA pour sa propagande
+  https://www.franceinfo.fr/monde/russie/la-russie-ressuscite-dostoievski-en-ia-pour-sa-propagande_8301711.html#xtor=RSS-3-%5Bmonde%5D
+  En Russie, la chaîne Russia Today redonne vie à l'écrivain Fiodor Dostoïevski via l'intelligence artificielle. Son avatar numérique est utilisé pour commenter l'actualité et soutenir la politique russe en Ukraine.
+- [26/11 20:00] Le Figaro — Comment l’administration Trump a minimisé le coût de la guerre contre l’Iran
+  https://www.lefigaro.fr/international/comment-l-administration-trump-a-minimise-le-cout-de-la-guerre-contre-l-iran-20261126
+  DÉCRYPTAGE - Le bilan des destructions infligées aux forces américaines par l’Iran apparaît bien supérieur à ce qu’admet le Pentagone, qui tient à l’écart parlementaires et médias.
+- [26/11 19:27] Le Figaro — «Fermer le robinet», référendum, avoirs russes… Ce que proposent les candidats à la présidentielle sur la guerre en Ukraine
+  https://www.lefigaro.fr/politique/fermer-le-robinet-referendum-avoirs-russes-ce-que-proposent-les-candidats-a-la-presidentielle-sur-la-guerre-en-ukraine-20261126
+  En plein Congrès des maires, Teddy Riner a suscité un tollé en affirmant que «l’Ukraine n’est pas notre guerre». Une position singulière par rapport à la majorité des candidats, excepté Marine Le Pen.
+- [26/11 19:18] franceinfo — La Suède a convoqué l'ambassadeur russe à propos de la violation de l'espace aérien polonais
+  https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/la-suede-a-convoque-l-ambassadeur-russe-a-propos-de-la-violation-de-l-espace-aerien-polonais_8301873.html#xtor=RSS-3-%5Bmonde%5D
+  Cette convocation concerne aussi un supposé projet de meurtre d'un citoyen américano-ukrainien sur le territoire danois, a déclaré jeudi le ministère des Affaires étrangères danois.
+- [26/11 19:00] Le Monde — En Turquie, le maréchal Haftar concrétise son rapprochement avec Recep Tayyip Erdogan
+  https://www.lemonde.fr/afrique/article/2026/11/26/en-turquie-le-marechal-haftar-concretise-son-rapprochement-avec-recep-tayyip-erdogan_6815587_3212.html
+  La visite officielle de l’« homme fort » de la Cyrénaïque à Ankara, mercredi 25 novembre, constitue une étape décisive du rapprochement entre les autorités turques et l’Est libyen. La Turquie dispose déjà d’une présence…
+- [26/11 18:52] Le Monde — Gaza : Israel Katz, le ministre de la défense israélien, menace de déplacer un million de Palestiniens si le Hamas ne se désarme pas « volontairement »
+  https://www.lemonde.fr/international/article/2026/11/26/gaza-israel-katz-le-ministre-de-la-defense-israelien-menace-de-deplacer-un-million-de-palestiniens-si-le-hamas-ne-se-desarme-pas-volontairement_6815583_3210.html
+  Par ailleurs, l’armée israélienne intensifie ses frappes contre des responsables du mouvement islamiste, malgré le cessez-le-feu officiellement en vigueur.
 - [26/11 18:35] Le Monde — Le virage au forceps des alliés de l’OTAN vers des opérations militaires dopées à l’IA de Palantir
   https://www.lemonde.fr/international/article/2026/11/26/le-virage-au-forceps-des-allies-de-l-otan-vers-des-operations-militaires-dopees-a-l-ia-de-palantir_6815581_3210.html
   Le 30 octobre, sur la base d’Adazi, en Lettonie, a été organisée une simulation grandeur nature de défense du territoire de l’Alliance atlantique, intégralement coordonnée par l’intelligence artificielle du système amér…
 - [26/11 18:33] franceinfo — Procès de la jihadiste Émilie König :"Il n'y a pas de déterminisme dans l'engagement violent", explique un universitaire
-  https://www.franceinfo.fr/monde/terrorisme-djihadistes/proces-de-la-jihadiste-emilie-konig-il-n-y-a-pas-de-determinisme-dans-l-engagement-violent-explique-un-universitaire_8301384.html#xtor=RSS-3-%5Bmonde%5D
+  https://www.franceinfo.fr/monde/terrorisme-djihadistes/proces-de-la-jihadiste-emilie-konig-il-n-y-a-pas-de-determinisme-dans-l-engagement-violent-explique-un-universitaire_8301384.html#xtor=RSS-3-%5Bfaits-divers%5D
   Émilie König, surnommée l'égérie du jihad, comparaît devant la cour d'assises spéciale à Paris. Mère de cinq enfants, elle encourt 30 ans de réclusion criminelle pour association de malfaiteurs terroristes. Elle assure…
-- [26/11 18:28] Ouest-France — En Irak, des figures du djihadisme français en procès pour leur appartenance à l’État islamique
-  https://www.ouest-france.fr/monde/irak/en-irak-des-figures-du-djihadisme-francais-en-proces-pour-leur-appartenance-a-letat-islamique-8a7ac7de-e986-11f1-86c1-70195b4d2e52?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
-  Quarante-sept ressortissants français sont jugés en Irak depuis septembre pour leurs liens avec l’organisation djihadiste État islamique (EI) en Syrie et en Irak entre 2014 et 2019. Une vingtaine d’entre eux ont déjà ét…
-- [26/11 18:27] Le Figaro — EN DIRECT - Présidentielle 2027 : «La France soutiendra toujours les pays opprimés», affirme Teddy Riner après sa sortie polémique sur l’Ukraine
-  https://www.lefigaro.fr/elections/presidentielles/en-direct-presidentielle-2027-marine-le-pen-se-declare-sereine-face-a-l-emergence-de-david-lisnard-20261126
-  En visite au Salon des maires de France à Paris afin de collecter des parrainages, le candidat avait estimé que la France devait arrêter «de donner de l’argent que nous n’avons pas» pour soutenir l’Ukraine.
-- [26/11 18:26] franceinfo — En Israël, Gadi Eisenkot et le parti de gauche nouent un accord de coalition en vue de former un gouvernement
-  https://www.franceinfo.fr/monde/israel/en-israel-gadi-eisenkot-et-le-parti-de-gauche-nouent-un-accord-de-coalition-en-vue-de-former-un-gouvernement_8301750.html#xtor=RSS-3-[lestitres]
-  L'accord du parti Yashar avec Les Démocrates prévoit de donner quatre ministères à des responsables issus de la formation politique de gauche.
-- [26/11 18:23] Ouest-France — Il fournissait des bateaux aux passeurs de migrants dans la Manche, un patron arrêté en Allemagne
-  https://www.ouest-france.fr/monde/migrants/il-fournissait-des-bateaux-aux-passeurs-de-migrants-dans-la-manche-un-patron-arrete-en-allemagne-98d8c606-e994-11f1-9b33-2f81462d3339?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
-  Un vendeur allemand de canots pneumatiques a été arrêté dans le cadre d’une enquête sur une filière pour « homicides involontaires ». Il est accusé d’’avoir participé indirectement à la morts de migrants dans la Manche,…
 - [26/11 18:16] franceinfo — En Espagne, une journaliste visée par une procédure disciplinaire après s'être interrogée sur la place de l'extrême droite dans les médias publics
-  https://www.franceinfo.fr/monde/espagne/en-espagne-une-journaliste-visee-par-une-procedure-disciplinaire-apres-s-etre-interrogee-sur-la-place-de-l-extreme-droite-dans-les-medias-publics_8301078.html#xtor=RSS-3-[lestitres]
+  https://www.franceinfo.fr/monde/espagne/en-espagne-une-journaliste-visee-par-une-procedure-disciplinaire-apres-s-etre-interrogee-sur-la-place-de-l-extreme-droite-dans-les-medias-publics_8301078.html#xtor=RSS-3-%5Bpolitique%5D
   Silvia Intxaurrondo, journaliste sur la chaîne publique RTVE, risque une sanction de la part de l'organe chargé de superviser les élections. En cause, une séquence à l'antenne dans laquelle elle remet en question la pré…
-- [26/11 18:14] Ouest-France — Naufrage d’un navire au large d’Ibiza : l’Espagne mobilisée pour éviter toute pollution majeure
-  https://www.ouest-france.fr/environnement/pollution/naufrage-dun-navire-au-large-dibiza-lespagne-mobilisee-pour-eviter-toute-pollution-majeure-55665edc-e9b3-11f1-9b33-2f81462d3339?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
-  Les autorités espagnoles ont mis en place ce jeudi 26 novembre des mesures préventives après le naufrage au large d’Ibiza d’un navire battant pavillon maltais transportant 7 000 tonnes de carburant. Le but : essayer d’e…
-- [26/11 18:08] Le Figaro — Donald Trump souhaite que Vladimir Poutine «mette fin à toute agression militaire» en Europe
-  https://www.lefigaro.fr/international/donald-trump-souhaite-que-vladimir-poutine-mette-fin-a-toute-agression-militaire-en-europe-20261126
-  Dans un message publié sur Truth Social, le président américain a évoqué ses récents échanges avec son homologue russe en Chine, affirmant avoir abordé avec lui la nécessité de parvenir rapidement à un accord entre Mosc…
-- [26/11 18:08] Le Monde — Israël : Gadi Eisenkot et le parti de gauche Les Démocrates nouent un accord de coalition, premier pas vers la formation d’un gouvernement
-  https://www.lemonde.fr/international/article/2026/11/26/israel-gadi-eisenkot-et-le-parti-de-gauche-les-democrates-nouent-un-accord-de-coalition-premier-pas-vers-la-formation-d-un-gouvernement_6815576_3210.html
-  Les discussions entre les deux partis avaient été rompues mardi, faute d’entente sur la répartition des portefeuilles ministériels.
-- [26/11 17:44] franceinfo — Les houthis du Yémen attaquent une raffinerie dans le sud de l'Arabie saoudite, selon la coalition menée par Riyad
-  https://www.franceinfo.fr/monde/proche-orient/les-houthis-du-yemen-attaquent-une-raffinerie-dans-le-sud-de-l-arabie-saoudite-selon-la-coalition-menee-par-riyad_8301648.html#xtor=RSS-3-[lestitres]
-  Depuis la reprise du conflit entre les houthis et le gouvernement yéménite, les échanges de tirs sont quasi-quotidiens entre les deux parties.
-- [26/11 17:30] Le Monde — Législatives en Espagne : les cartes et graphiques pour comprendre comment la crise du logement est devenue un enjeu de la campagne
-  https://www.lemonde.fr/international/visuel/2026/11/26/legislatives-en-espagne-les-cartes-et-graphiques-pour-comprendre-comment-la-crise-du-logement-est-devenue-un-enjeu-de-la-campagne_6815566_3210.html
-  « Le modèle espagnol sous pression » (1/3). La flambée des prix de l’immobilier cristallise les angoisses des électeurs, à la veille du scrutin du 29 novembre. Depuis dix ans, il devient de plus en plus difficile de se…
-- [26/11 17:23] Le Monde — En Equateur, l’opposition au président Noboa dénonce des persécutions à la veille d’élections locales
-  https://www.lemonde.fr/international/article/2026/11/26/en-equateur-l-opposition-au-president-noboa-denonce-des-persecutions-a-la-veille-d-elections-locales_6815564_3210.html
-  La campagne des élections locales prévues dimanche 29 novembre a été largement modifiée par la mise hors de course de plusieurs candidats et formations.
-- [26/11 17:10] Le Figaro — «Fermer le robinet», référendum, avoirs russes… Ce que proposent les candidats à la présidentielle sur la guerre en Ukraine
-  https://www.lefigaro.fr/politique/fermer-le-robinet-referendum-avoirs-russes-ce-que-proposent-les-candidats-a-la-presidentielle-sur-la-guerre-en-ukraine-20261126
-  En plein Congrès des maires, Teddy Riner a suscité un tollé en affirmant que «l’Ukraine n’est pas notre guerre». Une position singulière par rapport à la majorité des candidats, excepté Marine Le Pen.
-- [26/11 16:57] franceinfo — "C'est notre première inondation" : les côtes de Californie balayées par des vagues géantes
-  https://www.franceinfo.fr/monde/usa/c-est-notre-premiere-inondation-les-cotes-de-californie-balayees-par-des-vagues-geantes_8301558.html#xtor=RSS-3-%5Bmonde%5D
-  Aux États-Unis, d'immenses vagues ont submergé les côtes de Californie, mercredi 25 novembre. Près de Los Angeles et de San Francisco, les habitants tentent de protéger leurs maisons.
-- [26/11 16:56] franceinfo — Un mort, 7 000 tonnes de carburant à bord, pas de traces de marée noire... Ce que l'on sait du naufrage d'un navire au large de l'île espagnole d'Ibiza
-  https://www.franceinfo.fr/environnement/pollution/naufrages/un-mort-7-000-tonnes-de-carburant-a-bord-pas-de-traces-d-une-maree-noire-ce-que-l-on-sait-du-naufrage-d-un-navire-au-large-de-l-ile-espagnole-d-ibiza_8301408.html#xtor=RSS-3-%5Bmonde%5D
-  D'importants moyens ont été déployés par le gouvernement espagnol pour éviter une catastrophe environnementale. Aucun déversement de carburant n'avait été observé jeudi à la mi-journée.
-- [26/11 16:36] franceinfo — L'Espagnol Pablo Hernandez de Cos va succéder à Christine Lagarde à la tête de la Banque centrale européenne
-  https://www.franceinfo.fr/monde/europe/union-europeenne/l-ex-gouverneur-de-la-banque-d-espagne-pablo-hernandez-de-cos-va-succeder-a-christine-lagarde-a-la-tete-de-la-banque-centrale-europeenne_8301510.html#xtor=RSS-3-%5Bmonde%5D
-  Cet économiste de formation dirige actuellement la Banque des règlements internationaux. Il a été préféré au Néerlandais Klaas Knot.
-- [26/11 16:20] franceinfo — Face à la menace russe, le Royaume-Uni contacte 100 000 anciens militaires
-  https://www.franceinfo.fr/societe/armee-securite-defense/face-a-la-menace-russe-le-royaume-uni-contacte-100-000-anciens-militaires_8301528.html#xtor=RSS-3-%5Bmonde%5D
-  Le Royaume-Uni se prépare à l'éventualité d'un conflit. Le ministère britannique de la Défense a écrit à quelque 100 000 anciens combattants pour pouvoir les rappeler sous les drapeaux en cas de besoin. Une démarche iné…
-- [26/11 16:18] Le Monde — Au Koweït, deux techniciens italiens tués par des drones iraniens ; Téhéran nie être à l’origine de l’attaque
-  https://www.lemonde.fr/international/article/2026/11/26/deux-italiens-tues-par-des-drones-iraniens-au-koweit_6815554_3210.html
-  Les victimes sont deux techniciens de Rheinmetall Italia qui travaillaient dans une station de détection de la défense antiaérienne, a précisé le chef de la diplomatie italienne.
-- [26/11 16:06] Le Monde — Gaza : un nouveau haut responsable du Hamas, Khaled Abou Nada, tué dans un bombardement israélien
-  https://www.lemonde.fr/international/article/2026/11/26/gaza-un-nouveau-haut-responsable-du-hamas-khaled-abou-nada-tue-dans-un-bombardement-israelien_6815551_3210.html
-  Le « responsable de la gestion des banques du Hamas », selon Israël, a été tué dans une frappe, avec son épouse. Six personnes au total ont été tuées dans des attaques israéliennes, jeudi, sur l’enclave palestinienne.
-- [26/11 16:00] Le Monde — L’Irak confronté au démantèlement des milices chiites engagées dans la guerre aux côtés de l’Iran
-  https://www.lemonde.fr/international/article/2026/11/26/l-irak-confronte-au-demantelement-des-milices-chiites-engagees-dans-la-guerre-aux-cotes-de-l-iran_6815549_3210.html
-  Si les forces gouvernementales sont entrées pour la première fois dans le fief d’une faction armée alliée de l’Iran, elles n’en ont pas repris le contrôle total. Ces factions refusent de désarmer.
-- [26/11 15:54] franceinfo — La compagnie aérienne FlyDubai va reprendre ses vols vers Israël le 3 décembre, après plus de deux mois d'interruption
-  https://www.franceinfo.fr/economie/aeronautique/la-compagnie-aerienne-flydubai-va-reprendre-ses-vols-vers-israel-le-3-decembre-apres-plus-de-deux-mois-d-interruption_8301531.html#xtor=RSS-3-%5Bmonde%5D
-  L'un des avions de la compagnie émiratie avait été dérouté fin septembre après la tentative du copilote omanais de provoquer un crash.
-- [26/11 15:42] Le Monde — EN DIRECT, guerre en Ukraine : Kiev revendique des attaques sur une base aérienne et une station pétrolière en Russie
-  https://www.lemonde.fr/international/live/2026/11/26/en-direct-guerre-en-ukraine-kiev-revendique-des-attaques-sur-une-base-aerienne-et-une-station-petroliere-en-russie_6814183_3210.html
-  L’armée ukrainienne a frappé, dans la nuit de mercredi à jeudi, « deux infrastructures stratégiques » en Russie, a affirmé l’état-major général des forces armées ukrainiennes. La raffinerie de Slaviansk-sur-Kouban a été…
 - [26/11 15:34] Le Figaro — Budget de l’UE : les exigences de l’Allemagne, chef de file des « frugaux » et premier contributeur net
   https://www.lefigaro.fr/international/budget-de-l-ue-les-exigences-de-l-allemagne-chef-de-file-des-frugaux-et-premier-contributeur-net-20261125
   RÉCIT - Première économie européenne, l’Allemagne compte peser de tout son poids sur les négociations relatives au budget de l’UE lors du sommet extraordinaire du Conseil européen qui se tient à compter de ce jeudi.
@@ -86,27 +134,15 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [26/11 15:32] Le Figaro — Au large d’Ibiza, quels risques présentent les 7000 tonnes de carburant ?
   https://www.lefigaro.fr/sciences/au-large-d-ibiza-quels-risques-presentent-les-7000-tonnes-de-carburant-20261126
   Les autorités espagnoles ont déployé jeudi 26 novembre un dispositif antipollution après le retournement d’un navire-citerne au large d’Ibiza. Un marin a péri dans l’accident, dont les conséquences environnementales res…
-- [26/11 15:30] Le Monde — Taïwan surpris par la campagne phénoménale de Puma Shen, improbable candidat à la mairie de Taipei
-  https://www.lemonde.fr/international/article/2026/11/26/taiwan-surpris-par-la-campagne-phenomenale-de-puma-shen-improbable-candidat-a-la-mairie-de-taipei_6815546_3210.html
-  Parti sans aucune chance de gagner la mairie de la capitale, Taipei, pour les élections locales du 28 novembre, le député néophyte Puma Shen, est, au terme d’une campagne réussie, perçu comme une réelle menace pour son…
-- [26/11 15:27] franceinfo — L'Ukraine a reçu 250 corps que la Russie affirme être des dépouilles de militaires ukrainiens
-  https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/l-ukraine-a-recu-250-corps-que-la-russie-affirme-etre-des-depouilles-de-militaires-ukrainiens_8301459.html#xtor=RSS-3-%5Bmonde%5D
-  De son côté, Moscou affirme qu'elle a reçu 22 corps qui seraient ceux de soldats russes.
-- [26/11 15:05] franceinfo — Le procès d'Émilie König, figure française de la propagande de Daech, s'ouvre à Paris
-  https://www.franceinfo.fr/faits-divers/le-proces-d-emilie-konig-figure-francaise-de-la-propagande-de-daech-s-ouvre-a-paris_8301471.html#xtor=RSS-3-%5Bfaits-divers%5D
-  Surnommée "l'égérie du djihad", Émilie König comparaît devant la cour d'assises spéciale de Paris depuis ce jeudi 26 novembre. Cette Française, partie rejoindre l'organisation État islamique en Syrie en 2015, est poursu…
-- [26/11 15:03] franceinfo — "J'ai vraiment honte" : au premier jour de son procès, Emilie König, ex-propagandiste de l'Etat islamique, présente ses excuses "à toute la nation française"
-  https://www.franceinfo.fr/monde/terrorisme-djihadistes/j-ai-vraiment-honte-au-premier-jour-de-son-proces-emilie-konig-ex-propagandiste-de-l-etat-islamique-presente-ses-excuses-a-toute-la-nation-francaise_8301402.html#xtor=RSS-3-%5Bmonde%5D
-  Présentée par le Parquet national antiterroriste comme une "véritable égérie" du groupe jihadiste en Syrie, la Bretonne de 41 ans comparaît jusqu'à lundi devant la cour d'assises spéciale de Paris.
-- [26/11 14:44] franceinfo — "C'est très préoccupant" : l'inquiétude après le naufrage d'un pétrolier transportant 7 000 tonnes de diesel au large d'Ibiza
-  https://www.franceinfo.fr/environnement/pollution/naufrages/c-est-quelque-chose-qui-est-tres-preoccupant-l-inquietude-apres-le-naufrage-d-un-petrolier-avec-7-000-tonnes-de-diesel-a-bord-au-large-d-ibiza_8301390.html#xtor=RSS-3-%5Bfaits-divers%5D
-  Une importante alerte a été déclenchée en Méditerranée, après le naufrage de ce navire et la mort d'un membre d'équipage. Les autorités espagnoles ont activé le plan d'urgence contre la pollution marine.
+- [26/11 15:06] franceinfo — Emmanuel Macron s'est rendu au chevet de la jeune victime de 12 ans hospitalisée après l'attentat raciste de Trappes
+  https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/emmanuel-macron-s-est-rendu-au-chevet-de-la-jeune-victime-de-12-ans-hospitalisee-apres-l-attentat-raciste-de-trappes_8301474.html#xtor=RSS-3-%5Bfaits-divers%5D
+  L'enfant de 12 ans est prise en charge depuis plus d'un mois à l'hôpital Necker à Paris. Elle avait été touchée par huit impacts de balles lors de l'attentat raciste de Trappes, le 23 octobre.
 - [26/11 13:40] Le Figaro — En Israël, la nouvelle majorité parlementaire détricote l’héritage de Netanyahou
   https://www.lefigaro.fr/international/en-israel-la-nouvelle-majorite-parlementaire-detricote-l-heritage-de-netanyahou-20261126
   DÉCRYPTAGE - La Knesset a entamé l’examen d’un projet de loi pour la création d’une commission d’enquête sur les défaillances sécuritaires lors du 7 octobre 2023, qui risque de pointer la responsabilité du premier minis…
-- [26/11 12:23] Le Monde — Présidentielle 2027 : Jean-Luc Mélenchon, en visite vendredi à Berlin, inquiète l’Allemagne avec sa rhétorique anti-allemande
-  https://www.lemonde.fr/international/article/2026/11/26/l-allemagne-s-inquiete-de-la-rhetorique-anti-allemande-de-jean-luc-melenchon_6815524_3210.html
-  Le candidat de La France insoumise à l’élection présidentielle française de 2027, de passage à Berlin le 27 novembre, n’a à ce stade pas de rendez-vous prévu avec des élus du parti de gauche radicale Die Linke, qu’il no…
+- [26/11 13:01] Zone Militaire — L’Ukraine souhaiterait obtenir entre dix et vingt anciens Eurofighter F-2000 auprès de l’Italie
+  https://www.opex360.com/2026/11/26/lukraine-souhaiterait-obtenir-entre-dix-et-vingt-anciens-eurofighter-f-2000-aupres-de-litalie/
+  La semaine passée, lors d’une d’une réunion du groupe de contact sur la défense de l’Ukraine [UDCG, encore appelé «groupe de Ramstein»], lequel comprend un quarantaine de pays, le président ukrainien, Volodymyr Zelenski…
 - [26/11 12:23] Le Figaro — Au Mali, les morts discrets de l’Africa Corps
   https://www.lefigaro.fr/international/au-mali-les-morts-discrets-de-l-africa-corps-20261126
   RÉCIT - Le Guardian révèle qu’au moins 349 soldats russes sont morts au cours des trois dernières années en appuyant la junte au pouvoir à Bamako.
@@ -116,146 +152,128 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [26/11 10:00] Le Figaro — Au Pendjab, le Versailles oublié d’un maharaja amoureux de la France
   https://www.lefigaro.fr/international/au-pendjab-le-versailles-oublie-d-un-maharaja-amoureux-de-la-france-20261126
   REPORTAGE - Inspiré de Versailles et de Fontainebleau, le château du maharaja Jagatjit Singh a besoin d’une restauration. Mais le chantier est paralysé par la bureaucratie et le désintérêt des politiques.
-- [26/11 05:05] Le Figaro — «Des siècles d’oppression» : aux États-Unis, quand des Amérindiens font le deuil le jour de Thanksgiving
-  https://www.lefigaro.fr/international/des-siecles-d-oppression-aux-etats-unis-quand-des-amerindiens-font-le-deuil-le-jour-de-thanksgiving-20261126
-  RÉCIT - Fondée sur le mythe populaire de l’amitié entre les premiers colons et les tribus natives, la célèbre fête familiale américaine est avant tout, pour certains descendants d’Indiens d’Amérique, une journée de deui…
-- [26/11 05:00] Le Monde — Emilie König, la plus médiatique des djihadistes françaises, devant la justice
-  https://www.lemonde.fr/societe/article/2026/11/26/emilie-konig-la-plus-mediatique-des-djihadistes-francaises-devant-la-justice_6815463_3224.html
-  Le procès de cette « revenante » de Syrie, âgée de 41 ans et mère de cinq enfants, accusée d’association de malfaiteurs terroriste notamment pour avoir relayé la propagande de l’organisation Etat islamique, s’ouvre jeud…
-- [25/11 18:00] Le Figaro — Sommet de l’Apec : aidée par Donald Trump, la Chine accentue l’isolement du Japon dans le Pacifique
-  https://www.lefigaro.fr/international/sommet-de-l-apec-aidee-par-donald-trump-la-chine-accentue-l-isolement-du-japon-dans-le-pacifique-20261125
-  RÉCIT - Le président chinois Xi Jinping a réservé un accueil glacial à la première ministre japonaise Sanae Takaichi au sommet de Shenzhen. Un travail de sape pour lézarder l’alliance nippo-américaine en profitant du si…
-- [25/11 14:15] Le Figaro — Mangas, aïkido, sushis… À Pékin, le « soft power » japonais défie les injonctions nationalistes
-  https://www.lefigaro.fr/international/mangas-aikido-sushis-a-pekin-le-soft-power-japonais-defie-les-injonctions-nationalistes-20261125
-  RÉCIT - En pleine crise diplomatique entre Pékin et Tokyo, la pop culture japonaise fait recette auprès des nouvelles classes moyennes chinoises, en décalage avec la propagande du parti.
 
 ## France
-- [26/11 18:50] Ouest-France — « Il y a deux moyens d’y entrer. Choisissez le bon » : voici l’étonnante méthode de ces prisons pour recruter du personnel
-  https://www.ouest-france.fr/leditiondusoir/2026-11-26/il-y-a-deux-moyens-d-y-entrer-choisissez-le-bon-voici-l-etonnante-methode-de-ces-prisons-pour-recruter-du-personnel-b05abef2-ea1e-4d03-95e8-6eb388c98cec?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
-  Confrontées à une surpopulation carcérale, les prisons tchèques manquent de personnel. C’est pourquoi elles ont organisé, en novembre, une opération portes ouvertes dans le but de trouver de nouveaux gardiens.
-- [26/11 18:47] Ouest-France — Présidentielle 2027 : « Je ne suis pas un César »… Raphaël Glucksmann vient en Mayenne présenter son projet de conseil des territoires
-  https://www.ouest-france.fr/elections/presidentielle/presidentielle-2027-je-ne-suis-pas-un-cesar-raphael-glucksmann-vient-en-mayenne-presenter-son-projet-de-conseil-des-territoires-d6bb0434-e99e-11f1-86c1-70195b4d2e52?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
-  Raphaël Glucksman est venu poursuivre sa campagne pour la présidentielle, ce jeudi 26 novembre 2026, en Mayenne. Il en a profité pour présenter son projet : le conseil des territoires. Une réunion d’une centaine d’élus…
-- [26/11 18:47] Le Figaro — «C’est de la folie!»: l’État met fin à la rémunération des installations solaires les plus anciennes
-  https://www.lefigaro.fr/societes/c-est-de-la-folie-l-etat-met-fin-a-la-remuneration-des-installations-solaires-les-plus-anciennes-20261126
-  Le secteur est vent debout contre une décision annoncée unilatéralement par le gouvernement mercredi après-midi. La méthode inquiète, y compris dans les rangs LR, tant elle frôle l’amateurisme.
-- [26/11 18:43] Le Figaro — Jordan Bardella fragilisé par de nouvelles révélations
+- [27/11 06:00] Ouest-France — Le youtubeur Greg Guillotin jugé ce vendredi pour violences conjugales sur son ex-compagne
+  https://www.ouest-france.fr/societe/faits-divers/violences-conjugales/le-youtubeur-greg-guillotin-juge-ce-vendredi-pour-violences-conjugales-sur-son-ex-compagne-c22e484e-e9b4-11f1-86c1-70195b4d2e52?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
+  Connu pour ses caméras cachées, le youtubeur Greg Guillotin est jugé ce vendredi 27 novembre 2026 à Évry (Essonne) pour des faits de violences conjugales envers son ex-compagne. Le créateur de contenu de 43 ans a déjà r…
+- [27/11 05:55] franceinfo — Où en sont les rapprochements entre La France insoumise et les forces de gauche prêtes à soutenir Jean-Luc Mélenchon à la présidentielle ?
+  https://www.franceinfo.fr/elections/ou-en-sont-les-rapprochements-entre-la-france-insoumise-et-les-forces-de-gauche-pretes-a-soutenir-jean-luc-melenchon-a-la-presidentielle_8301066.html#xtor=RSS-3-%5Bpolitique%5D
+  LFI, qui poursuit ses discussions avec les Ecologistes, vient de nouer une alliance avec le mouvement de Benoît Hamon, Génération.s, mais a fermé la porte à une réconciliation avec les anciens insoumis exclus en 2024.
+- [27/11 05:45] Ouest-France — Black Friday : « Pour les consommateurs, cet événement consiste surtout à préparer Noël », estime cette spécialiste
+  https://www.ouest-france.fr/economie/consommation/black-friday-pour-les-consommateurs-cet-evenement-consiste-surtout-a-preparer-noel-estime-cette-specialiste-0645d076-e97c-11f1-86c1-70195b4d2e52?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
+  Si la confiance des consommateurs était en baisse ces derniers mois à cause d’un contexte économique morose, certains acteurs prédisent néanmoins des ventes importantes durant le Black Friday 2026, ce vendredi 27 novemb…
+- [27/11 05:00] Le Monde — Au procès de l’explosion de la rue de Trévise, les avocats des parties civiles rendent hommage aux victimes et réfutent la thèse de « la fatalité »
+  https://www.lemonde.fr/societe/article/2026/11/27/au-proces-de-l-explosion-de-la-rue-de-trevise-les-avocats-des-parties-civiles-rendent-hommage-aux-victimes-et-refutent-la-these-de-la-fatalite_6815760_3224.html
+  Jeudi 26 novembre ont pris fin trois jours de plaidoiries qui ont souligné « la négligence et l’imprudence institutionnalisées » de la Ville de Paris et de la société Cipa, le syndic du n° 6 de la rue de Trévise.
+- [27/11 00:54] Le Monde — Présidentielle 2027 : Eric Zemmour annonce sa « dernière campagne »
+  https://www.lemonde.fr/politique/article/2026/11/27/presidentielle-2027-eric-zemmour-annonce-sa-derniere-campagne_6815659_823448.html
+  Arrivé quatrième au scrutin de 2022 avec 7,07 % des voix, le candidat du parti d’extrême droite Reconquête ! n’est plus crédité que d’environ 3 % des intentions de vote dans un sondage publié jeudi, très loin derrière M…
+- [27/11 00:54] franceinfo — Regardez le replay de "Complément d'enquête". Interpol : une police hors de contrôle ?
+  https://www.franceinfo.fr/replay-magazine/france-2/complement-d-enquete/complement-d-enquete-interpol-une-police-hors-de-controle_8270150.html#xtor=RSS-3-[lestitres]
+  Détournement de ses outils par des régimes autoritaires, corruption interne, données insuffisamment protégées... "Complément d’enquête" met au jour une série de failles aux lourdes conséquences au sein de l’organisation…
+- [27/11 00:07] franceinfo — Regardez le replay de l'émission "Envoyé spécial" de jeudi
+  https://www.franceinfo.fr/replay-magazine/france-2/envoye-special/envoye-special-du-jeudi-26-novembre-2026_8270153.html#xtor=RSS-3-[lestitres]
+  Au sommaire : "Captation d'héritage : les seniors pris pour cible", "Ce soir on sort danser... sans les hommes !", "Pays baltes : à votre bunker !".
+- [27/11 00:03] franceinfo — Cinquante organisations présentent 60 mesures pour refonder la protection sociale dans le cadre de la campagne présidentielle
+  https://www.franceinfo.fr/societe/cinquante-organisations-presentent-60-mesures-pour-refonder-la-protection-sociale-dans-le-cadre-de-la-campagne-presidentielle_8302125.html#xtor=RSS-3-[lestitres]
+  Ces organisations, qui comprennent la Mutualité Française ou encore la CFDT, ont rassemblé 60 idées pour enrayer le creusement du déficit de la Sécurité sociale, et rendre le système "plus juste" et "plus efficace".
+- [26/11 23:43] Le Monde — A Nice, dix membres d’un groupe « anticasseurs » devant la justice : « On était là pour les commerçants »
+  https://www.lemonde.fr/societe/article/2026/11/26/a-nice-dix-membres-d-un-groupe-anticasseurs-devant-la-justice-on-etait-la-pour-les-commercants_6815626_3224.html
+  Dix membres présumés d’un « groupe d’autodéfense » constitué face aux manifestations de l’automne, soupçonnés d’être proches de l’ultradroite locale, comparaissaient jeudi 26 octobre devant le tribunal correctionnel de…
+- [26/11 22:56] Le Figaro — EN DIRECT - Présidentielle 2027 : «C’est une drôle d’arrogance de penser qu’elle serait déjà en charge du destin de la France», lance Macron à Le Pen
+  https://www.lefigaro.fr/elections/presidentielles/en-direct-presidentielle-2027-marine-le-pen-se-declare-sereine-face-a-l-emergence-de-david-lisnard-20261126
+  La candidate du RN est en tête de tous les sondages, à cinq mois du premier tour de l’élection présidentielle.
+- [26/11 22:55] franceinfo — "C'est ma dernière campagne", annonce le candidat de Reconquête à la présidentielle Eric Zemmour
+  https://www.franceinfo.fr/politique/eric-zemmour/c-est-ma-derniere-campagne-annonce-le-candidat-de-reconquete-a-la-presidentielle-eric-zemmour_8302101.html#xtor=RSS-3-[lestitres]
+  L'entrée en lice du candidat d'extrême droite avait mis un terme à la possibilité que Sarah Knafo concoure à sa place, sa popularité l'ayant un temps fait apparaître comme la possible candidate de Reconquête à l'Elysée.
+- [26/11 22:53] franceinfo — L'IGPN ouvre une enquête à Toulouse après la plainte d'un manifestant grièvement blessé à la main lors de la mobilisation du 24 octobre
+  https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/l-igpn-ouvre-une-enquete-a-toulouse-apres-la-plainte-d-un-manifestant-grievement-blesse-a-la-main-lors-de-la-mobilisation-du-24-octobre_8302107.html#xtor=RSS-3-[lestitres]
+  Âgé de 20 ans, Tedy Durand a été mutilé par une grenade dans le quartier des Arènes lors de la mobilisation contre la vie chère. Le jeune homme témoigne de son lourd traumatisme, après deux opérations à l'hôpital Purpan.
+- [26/11 22:11] franceinfo — "C'est pas le psy qui va faire pousser de l'herbe" : après le suicide d'un agriculteur, sa famille témoigne
+  https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/secheresse/c-est-pas-le-psy-qui-va-faire-pousser-de-l-herbe-apres-le-suicide-d-un-agriculteur-sa-famille-temoigne_8302056.html#xtor=RSS-3-[lestitres]
+  À 18 ans, Gabin Bréhaut a repris l'exploitation familiale après le suicide de son père, agriculteur dans le Maine-et-Loire. Épuisé par les conséquences de la sécheresse et des fortes chaleurs sur son troupeau, Jean-Fran…
+- [26/11 21:51] franceinfo — "ChatGPT m'a dit de vous appeler" : les centres antipoison débordés à cause de l'IA
+  https://www.franceinfo.fr/internet/intelligence-artificielle/chatgpt-m-a-dit-de-vous-appeler-les-centres-antipoison-debordes-a-cause-de-l-ia_8302050.html#xtor=RSS-3-[lestitres]
+  Depuis l'été, les appels aux centres antipoison se multiplient et ne relèvent pas de la toxicologie. Souvent, l'intelligence artificielle conseille à ses utilisateurs de les appeler, même quand ce n'est pas nécessaire.
+- [26/11 21:42] Le Monde — Le défilé des candidats au Salon des maires, rendez-vous incontournable de la campagne présidentielle
+  https://www.lemonde.fr/politique/article/2026/11/26/le-defile-des-candidats-au-salon-des-maires-rendez-vous-incontournable-de-la-campagne-presidentielle_6815600_823448.html
+  Aux exceptions notables de Marine Le Pen et de Jean-Luc Mélenchon, les postulants à l’Elysée sont venus, mercredi, au Parc des expositions à Paris, prendre le pouls des élus locaux et chercher, pour certains, les précie…
+- [26/11 21:31] franceinfo — Jordan Bardella accusé de nouveaux écrits antisémites : comment réagissent les électeurs du RN ?
+  https://www.franceinfo.fr/politique/jordan-bardella/propos-antisemites-attribues-a-jordan-bardella/jordan-bardella-accuse-de-nouveaux-ecrits-antisemites-comment-reagissent-les-electeurs-du-rn_8302038.html#xtor=RSS-3-%5Bpolitique%5D
+  Mediapart et Le Monde publient, jeudi 26 novembre, de nouveaux écrits antisémites qu'ils attribuent à Jordan Bardella. Le président du Rassemblement national dément toujours en être l'auteur alors que son parti reste en…
+- [26/11 21:15] Le Figaro — Présidentielle 2027 : Édouard Philippe veut « dépenser mieux » pour la santé, une « fierté française »
+  https://www.lefigaro.fr/politique/presidentielle-2027-edouard-philippe-veut-depenser-mieux-pour-la-sante-une-fierte-francaise-20261126
+  DÉCRYPTAGE - Vaccins obligatoires, lutte contre les « déserts médicaux », loi contre l’exposition des jeunes aux écrans… Édouard Philippe a détaillé jeudi son projet sur la santé, en attaquant la « décroissance sanitair…
+- [26/11 21:12] Le Figaro — « Nous ne demandons pas l’indépendance mais l’impartialité des parquets » : les procureurs à l’assaut de la réforme de leur statut
+  https://www.lefigaro.fr/actualite-france/procureurs-de-la-republique-cherchent-independance-desesperement-20261126
+  DÉCRYPTAGE - À l’occasion de ses vingt ans, la Conférence nationale des procureurs veut remettre la réforme de leur statut sur le métier.
+- [26/11 21:11] Le Figaro — Soupçon de fuites vers le RN : le procureur surpris au siège du parti a admis qu'il avait connaissance de l'affaire
+  https://www.lefigaro.fr/politique/soupcon-de-fuites-vers-le-rn-le-procureur-surpris-au-siege-du-parti-a-admis-qu-il-avait-connaissance-de-l-affaire-20261126
+  Christian de Rocquigny, procureur adjoint de Paris, a admis qu’il avait transmis fin juillet un rapport sur le sujet, préalablement «relu et corrigé», et donc «parti sous (sa) signature».
+- [26/11 21:08] Le Monde — Salon des maires et présidentielle 2027 : retrouvez notre direct sur la journée politique
+  https://www.lemonde.fr/politique/live/2026/11/26/en-direct-presidentielle-2027-emmanuel-macron-a-propos-de-marine-le-pen-c-est-une-drole-d-arrogance-de-penser-qu-elle-serait-deja-en-charge-du-destin-de-la-france_6815062_823448.html
+  Lors d’un débat pour la clôture du salon des maires, David Lisnard, Sébastien Lecornu et Gérard Larcher sont revenus sur la proposition d’Emmanuel Macron de graver une « règle d’or budgétaire » dans la Constitution, mai…
+- [26/11 21:03] Le Monde — Policière tuée en pleine rue en 2023 : son ex-mari condamné à la réclusion criminelle à perpétuité
+  https://www.lemonde.fr/societe/article/2026/11/26/policiere-tuee-en-pleine-rue-en-2023-son-ex-mari-condamne-a-la-reclusion-criminelle-a-perpetuite_6815599_3224.html
+  Cette peine est conforme aux réquisitions de l’avocate générale. Elle est assortie d’une peine de sûreté de 18 ans.
+- [26/11 20:39] Le Figaro — Écrits antisémites : Jordan Bardella fragilisé par de nouvelles révélations
   https://www.lefigaro.fr/politique/jordan-bardella-fragilise-par-de-nouvelles-revelations-20261126
-  Les journaux Le Monde et Mediapart ont publié de nouvelles enquêtes censées prouver que Jordan Bardella a bien tenu des propos antisémites en 2013, alors qu’il n’était que simple militant du Front national.
-- [26/11 18:41] Le Figaro — Attentat de Trappes : Macron au chevet de Ramatou, 12 ans, blessée par huit balles
-  https://www.lefigaro.fr/politique/attentat-de-trappes-macron-au-chevet-de-ramatou-12-ans-blessee-par-huit-balles-20261126
-  Le président de la République s’est entretenu mercredi avec la fillette et ses parents à Necker, où elle poursuit sa convalescence depuis la fusillade terroriste du 23 octobre dans les Yvelines.
-- [26/11 18:40] Le Figaro — « Malheureusement, c’est fait » : au procès de l’assassinat de Chahinez Daoud, les dérisoires remords de l’ex-mari
-  https://www.lefigaro.fr/bordeaux/malheureusement-c-est-fait-au-proces-de-l-assassinat-de-chahinez-daoud-les-derisoires-remords-de-l-ex-mari-20261126
-  COMPTE RENDU D’AUDIENCE - Jugé en appel devant la cour d’assises de la Dordogne pour l’assassinat de son ex-femme, Mounir Boutaa a été interrogé, jeudi. Malgré de nombreuses incohérences, il a exprimé des remords pour «…
-- [26/11 18:33] Ouest-France — 80 % des handicaps sont invisibles : cette structure accompagne les entreprises pour les rendre plus inclusives
-  https://www.ouest-france.fr/sante/handicaps/80-pourcent-des-handicaps-sont-invisibles-cette-structure-accompagne-les-entreprises-pour-les-rendre-plus-inclusives-bc2402b0-e421-11f1-9a72-32f9104dab1b?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
-  À l’occasion de la Semaine européenne pour l’emploi des personnes handicapées (SEEPH), organisée du 16 au 22 novembre, état des lieux de la situation dans le Maine-et-Loire avec Caroline Geny, déléguée régionale de l’As…
-- [26/11 18:32] Le Figaro — Présidentielle 2027 : David Lisnard meilleur candidat qu’Édouard Philippe pour les sympathisants de la droite et du centre
-  https://www.lefigaro.fr/politique/presidentielle-2027-david-lisnard-meilleur-candidat-qu-edouard-philippe-pour-les-sympathisants-de-la-droite-et-du-centre-20261126
-  SONDAGE - Popularité, traits d’image, domaines de compétence… Selon notre sondage Odoxa-Backbone pour Le Figaro, le libéral maire de Cannes prend l’ascendant sur celui du Havre à cinq mois de l’élection présidentielle.
-- [26/11 18:30] Ouest-France — « Une aubaine » : comment la découverte d’un coffre rempli de billets va profiter à des habitants aux revenus modestes dès cet hiver
-  https://www.ouest-france.fr/leditiondusoir/2026-11-26/une-aubaine-comment-la-decouverte-d-un-coffre-rempli-de-billets-va-profiter-a-des-habitants-aux-revenus-modestes-des-cet-hiver-1cf0cd17-ab94-44e6-b4ea-397dc9994a86?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu
-  Un coffre-fort contenant 50 000 € en liquide a été découvert par hasard par un promeneur sur un sentier de Falmouth, dans le Maine (États-Unis). L’argent devrait profiter aux habitants de la commune qui en ont le plus b…
-- [26/11 18:28] Le Figaro — Écrits antisémites : Jordan Bardella «envisage un complément de plainte» pour faux et usage de faux visant Le Monde et Mediapart
-  https://www.lefigaro.fr/politique/ecrits-antisemites-jordan-bardella-envisage-un-complement-de-plainte-pour-faux-et-usage-de-faux-visant-le-monde-et-mediapart-20261126
-  Le président du Rassemblement national conteste les informations publiées jeudi par les deux médias, qui le désignent comme l’auteur de propos antisémites tenus en 2013.
-- [26/11 18:18] franceinfo — "La pensée anti-juifs obsédait Jordan Bardella" : ce qu'il faut retenir des nouvelles révélations sur des écrits antisémites attribués au patron du Rassemblement national
-  https://www.franceinfo.fr/politique/jordan-bardella/la-pensee-anti-juifs-obsedait-jordan-bardella-ce-qu-il-faut-retenir-des-nouvelles-revelations-sur-des-ecrits-antisemites-attribues-au-patron-du-rassemblement-national_8300919.html#xtor=RSS-3-[lestitres]
-  Deux mois après les premières révélations de Mediapart, le site d'investigation et "Le Monde" publient de nouveaux messages antisémites attribués au leader d'extrême droite.
+  DÉCRYPTAGE - Les journaux Le Monde et Mediapart ont publié de nouvelles enquêtes censées prouver que Jordan Bardella a bien tenu des propos antisémites en 2013, alors qu’il n’était que simple militant du Front national.
+- [26/11 20:38] Le Monde — L’Agence France-Presse dit avoir été visée par une cyberattaque qui paralyse l’une de ses plateformes de mise à disposition des dépêches et des images
+  https://www.lemonde.fr/actualite-medias/article/2026/11/26/l-afp-dit-avoir-ete-visee-par-une-cyberattaque-qui-paralyse-l-une-de-ses-plateformes-de-mise-a-disposition-des-depeches-et-des-images_6815596_3236.html
+  L’AFP a dit, jeudi soir, ne disposer « d’aucun élément sur l’identité des auteurs » de cette attaque. AFP Forum, l’un de ses principaux sites, est inaccessible.
+- [26/11 20:15] franceinfo — Présidentielle 2027 : l'expérience de David Lisnard dans le privé est-elle une réussite
+  https://www.franceinfo.fr/elections/presidentielle-2027-l-experience-de-david-lisnard-dans-le-prive-est-elle-une-reussite_8301930.html#xtor=RSS-3-%5Bpolitique%5D
+  À l'occasion de sa campagne présidentielle, David Lisnard met souvent en avant son expérience professionnelle dans le privé. Certains évoquent plutôt un échec dans le monde de l’entreprise, mais qu’en est-il vraiment ?
+- [26/11 20:09] Le Monde — A Paris, des lycéens et étudiants toujours mobilisés qui récusent tout « retour à la normale »
+  https://www.lemonde.fr/campus/article/2026/11/26/a-paris-des-lyceens-et-etudiants-toujours-mobilises-qui-recusent-tout-retour-a-la-normale_6815594_4401467.html
+  Quelques milliers de jeunes ont manifesté dans la capitale, jeudi 26 novembre, entre volonté de ne rien lâcher sur les revendications et doutes sur les conséquences de la mobilisation sur leur année scolaire et universi…
+- [26/11 20:04] Le Figaro — L’éditorial d’Yves Thréard : «La France insoumise doit rester une France impossible»
+  https://www.lefigaro.fr/vox/politique/l-editorial-d-yves-threard-la-france-insoumise-doit-rester-une-france-impossible-20261126
+  La droite et le centre doivent trouver le candidat qui empêchera un second tour opposant Jean-Luc Mélenchon à Marine Le Pen.
+- [26/11 20:00] franceinfo — C’est Benjamin... à Amiens, avec une asso de quartier
+  https://www.franceinfo.fr/elections/c-est-benjamin-a-amiens-avec-une-asso-de-quartier_8301828.html#xtor=RSS-3-%5Bpolitique%5D
+  C’est Benjamin de franceinfo, à la rencontre des Français jusqu’au deuxième tour de la présidentielle 2027. A Amiens (Picardie), il pousse la porte d’une association dans un quartier populaire qui offre une seconde chan…
+- [26/11 19:49] franceinfo — Propos antisémites attribués à Jordan Bardella : "M. Bardella devrait aujourd'hui non seulement assumer, mais s'expliquer", déclare Sylvain Berrios, député Horizons du Val-de-Marne et porte-parole d'…
+  https://www.franceinfo.fr/replay-magazine/franceinfo/avant-le-20h/propos-antisemites-attribues-a-jordan-bardella-m-bardella-devrait-aujourd-hui-non-seulement-assumer-mais-s-expliquer-declare-sylvain-berrios-depute-horizons-du-val-de-marne-et-porte-parole-d-edouard-philippe_8301936.html#xtor=RSS-3-%5Bpolitique%5D
+  Sylvain Berrios, député Horizons du Val-de-Marne et porte-parole d’Édouard Philippe, et Xavier Melki, maire LR de Franconville et porte-parole de David Lisnard, sont les invités du Duel d’"Avant 20 Heures", ce jeudi 26…
+- [26/11 19:49] Le Monde — Budget de la « Sécu » pour 2027 : un compromis à ce stade introuvable
+  https://www.lemonde.fr/politique/article/2026/11/26/budget-de-la-secu-pour-2027-un-compromis-a-ce-stade-introuvable_6815592_823448.html
+  Alors que les députés et les sénateurs, réunis en commission mixte paritaire, n’ont pas réussi à s’entendre, jeudi, sur une version commune du texte, le premier ministre, Sébastien Lecornu, a déclaré que le « travail »…
+- [26/11 19:46] Le Figaro — « Opération conviction » : à Reims, Marine Le Pen propose de baisser l’impôt sur les sociétés pour les petites entreprises
+  https://www.lefigaro.fr/elections/presidentielles/operation-conviction-a-reims-marine-le-pen-propose-de-baisser-l-impot-sur-les-societes-pour-les-petites-entreprises-20261126
+  REPORTAGE - La candidate à l’élection présidentielle, donnée favorite dans les sondages, veut convaincre qu’elle entend les préoccupations des dirigeants de petites entreprises.
+- [26/11 19:40] Le Figaro — Présidentielle 2027 : largement battu par Marine Le Pen dans les sondages de second tour, Jean-Luc Mélenchon a-t-il vraiment perdu d’avance ?
+  https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-largement-battu-par-marine-le-pen-dans-les-sondages-de-second-tour-jean-luc-melenchon-a-t-il-vraiment-perdu-d-avance-20261126
+  DÉCRYPTAGE - Si, à ce jour, les intentions de vote donnent l’Insoumis qualifié pour la finale, puis nettement devancé par la candidate RN, certains, à l’instar de Gérald Darmanin, prédisent sa victoire. Les sondeurs, eu…
+- [26/11 19:06] Le Monde — Des policiers manifestent leur colère devant les commissariats en France : « On veut que notre travail soit reconnu »
+  https://www.lemonde.fr/societe/article/2026/11/26/des-policiers-manifestent-leur-colere-devant-les-commissariats-en-france-on-veut-que-notre-travail-soit-reconnu_6815591_3224.html
+  Plusieurs rassemblements de fonctionnaires de police ont eu lieu, jeudi, pour réclamer, notamment, une hausse de la prime de risque. Cette démonstration de force, soutenue par les trois principaux syndicats, intervient…
+- [26/11 19:04] Le Figaro — Suivis à la sortie du commissariat, menacés jusqu’à leur domicile et obligés de déménager : un policier est agressé hors service tous les deux jours en France
+  https://www.lefigaro.fr/actualite-france/suivis-a-la-sortie-du-commissariat-menaces-jusqu-a-leur-domicile-et-obliges-de-demenager-un-policier-est-agresse-hors-service-tous-les-deux-jours-en-france-20261126
+  EXCLUSIF - La haine « antiflics » cible les porteurs de l’uniforme jusqu’au cœur de leur vie privée. Alors que les agents se protègent jusqu’à vivre repliés, l’institution multiplie les conseils et les notes d’alerte.
+- [26/11 19:00] Le Monde — Le Louvre, un monument modèle résumé en 300 photographies
+  https://www.lemonde.fr/m-styles/article/2026/11/26/le-louvre-un-monument-modele-resume-en-300-photographies_6815590_4497319.html
+  L’exposition « Louvre Photo » revient sur deux siècles d’images du célèbre musée qui a inspiré les photographes dès l’époque des daguerréotypes.
 - [26/11 18:15] Le Monde — Présidentielle 2027 : Edouard Philippe présente ses propositions en matière de santé, entre nouveaux vaccins obligatoires et « obligation de solidarité » pour les médecins
   https://www.lemonde.fr/election-presidentielle-2027/article/2026/11/26/presidentielle-2027-edouard-philippe-presente-ses-propositions-en-matiere-de-sante-entre-nouveaux-vaccins-obligatoires-et-obligation-de-solidarite-pour-les-medecins_6815577_6205049.html
   L’hôpital devra être « refondé » pour le rendre « plus libre de sa gestion et de ses moyens », a prôné, à l’Institut Curie, le candidat Horizons, qui entend permettre aux hôpitaux publics de recruter eux-mêmes leurs méd…
-- [26/11 18:13] franceinfo — Doliprane, Dafalgan et Efferalgan… Pourquoi la boîte de paracétamol va-t-elle augmenter ?
-  https://www.franceinfo.fr/sante/medicament/doliprane-dafalgan-et-efferalgan-pourquoi-la-boite-de-paracetamol-va-t-elle-augmenter_8301477.html#xtor=RSS-3-[lestitres]
-  L'État s'apprête à revaloriser le prix du médicament fabriqué en France à compter de juillet 2027 après des années de gel tarifaire.
-- [26/11 18:12] Le Figaro — Robert Ménard : « En réclamant la suspension de CNews, Reporters sans frontières trahit son idéal »
-  https://www.lefigaro.fr/vox/societe/robert-menard-en-reclamant-la-suspension-de-cnews-reporters-sans-frontieres-trahit-son-ideal-20261126
-  TRIBUNE - Ce jeudi, Reporters sans frontières a saisi l’Arcom pour exiger la suspension de la chaîne de télévision pendant un mois. Pour le maire de Béziers*, qui a cofondé l’ONG en 1985, cette démarche trahit la raison…
 - [26/11 18:10] franceinfo — Benoît Payan s'interroge sur les casseurs du 17 octobre, arrêtés et relâchés
   https://www.franceinfo.fr/politique/benoit-payan-s-interroge-sur-les-casseurs-du-17-octobre-arretes-et-relaches_8301378.html#xtor=RSS-3-%5Bpolitique%5D
   Benoît Payan, le maire divers gauche de Marseille, ne comprend pas pourquoi pilleurs et casseurs, le 17 octobre, ont été relâchés. Pourtant pris en flagrant délit.
-- [26/11 18:07] Le Figaro — «On ne se laissera pas intimider» : CNews répond à Reporters sans frontières qui demande sa suspension
-  https://tvmag.lefigaro.fr/programme-tv/actu-tele/on-ne-se-laissera-pas-intimider-cnews-repond-a-reporters-sans-frontieres-qui-demande-sa-suspension-20261126
-  L’ONG a saisi jeudi l’Arcom pour demander la suspension temporaire de la chaîne d’information, en l’accusant notamment de non-respect répété du pluralisme.
-- [26/11 18:00] Le Monde — Dix ans de l’accord de paix en Colombie : « Se taire n’était pas une option, c’est pourquoi l’Eglise catholique a décidé de s’impliquer »
-  https://www.lemonde.fr/le-monde-des-religions/article/2026/11/26/dix-ans-de-l-accord-de-paix-en-colombie-se-taire-n-etait-pas-une-option-c-est-pourquoi-l-eglise-catholique-a-decide-de-s-impliquer_6815575_6038514.html
-  Le 24 novembre 2016, le gouvernement colombien signait un accord de paix avec les Forces armées révolutionnaires de Colombie (FARC), la plus ancienne guérilla d’Amérique latine. L’Eglise catholique s’est également beauc…
-- [26/11 18:00] Le Monde — Présidentielle 2027 : Marine Le Pen courtise les PME avec un nouveau projet de réforme fiscale
-  https://www.lemonde.fr/politique/article/2026/11/26/presidentielle-2027-marine-le-pen-courtise-les-pme-avec-un-nouveau-projet-de-reforme-fiscale_6815572_823448.html
-  La candidate du Rassemblement national à l’élection présidentielle propose de rendre progressif l’impôt sur les sociétés, avec des taux plus faibles pour les petites entreprises. Mais elle veut aussi le soutien des gran…
-- [26/11 17:55] Le Monde — EN DIRECT, congrès des maires de France : « Je ne veux pas que le gouvernement se mêle de la campagne présidentielle », affirme Sébastien Lecornu
-  https://www.lemonde.fr/politique/live/2026/11/26/en-direct-congres-des-maires-de-france-je-ne-veux-pas-que-le-gouvernement-se-mele-de-la-campagne-presidentielle-affirme-sebastien-lecornu_6815062_823448.html
-  Sébastien Lecornu (premier ministre), David Lisnard (président réélu de l’AMF) et Gérard Larcher (président du Sénat) échangent en clôture du 108ᵉ congrès des maires organisé par l’Association des maires de France.
-- [26/11 17:52] Le Monde — Les policiers se sont mobilisés dans plusieurs villes de France pour réclamer davantage de moyens et une augmentation de leur prime de risque
-  https://www.lemonde.fr/societe/article/2026/11/26/les-policiers-se-mobilisent-sur-tout-le-territoire-pour-reclamer-davantage-de-moyens_6815569_3224.html
-  La colère se concentre sur la revalorisation de la prime de risque des fonctionnaires que les syndicats jugent insuffisante.
-- [26/11 17:47] franceinfo — A cause de la sécheresse, 89 000 personnes ont des difficultés d'accès à l'eau potable au robinet
-  https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/secheresse/a-cause-de-la-secheresse-89-000-personnes-sont-encore-privees-d-eau-potable-au-robinet_8301588.html#xtor=RSS-3-[lestitres]
-  Citernage, distribution de bouteilles d'eau, coupures d'eau... Plusieurs dizaines de milliers de français sont toujours concernés par des mesures d'urgence, selon les chiffres du ministère de l'Ecologie publiés mercredi.
-- [26/11 17:37] franceinfo — Députés et sénateurs s'entendent pour mettre fin au "devoir conjugal" et exclure toute obligation sexuelle dans le mariage
-  https://www.franceinfo.fr/societe/droits-des-femmes/deputes-et-senateurs-s-entendent-pour-mettre-fin-au-devoir-conjugal-et-exclure-toute-obligation-sexuelle-dans-le-mariage_8301603.html#xtor=RSS-3-[lestitres]
-  L'examen du texte à l'Assemblée nationale est prévu le 7 décembre, avant son vote pour une adoption définitive au Sénat.
 - [26/11 17:25] franceinfo — Congrès des maires de France : Sébastien Lecornu imite Jacques Chirac à la perfection
   https://www.franceinfo.fr/politique/congres-des-maires-de-france-sebastien-lecornu-imite-jacques-chirac-a-la-perfection_8301723.html#xtor=RSS-3-%5Bpolitique%5D
   Un talent inattendu. Le Premier ministre Sébastien Lecornu a surpris l’audience au Congrès des maires, jeudi 26 novembre, en effectuant une brève imitation de Jacques Chirac. Il évoquait la difficile simplification des…
-- [26/11 17:22] franceinfo — Mobilisation des étudiants : la manifestation parisienne s'est terminée dans le calme en fin d'après-midi
-  https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-de-la-jeunesse-les-organisations-veulent-maintenir-la-pression-malgre-le-recul-des-blocages-une-manifestation-prevue-dans-l-apres-midi_8300754.html#xtor=RSS-3-[lestitres]
-  Plusieurs manifestations se tenaient cet après-midi dans toute la France, à l'initiative du collectif universitaire Interfac.
-- [26/11 17:19] franceinfo — Huit députés des Républicains annoncent leur soutien à David Lisnard plutôt que Bruno Retailleau pour la présidentielle 2027
-  https://www.franceinfo.fr/elections/huit-deputes-des-republicains-annoncent-leur-soutien-a-david-lisnard-plutot-que-bruno-retailleau-pour-la-presidentielle-2027_8301579.html#xtor=RSS-3-%5Bpolitique%5D
-  "Les parlementaires ont le devoir de ne pas rester inertes devant des postures politiques qui sont suicidaires", affirment ces élus, sans nommer le candidat officiel de leur parti politique.
-- [26/11 17:15] Le Monde — Rénovation énergétique : le gouvernement inflexible face aux maires inquiets des coupes budgétaires
-  https://www.lemonde.fr/planete/article/2026/11/26/renovation-energetique-le-gouvernement-inflexible-face-aux-maires-inquiets-des-coupes-budgetaires_6815563_3244.html
-  Vincent Tejedor, secrétaire général à la planification écologique et chef du pôle vert de Matignon, a été interpellé par des élus locaux, mercredi 25 novembre, lors d’une table ronde au congrès des maires, sur la baisse…
-- [26/11 17:10] Le Figaro — Sécurité, immigration… David Lisnard révèle son programme présidentiel au Figaro Magazine
-  https://www.lefigaro.fr/elections/presidentielles/programmes/securite-immigration-david-lisnard-revele-son-programme-presidentiel-au-figaro-magazine-20261126
-  EXCLUSIF - Le maire de Cannes veut, en un quinquennat, refaire de la France un des pays les plus sûrs d’Europe.
-- [26/11 17:00] Le Monde — La vente du diamantaire De Beers se dessine, dans un secteur ébranlé par les pierres de synthèse
-  https://www.lemonde.fr/economie/article/2026/11/26/la-vente-du-diamantaire-de-beers-se-dessine-dans-un-secteur-ebranle-par-les-pierres-de-synthese_6815560_3234.html
-  Un consortium d’entreprises diamantaire, allié à plusieurs Etats producteurs comme le Bostwana, l’Angola et la Namibie, se positionne pour acheter la société sud-africaine De Beers au groupe minier Anglo American.
-- [26/11 16:38] franceinfo — Un député du Loiret souhaite une enquête de l'Inspection générale de l'administration à l'encontre de l'ancien préfet Hugues Moutouh
-  https://www.franceinfo.fr/politique/front-national/un-depute-du-loiret-souhaite-une-enquete-de-l-inspection-generale-de-l-administration-a-l-encontre-de-l-ancien-prefet-hugues-moutouh_8301591.html#xtor=RSS-3-%5Bpolitique%5D
-  Le député Emmanuel Duplessy interpelle sur le respect des obligations de neutralité et d'impartialité de l'ancien préfet Hugues Moutouh dans le Loiret. Ce dernier est soupçonné d'avoir transmis des informations sensible…
-- [26/11 16:15] Le Monde — La mort de Catherine Clément, brillante intellectuelle passionnée d’Inde et des dieux
-  https://www.lemonde.fr/disparitions/article/2026/11/26/la-mort-de-catherine-clement-brillante-intellectuelle-passionnee-d-inde-et-des-dieux_6815553_3382.html
-  Philosophe, romancière, essayiste, journaliste, elle était l’autrice d’une soixantaine d’ouvrages. Elle s’est éteinte le 23 novembre, à l’âge de 87 ans.
-- [26/11 16:04] Le Monde — A la tête de la BCE, un trio fraîchement nommé pour protéger l’Europe de l’inflation… et peut-être la France d’une attaque sur les marchés
-  https://www.lemonde.fr/economie/article/2026/11/26/a-la-tete-de-la-bce-un-trio-fraichement-nomme-pour-proteger-l-europe-de-l-inflation-et-peut-etre-la-france-d-une-attaque-sur-les-marches_6815550_3234.html
-  Les dirigeants des 21 pays de la zone euro ont désigné, jeudi, les titulaires des postes les plus influents de la Banque centrale européenne, selon des sources diplomatiques. L’Espagnol Pablo Hernandez de Cos succédera…
-- [26/11 15:30] Le Monde — Génocide des Tutsi au Rwanda : en Belgique, faute de moyens, la justice laisse vieillir les dossiers et les suspects
-  https://www.lemonde.fr/afrique/article/2026/11/26/genocide-des-tutsi-au-rwanda-en-belgique-faute-de-moyens-la-justice-laisse-vieillir-les-dossiers-et-les-suspects_6815545_3212.html
-  Arrêté fin septembre en Flandre, un ancien religieux rwandais de 78 ans est soupçonné d’avoir livré aux génocidaires, en 1994, les pensionnaires d’un centre pour enfants handicapés. Son dossier fait partie des 37 affair…
 - [26/11 15:27] Le Figaro — «Ça fait crier les fachos» : au théâtre de la Concorde, la mairie de Paris lance son MascuRadar dans une ambiance festive et annonce un appel à projets de 100.000 euros
   https://www.lefigaro.fr/actualite-france/ca-fait-crier-les-fachos-au-theatre-de-la-concorde-la-mairie-de-paris-lance-son-mascuradar-dans-une-ambiance-festive-et-annonce-un-appel-a-projets-de-100-000-euros-20261125
   NOUS Y ÉTIONS - Ce mercredi, la mairie de Paris a organisé un colloque-spectacle pour le lancement de son outil anti-masculinisme. Elle a aussi répliqué aux critiques de «l’extrême droite et de la droite extrême» contre…
-- [26/11 15:13] Le Monde — Gérard Depardieu renvoyé en procès pour une partie des viols dont l’accuse Charlotte Arnould
-  https://www.lemonde.fr/societe/article/2026/11/26/gerard-depardieu-renvoye-en-proces-pour-une-partie-des-viols-dont-l-accuse-charlotte-arnould_6815543_3224.html
-  Cette décision de la cour, saisie par la défense de l’acteur, qui conteste les accusations, est susceptible d’un pourvoi en cassation.
-- [26/11 15:03] franceinfo — Présidentielle 2027 : David Lisnard réclame "l'anonymat des parrainages" pour "enlever la pression sur les maires"
-  https://www.franceinfo.fr/elections/presidentielle-2027-david-lisnard-reclame-l-anonymat-des-parrainages-pour-enlever-la-pression-sur-les-maires_8301468.html#xtor=RSS-3-%5Bpolitique%5D
-  "On peut détester Monsieur Mélenchon, Madame Le Pen ou Édouard Philippe mais ils doivent pouvoir se présenter aux élections", insiste David Lisnard sur ICI.
-- [26/11 14:52] franceinfo — De nouvelles preuves des messages antisémites attribués à Jordan Bardella dévoilées par Le Monde et Mediapart
-  https://www.franceinfo.fr/politique/jordan-bardella/propos-antisemites-attribues-a-jordan-bardella/de-nouvelles-preuves-des-messages-antisemites-attribues-a-jordan-bardella-devoilees-par-le-monde-et-mediapart_8301447.html#xtor=RSS-3-%5Bpolitique%5D
-  Une dizaine de nouveaux messages antisémites attribués à Jordan Bardella ont été révélés jeudi 26 novembre par Mediapart et Le Monde. Authentifiées auprès de Meta selon les journalistes, ces archives ravivent la polémiq…
 - [26/11 14:36] Le Figaro — « On a beaucoup échangé » : Macron-Lisnard, les coulisses d’un rendez-vous manqué qui a viré à la guerre froide
   https://www.lefigaro.fr/elections/presidentielles/on-a-beaucoup-echange-macron-lisnard-les-coulisses-d-un-rendez-vous-manque-qui-a-vire-a-la-guerre-froide-20261125
   RÉCIT - Si le maire de Cannes a montré de l’intérêt pour le ministre puis le candidat Macron il y a dix ans, la relation entre les deux hommes s’est tendue par la suite.
 - [26/11 14:24] Le Figaro — Circulation paralysée, soirées sacrifiées, maires ignorés : le grand éloignement de l’Ouest parisien
   https://www.lefigaro.fr/actualite-france/circulation-paralysee-soirees-sacrifiees-maires-ignores-le-grand-eloignement-de-l-ouest-parisien-20261126
   ENQUÊTE - Avec la fermeture de l’A13, le divorce entre Paris et sa banlieue Ouest semble consommé. De Versailles à Neuilly, on remplit ses propres théâtres, on dîne chez soi, et l’on regarde la capitale avec une indiffé…
-- [26/11 14:10] franceinfo — ÉDITO. David Lisnard contre Édouard Philippe : est-ce la bataille "du terrain" contre les élites ?
-  https://www.franceinfo.fr/elections/edito-david-lisnard-contre-edouard-philippe-est-ce-la-bataille-du-terrain-contre-les-elites_8301429.html#xtor=RSS-3-%5Bpolitique%5D
-  À droite, le duel s'intensifie entre David Lisnard et Édouard Philippe. D'un côté, le maire de Cannes revendique la "France du terrain" face aux élites parisiennes. De l'autre, l'ancien Premier ministre défend une droit…
-- [26/11 14:00] franceinfo — Un ex-camarade de Jordan Bardella révèle de nouveaux propos antisémites
-  https://www.franceinfo.fr/l-actu-pour-les-jeunes/un-ex-camarade-de-jordan-bardella-revele-de-nouveaux-propos-antisemites_8301411.html#xtor=RSS-3-%5Bpolitique%5D
-  "Jordan, tous les soirs, s’employait à me convaincre que les juifs sont partout et détiennent le pouvoir." Ces propos, ce sont Sacha* qui les tient, à propos de Jordan Bardella. Selon les informations de Mediapart et Le…
-- [26/11 13:00] Le Monde — Présidentielle 2027 : Edouard Philippe passe à l’offensive face à David Lisnard
-  https://www.lemonde.fr/politique/article/2026/11/26/presidentielle-2027-edouard-philippe-passe-a-l-offensive-face-a-david-lisnard_6815527_823448.html
-  Sous la pression de ses concurrents de droite et du centre pour l’organisation d’une primaire, le candidat d’Horizons avait sous-estimé la percée du maire de Cannes. Il dénonce désormais ses ambiguïtés avec l’extrême dr…
-- [26/11 12:51] franceinfo — L'avocat de Jordan Bardella envisage de déposer un complément de plainte pour "faux et usage de faux" après de nouvelles révélations sur des propos antisémites
-  https://www.franceinfo.fr/politique/jordan-bardella/propos-antisemites-attribues-a-jordan-bardella/l-avocat-de-jordan-bardella-envisage-de-deposer-un-complement-de-plainte-pour-faux-et-usage-de-faux-apres-de-nouvelles-revelations-sur-des-propos-antisemites_8301303.html#xtor=RSS-3-%5Bpolitique%5D
-  Le président du Rassemblement national dénonce une "entreprise de persécution". "Le Monde" et Mediapart ont publié jeudi de nouveaux éléments de preuve sur les écrits antisémites attribués à Jordan Bardella.
 - [26/11 12:40] Le Figaro — La proximité supposée d’un procureur avec le RN au cœur d’une enquête administrative
   https://www.lefigaro.fr/actualite-france/la-proximite-supposee-d-un-procureur-avec-le-rn-au-coeur-d-une-enquete-administrative-20261125
   DÉCRYPTAGE - L’inspection générale de la justice, saisie par Gérald Darmanin ce mercredi, va devoir redéfinir les contours de l’engagement politique des magistrats.
@@ -265,38 +283,35 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [26/11 12:40] Le Figaro — « Ils ne me font pas peur ! » : le préfet démissionnaire Hugues Moutouh veut rendre coup pour coup
   https://www.lefigaro.fr/actualite-france/ils-ne-me-font-pas-peur-le-prefet-demissionnaire-hugues-moutouh-veut-rendre-coup-pour-coup-20261125
   EXCLUSIF - Persuadé d’être victime d’une opération politique, le préfet du Loiret, officiellement remplacé ce mercredi, expose sa version au Figaro et met en garde ceux qui orchestreraient cette affaire.
-- [26/11 11:25] Le Monde — Propos antisémites de Jordan Bardella : le président du RN réitère sa « contestation formelle » après des révélations du « Monde » et de « Mediapart »
-  https://www.lemonde.fr/politique/article/2026/11/26/propos-antisemites-de-jordan-bardella-le-president-du-rn-reitere-sa-contestation-formelle-apres-des-revelations-du-monde-et-de-mediapart_6815516_823448.html
-  « Le Monde » et « Mediapart » ont publié, jeudi, de nouveaux éléments montrant que le président du Rassemblement national est bien l’auteur de propos antisémites remontant à 2013, ce que l’intéressé conteste à nouveau «…
-- [26/11 10:44] Le Monde — « A l’hôpital, ils ne savaient pas si je passerais la nuit » : les grenades assourdissantes blessent toujours plus gravement les manifestants
-  https://www.lemonde.fr/societe/article/2026/11/26/a-l-hopital-ils-ne-savaient-pas-si-je-passerais-la-nuit-les-grenades-assourdissantes-blessent-toujours-plus-gravement-les-manifestants_6815510_3224.html
-  Stéphanie et Jonathan ne se connaissent pas mais, depuis le 24 octobre, ils ont un point commun : tous deux ont vu leur corps perforé par un éclat de grenade assourdissante. Des blessures qui continuent de les hanter.
 - [26/11 07:25] Le Figaro — Des colis polonais aux épiceries de nuit : avec les douaniers et policiers marseillais qui chassent les mortiers d’artifice
   https://www.lefigaro.fr/marseille/des-colis-polonais-aux-epiceries-de-nuit-avec-les-douaniers-et-policiers-marseillais-qui-chassent-les-mortiers-d-artifice-20261126
   REPORTAGE - Temporairement interdits à la vente en France, ces engins pyrotechniques sont régulièrement utilisés contre les forces de l’ordre. À Marseille, les douaniers multiplient les contrôles pour tarir leur approvi…
-- [25/11 22:00] Le Figaro — « Nous ne lâcherons rien » : les policiers veulent exprimer leur colère devant les commissariats
-  https://www.lefigaro.fr/actualite-france/nous-ne-lacherons-rien-les-policiers-veulent-exprimer-leur-colere-devant-les-commissariats-20261125
-  DÉCRYPTAGE - Ulcérés par les violences qui les visent, ils veulent une revalorisation de leur prime de risques. Des rassemblements sont organisés ce jeudi partout en France.
-- [25/11 21:15] Le Figaro — « L’État doit reprendre sa place » : Hanane Mansouri, l’émissaire de Marine Le Pen dans les banlieues à l’épreuve des cités grenobloises
-  https://www.lefigaro.fr/elections/presidentielles/l-etat-doit-reprendre-sa-place-hanane-mansouri-l-emissaire-de-marine-le-pen-dans-les-banlieues-a-l-epreuve-des-cites-grenobloises-20261125
-  REPORTAGE - Revenue sur les terres de son enfance, à Échirolles, la députée UDR s’est heurtée à la réalité du terrain. Entre rejet des habitants et colère sécuritaire des commerçants, plongée dans les contradictions de…
-- [25/11 19:36] Le Figaro — Immigration: ce que l’on sait du centre de retour au Rwanda, ce fameux «hub» censé accueillir les migrants déboutés du droit d’asile
-  https://www.lefigaro.fr/actualite-france/immigration-ce-que-l-on-sait-du-centre-de-retour-au-rwanda-ce-fameux-hub-cense-accueillir-les-migrants-deboutes-du-droit-d-asile-20261125
-  DÉCRYPTAGE - Le 16 novembre dernier, l’Allemagne, l’Autriche, le Danemark, la Grèce et les Pays-Bas ont annoncé un accord avec Kigali pour l’ouverture expérimentale d’un centre pour migrants illégaux.
-- [25/11 16:41] Le Figaro — Le château de Bellefontaine, que la Ville de Paris met en vente à 450 000 euros, avait été volé à une famille juive en 1942
-  https://www.lefigaro.fr/actualite-france/le-chateau-de-bellefontaine-que-la-ville-de-paris-met-en-vente-a-450-000-euros-avait-ete-spolie-a-une-famille-juive-en-1942-20261124
-  Ce domaine tombé en décrépitude, situé près de Fontainebleau, est mis aux enchères à partir de ce mardi. L’annonce immobilière omet de mentionner les conditions d’acquisition du bien par la municipalité, sous l’Occupati…
-- [25/11 15:00] Le Figaro — «Il dit tout haut ce que toute la France pense tout bas»: l’ours Grogneur, trublion libéral qui veut faire gagner la droite à coups de vidéos générées par IA
-  https://www.lefigaro.fr/politique/il-dit-tout-haut-ce-que-toute-la-france-pense-tout-bas-l-ours-grogneur-trublion-liberal-qui-veut-faire-gagner-la-droite-a-coups-de-videos-generees-par-ia-20261125
-  PORTRAIT - En dix jours, ce nounours virtuel a conquis des dizaines de milliers d’abonnés avec ses diatribes contre le socialisme, les taxes et la bureaucratie. Derrière ce succès fulgurant, un créateur anonyme qui ne c…
-- [25/11 14:19] Le Figaro — Le dernier campement de migrants situé sous la ligne 2 du métro parisien, à La Chapelle, a été évacué
-  https://www.lefigaro.fr/actualite-france/le-dernier-campement-de-migrants-situe-sous-la-ligne-2-du-metro-parisien-a-la-chapelle-a-ete-evacue-20261125
-  400 personnes ont été «mises à l’abri» selon la mairie. Les associations affirment que nombre de migrants sont conduits hors de Paris, à Rouen, Angers ou Toulouse.
 
 ## Gendarmerie-police-justice
+- [27/11 05:52] franceinfo — "Il va reconnaître la plupart des faits" : le youtubeur Grégory Guillotin jugé vendredi pour violences conjugales sur une ex-compagne
+  https://www.franceinfo.fr/societe/justice/il-va-reconnaitre-la-plupart-des-faits-le-youtubeur-gregory-guillotin-juge-vendredi-pour-violences-conjugales-sur-une-ex-compagne_8301051.html#xtor=RSS-3-%5Bfaits-divers%5D
+  Une jeune femme accuse l'humoriste et comédien de violences physiques et psychologiques répétées durant leur relation, entre 2019 et 2026. L'audience est prévue vendredi après-midi.
+- [27/11 05:15] Le Monde — Louis Degos, bâtonnier de Paris : « L’Etat a oublié un principe essentiel de droit : la juste mesure »
+  https://www.lemonde.fr/societe/article/2026/11/27/louis-degos-batonnier-de-paris-l-etat-a-oublie-un-principe-essentiel-de-droit-la-juste-mesure_6815791_3224.html
+  Le représentant élu des avocats parisiens veut lancer un appel au respect de l’Etat de droit, remis en cause selon lui autant par l’Etat face aux manifestations que dans les propositions de nombreux candidats à l’électi…
+- [26/11 23:46] franceinfo — VIDEO. Captation d'héritage : les seniors pris pour cible
+  https://www.franceinfo.fr/replay-magazine/france-2/envoye-special/video-captation-d-heritage-les-seniors-pris-pour-cible_8295812.html#xtor=RSS-3-%5Bfaits-divers%5D
+  Avec le vieillissement de la population, les abus de faiblesse et escroqueries de seniors se multiplient. "Envoyé spécial" a suivi le combat de proches de victimes.
+- [26/11 22:14] franceinfo — Maylis Daubon condamnée en appel à 30 ans de réclusion avec une période de sûreté pour l'empoisonnement de sa fille dans les Landes
+  https://www.franceinfo.fr/faits-divers/justice-proces/maylis-daubon-condamnee-en-appel-a-30-ans-de-reclusion-avec-une-periode-de-surete-pour-l-empoisonnement-de-sa-fille-dans-les-landes_8302083.html#xtor=RSS-3-[lestitres]
+  La mère de famille de 54 ans a en revanche été acquittée concernant l'empoisonnement de sa fille cadette et le projet d'assassinat de son ex-mari.
+- [26/11 19:15] Zone Militaire — Les forces françaises ont reçu leurs premiers drones intercepteurs GOBI Zephyr, commandés il y a deux mois
+  https://www.opex360.com/2026/11/26/les-forces-francaises-ont-recu-leurs-premiers-drones-intercepteurs-gobi-zephyr/
+  Cette année, dans le cadre de son plan de transformation et pour répondre le plus rapidement possible aux besoins exprimés par les forces armées dans un contexte marqué par des cycles d’innovation de plus en plus courts…
+- [26/11 19:05] franceinfo — "C'est que de l'argent" : Marco Mouly, un récidiviste de la cavale, aujourd'hui en liberté conditionnelle
+  https://www.franceinfo.fr/faits-divers/police/c-est-que-de-l-argent-marco-mouly-un-recidiviste-de-la-cavale-aujourd-hui-en-liberte-conditionnelle_8301885.html#xtor=RSS-3-%5Bfaits-divers%5D
+  Aujourd’hui en liberté conditionnelle et interdit de quitter le territoire français, le "roi de l'arnaque" Marco Mouly, longtemps recherché par Interpol, a fait plusieurs séjours en prison et quelques cavales pour l'aff…
 - [26/11 18:18] Zone Militaire — Londres investit environ 10 milliards d’euros pour améliorer la disponibilité de ses sous-marins nucléaires
   https://www.opex360.com/2026/11/26/londres-investit-10-milliards-deuros-pour-ameliorer-la-disponibilite-de-ses-sous-marins-nucleaires/
   L’un des dossiers prioritaires du général Gwyn Jenkins, le chef d’état-major de la Royal Navy, concerne la disponibilité des six – et bientôt sept – sous-marins nucléaires d’attaque [SNA] de type Astute et celle des qua…
+- [26/11 17:52] Le Monde — Les policiers se sont mobilisés dans plusieurs villes de France pour réclamer davantage de moyens et une augmentation de leur prime de risque
+  https://www.lemonde.fr/societe/article/2026/11/26/les-policiers-se-mobilisent-sur-tout-le-territoire-pour-reclamer-davantage-de-moyens_6815569_3224.html
+  La colère se concentre sur la revalorisation de la prime de risque des fonctionnaires que les syndicats jugent insuffisante.
 - [26/11 17:03] franceinfo — Une femme dépose une grenade à l'accueil d'un commissariat en Charente-Maritime, nécessitant l'évacuation du bâtiment
   https://www.franceinfo.fr/faits-divers/une-femme-depose-une-grenade-a-l-accueil-d-un-commissariat-en-charente-maritime-necessitant-l-evacuation-du-batiment_8301660.html#xtor=RSS-3-%5Bfaits-divers%5D
   La femme détenait cet objet de la Seconde Guerre mondiale depuis plusieurs années et a voulu s'en débarrasser. Elle a alors déposé la grenade sur le bureau du commissariat, et a été mise en sécurité par la suite.
@@ -306,57 +321,15 @@ Articles publiés depuis moins de 30 h, du plus récent au plus ancien.
 - [26/11 16:43] franceinfo — VIDEO. "Elles l'ont dépouillé" : quand la fille d'une victime d'abus de faiblesse constate de massifs transferts d'argent au bénéfice de ses voisines
   https://www.franceinfo.fr/replay-magazine/france-2/envoye-special/video-elles-l-ont-depouille-quand-la-fille-d-une-victime-d-abus-de-faiblesse-constate-de-massifs-transferts-d-argent-au-benefice-de-ses-voisines_8297763.html#xtor=RSS-3-%5Bfaits-divers%5D
   Souvent, ceux qui abusent de la confiance d'une personne âgée ou vulnérable pour lui soutirer ses économies sont issus de son entourage : auxiliaires de vie, soignants ou voisins sans scrupules, comme dans cet extrait d…
-- [26/11 15:06] franceinfo — Emmanuel Macron s'est rendu au chevet de la jeune victime de 12 ans hospitalisée après l'attentat raciste de Trappes
-  https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/emmanuel-macron-s-est-rendu-au-chevet-de-la-jeune-victime-de-12-ans-hospitalisee-apres-l-attentat-raciste-de-trappes_8301474.html#xtor=RSS-3-%5Bfaits-divers%5D
-  L'enfant de 12 ans est prise en charge depuis plus d'un mois à l'hôpital Necker à Paris. Elle avait été touchée par huit impacts de balles lors de l'attentat raciste de Trappes, le 23 octobre.
-- [26/11 14:25] franceinfo — "Stop aux maisons moches" : trois maisons taguées dans un village des Côtes-d'Armor laissent les habitants dubitatifs
-  https://www.franceinfo.fr/faits-divers/stop-aux-maisons-moches-trois-maisons-taguees-dans-un-village-des-cotes-d-armor-laissent-les-habitants-dubitatifs_8301435.html#xtor=RSS-3-%5Bfaits-divers%5D
-  En Bretagne, après les tags anti-touristes de l'été dernier, ce sont cette fois des maisons qui ont été vandalisées, dans la commune de Plévenon (Côtes-d'Armor), 750 habitants, située en bord de mer. "Stop aux maisons m…
-- [26/11 13:01] Zone Militaire — L’Ukraine souhaiterait obtenir entre dix et vingt anciens Eurofighter F-2000 auprès de l’Italie
-  https://www.opex360.com/2026/11/26/lukraine-souhaiterait-obtenir-entre-dix-et-vingt-anciens-eurofighter-f-2000-aupres-de-litalie/
-  La semaine passée, lors d’une d’une réunion du groupe de contact sur la défense de l’Ukraine [UDCG, encore appelé «groupe de Ramstein»], lequel comprend un quarantaine de pays, le président ukrainien, Volodymyr Zelenski…
+- [26/11 15:13] Le Monde — Gérard Depardieu renvoyé en procès pour une partie des viols dont l’accuse Charlotte Arnould
+  https://www.lemonde.fr/societe/article/2026/11/26/gerard-depardieu-renvoye-en-proces-pour-une-partie-des-viols-dont-l-accuse-charlotte-arnould_6815543_3224.html
+  Cette décision de la cour, saisie par la défense de l’acteur, qui conteste les accusations, est susceptible d’un pourvoi en cassation.
 - [26/11 11:56] Le Monde — Airbags Takata : Stellantis et l’équipementier Joyson Safety Systems France ont été perquisitionnés, selon le parquet de Paris
   https://www.lemonde.fr/economie/article/2026/11/26/airbags-takata-stellantis-et-l-equipementier-joyson-safety-systems-france-ont-ete-perquisitionnes-selon-le-parquet-de-paris_6815521_3234.html
   Un juge d’instruction enquête à Paris depuis avril 2025, notamment pour mise en danger de la vie d’autrui, après une plainte de l’association UFC-Que choisir et de propriétaires de véhicules de Stellantis. Le constructe…
-- [26/11 10:48] franceinfo — Incendie d'un lycée à Aix-en-Provence : les deux suspects de 17 ans déférés jeudi
-  https://www.franceinfo.fr/societe/education/blocage-des-lycees/incendie-d-un-lycee-a-aix-en-provence-les-deux-suspects-de-17-ans-deferes-jeudi_8301045.html#xtor=RSS-3-%5Bfaits-divers%5D
-  Le parquet a requis leur placement sous contrôle judiciaire dans l'attente de leur jugement.
-- [26/11 10:35] franceinfo — Violences du 17 octobre à Marseille : Benoît Payan dénonce une "impréparation chronique et systémique"
-  https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/violences-du-17-octobre-a-marseille-benoit-payan-denonce-une-impreparation-chronique-et-systemique_8301000.html#xtor=RSS-3-%5Bfaits-divers%5D
-  Mercredi, le maire de Marseille était devant la commission d'enquête de l'Assemblée nationale sur les violences du 17 octobre.
-- [26/11 10:31] franceinfo — Les policiers appelés à se rassembler ce jeudi : "Il y a un petit sentiment qu'on flatte la hiérarchie et pas les flics de base", note le sociologue Michel Wieviorka
-  https://www.franceinfo.fr/societe/education/blocage-des-lycees/les-policiers-appeles-a-se-rassembler-ce-jeudi-il-y-a-un-petit-sentiment-qu-on-flatte-la-hierarchie-et-pas-les-flics-de-base-note-le-sociologue-michel-wieviorka_8301036.html#xtor=RSS-3-%5Bfaits-divers%5D
-  Auteur de l'essai "Où va la France : métamorphose ou déchéance ?" (Aube), le sociologue Michel Wieviorka apporte son éclairage, dans "La matinale" du 26 novembre, sur la contestation sociale, avec la mobilisation des ét…
-- [26/11 10:10] franceinfo — Des policiers "à bout" appelés à se rassembler partout en France pour dénoncer leurs conditions de travail
-  https://www.franceinfo.fr/societe/manifestation-des-policiers/la-ressource-n-est-pas-inepuisable-alerte-le-syndicat-de-police-un1te-police-avant-les-rassemblements-de-policiers_8300868.html#xtor=RSS-3-%5Bfaits-divers%5D
-  "La ressource n'est pas inépuisable", alerte le syndicat de police Un1té police avant les rassemblements de policiers prévu
-- [25/11 22:24] Le Monde — Violences du 17 octobre à Marseille : des ordres ont été donnés pour relâcher des casseurs, selon Benoît Payan
-  https://www.lemonde.fr/societe/article/2026/11/25/violences-du-17-octobre-a-marseille-des-ordres-ont-ete-donnes-pour-relacher-des-casseurs-selon-benoit-payan_6815175_3224.html
-  Le maire divers gauche de la ville affirme l’avoir constaté à plusieurs reprises en visionnant les enregistrements des caméras de surveillance, dont il dit avoir remis 7 000 heures au procureur de la République de Marse…
-- [25/11 20:20] Le Monde — Cargo « Miro-G » échoué dans les Landes : une enquête judiciaire ouverte, la préfecture maritime évoque une « erreur de navigation »
-  https://www.lemonde.fr/planete/article/2026/11/25/une-enquete-judiciaire-ouverte-sur-l-echouement-du-cargo-miro-g-dans-les-landes_6815168_3244.html
-  Le « Miro-G », vraquier de 169 mètres qui naviguait à vide, s’est échoué dans la nuit de jeudi à vendredi sur la plage de Cap-de-l’Homy. Remis à flot mardi, il est acheminé vers un port de Gironde.
-- [25/11 20:11] Le Monde — Hugues Moutouh, préfet du Loiret, démis de ses fonctions après la révélation de soupçons de fuites émanant du ministère de l’intérieur vers le RN
-  https://www.lemonde.fr/societe/article/2026/11/25/le-prefet-du-loiret-hugues-moutouh-demis-de-ses-fonctions-apres-la-revelation-de-soupcons-de-fuites-emanant-du-ministere-de-l-interieur-vers-le-rn_6815167_3224.html
-  Le haut fonctionnaire a été remplacé en conseil des ministres, mercredi, par Pierre Ory, actuel préfet de Seine-et-Marne. L’ex-secrétaire général de la place Beauvau dénonce, à propos de cette affaire, « une opération d…
-- [25/11 19:30] Zone Militaire — Armée de Terre : Le Véhicule blindé d’aide à l’engagement vient de franchir une étape… mais sans garantie sur son avenir
-  https://www.opex360.com/2026/11/25/armee-de-terre-le-vehicule-blinde-daide-a-lengagement-vient-de-franchir-une-etape-mais-sans-garantie-sur-son-avenir/
-  Quand il était encore chef d’état-major de l’armée de Terre [CEMAT], en avril dernier, le général Pierre Schill avait confié, lors d’une audition à l’Assemblée nationale, que le programme franco-belge de Véhicule blindé…
-- [25/11 18:38] Zone Militaire — L’Aviation royale canadienne mise sur le F-35 associé à des drones… et non sur le Gripen E/F
-  https://www.opex360.com/2026/11/25/laviation-royale-canadienne-mise-sur-le-f-35-associe-a-des-drones-et-non-sur-le-gripen-e-f/
-  En mars 2025, ses relations avec l’administration Trump étant glaciales, le gouvernement canadien fit savoir qu’il allait «reconsidérer» son plan visant à acquérir 88 chasseurs-bombardiers F-35A auprès de Lockheed Marti…
-- [25/11 18:00] Le Monde — Procès : à Bayonne, un homme se présentant comme thérapeute jugé en quelques heures pour neuf agressions sexuelles, dont trois viols
-  https://www.lemonde.fr/societe/article/2026/11/25/proces-un-homme-se-presentant-comme-therapeute-juge-pour-neuf-agressions-sexuelles-et-trois-viols-en-quelques-heures-a-bayonne_6815149_3224.html
-  Entre 2020 et 2023, ce praticien de médecine chinoise a multiplié les violences sexuelles sur ses patientes. Pour obtenir un jugement dans des délais raisonnables, ses victimes ont accepté un procès en correctionnelle,…
-- [25/11 17:22] Zone Militaire — La France et les États-Unis ont de nouveau mené une opération conjointe de signalement stratégique dans l’espace
-  https://www.opex360.com/2026/11/25/la-france-et-les-etats-unis-ont-de-nouveau-mene-une-operation-conjointe-de-signalement-strategique-dans-lespace/
-  En 2024, des responsables américains affirmèrent que la Russie était en train de développer un système d’armes spatiales nucléaires susceptibles de rendre inopérants des satellites. Et cela en allant à l’encontre de l’a…
-- [25/11 17:00] Le Monde — Scandale Orpea : la Haute autorité de l’audit se penche sur les manquements du cabinet Deloitte
-  https://www.lemonde.fr/les-decodeurs/article/2026/11/25/scandale-orpea-la-haute-autorite-de-l-audit-se-penche-sur-le-role-du-cabinet-deloitte-pour-couvrir-les-errements-du-geant-des-ehpad_6815132_4355770.html
-  Une audience interroge les manquements attribués à deux cabinets d’audit réputés, Deloitte & Associés et Saint-Honoré BK & A, dans le contrôle des comptes d’Orpea, le géant des maisons de retraite et de cliniques privée…
-- [25/11 13:01] Zone Militaire — Une frégate française intercepte un importante cargaison de méthamphétamines près de l’atoll de Clipperton
-  https://www.opex360.com/2026/11/25/une-fregate-francaise-intercepte-un-importante-cargaison-de-methamphetamines-pres-de-latoll-de-clipperton/
-  Quelques jours après avoir arraisonné un semi-submersible de type SPSS [Self-Propelled Semi-Submersible] transportant «plusieurs tonnes» de cocaïne dans l’océan Atlantique, la Marine nationale vient de porter un nouveau…
+- [26/11 10:44] Le Monde — « A l’hôpital, ils ne savaient pas si je passerais la nuit » : les grenades assourdissantes blessent toujours plus gravement les manifestants
+  https://www.lemonde.fr/societe/article/2026/11/26/a-l-hopital-ils-ne-savaient-pas-si-je-passerais-la-nuit-les-grenades-assourdissantes-blessent-toujours-plus-gravement-les-manifestants_6815510_3224.html
+  Stéphanie et Jonathan ne se connaissent pas mais, depuis le 24 octobre, ils ont un point commun : tous deux ont vu leur corps perforé par un éclat de grenade assourdissante. Des blessures qui continuent de les hanter.
 
 ## Diagnostic
-- Tri : 13 article(s) écartés (sport, culture…), 6 renvoyé(s) vers International
+- Tri : 13 article(s) écartés (sport, culture…), 9 renvoyé(s) vers International
