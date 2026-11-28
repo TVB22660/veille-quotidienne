@@ -1,7 +1,90 @@
-JORF — généré le 2026-11-27 18:38 (heure de Paris)
-Archives lues : 7 ; textes retenus : 435 ; JO trouvés : 2026-11-27, 2026-11-26, 2026-11-25, 2026-11-24
+JORF — généré le 2026-11-28 06:04 (heure de Paris)
+Archives lues : 7 ; textes retenus : 437 ; JO trouvés : 2026-11-28, 2026-11-27, 2026-11-26, 2026-11-25
 
-# JO du 2026-11-27 (n° 0277) — 114 textes au total
+# JO du 2026-11-28 (n° 0278) — 100 textes au total
+## Présidence de la République
+- rien
+
+## Premier ministre
+Textes :
+- Décret n° 2026-1098 du 27 novembre 2026 portant interdiction de vente et d'utilisation d'engins pyrotechniques et d'artifices de divertissement
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055158821
+- Avis de vacance d'un emploi d'expert de haut niveau
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055159763
+- Avis de vacance d'un emploi d'expert de haut niveau
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055159779
+
+## Intérieur
+Textes :
+- Arrêté du 24 novembre 2026 modifiant l'arrêté du 24 mars 2026 portant habilitation de la Fédération française d'études et de sports sous-marins pour les formations aux premiers secours
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055158834
+- Arrêté du 24 novembre 2026 modifiant l'arrêté du 5 janvier 2026 modifié portant habilitation de la Fédération française de sauvetage et de secourisme pour les formations aux premiers secours
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055158846
+- Arrêté du 24 novembre 2026 modifiant l'arrêté du 23 janvier 2025 portant habilitation de la Croix-Rouge française pour les formations aux premiers secours
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055158860
+- Arrêté du 27 novembre 2026 portant reconnaissance de l'état de catastrophe naturelle
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055158874
+- Arrêté du 24 novembre 2026 portant désignation des candidats admis à suivre les cycles supérieurs et sessions nationales (2026-2027) de l'Institut des hautes études du ministère de l'intérieur
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055159389
+- Avis de vacance d'un emploi de directeur du secrétariat général commun départemental (secrétariat général commun départemental de l'Ariège)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055159796
+Mesures nominatives :
+- Arrêté du 25 novembre 2026 modifiant l'arrêté du 23 décembre 2021 portant renouvellement des membres de la Conférence nationale des services d'incendie et de secours
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055159391
+- Arrêté du 19 novembre 2026 portant nomination (directions départementales interministérielles) (rectificatif)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055159405
+
+## Justice
+Textes :
+- Décret du 25 novembre 2026 modifiant le décret du 11 septembre 2026 portant changements de noms (Accès protégé)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055159413
+- Avis de vacance d'un emploi à l'inspection générale de la justice (groupe I - inspectrice ou inspecteur général de la justice)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055159833
+- Avis de vacance d'un emploi à l'inspection générale de la justice (groupe II - inspectrice ou inspecteur de la justice)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055159841
+- Avis de vacance d'un emploi à l'inspection générale de la justice (groupe II - inspectrice ou inspecteur de la justice)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055159850
+Mesures nominatives :
+- Décret du 26 novembre 2026 portant nomination (magistrature)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055159416
+- Décret du 26 novembre 2026 portant nomination (magistrature) - M. SERRE (Christian)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055159420
+- Décret du 26 novembre 2026 portant maintien en détachement (magistrature) - M. CHARRIER (Frédéric)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055159428
+- Décret du 26 novembre 2026 portant détachement (magistrature) - M. BILLEBEAUD (Antoine)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055159441
+- Décret du 26 novembre 2026 portant détachement (magistrature) - M. SIMON (Paul)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055159454
+- Arrêté du 24 novembre 2026 relatif à la dissolution d'une société d'exercice libéral par actions simplifiée et à la nomination d'une société d'exercice libéral à responsabilité limitée (officiers publics ou ministériels)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055159470
+- Arrêté du 24 novembre 2026 portant nomination d'une notaire salariée (officiers publics ou ministériels)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055159480
+- Arrêté du 24 novembre 2026 portant nomination d'une commissaire de justice salariée (officiers publics ou ministériels)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055159484
+- Arrêté du 24 novembre 2026 portant nomination d'une commissaire de justice salariée (officiers publics ou ministériels)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055159489
+- Arrêté du 24 novembre 2026 portant nomination d'un commissaire de justice salarié (officiers publics ou ministériels)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055159494
+- Arrêté du 24 novembre 2026 portant nomination d'une notaire salariée (officiers publics ou ministériels)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055159499
+- Arrêté du 24 novembre 2026 portant nomination d'une notaire salariée (officiers publics ou ministériels)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055159503
+
+## Armées
+Textes :
+- Décision du 26 novembre 2026 relative au versement forfaitaire à effectuer à l'Agence centrale des organismes de sécurité sociale
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055158936
+Mesures nominatives :
+- Arrêté du 17 novembre 2026 portant création d'un traitement automatisé de données à caractère personnel relatif au vote électronique par internet pour l'élection des représentants du personnel civil pour les élections professionnelles, dénommé E-vote
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055158898
+- Décision du 26 novembre 2026 portant délégation de signature (contrôle général des armées)
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055158945
+- Décret du 26 novembre 2026 portant affectation d'un officier général
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055159408
+- Avis relatif aux concours externes d'admission à l'Ecole de l'air et de l'espace (CE-EAE) en 2027 prévus au 1° de l'article 4 du décret n° 2008-943 du 12 septembre 2008
+  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055159824
+
+# JO du 2026-11-27 (n° 0277) — 115 textes au total
 ## Présidence de la République
 Mesures nominatives :
 - Décret du 26 novembre 2026 portant nomination dans l'ordre national du Mérite
@@ -86,7 +169,7 @@ Mesures nominatives :
 - Décision du 25 novembre 2026 portant nomination dans l'armée active
   https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055150964
 
-# JO du 2026-11-26 (n° 0276) — 137 textes au total
+# JO du 2026-11-26 (n° 0276) — 138 textes au total
 ## Présidence de la République
 - rien
 
@@ -246,73 +329,4 @@ Textes :
 Mesures nominatives :
 - Arrêté du 18 novembre 2026 portant maintien dans la 1re section et admission dans la 2e section d'un officier général de l'armée de terre par limite d'âge
   https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055137951
-
-# JO du 2026-11-24 (n° 0274) — 100 textes au total
-## Présidence de la République
-- rien
-
-## Premier ministre
-Textes :
-- Avis de vacance d'un emploi de chef de service
-  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055130393
-- Avis de vacance d'un emploi de chef de service
-  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055130411
-- Avis de vacance d'un emploi de sous-directeur
-  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055130429
-- Avis de vacance d'un emploi de sous-directeur
-  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055130445
-- Avis de vacance d'un emploi de sous-directeur
-  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055130461
-- Avis de vacance d'un emploi de sous-directeur
-  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055130477
-- Avis de vacance d'un emploi de sous-directeur
-  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055130493
-Mesures nominatives :
-- Arrêté du 16 octobre 2026 portant admission à la retraite (administrateurs de l'Etat)
-  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055129816
-- Arrêté du 23 novembre 2026 portant admission à la retraite (administrateurs de l'Etat)
-  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055129822
-
-## Intérieur
-Textes :
-- Arrêté du 6 novembre 2026 relatif à la modification de la signalisation routière
-  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055129309
-- Arrêté du 20 novembre 2026 relatif à l'expérimentation d'une signalisation routière de prévention des collisions avec le lynx boréal dans la partie du parc naturel régional du Haut-Jura située dans les départements de l'Ain, du Doubs et du Jura
-  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055129365
-- Décret du 20 novembre 2026 portant intégration dans le corps de conception et de direction de la police nationale - M. KRAFT (Jérôme)
-  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055129829
-Mesures nominatives :
-- Arrêté du 17 novembre 2026 portant délégation de signature du ministre de l'intérieur - autorités de la gendarmerie nationale habilitées à signer les décisions d'habilitation en matière de protection du secret de la défense nationale
-  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055129355
-
-## Justice
-Textes :
-- Arrêté du 17 novembre 2026 relatif à une société d'exercice libéral par actions simplifiée (officiers publics ou ministériels)
-  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055129856
-- Arrêté du 17 novembre 2026 portant annonce du projet d'une société titulaire d'un office de greffier de tribunal de commerce d'exercer son droit de présentation (officiers publics ou ministériels)
-  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055129872
-- Arrêté du 17 novembre 2026 relatif à une société à responsabilité limitée (officiers publics ou ministériels)
-  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055129884
-- Liste des membres du Conseil supérieur des tribunaux administratifs et des cours administratives d'appel
-  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055129907
-Mesures nominatives :
-- Arrêté du 16 novembre 2026 modifiant l'arrêté du 4 novembre 2026 portant nomination d'une société d'exercice libéral à responsabilité limitée (officiers publics ou ministériels)
-  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055129847
-- Arrêté du 17 novembre 2026 portant nomination d'un notaire salarié (officiers publics ou ministériels)
-  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055129852
-- Arrêté du 17 novembre 2026 portant nomination d'une notaire salariée (officiers publics ou ministériels)
-  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055129863
-- Arrêté du 17 novembre 2026 portant nomination d'un commissaire de justice salarié (officiers publics ou ministériels)
-  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055129867
-- Arrêté du 17 novembre 2026 portant nomination d'une commissaire de justice salariée (officiers publics ou ministériels)
-  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055129879
-- Arrêté du 18 novembre 2026 portant nomination d'un notaire salarié (officiers publics ou ministériels)
-  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055129889
-- Arrêté du 18 novembre 2026 portant nomination d'un notaire salarié (officiers publics ou ministériels)
-  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055129893
-- Arrêté du 18 novembre 2026 portant nomination d'une société d'exercice libéral à responsabilité limitée (officiers publics ou ministériels)
-  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055129897
-
-## Armées
-- rien
 
